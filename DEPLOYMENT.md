@@ -35,6 +35,13 @@ its optional consented visitor statistics. The next deployment provisions
 `/_vercel/insights/script.js`. Without that feature enabled, leave analytics off
 or remove its loader. Analytics is separate from optional reading memory.
 
+## Portfolio preview
+
+The frame-ancestors policy permits this site to appear in the Noto Labs portfolio
+on `https://noto-labs.com` and `https://www.noto-labs.com`, as well as its own
+origin. Other sites cannot embed it. The portfolio uses a lazy-loaded live iframe
+with a separate link for opening the full site.
+
 ## Verification
 
 Run `python scripts/build.py`. Check the homepage, verse deep links, contents,
