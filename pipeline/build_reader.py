@@ -194,9 +194,9 @@ def render_section(item, headings, verse_runs=None, variant_run=None, variant=Fa
     classes = "passage variant" if variant else "passage"
     article_id = 'variant-929' if variant else sid
     result = [f'<section class="{classes}" data-range="{start}–{end}" id="{article_id}" aria-labelledby="title-{sid}">',
-              '<header class="passage-head">',
+              '<div class="passage-head">',
               f'<{title_tag} id="title-{sid}">{esc(heading)}</{title_tag}><a class="title-link" href="#summary-{sid}" data-summary="summary-{sid}" data-title-id="title-{sid}" aria-label="Read summary of {esc(heading)}"></a>',
-              '</header>']
+              '</div>']
     if variant:
         result.append('<p class="variant-note">These extra lines are a separate textual variant. They are outside the 1,022 numbered verses. The Greek source has a gap after 929f, and 929s is marked as disputed.</p>')
     if variant_run is not None:
@@ -205,8 +205,6 @@ def render_section(item, headings, verse_runs=None, variant_run=None, variant=Fa
         result.append(f'<div class="reading-text"><span class="verse-marker" aria-label="Verses {esc(range_text)}">{esc(range_text)}</span>{linked_paragraphs(section)}</div>')
     else:
         result.append(f'<div class="reading-text verse-lines">{linked_verses(section,verse_runs)}</div>')
-    if not variant and verse_runs is not None and any(str(n) in DELETED_LABELS for n in range(start, end + 1)):
-        result.append('<details class="textual-note"><summary>About the † mark</summary><p>The Greek edition marks these lines for deletion. They are included here with † so you can recognise the edition’s textual judgement. This concerns the Greek source, rather than a reported translation error. <a href="translation.html">About the text and translation</a></p></details>')
     result.append(f'<aside class="summary-fallback" id="summary-{sid}" aria-label="Summary"><p>{esc(section["summary"])}</p><a href="#{article_id}">Back to passage</a></aside>')
     result.append('</section>')
     return ''.join(result)
@@ -407,7 +405,7 @@ STYLE = r"""
 .toc-button{display:inline-flex;align-items:center}.toc-button[aria-expanded="true"]{color:var(--green);text-decoration:underline;text-underline-offset:.25em}.sidebar[hidden],.toc-scrim[hidden]{display:none}.layout.toc-collapsed{grid-template-columns:minmax(0,1fr)}.toc-collapsed .reader{width:100%;margin-inline:auto}.sidebar-heading{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin-bottom:1rem}.sidebar-heading .sidebar-title{margin:0}.sidebar-close{width:2rem;height:2rem;flex:none;border:0;background:transparent;color:var(--green);font:400 1.4rem/1 system-ui,sans-serif;cursor:pointer}.toc-scrim{display:none}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem)}
 @media(max-width:850px){.topbar{height:4.4rem;min-height:4.4rem;padding:.75rem 1rem}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem);background:var(--paper);border-right:1px solid #b6c3d2;box-shadow:.7rem 0 2rem #1b2c4820}.toc-scrim{display:block;position:fixed;z-index:10;inset:4.4rem 0 0;border:0;border-radius:0;background:#172d4b45}.toc-list a{color:var(--ink)}.toc-list a:hover,.toc-list a[aria-current="location"]{background:#075fce12;color:var(--green)}}
 
-.poem-content>.passage{padding-block:2.25rem}.poem-content>.passage:first-of-type{padding-top:2.7rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.settings-label-short{display:none}
+.poem-content>.passage{padding-block:2.25rem}.poem-content>.passage:first-of-type{padding-top:.8rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{margin:0;padding-top:.7rem;color:var(--muted);font:600 1rem/1.2 'Helvetica Neue',Arial,sans-serif}.settings-label-short{display:none}
 @media(max-width:650px){.settings-label-long{display:none}.settings-label-short{display:inline}}
 
 
