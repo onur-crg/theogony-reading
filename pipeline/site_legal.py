@@ -29,7 +29,7 @@ def document_header():
 
 def document_footer(current=''):
     pages = [('index.html', 'Home'), ('translation.html', 'Translation'), ('imprint.html', 'Imprint / Impressum'),
-             ('privacy.html', 'Privacy'), ('reuse.html', 'Reuse and licence'), ('https://github.com/onur-crg/theogony-reading', 'Source on GitHub')]
+             ('privacy.html', 'Privacy'), ('reuse.html', 'Reuse and licence'), ('https://github.com/onur-crg/theogony-reading', 'Source on GitHub'), ('https://www.noto-labs.com/', 'A project by Noto Labs')]
     links = ''.join(f'<a href="{path}"' + (' aria-current="page"' if path == current else '') + f'>{label}</a>' for path, label in pages)
     return '<footer class="document-footer"><nav aria-label="Site information">' + links + '</nav></footer>'
 

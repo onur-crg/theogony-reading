@@ -3,6 +3,10 @@
 An illustrated English reading of Hesiod’s poem about the origins of the world
 and the Greek gods.
 
+A free, non-commercial project by **[Noto Labs](https://www.noto-labs.com/)**,
+the independent studio of Onur Cirag. Created to make Greek mythology more
+accessible, with open text, code and generation records.
+
 **[Read the edition](https://theogony-reading.vercel.app/)** ·
 [Translation and sources](https://theogony-reading.vercel.app/translation.html) ·
 [Reuse and licence](https://theogony-reading.vercel.app/reuse.html)
