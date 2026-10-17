@@ -268,7 +268,7 @@ openLinkedRecord();addEventListener('hashchange',openLinkedRecord);
         '<header class="edition-hero"><h1>Translation</h1>',
         '<p class="edition-lead">A modern English reading of Hesiod’s <em>Theogony</em>.</p></header>',
         '<section class="edition-note" aria-labelledby="source-title"><h2 id="source-title">From the Greek</h2><p>Based on the <a href="sources/tlg0020.tlg001.perseus-grc2.xml">Perseus text</a>, edited by Hugh G. Evelyn-White (1914). The poem has 1,022 numbered verses; an additional variant follows verse 929.</p>',
-        '<p>Titles, summaries and name notes are reading aids. A † identifies a line marked for deletion in the Greek edition.</p></section>',
+        '<p>Titles, summaries and name notes are reading aids. A † identifies a line marked for deletion in the Greek edition.</p><p><a href="data/theogony.json" download="theogony.json">Download the edition as JSON</a> · <a href="https://github.com/onur-crg/theogony-reading/blob/main/data/README.md">Data format and examples</a></p></section>',
         '<section class="passage-catalog" aria-labelledby="catalog-title"><header class="catalog-heading"><h2 id="catalog-title">Passage records</h2><p>Sources, prompts and generation records for all 66 passages.</p></header>',
         '<label class="record-search" hidden id="record-search-label">Find a passage<input id="record-search" type="search" placeholder="Title or verse range" autocomplete="off" aria-controls="passage-records"></label>',
         '<ol class="runs" id="passage-records" aria-label="Sources for every passage">', ''.join(rows),

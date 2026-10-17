@@ -1,0 +1,441 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://theogony-reading.vercel.app/data/theogony.schema.json",
+  "title": "Theogony English reading edition",
+  "description": "Version 1.0.0. Plain Unicode text; numbered passages and the separate textual variant retain their exact selected generation outputs.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "const": "https://theogony-reading.vercel.app/data/theogony.schema.json"
+    },
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "id": {
+      "const": "hesiod-theogony-en"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1
+    },
+    "language": {
+      "const": "en"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "editorial": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "const": "ai-assisted-reading-edition"
+        },
+        "independent_review": {
+          "const": "pending"
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "status",
+        "independent_review",
+        "note"
+      ],
+      "additionalProperties": false
+    },
+    "licence": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "const": "CC-BY-4.0"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "url",
+        "attribution",
+        "scope"
+      ],
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "language": {
+          "const": "grc"
+        },
+        "editor": {
+          "type": "string",
+          "minLength": 1
+        },
+        "edition_year": {
+          "type": "integer"
+        },
+        "digitisation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "greek_xml": {
+          "type": "string",
+          "minLength": 1
+        },
+        "greek_xml_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "licence_notice": {
+          "type": "string",
+          "minLength": 1
+        },
+        "section_titles": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "language",
+        "editor",
+        "edition_year",
+        "digitisation",
+        "greek_xml",
+        "greek_xml_sha256",
+        "licence_notice",
+        "section_titles"
+      ],
+      "additionalProperties": false
+    },
+    "passages": {
+      "type": "array",
+      "minItems": 65,
+      "maxItems": 65,
+      "items": {
+        "$ref": "#/$defs/passage"
+      }
+    },
+    "variants": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": {
+        "$ref": "#/$defs/variant"
+      }
+    },
+    "records": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "$ref": "#/$defs/record"
+      }
+    }
+  },
+  "required": [
+    "$schema",
+    "schema_version",
+    "id",
+    "title",
+    "author",
+    "language",
+    "website",
+    "editorial",
+    "licence",
+    "source",
+    "passages",
+    "variants",
+    "records"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "verse": {
+      "type": "object",
+      "properties": {
+        "label": {
+          "type": "string",
+          "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "marked_for_deletion": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "label",
+        "text",
+        "marked_for_deletion"
+      ],
+      "additionalProperties": false
+    },
+    "note": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "general": {
+          "type": "string",
+          "minLength": 1
+        },
+        "here": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "label",
+        "general",
+        "here"
+      ],
+      "additionalProperties": false
+    },
+    "passage": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verse_range": {
+          "type": "object",
+          "properties": {
+            "start": {
+              "type": "string",
+              "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+            },
+            "end": {
+              "type": "string",
+              "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+            }
+          },
+          "required": [
+            "start",
+            "end"
+          ],
+          "additionalProperties": false
+        },
+        "reader_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verses": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/verse"
+          }
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/note"
+          }
+        },
+        "provenance": {
+          "type": "object",
+          "properties": {
+            "reading_text": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary_and_notes": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "reading_text",
+            "summary_and_notes"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "verse_range",
+        "reader_url",
+        "summary",
+        "verses",
+        "notes",
+        "provenance"
+      ],
+      "additionalProperties": false
+    },
+    "variant": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verse_range": {
+          "type": "object",
+          "properties": {
+            "start": {
+              "type": "string",
+              "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+            },
+            "end": {
+              "type": "string",
+              "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+            }
+          },
+          "required": [
+            "start",
+            "end"
+          ],
+          "additionalProperties": false
+        },
+        "reader_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verses": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/verse"
+          }
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/note"
+          }
+        },
+        "provenance": {
+          "type": "object",
+          "properties": {
+            "reading_text": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary_and_notes": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "reading_text",
+            "summary_and_notes"
+          ],
+          "additionalProperties": false
+        },
+        "after_verse": {
+          "type": "string",
+          "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+        },
+        "source_gaps_after": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "verse_range",
+        "reader_url",
+        "summary",
+        "verses",
+        "notes",
+        "provenance",
+        "after_verse",
+        "source_gaps_after"
+      ],
+      "additionalProperties": false
+    },
+    "record": {
+      "type": "object",
+      "properties": {
+        "model": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reasoning_effort": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prompt_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "output_file": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prompt_file": {
+          "type": "string",
+          "minLength": 1
+        },
+        "record_file": {
+          "type": "string",
+          "minLength": 1
+        },
+        "output_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "prompt_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      },
+      "required": [
+        "model",
+        "reasoning_effort",
+        "prompt_version",
+        "output_file",
+        "prompt_file",
+        "record_file",
+        "output_sha256",
+        "prompt_sha256"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

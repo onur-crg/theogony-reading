@@ -2,7 +2,7 @@
   "files": {
     "LICENSE": "870afc277ac19443cdde689875157d510f3c739a84aed2d84ac45eaeff64f857",
     "LICENSE-CONTENT.md": "72704b19fc144e55df09a7b04898c704490a27ec948e45b24dfd42172667f111",
-    "NOTICE.md": "a437022917db6d52ed16b7a4a7cb88335a0457228ce5814ba4e0616b7bf9ac82",
+    "NOTICE.md": "3c4e070f0aa185aa4f80d430bf3a4e8bc4d5100450d729dde9734bf4204f839b",
     "apple-touch-icon.png": "59a0f53e2c13e5d5e5c1efb03b7851137135ede005eda4add9f9f76e4622e63a",
     "assets/optimized/athena.52d48dbccce2.webp": "52d48dbccce2a72e30be48ab75c5fcef1591bae75beddfcc0ea6d78cc7790ba2",
     "assets/optimized/gaia.42fa2a8511b4.webp": "42fa2a8511b44f6ae2b4952cf6970deb7c3da59efc802fcb144a88c74db92f1d",
@@ -16,6 +16,8 @@
     "assets/optimized/zeus.fd4a9a36809d.webp": "fd4a9a36809d476171f9b5c30268a95efb8bc821fa33b99bb87a0ee4243b7cc8",
     "assets/site-analytics-v1.js": "ab84696dc7febb5ed3b31a9af4b85ac8f7da7dbc094592144d06dc5cca63b178",
     "assets/theogony-share.jpg": "92f2a670b81fc9028f70611b3b8062253b466f1ca8c68180978bd097110e8ed9",
+    "data/theogony.json": "27e544513a28c9105d69493049d73d839fc2dda88cbf8b2d28f72a22039de5d1",
+    "data/theogony.schema.json": "3302d7e52f099a8c9e1344de2c44930955f3166d05c1d82540eb1d1e4d4ea7af",
     "favicon-column-v1-32.png": "1c00ed20a0b06322d4c72a7358e9dfb1612350472f4c4bec8c568d4631569509",
     "favicon-column-v1-48.png": "b5adc1098116480b713df08f62e20520c38337730f7d1eb99e48cfdd2f684376",
     "favicon.ico": "0aa3a9d302c9556b38660e084397c515656dfed678c74fef1dadb81d59b0cf1e",
@@ -151,7 +153,7 @@
     "pipeline/tests/verse-aligned-2026-10-16-963-1022.metrics.json": "ad6a987c95068d88087bbae2eb585245f11a94efb2a2d350f89473de568b229d",
     "pipeline/tests/verse-aligned-2026-10-16-963-1022.prompt.txt": "fc49e718a86f51db96721367689162e4aee8500fb3f0a80bf11e946a6075f283",
     "privacy.html": "c04f82a4ee5f8f3b12ca09c187e868debed0b8ceebc89c9a9d77e14c587b0681",
-    "reuse.html": "da4c25319abfc509fd77c589666b6810dd298b113dd84e72ace9d07586a9e2eb",
+    "reuse.html": "5bdc23a14a14061eae6a23081026afb1e201012daebc091f99eb09f825e0f0d0",
     "robots.txt": "bdc47c834a1f32d42c7785b816c65082efdd2e3f6e9902c6a24201be29e7316c",
     "sitemap.xml": "019bc66f80de3d5a0b42def0b1184a9cd10d2ba1f886fdd58dd7f55aac1f0513",
     "sources/perseus-license.md": "ccf0e8ce183761bf82700126cc45a4e907b2cede024e65e3fef5c2338b9b7063",
@@ -159,8 +161,8 @@
     "theogony-reader.html": "98e9946c8b9f7885d09d70857c05926fc7ce76a7778a62183235b707f676d3aa",
     "translation-and-legal.html": "c1d6130de16edd7b50bdd146c60b2e50d979a75b9e031b56788c290ca09a8a39",
     "translation-records.html": "aa37a9e2cef364ebd2eb36421ca0cc40d08181dfc7c3dc77858f3ec5d70c9821",
-    "translation.html": "001d094fba63641b30a55ceb9f579fecd291d08dacdef0af3ee3736b98421f94"
+    "translation.html": "3b56a8584714ccebd8190e485c6a7b79f5838213372aba34fae8a5e66470a0f1"
   },
-  "total_bytes": 2597867,
+  "total_bytes": 2994274,
   "note": "Curated static release. Translation outputs and prompts are unchanged tracked records. No CLI credentials, raw session logs, private workspace files or unused previews."
 }

@@ -23,6 +23,19 @@ a complete independent scholarly review. The original Greek poem is public
 domain. The XML source is the Perseus digitisation of Hugh G. Evelyn-White’s
 1914 edition. A dagger (†) preserves the Greek edition’s deletion marks.
 
+## Reuse the text in an app
+
+Start with **[data/theogony.json](data/theogony.json)**, a single structured export
+of the current edition. It includes all verses, passage titles (“subtitles”),
+summaries, name notes, content attribution and generation references.
+
+[Data format and JavaScript/Python examples](data/README.md) ·
+[Download from the live site](https://theogony-reading.vercel.app/data/theogony.json) ·
+[JSON Schema](data/theogony.schema.json)
+
+The older generation filenames are provenance records. You do not need to
+assemble them yourself to reuse the edition.
+
 ## Run locally
 
 Python 3.11 or newer is sufficient for the build. CI uses Python 3.13.
@@ -40,13 +53,14 @@ python -m http.server 8000 --directory publish
 Open `http://localhost:8000`. On Windows, activate the environment with
 `.venv\Scripts\activate` instead. Rebuilding uses the included generation
 outputs. It makes **no model calls** and requires no API keys or Codex login.
-Only Pillow is needed in addition to Python’s standard library.
+Pillow prepares the images; jsonschema validates the reusable data format.
 
 ## Project layout
 
 ```text
 assets/             Original artwork, optimized exports and optional analytics glue
 content/            Passage boundaries used by the build
+data/               Central reusable JSON, schema and usage examples
 pipeline/           Page generators, asset exporter and validation tools
 pipeline/tests/     Exact selected prompts, generated outputs and run records
 scripts/            Build and release verification commands

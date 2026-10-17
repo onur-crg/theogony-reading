@@ -6,6 +6,19 @@
   "cleanUrls": false,
   "headers": [
     {
+      "source": "/data/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
       "source": "/pipeline/(.*)",
       "headers": [
         {

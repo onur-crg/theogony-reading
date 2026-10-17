@@ -5,7 +5,7 @@ The repository contains material under distinct terms:
 | Material | Terms |
 | --- | --- |
 | Original website code, JavaScript, Python build scripts and developer documentation | MIT, see [LICENSE](LICENSE) |
-| Original English reading text, passage titles, summaries, name notes, original illustrations and text-generation prompts | CC BY 4.0 to the extent rights are held, see [LICENSE-CONTENT.md](LICENSE-CONTENT.md) |
+| Original English reading text, passage titles, summaries, name notes, original illustrations, reusable JSON edition export and text-generation prompts | CC BY 4.0 to the extent rights are held, see [LICENSE-CONTENT.md](LICENSE-CONTENT.md) |
 | Perseus Greek XML and its licence notice | Separate Perseus/Tufts notice, CC BY-SA 4.0 unless otherwise indicated, see [sources/perseus-license.md](sources/perseus-license.md) |
 | Hesiod's underlying ancient poem | Public domain |
 
