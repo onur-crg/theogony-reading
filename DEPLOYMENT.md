@@ -4,8 +4,8 @@ The existing production site is https://theogony-reading.vercel.app/.
 
 ## Vercel Git integration
 
-The intended production branch is `main`. Configure the existing Vercel project
-with this repository and root directory **`publish`**, framework **Other**,
+The production branch is `main`. The existing Vercel project is connected to
+`onur-crg/theogony-reading`, with root directory **`publish`**, framework **Other**,
 no install command, no build command, and output directory `.`. The generated
 `publish/vercel.json` contains the static response headers. No secret is needed
 in this repository or in GitHub Actions.
@@ -23,8 +23,10 @@ git commit
 git push
 ```
 
-For a manual release, use Vercel CLI from `publish/` only. Linking a local checkout
-creates `.vercel`, which is ignored and must not be committed. Never put tokens
+Prefer Git pushes for this connected project. If using Vercel CLI manually,
+use this dedicated repository as the checkout and retain the project root
+directory `publish`; never deploy the surrounding personal workspace. Linking a
+local checkout creates `.vercel`, which is ignored and must not be committed. Never put tokens
 or generated `.env` files into the repository. No paid plan or add-on is required
 for the static site.
 
