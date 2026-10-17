@@ -38,7 +38,8 @@ def main():
         assert p.meta['description']==settings['description']
         assert p.canonical==[SITE_URL+settings['path']],filename
         assert p.meta['og:url']==p.canonical[0]
-        assert p.meta['og:title']==p.titles[0]
+        assert p.meta['og:title']==settings.get('social_title',settings['title'])
+        assert p.meta['twitter:title']==settings.get('social_title',settings['title'])
         assert p.meta['twitter:card']=='summary_large_image'
         assert ('noindex' not in p.meta['robots'])==settings['index']
         if settings['index']:indexable.add(p.canonical[0])
