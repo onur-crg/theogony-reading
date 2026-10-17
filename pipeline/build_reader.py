@@ -194,9 +194,9 @@ def render_section(item, headings, verse_runs=None, variant_run=None, variant=Fa
     classes = "passage variant" if variant else "passage"
     article_id = 'variant-929' if variant else sid
     result = [f'<section class="{classes}" data-range="{start}–{end}" id="{article_id}" aria-labelledby="title-{sid}">',
-              '<div class="passage-head">',
+              '<header class="passage-head">',
               f'<{title_tag} id="title-{sid}">{esc(heading)}</{title_tag}><a class="title-link" href="#summary-{sid}" data-summary="summary-{sid}" data-title-id="title-{sid}" aria-label="Read summary of {esc(heading)}"></a>',
-              '</div>']
+              '</header>']
     if variant:
         result.append('<p class="variant-note">These extra lines are a separate textual variant. They are outside the 1,022 numbered verses. The Greek source has a gap after 929f, and 929s is marked as disputed.</p>')
     if variant_run is not None:
@@ -405,7 +405,7 @@ STYLE = r"""
 .toc-button{display:inline-flex;align-items:center}.toc-button[aria-expanded="true"]{color:var(--green);text-decoration:underline;text-underline-offset:.25em}.sidebar[hidden],.toc-scrim[hidden]{display:none}.layout.toc-collapsed{grid-template-columns:minmax(0,1fr)}.toc-collapsed .reader{width:100%;margin-inline:auto}.sidebar-heading{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin-bottom:1rem}.sidebar-heading .sidebar-title{margin:0}.sidebar-close{width:2rem;height:2rem;flex:none;border:0;background:transparent;color:var(--green);font:400 1.4rem/1 system-ui,sans-serif;cursor:pointer}.toc-scrim{display:none}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem)}
 @media(max-width:850px){.topbar{height:4.4rem;min-height:4.4rem;padding:.75rem 1rem}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem);background:var(--paper);border-right:1px solid #b6c3d2;box-shadow:.7rem 0 2rem #1b2c4820}.toc-scrim{display:block;position:fixed;z-index:10;inset:4.4rem 0 0;border:0;border-radius:0;background:#172d4b45}.toc-list a{color:var(--ink)}.toc-list a:hover,.toc-list a[aria-current="location"]{background:#075fce12;color:var(--green)}}
 
-.poem-content>.passage{padding-block:2.25rem}.poem-content>.passage:first-of-type{padding-top:.8rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{margin:0;padding-top:.7rem;color:var(--muted);font:600 1rem/1.2 'Helvetica Neue',Arial,sans-serif}.settings-label-short{display:none}
+.poem-content>.passage{padding-block:2.25rem}.poem-content>.passage:first-of-type{padding-top:.8rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title{margin:0;padding-top:.7rem;color:var(--muted);font:600 1rem/1.2 'Helvetica Neue',Arial,sans-serif}.settings-label-short{display:none}
 @media(max-width:650px){.settings-label-long{display:none}.settings-label-short{display:inline}}
 
 
@@ -507,7 +507,7 @@ def main():
         parts.append(f'<li><a href="#{sid}"><span class="verse">{section["start"]}–{section["end"]}</span><span>{esc(headings[sid][2])}</span></a></li>')
         if sid == "p058":
             parts.append('<li><a class="variant-link" href="#variant-929"><span class="verse">929a–t</span><span>Additional lines · variant</span></a></li>')
-    parts += ['</ol></nav><main class="reader" id="reading"><article class="poem-content" id="poem" aria-labelledby="poem-title"><h1 class="reader-title-accessible" id="poem-title">Hesiod · Theogony</h1>']
+    parts += ['</ol></nav><main class="reader" id="reading"><article class="poem-content" id="poem" aria-labelledby="poem-title" itemscope itemtype="https://schema.org/Article"><h1 class="reader-title headline" id="poem-title" itemprop="headline">Hesiod · Theogony</h1>']
     for item in numbered:
         section = item[0]
         parts.append(render_section(item, headings, verse_runs=verse_runs))
