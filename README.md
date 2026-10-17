@@ -28,7 +28,7 @@ domain. The XML source is the Perseus digitisation of Hugh G. Evelyn-White’s
 Python 3.11 or newer is sufficient for the build. CI uses Python 3.13.
 
 ```sh
-git clone https://github.com/Onur3107/theogony-reading.git
+git clone https://github.com/onur-crg/theogony-reading.git
 cd theogony-reading
 python3 -m venv .venv
 source .venv/bin/activate

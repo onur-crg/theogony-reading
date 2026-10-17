@@ -50,4 +50,4 @@ database rights remain unaffected.
 This content licence does not license software source code, third-party material,
 names or trademarks. The original website software and developer documentation use the MIT licence
 in `LICENSE`, with scope and third-party attribution stated in `NOTICE.md`.
-Source repository: https://github.com/Onur3107/theogony-reading .
+Source repository: https://github.com/onur-crg/theogony-reading .

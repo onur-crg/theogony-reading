@@ -29,7 +29,7 @@ def document_header():
 
 def document_footer(current=''):
     pages = [('index.html', 'Home'), ('translation.html', 'Translation'), ('imprint.html', 'Imprint / Impressum'),
-             ('privacy.html', 'Privacy'), ('reuse.html', 'Reuse and licence'), ('https://github.com/Onur3107/theogony-reading', 'GitHub')]
+             ('privacy.html', 'Privacy'), ('reuse.html', 'Reuse and licence'), ('https://github.com/onur-crg/theogony-reading', 'GitHub')]
     links = ''.join(f'<a href="{path}"' + (' aria-current="page"' if path == current else '') + f'>{label}</a>' for path, label in pages)
     return '<footer class="document-footer"><nav aria-label="Site information">' + links + '</nav></footer>'
 
@@ -114,7 +114,7 @@ LEGAL_SECTIONS = '''
 <p>The ancient poem is in the public domain. AI-generated material may not attract copyright protection. This licence does not create rights over unprotected material, remove public-domain freedoms, restrict statutory exceptions or license third-party rights that the publisher does not hold. Attribution is requested as a matter of transparency even where it is not legally required.</p>
 <h3>Greek source and separate rights</h3>
 <p>The Greek base is the 1914 edition edited by Hugh G. Evelyn-White, digitised by the Perseus Project at Tufts University. Its unchanged XML copy is distributed with the repository’s <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> notice, separately from this edition’s original English content. Keep the Perseus/Tufts attribution and the <a href="sources/perseus-license.md">original licence notice</a> when redistributing that XML. See <a href="https://github.com/PerseusDL/canonical-greekLit">the source repository</a>. This site does not relicense Perseus material under CC BY. Any applicable third-party or database rights remain unaffected.</p>
-<p>The website’s original software source code is available under the <a href="LICENSE">MIT licence</a> in the <a href="https://github.com/Onur3107/theogony-reading">public GitHub repository</a>. The content licence does not cover third-party material, names or trademarks. See the <a href="NOTICE.md">rights and attribution notice</a> for the separate licence scopes.</p>
+<p>The website’s original software source code is available under the <a href="LICENSE">MIT licence</a> in the <a href="https://github.com/onur-crg/theogony-reading">public GitHub repository</a>. The content licence does not cover third-party material, names or trademarks. See the <a href="NOTICE.md">rights and attribution notice</a> for the separate licence scopes.</p>
 <h3>About accuracy</h3>
 <p>This is an AI-assisted reading edition, not a critical scholarly edition. The text and explanations can contain errors, and the illustrations are modern interpretations. Known review items are listed under <a href="translation.html">Translation and sources</a>. Please send corrections to <a href="mailto:hello@noto-labs.com">hello@noto-labs.com</a>. No restriction in these notes overrides mandatory statutory rights.</p>
 <p><a href="LICENSE-CONTENT.md">Download the content licensing notice</a>.</p>
