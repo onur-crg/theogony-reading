@@ -9,6 +9,7 @@ import re
 from pathlib import Path
 from xml.etree import ElementTree as ET
 from site_seo import metadata, write_discovery_files
+from site_notices import preferences_notice
 from site_legal import DOCUMENT_STYLE, BACK_LINK, BACK_STYLE, BACK_SCRIPT, document_header, document_footer, render_legal_pages
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -368,7 +369,7 @@ def render_homepage(items):
         '<a class="path" href="theogony-reader.html#p001">' + passage_art('passage-muses-v1.png') + '<span class="range">VERSE 1–8</span><strong>The Muses dance on Helicon</strong><span class="path-cta">Start the poem →</span></a>',
         '<a class="path" href="theogony-reader.html#p010">' + passage_art('passage-first-beings-v1.png') + '<span class="range">VERSE 116–125</span><strong>The first beings</strong><span class="path-cta">Explore the beginning →</span></a>',
         '<a class="path" href="theogony-reader.html#p032">' + passage_art('passage-cronus-v3.png') + '<span class="range">VERSE 453–467</span><strong>Cronus swallows his children</strong><span class="path-cta">Follow the story →</span></a></div></section></main>',
-        '<footer class="footer shell"><p>Hesiod · Theogony. AI-assisted reading draft.</p><nav aria-label="Site information"><a href="translation.html">Translation and sources</a><a href="imprint.html">Imprint / Impressum</a><a href="privacy.html">Privacy</a><a href="reuse.html">Reuse and licence</a><a href="https://github.com/onur-crg/theogony-reading">Source on GitHub</a><a href="https://www.noto-labs.com/">A project by Noto Labs</a></nav></footer>', god_dialog, '<script>', god_script, '</script></body></html>'
+        '<footer class="footer shell"><p>Hesiod · Theogony. AI-assisted reading draft.</p><nav aria-label="Site information"><a href="translation.html">Translation and sources</a><a href="imprint.html">Imprint / Impressum</a><a href="privacy.html">Privacy</a><a href="reuse.html">Reuse and licence</a><a href="https://github.com/onur-crg/theogony-reading">Source on GitHub</a><a href="https://www.noto-labs.com/">A project by Noto Labs</a><button type="button" class="preferences-footer-link" data-preferences-open>Privacy settings</button></nav></footer>' + preferences_notice(), god_dialog, '<script>', god_script, '</script></body></html>'
     ]
     HOME_OUTPUT.write_text(''.join(page))
 
@@ -406,9 +407,8 @@ STYLE = r"""
 .toc-button{display:inline-flex;align-items:center}.toc-button[aria-expanded="true"]{color:var(--green);text-decoration:underline;text-underline-offset:.25em}.sidebar[hidden],.toc-scrim[hidden]{display:none}.layout.toc-collapsed{grid-template-columns:minmax(0,1fr)}.toc-collapsed .reader{width:100%;margin-inline:auto}.sidebar-heading{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin-bottom:1rem}.sidebar-heading .sidebar-title{margin:0}.sidebar-close{width:2rem;height:2rem;flex:none;border:0;background:transparent;color:var(--green);font:400 1.4rem/1 system-ui,sans-serif;cursor:pointer}.toc-scrim{display:none}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem)}
 @media(max-width:850px){.topbar{height:4.4rem;min-height:4.4rem;padding:.75rem 1rem}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem);background:var(--paper);border-right:1px solid #b6c3d2;box-shadow:.7rem 0 2rem #1b2c4820}.toc-scrim{display:block;position:fixed;z-index:10;inset:4.4rem 0 0;border:0;border-radius:0;background:#172d4b45}.toc-list a{color:var(--ink)}.toc-list a:hover,.toc-list a[aria-current="location"]{background:#075fce12;color:var(--green)}}
 
-.reader>.passage{padding-block:2.25rem}.reader>.passage:first-of-type{padding-top:2.7rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.settings-label-short{display:none}.reading-notice{position:fixed;z-index:20;bottom:1rem;left:50%;transform:translateX(-50%);width:min(42rem,calc(100% - 2rem));padding:1.2rem 1.4rem;background:var(--paper);color:var(--ink);border:1px solid #9db2cc;border-radius:.8rem;box-shadow:0 .5rem 2rem #1b2c4826;font:.88rem/1.5 'Helvetica Neue',Arial,sans-serif}.reading-notice[hidden]{display:none}.reading-notice h2{font:600 1rem/1.3 'Helvetica Neue',Arial,sans-serif;margin:0 0 .35rem}.reading-notice p{margin:0 0 .8rem;color:var(--muted)}.reading-notice a{color:var(--green)}.reading-notice-actions{display:flex;gap:.6rem;flex-wrap:wrap}.reading-notice-actions button{flex:1;min-height:2.65rem;padding:.55rem .8rem;border:1px solid var(--green);border-radius:999px;background:transparent;color:var(--green);font:600 .88rem/1.3 'Helvetica Neue',Arial,sans-serif;cursor:pointer}.reading-notice-actions button:hover{background:#075fce12}#remember-yes{background:var(--green);color:var(--paper)}#remember-yes:hover{background:#064fa9}#remember-no[aria-pressed="true"]{box-shadow:inset 0 0 0 1px var(--green)}@media(max-width:480px){.settings-label-long{display:none}.settings-label-short{display:inline}.reading-notice{bottom:.5rem;padding:1rem;width:calc(100% - 1rem)}}
+.reader>.passage{padding-block:2.25rem}.reader>.passage:first-of-type{padding-top:2.7rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.settings-label-short{display:none}
 @media(max-width:650px){.settings-label-long{display:none}.settings-label-short{display:inline}}
-.reader-settings-dialog{width:min(26rem,calc(100% - 2rem));padding:1.6rem;border-radius:.8rem;background:var(--paper)}.reader-settings-dialog h2{font:800 1.65rem/1.2 Optima,'Avenir Next',Arial,sans-serif;color:var(--green);margin:.1rem 2rem 1.5rem 0}.settings-row{padding:1.1rem 0;border-top:1px solid var(--line)}.settings-row h3{font:600 .95rem/1.4 'Helvetica Neue',Arial,sans-serif;margin:0 0 .65rem}.text-size-control{display:flex;align-items:center;justify-content:space-between;gap:1rem}.text-size-control button,.settings-change{min-height:2.6rem;padding:.5rem .85rem;border:1px solid var(--green);border-radius:999px;background:transparent;color:var(--green);font:600 .9rem/1.3 'Helvetica Neue',Arial,sans-serif;cursor:pointer}.text-size-control button:disabled{opacity:.4;cursor:default}.text-size-control output{font:.9rem/1.4 'Helvetica Neue',Arial,sans-serif;color:var(--ink)}.settings-description{font:.85rem/1.6 'Helvetica Neue',Arial,sans-serif;color:var(--muted);margin:.5rem 0 0}.settings-choice{display:flex;justify-content:space-between;align-items:center;gap:1rem}.settings-choice p{margin:0;font:.9rem/1.4 'Helvetica Neue',Arial,sans-serif;color:var(--ink)}.settings-help{font:.8rem/1.6 'Helvetica Neue',Arial,sans-serif;color:var(--muted);margin:.8rem 0 0}.settings-help a{color:var(--green)}
 
 
 """
@@ -476,36 +476,17 @@ function restorePosition(){
 if(document.readyState==='complete')restorePosition();else addEventListener('load',restorePosition,{once:true});
 addEventListener('pagehide',savePosition);document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden')savePosition()});addEventListener('hashchange',()=>{if(savingEnabled)setTimeout(savePosition,450)});
 let queued=false;addEventListener('scroll',()=>{if(queued)return;queued=true;requestAnimationFrame(()=>{const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?scrollY/max*100:0)+'%';schedulePositionSave();queued=false})},{passive:true});
-const readingNotice=document.getElementById('reading-notice'),rememberYes=document.getElementById('remember-yes'),rememberNo=document.getElementById('remember-no');
-let settingsOpener=null;
-function updateReadingNotice(){
-  rememberYes.setAttribute('aria-pressed',String(rememberChoice==='enabled'));
-  rememberNo.setAttribute('aria-pressed',String(rememberChoice==='disabled'));
-  readingNotice.hidden=rememberChoice==='enabled'||rememberChoice==='disabled';
-  document.getElementById('remember-status').textContent=rememberEnabled?'Remembering on this device':'Not remembered';
-}
-function chooseRemember(enabled){
-  rememberEnabled=enabled;rememberChoice=enabled?'enabled':'disabled';
-  try{localStorage.setItem(rememberKey,rememberChoice)}catch(_){}
-  if(enabled){
+function updateReadingMemory(state){
+  const wasEnabled=rememberEnabled;
+  rememberEnabled=state.memory;rememberChoice=state.memory?'enabled':'disabled';
+  if(rememberEnabled&&!wasEnabled){
     try{localStorage.setItem('theogonyReadingSize',size);localStorage.setItem(tocPreferenceKey,desktopTocOpen?'shown':'hidden')}catch(_){}
     savePosition();
-  }else{
-    [positionKey,'theogonyReadingSize',tocPreferenceKey].forEach(key=>{try{localStorage.removeItem(key)}catch(_){}});
   }
-  updateReadingNotice();
-  // Keep keyboard focus on a visible control when the notice closes.
-  (settingsOpener||document.getElementById('reader-settings-button')).focus({preventScroll:true});settingsOpener=null;
 }
-rememberYes.addEventListener('click',()=>chooseRemember(true));rememberNo.addEventListener('click',()=>chooseRemember(false));
-const settingsDialog=document.getElementById('reader-settings-dialog'),settingsButton=document.getElementById('reader-settings-button');
-let reopenNotice=false;
-settingsButton.addEventListener('click',()=>{readingNotice.hidden=true;settingsDialog.showModal()});
-document.getElementById('settings-close').addEventListener('click',()=>settingsDialog.close());
-settingsDialog.addEventListener('close',()=>{if(reopenNotice){reopenNotice=false;readingNotice.hidden=false;rememberYes.focus({preventScroll:true})}else{updateReadingNotice();settingsButton.focus({preventScroll:true})}});
-document.querySelectorAll('[data-reading-settings]').forEach(button=>button.addEventListener('click',()=>{settingsOpener=settingsButton;reopenNotice=true;settingsDialog.close()}));
-updateReadingNotice();
-addEventListener('storage',event=>{if(event.key===rememberKey||event.key===null){try{rememberChoice=localStorage.getItem(rememberKey)}catch(_){rememberChoice=null}rememberEnabled=rememberChoice==='enabled';updateReadingNotice()}});
+document.addEventListener('theogony:preferences-changed',event=>updateReadingMemory(event.detail));
+document.getElementById('reader-settings-button').setAttribute('data-preferences-open','');
+
 
 """
 
@@ -521,7 +502,7 @@ def main():
              '<style>', STYLE + BACK_STYLE, '</style></head><body id="top"><a class="skip" href="#reading">Skip to reading</a>',
              '<header class="topbar"><div class="reader-brand-group">' + BACK_LINK + '<a class="brand" href="index.html" aria-label="Theogony home">THEOGONY</a></div><nav class="controls" aria-label="Reading navigation">',
              '<button class="toc-button" id="toc-button" aria-controls="sidebar" aria-expanded="false">Contents</button>',
-             '<button id="reader-settings-button" type="button" aria-label="Reader settings" aria-haspopup="dialog" aria-controls="reader-settings-dialog"><span class="settings-label-long">Reader settings</span><span class="settings-label-short" aria-hidden="true">Settings</span></button></nav><span class="progress" id="progress"></span></header>',
+             '<button id="reader-settings-button" type="button" aria-label="Reader settings" aria-haspopup="dialog" aria-controls="site-preferences"><span class="settings-label-long">Reader settings</span><span class="settings-label-short" aria-hidden="true">Settings</span></button></nav><span class="progress" id="progress"></span></header>',
              '<button class="toc-scrim" id="toc-scrim" type="button" aria-label="Close contents" hidden></button><div class="layout"><nav class="sidebar" id="sidebar" aria-label="Passages"><div class="sidebar-heading"><p class="sidebar-title">Contents · 65 passages</p><button class="sidebar-close" id="toc-close" type="button" aria-label="Hide contents">×</button></div><ol class="toc-list">']
     for section, _, _ in numbered:
         sid = section["id"]
@@ -535,11 +516,10 @@ def main():
         if section["id"] == "p058":
             parts.append(render_section(variant, headings, variant_run=variant_run, variant=True))
     parts.append(render_notes(all_items))
-    parts.append('<footer class="footer"><nav aria-label="Site information"><a href="index.html">Home</a> · <a href="translation.html">Translation and sources</a> · <a href="imprint.html">Imprint / Impressum</a> · <a href="privacy.html">Privacy</a> · <a href="reuse.html">Reuse and licence</a><a href="https://github.com/onur-crg/theogony-reading">Source on GitHub</a><a href="https://www.noto-labs.com/">A project by Noto Labs</a></nav><p>AI-assisted reading draft.</p></footer></main></div>')
+    parts.append('<footer class="footer"><nav aria-label="Site information"><a href="index.html">Home</a> · <a href="translation.html">Translation and sources</a> · <a href="imprint.html">Imprint / Impressum</a> · <a href="privacy.html">Privacy</a> · <a href="reuse.html">Reuse and licence</a><a href="https://github.com/onur-crg/theogony-reading">Source on GitHub</a><a href="https://www.noto-labs.com/">A project by Noto Labs</a><button type="button" class="preferences-footer-link" data-preferences-open>Privacy settings</button></nav><p>AI-assisted reading draft.</p></footer></main></div>' + preferences_notice(reader=True))
     parts.append('<dialog id="note-dialog" aria-labelledby="note-title"><button class="close" id="dialog-close" type="button" aria-label="Close explanation">×</button><h2 id="note-title"></h2><p id="note-general"></p><p class="here"><strong>Here:</strong> <span id="note-here"></span></p></dialog>')
     parts.append('<dialog id="summary-dialog" aria-labelledby="summary-title"><button class="close" id="summary-close" type="button" aria-label="Close summary">×</button><h2 id="summary-title"></h2><p id="summary-text"></p></dialog>')
-    parts.append('<dialog class="reader-settings-dialog" id="reader-settings-dialog" aria-labelledby="settings-title"><button class="close" id="settings-close" type="button" aria-label="Close reader settings">×</button><h2 id="settings-title">Reader settings</h2><section class="settings-row"><h3>Text size</h3><div class="text-size-control"><button id="smaller" type="button" aria-label="Make text smaller">A−</button><output id="reading-size-label" aria-live="polite">Default</output><button id="larger" type="button" aria-label="Make text larger">A+</button></div></section><section class="settings-row"><h3>Reading memory</h3><div class="settings-choice"><p id="remember-status" role="status"></p><button class="settings-change" type="button" data-reading-settings>Change</button></div><p class="settings-description">Save your place, text size and contents preference on this device.</p></section><p class="settings-help">Tap a passage title for a summary, or an underlined name for an explanation. <a href="privacy.html">Privacy</a></p></dialog>')
-    parts.append('<section class="reading-notice" id="reading-notice" role="region" aria-labelledby="reading-notice-title" hidden><h2 id="reading-notice-title">Remember where you stopped?</h2><p>Optional. Save your place, text size and contents preference on this device. No tracking. Change your choice in Reader settings. <a href="privacy.html">Privacy</a></p><div class="reading-notice-actions"><button id="remember-yes" type="button">Remember</button><button id="remember-no" type="button">Don’t remember</button></div></section>')
+
     parts.extend(['<script>', SCRIPT, BACK_SCRIPT, '</script></body></html>'])
     OUTPUT.write_text(''.join(parts))
     render_information(numbered, variant, headings, verse_runs, variant_run)

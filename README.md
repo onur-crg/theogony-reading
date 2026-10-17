@@ -19,6 +19,8 @@ Read 1,022 numbered verses in 65 short passages, with an additional textual
 variant after verse 929. Tap a passage heading for a summary, or an underlined
 name for a short explanation. The reader includes adjustable text size, a
 collapsible contents list and optional memory for your place on the same device.
+One shared preferences dialog offers Accept all, Reject optional and separate
+controls for reading memory and visit statistics. Reader settings also live there.
 The homepage introduces Gaia, Zeus and Athena through hand-drawn illustrations.
 
 This is an **AI-assisted reading edition**, not a critical scholarly edition.

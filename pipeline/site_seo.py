@@ -71,6 +71,8 @@ def metadata(page):
                       'description':'An AI-assisted English reading draft of Hesiod’s Theogony, with passage summaries and name notes.'})
         graph[1]['mainEntity']={'@id':SITE_URL+'/#english-edition'}
     tags.append('<script type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')+'</script>')
+    tags.append('<link rel="stylesheet" href="assets/consent-notice-v1.css">')
+    tags.append('<script defer src="assets/site-preferences-v1.js"></script>')
     tags.append('<script defer src="assets/site-analytics-v1.js"></script>')
     return ''.join(tags)
 
