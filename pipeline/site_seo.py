@@ -14,6 +14,7 @@ PAGES={
   'description':'Read Hesiod’s Theogony in clear English. Explore the origins of the Greek gods with numbered verses, short passages and explanatory notes. Free online.',
   'path':'/','index':True},
  'theogony-reader.html':{
+  'social_title':'Hesiod · Theogony',
   'title':'Read Hesiod’s Theogony: English Translation',
   'description':'Read the English Theogony online, from the Muses to Zeus. Follow 1,022 numbered verses with passage summaries, Greek mythological names and reading settings.',
   'path':'/theogony-reader.html','index':True},
@@ -47,12 +48,12 @@ def metadata(page):
           '<link rel="shortcut icon" href="favicon.ico">',
           '<link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">',
           f'<meta name="robots" content="{"index, follow, max-image-preview:large" if data["index"] else "noindex, follow"}">']
-    values={'og:type':'website','og:site_name':SITE_NAME,'og:title':data['title'],
+    values={'og:type':'article' if page=='theogony-reader.html' else 'website','og:site_name':SITE_NAME,'og:title':data.get('social_title',data['title']),
             'og:description':data['description'],'og:url':url,'og:locale':'de_DE' if language=='de' else 'en_US',
             'og:image':SITE_URL+'/'+SOCIAL_PATH,'og:image:width':'1200','og:image:height':'500',
             'og:image:type':'image/jpeg','og:image:alt':'Hand-drawn illustrations of Gaia, Zeus and Athena on a blue background.'}
     tags += [f'<meta property="{key}" content="{html.escape(value,quote=True)}">' for key,value in values.items()]
-    twitter={'twitter:card':'summary_large_image','twitter:title':data['title'],
+    twitter={'twitter:card':'summary_large_image','twitter:title':data.get('social_title',data['title']),
              'twitter:description':data['description'],'twitter:image':SITE_URL+'/'+SOCIAL_PATH,
              'twitter:image:alt':values['og:image:alt']}
     tags += [f'<meta name="{key}" content="{html.escape(value,quote=True)}">' for key,value in twitter.items()]
