@@ -33,14 +33,14 @@
     document.getElementById('preferences-manage').hidden = false;
     document.getElementById('preferences-accept').hidden = true;
     document.getElementById('preferences-save').hidden = false;
-    document.getElementById('preferences-manage-button').hidden = true;
+    document.getElementById('preferences-manage-button').textContent = 'Back';
   }
   function open(detailed = true, trigger = document.activeElement) {
     opener = trigger; sync();
     document.getElementById('preferences-manage').hidden = !detailed;
     document.getElementById('preferences-accept').hidden = detailed;
     document.getElementById('preferences-save').hidden = !detailed;
-    document.getElementById('preferences-manage-button').hidden = detailed;
+    document.getElementById('preferences-manage-button').textContent = detailed ? 'Back' : 'Manage preferences';
     if (!dialog.open) dialog.showModal();
   }
   function save(remember, count, close = true) {
@@ -62,7 +62,10 @@
   document.getElementById('preferences-accept').addEventListener('click', () => save(true, !privacySignal));
   document.getElementById('preferences-reject').addEventListener('click', () => save(false, false));
   document.getElementById('preferences-save').addEventListener('click', () => save(memory.checked, analytics.checked));
-  document.getElementById('preferences-manage-button').addEventListener('click', manage);
+  document.getElementById('preferences-manage-button').addEventListener('click', () => {
+    if (document.getElementById('preferences-manage').hidden) manage();
+    else open(false, opener);
+  });
   dialog.querySelector('[data-preferences-close]').addEventListener('click', () => dialog.close());
   dialog.addEventListener('close', () => { if (opener?.isConnected) opener.focus({ preventScroll: true }); });
   document.addEventListener('click', event => {

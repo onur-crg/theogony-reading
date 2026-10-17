@@ -16,7 +16,7 @@
     "assets/optimized/vase.744b834d072f.webp": "744b834d072fc868947bc0d2fbe20f081fbd0c4c362403ee4f550886a94983b4",
     "assets/optimized/zeus.fd4a9a36809d.webp": "fd4a9a36809d476171f9b5c30268a95efb8bc821fa33b99bb87a0ee4243b7cc8",
     "assets/site-analytics-v1.js": "1252b1f2333adba7cfcff8418f60b35d6f1c0a4fcbadb420360f69f9e162a584",
-    "assets/site-preferences-v1.js": "eb987c236dd87a7d9ea73428a171cdf406d88670e204145ed899fc02cae681bd",
+    "assets/site-preferences-v1.js": "b47e99c1be8700c478e0ab449ccc2680f41642cafa0b0fe4c2a28429a2163b93",
     "assets/theogony-share.jpg": "92f2a670b81fc9028f70611b3b8062253b466f1ca8c68180978bd097110e8ed9",
     "data/theogony.json": "27e544513a28c9105d69493049d73d839fc2dda88cbf8b2d28f72a22039de5d1",
     "data/theogony.schema.json": "3302d7e52f099a8c9e1344de2c44930955f3166d05c1d82540eb1d1e4d4ea7af",
@@ -165,6 +165,6 @@
     "translation-records.html": "aa37a9e2cef364ebd2eb36421ca0cc40d08181dfc7c3dc77858f3ec5d70c9821",
     "translation.html": "396f351dd6cb71e5aebc72bc1bc270373faf95093a16f083a76fe89b09c429b7"
   },
-  "total_bytes": 3005191,
+  "total_bytes": 3005342,
   "note": "Curated static release. Translation outputs and prompts are unchanged tracked records. No CLI credentials, raw session logs, private workspace files or unused previews."
 }
