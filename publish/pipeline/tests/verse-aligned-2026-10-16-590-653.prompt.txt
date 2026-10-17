@@ -1,0 +1,111 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p040 (590–616): From that first woman comes the race of women—a great trouble living among mortal men, sharing their plenty but not their crushing poverty.
+
+Just as bees in their sheltered hives feed drones, partners in wrongdoing—the bees hurry about all day until sunset, building white honeycombs, while the drones stay inside the covered hives and gather the harvest of others’ hard work into their own bellies—so Zeus, who thunders on high, made women a curse for mortal men, partners in work that brings pain.
+
+And he gave men another evil in place of a blessing. A man may avoid marriage and women’s troublesome ways and choose never to marry, but then he reaches miserable old age with no one to care for him. He has enough to live on while he is alive, but when he dies, distant relatives divide his property. If a man’s fate is to marry, and he gets a good wife with sound sense, then good and bad keep competing throughout his life. But if he ends up with a wife of a wicked kind, he lives with unending sorrow in his chest, deep in his heart and spirit. There is no cure for that misery.
+
+So no one can fool Zeus or get around his plans. Even kindly Prometheus, son of Iapetus, did not escape Zeus’s heavy anger. For all his knowledge, a mighty chain holds him fast by force.
+
+p041 (617–628): When their father Uranus first grew angry with Briareus, Cottus, and Gyges, he bound them in mighty chains. He was struck with dread at their overwhelming strength, their appearance, and their size, and he forced them to live beneath the wide-pathed earth.
+
+There they stayed in pain, beneath the ground at the farthest edge, at the limits of the great earth. For a very long time they suffered, with deep grief in their hearts.
+
+But Zeus, son of Cronus, and the other immortal gods whom lovely-haired Rhea bore through her love with Cronus brought them back into the light, following Gaia’s advice. Gaia herself had explained everything fully: with their help, the gods would win victory and shining glory.
+
+p042 (629–638): For a long time the Titan gods and the children of Cronus had fought each other in fierce battles, enduring heart-rending toil. The proud Titans fought from high Mount Othrys. The other gods, the givers of good things, fought from Olympus—the gods whom lovely-haired Rhea bore after sharing Cronus’s bed.
+
+With heart-rending anger against each other, they had fought without a break for ten full years. Neither side could find a way to end the bitter struggle. The war hung in an even balance.
+
+p043 (639–653): But when Zeus had given the three brothers everything they needed—nectar and ambrosia, which the gods themselves eat—proud courage grew in all their chests. Once they had tasted the nectar and delicious ambrosia, Zeus, father of gods and humans, spoke to them:
+
+“Listen to me, glorious children of Gaia and Uranus, so I can tell you what the heart in my chest urges me to say. For a very long time now, day after day, we have fought against each other for victory and power—the Titan gods and all of us born to Cronus.
+
+“Now show your great strength and your irresistible hands against the Titans in this grim battle. Remember the kindness we showed you: after all your suffering, our plans brought you back into the light, out of those cruel chains and the misty darkness.”
+
+GREEK CONTEXT BEFORE (do not translate)
+584: θαυμάσια, ζῴοισιν ἐοικότα φωνήεσσιν.
+585: αὐτὰρ ἐπεὶ δὴ τεῦξε καλὸν κακὸν ἀντʼ ἀγαθοῖο.
+586: ἐξάγαγʼ, ἔνθα περ ἄλλοι ἔσαν θεοὶ ἠδʼ ἄνθρωποι,
+587: κόσμῳ ἀγαλλομένην γλαυκώπιδος ὀβριμοπάτρης.
+588: θαῦμα δʼ ἔχʼ ἀθανάτους τε θεοὺς θνητούς τʼ ἀνθρώπους,
+589: ὡς εἶδον δόλον αἰπύν, ἀμήχανον ἀνθρώποισιν.
+
+>>> TRANSLATE THESE GREEK VERSES: 590-653 <<<
+590: ἐκ τῆς γὰρ γένος ἐστὶ γυναικῶν θηλυτεράων,
+591: [del: τῆς γὰρ ὀλώιόν ἐστι γένος καὶ φῦλα γυναικῶν,]
+592: πῆμα μέγʼ αἳ θνητοῖσι μετʼ ἀνδράσι ναιετάουσιν
+593: οὐλομένης πενίης οὐ σύμφοροι, ἀλλὰ κόροιο.
+594: ὡς δʼ ὁπότʼ ἐν σμήνεσσι κατηρεφέεσσι μέλισσαι
+595: κηφῆνας βόσκωσι, κακῶν ξυνήονας ἔργων—
+596: αἳ μέν τε πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα
+597: ἠμάτιαι σπεύδουσι τιθεῖσί τε κηρία λευκά,
+598: οἳ δʼ ἔντοσθε μένοντες ἐπηρεφέας κατὰ σίμβλους
+599: ἀλλότριον κάματον σφετέρην ἐς γαστέρʼ ἀμῶνται—
+600: ὣς δʼ αὔτως ἄνδρεσσι κακὸν θνητοῖσι γυναῖκας
+601: Ζεὺς ὑψιβρεμέτης θῆκεν, ξυνήονας ἔργων
+602: ἀργαλέων· ἕτερον δὲ πόρεν κακὸν ἀντʼ ἀγαθοῖο·
+603: ὅς κε γάμον φεύγων καὶ μέρμερα ἔργα γυναικῶν
+604: μὴ γῆμαι ἐθέλῃ, ὀλοὸν δʼ ἐπὶ γῆρας ἵκοιτο
+605: χήτεϊ γηροκόμοιο· ὅ γʼ οὐ βιότου ἐπιδευὴς
+606: ζώει, ἀποφθιμένου δὲ διὰ κτῆσιν δατέονται
+607: χηρωσταί· ᾧ δʼ αὖτε γάμου μετὰ μοῖρα γένηται,
+608: κεδνὴν δʼ ἔσχεν ἄκοιτιν ἀρηρυῖαν πραπίδεσσι,
+609: τῷ δέ τʼ ἀπʼ αἰῶνος κακὸν ἐσθλῷ ἀντιφερίζει
+610: ἐμμενές· ὃς δέ κε τέτμῃ ἀταρτηροῖο γενέθλης,
+611: ζώει ἐνὶ στήθεσσιν ἔχων ἀλίαστον ἀνίην
+612: θυμῷ καὶ κραδίῃ, καὶ ἀνήκεστον κακόν ἐστιν.
+613: ὣς οὐκ ἔστι Διὸς κλέψαι νόον οὐδὲ παρελθεῖν.
+614: οὐδὲ γὰρ Ἰαπετιονίδης ἀκάκητα Προμηθεὺς
+615: τοῖό γʼ ὑπεξήλυξε βαρὺν χόλον, ἀλλʼ ὑπʼ ἀνάγκης
+616: καὶ πολύιδριν ἐόντα μέγας κατὰ δεσμὸς ἐρύκει.
+617: Βριάρεῳ δʼ ὡς πρῶτα πατὴρ ὠδύσσατο θυμῷ
+618: Κόττῳ τʼ ἠδὲ Γύῃ, δῆσεν κρατερῷ ἐνὶ δεσμῷ
+619: ἠνορέην ὑπέροπλον ἀγώμενος ἠδὲ καὶ εἶδος
+620: καὶ μέγεθος· κατένασσε δʼ ὑπὸ χθονὸς εὐρυοδείης.
+621: ἔνθʼ οἵ γʼ ἄλγεʼ ἔχοντες ὑπὸ χθονὶ ναιετάοντες
+622: εἵατʼ ἐπʼ ἐσχατιῇ, μεγάλης ἐν πείρασι γαίης,
+623: δηθὰ μάλʼ ἀχνύμενοι, κραδίῃ μέγα πένθος ἔχοντες.
+624: ἀλλά σφεας Κρονίδης τε καὶ ἀθάνατοι θεοὶ ἄλλοι,
+625: οὓς τέκεν ἠύκομος Ῥείη Κρόνου ἐν φιλότητι,
+626: Γαίης φραδμοσύνῃσιν ἀνήγαγον ἐς φάος αὖτις·
+627: αὐτὴ γάρ σφιν ἅπαντα διηνεκέως κατέλεξε
+628: σὺν κείνοις νίκην τε καὶ ἀγλαὸν εὖχος ἀρέσθαι.
+629: δηρὸν γὰρ μάρναντο πόνον θυμαλγέʼ ἔχοντες
+630: Τιτῆνές τε θεοὶ καὶ ὅσοι Κρόνου ἐξεγένοντο,
+631: ἀντίον ἀλλήλοισι διὰ κρατερὰς ὑσμίνας,
+632: οἳ μὲν ἀφʼ ὑψηλῆς Ὄθρυος Τιτῆνες ἀγαυοί,
+633: οἳ δʼ ἄρʼ ἀπʼ Οὐλύμποιο θεοί, δωτῆρες ἐάων,
+634: οὓς τέκεν ἠύκομος Ῥείη Κρόνῳ εὐνηθεῖσα.
+635: οἵ ῥα τότʼ ἀλλήλοισι χόλον θυμαλγέʼ ἔχοντες
+636: συνεχέως ἐμάχοντο δέκα πλείους ἐνιαυτούς·
+637: οὐδέ τις ἦν ἔριδος χαλεπῆς λύσις οὐδὲ τελευτὴ
+638: οὐδετέροις, ἶσον δὲ τέλος τέτατο πτολέμοιο.
+639: ἀλλʼ ὅτε δὴ κείνοισι παρέσχεθεν ἄρμενα πάντα,
+640: νέκταρ τʼ ἀμβροσίην τε, τά περ θεοὶ αὐτοὶ ἔδουσι,
+641: πάντων ἐν στήθεσσιν ἀέξετο θυμὸς ἀγήνωρ.
+642: ὡς νέκταρ τʼ ἐπάσαντο καὶ ἀμβροσίην ἐρατεινήν,
+643: δὴ τότε τοῖς μετέειπε πατὴρ ἀνδρῶν τε θεῶν τε·
+644: κέκλυτε μευ, Γαίης τε καὶ Οὐρανοῦ ἀγλαὰ τέκνα,
+645: ὄφρʼ εἴπω, τά με θυμὸς ἐνὶ στήθεσσι κελεύει.
+646: ἤδη γὰρ μάλα δηρὸν ἐναντίοι ἀλλήλοισι
+647: νίκης καὶ κράτεος πέρι μαρνάμεθʼ ἤματα πάντα
+648: Τιτῆνές τε θεοὶ καὶ ὅσοι Κρόνου ἐκγενόμεσθα.
+649: ὑμεῖς δὲ μεγάλην τε βίην καὶ χεῖρας ἀάπτους
+650: φαίνετε Τιτήνεσσιν ἐναντίοι ἐν δαῒ λυγρῇ
+651: μνησάμενοι φιλότητος ἐνηέος, ὅσσα παθόντες
+652: ἐς φάος ἂψ ἀφίκεσθε δυσηλεγέος ὑπὸ δεσμοῦ
+653: ἡμετέρας διὰ βουλὰς ὑπὸ ζόφου ἠερόεντος.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+654: ὣς φάτο· τὸν δʼ ἐξαῦτις ἀμείβετο Κόττος ἀμύμων·
+655: Δαιμόνιʼ, οὐκ ἀδάητα πιφαύσκεαι· ἀλλὰ καὶ αὐτοὶ
+656: ἴδμεν, ὅ τοι περὶ μὲν πραπίδες, περὶ δʼ ἐστὶ νόημα,
+657: ἀλκτὴρ δʼ ἀθανάτοισιν ἀρῆς γένεο κρυεροῖο.
+658: σῇσι δʼ ἐπιφροσύνῃσιν ὑπὸ ζόφου ἠερόεντος
+659: ἄψορρον δʼ† ἐξαῦτις ἀμειλίκτων ὑπὸ δεσμῶν

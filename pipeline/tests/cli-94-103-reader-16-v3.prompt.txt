@@ -1,0 +1,38 @@
+Write an English version of the marked Greek lines for a 16-year-old who does not know Greek myths. Make it clear and enjoyable to read, with natural sentences and some of the poem’s rhythm. Keep Hesiod’s meaning and images. Use today’s words, not old-fashioned ones. Do not add or leave out important facts. Keep names in the reading text. Add only the brief clue needed to follow a sentence; put other background in cards. If Hesiod explains a name, keep that explanation in the translation. Use natural English word order and make pronouns clear. Avoid interrupting sentences with explanations.
+
+Return one JSON result for each section below. Give each a short title, the translation, a very simple summary, and one short card for each useful name or hard word. Use the name hints only if they fit the Greek. Put real doubts in "uncertainties".
+
+SECTIONS
+[{"id": "p008", "start": 94, "end": 103, "heading": "Their gift to singers"}]
+
+NAME HINTS
+[]
+
+CONTEXT BEFORE (do not translate)
+88: τοὔνεκα γὰρ βασιλῆες ἐχέφρονες, οὕνεκα λαοῖς
+89: βλαπτομένοις ἀγορῆφι μετάτροπα ἔργα τελεῦσι
+90: ῥηιδίως, μαλακοῖσι παραιφάμενοι ἐπέεσσιν.
+91: ἐρχόμενον δʼ ἀνʼ ἀγῶνα θεὸν ὣς ἱλάσκονται
+92: αἰδοῖ μειλιχίῃ, μετὰ δὲ πρέπει ἀγρομένοισιν·
+93: τοίη Μουσάων ἱερὴ δόσις ἀνθρώποισιν.
+
+>>> TRANSLATE THESE GREEK VERSES: 94-103 <<<
+94: ἐκ γάρ τοι Μουσέων καὶ ἑκηβόλου Ἀπόλλωνος
+95: ἄνδρες ἀοιδοὶ ἔασιν ἐπὶ χθόνα καὶ κιθαρισταί,
+96: ἐκ δὲ Διὸς βασιλῆες· ὃ δʼ ὄλβιος, ὅν τινα Μοῦσαι
+97: φίλωνται· γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή.
+98: εἰ γάρ τις καὶ πένθος ἔχων νεοκηδέι θυμῷ
+99: ἄζηται κραδίην ἀκαχήμενος, αὐτὰρ ἀοιδὸς
+100: Μουσάων θεράπων κλέεα προτέρων ἀνθρώπων
+101: ὑμνήσῃ μάκαράς τε θεούς, οἳ Ὄλυμπον ἔχουσιν,
+102: αἶψʼ ὅ γε δυσφροσυνέων ἐπιλήθεται οὐδέ τι κηδέων
+103: μέμνηται· ταχέως δὲ παρέτραπε δῶρα θεάων.
+>>> END OF ASSIGNED VERSES <<<
+
+CONTEXT AFTER (do not translate)
+104: χαίρετε, τέκνα Διός, δότε δʼ ἱμερόεσσαν ἀοιδήν.
+105: κλείετε δʼ ἀθανάτων ἱερὸν γένος αἰὲν ἐόντων,
+106: οἳ Γῆς τʼ ἐξεγένοντο καὶ Οὐρανοῦ ἀστερόεντος,
+107: Νυκτός τε δνοφερῆς, οὕς θʼ ἁλμυρὸς ἔτρεφε Πόντος.
+108: εἴπατε δʼ, ὡς τὰ πρῶτα θεοὶ καὶ γαῖα γένοντο
+109: καὶ ποταμοὶ καὶ πόντος ἀπείριτος, οἴδματι θυίων,

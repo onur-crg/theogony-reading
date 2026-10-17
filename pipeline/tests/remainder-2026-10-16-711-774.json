@@ -1,0 +1,187 @@
+{
+  "sections": [
+    {
+      "id": "p047",
+      "start": 711,
+      "end": 728,
+      "heading": "The Titans fall",
+      "translation": "Then the battle turned. Until then, the two sides had held their ground against each other, fighting fiercely without giving way.\n\nAt the front, Cottus, Briareus, and Gyges, who could never get enough of war, stirred up savage fighting. From their powerful hands they hurled three hundred rocks, one after another, until their missiles overshadowed the Titans. They overpowered those proud gods with their hands, sent them beneath the earth with its wide roads, and bound them in painful chains—as far beneath the earth as the sky is above it. That is how far it is from earth to misty Tartarus.\n\nA bronze anvil falling from the sky for nine nights and nine days would reach the earth on the tenth day. And a bronze anvil falling from earth for nine nights and nine days would reach Tartarus on the tenth.\n\nA bronze fence has been built around Tartarus. Night spreads in three layers around its neck, while above it grow the roots of earth and the sea that yields no harvest.",
+      "summary": "Three mighty fighters defeat the Titans and imprison them in Tartarus, far below the earth.",
+      "cards": [
+        {
+          "id": "p047-cottus",
+          "label": "Cottus, Briareus, and Gyges",
+          "general": "Three giant brothers, each with a hundred hands.",
+          "here": "Their many hands let them throw three hundred rocks at once."
+        },
+        {
+          "id": "p047-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "They lose the war against Zeus and his allies."
+        },
+        {
+          "id": "p047-tartarus",
+          "label": "Tartarus",
+          "general": "A dark region far beneath the earth.",
+          "here": "It becomes the Titans’ prison."
+        },
+        {
+          "id": "p047-anvil",
+          "label": "Bronze anvil",
+          "general": "An anvil is a heavy metal block used when hammering metal into shape. Bronze is a metal made mainly from copper and tin.",
+          "here": "Even this heavy object would take ten days to fall to Tartarus."
+        },
+        {
+          "id": "p047-roots",
+          "label": "Roots of earth and sea",
+          "general": "Hesiod imagines earth and sea as having roots extending into the depths.",
+          "here": "These roots grow above Tartarus."
+        },
+        {
+          "id": "p047-sea",
+          "label": "The sea that yields no harvest",
+          "general": "A poetic description of the sea, where crops cannot grow.",
+          "here": "It contrasts the sea with cultivated land."
+        }
+      ]
+    },
+    {
+      "id": "p048",
+      "start": 729,
+      "end": 744,
+      "heading": "The depths of Tartarus",
+      "translation": "There the Titan gods are hidden in misty darkness, by the will of Zeus the cloud-gatherer, in a dank place at the ends of the vast earth. They cannot get out. Poseidon has fitted bronze doors across the entrance, and a wall runs around on either side. There Gyges, Cottus, and great-hearted Obriareus live as faithful guards of Zeus, who carries the aegis.\n\nThere, side by side, lie the sources and boundaries of dark earth, misty Tartarus, the sea that yields no harvest, and the starry sky—dreadful, dank places that even the gods hate.\n\nThere is a huge chasm. Once inside its gates, you would not reach the bottom even in a whole year. Instead, one savage storm after another would carry you this way and that. Even the immortal gods find this marvel terrifying.\n\nThere too is the fearsome house of dark Night.",
+      "summary": "The Titans cannot escape. Around their prison lie terrifying depths that even the gods fear.",
+      "cards": [
+        {
+          "id": "p048-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, associated with the sky, storms, and thunder.",
+          "here": "He orders the Titans’ imprisonment and appoints their guards."
+        },
+        {
+          "id": "p048-poseidon",
+          "label": "Poseidon",
+          "general": "The god of the sea and earthquakes.",
+          "here": "He installs the bronze doors that shut the Titans in."
+        },
+        {
+          "id": "p048-obriareus",
+          "label": "Obriareus",
+          "general": "Another form of the name Briareus.",
+          "here": "He guards the Titans with his brothers Gyges and Cottus."
+        },
+        {
+          "id": "p048-aegis",
+          "label": "Aegis",
+          "general": "A divine protective object, often described as a shield or animal skin.",
+          "here": "Carrying it is one of Zeus’s identifying features."
+        },
+        {
+          "id": "p048-dank",
+          "label": "Dank",
+          "general": "Unpleasantly damp and cold.",
+          "here": "It describes the gloomy depths beneath the earth."
+        },
+        {
+          "id": "p048-chasm",
+          "label": "Chasm",
+          "general": "A huge, deep opening.",
+          "here": "Storms toss anyone inside it about for longer than a year."
+        },
+        {
+          "id": "p048-night",
+          "label": "Night",
+          "general": "Night is a goddess as well as the darkness that comes each evening.",
+          "here": "Her house stands near these terrifying depths."
+        }
+      ]
+    },
+    {
+      "id": "p049",
+      "start": 745,
+      "end": 766,
+      "heading": "Night and her children",
+      "translation": "Night’s house stands wrapped in blue-black clouds. Before it, Iapetus’s son stands firm, holding up the broad sky with his head and tireless hands.\n\nHere Night and Day draw near and greet each other as they cross the great bronze threshold. One goes inside while the other goes out; the house never holds them both at once. One is always outside, travelling over the earth, while the other waits inside until her own time to set out arrives. Day brings people on earth the light that lets them see far. Deadly Night, wrapped in a misty cloud, carries Sleep in her hands, the brother of Death.\n\nHere dark Night’s children have their homes: Sleep and Death, fearsome gods. Shining Helios never looks upon them with his rays, either as he climbs into the sky or as he comes down from it.\n\nSleep travels peacefully over the earth and the broad back of the sea, gentle toward human beings. But Death has a heart of iron, a merciless heart of bronze inside his chest. Once he seizes someone, he holds on. Even the immortal gods hate him.",
+      "summary": "Night and Day take turns travelling over the earth. Sleep is gentle, but Death never releases anyone he catches.",
+      "cards": [
+        {
+          "id": "p049-iapetus",
+          "label": "Iapetus’s son",
+          "general": "Atlas, a son of the Titan Iapetus.",
+          "here": "He holds up the sky with his head and hands."
+        },
+        {
+          "id": "p049-day",
+          "label": "Day",
+          "general": "Day is a goddess as well as the daylight hours.",
+          "here": "She and Night share a house but are never inside together."
+        },
+        {
+          "id": "p049-threshold",
+          "label": "Threshold",
+          "general": "The strip across the bottom of a doorway.",
+          "here": "Night and Day pass each other at the bronze entrance."
+        },
+        {
+          "id": "p049-sleep",
+          "label": "Sleep",
+          "general": "The god of sleep, a son of Night and brother of Death.",
+          "here": "He moves gently among human beings."
+        },
+        {
+          "id": "p049-death",
+          "label": "Death",
+          "general": "The god who personifies death, another son of Night.",
+          "here": "His iron and bronze heart expresses his lack of mercy."
+        },
+        {
+          "id": "p049-helios",
+          "label": "Helios",
+          "general": "The Sun, imagined as a god travelling across the sky.",
+          "here": "His rays never reach Sleep and Death."
+        },
+        {
+          "id": "p049-immortal",
+          "label": "Immortal",
+          "general": "Unable to die.",
+          "here": "Even gods who cannot die hate Death."
+        }
+      ]
+    },
+    {
+      "id": "p050",
+      "start": 767,
+      "end": 774,
+      "heading": "The dog at the gate",
+      "translation": "There, in front, stand the echoing halls of the god below, mighty Hades, and dreaded Persephone. A fearsome, merciless dog keeps watch before them. He has a cruel trick: he greets everyone coming in with his wagging tail and both ears, but he never lets them go back out. He lies in wait and devours anyone he catches going outside the gates.",
+      "summary": "The dog welcomes people into the home of Hades and Persephone, but eats anyone he catches leaving.",
+      "cards": [
+        {
+          "id": "p050-hades",
+          "label": "Hades",
+          "general": "The god who rules the world of the dead.",
+          "here": "His halls stand in the depths, guarded by a dog."
+        },
+        {
+          "id": "p050-persephone",
+          "label": "Persephone",
+          "general": "The queen of the dead, who rules alongside Hades.",
+          "here": "She shares the echoing halls."
+        },
+        {
+          "id": "p050-dog",
+          "label": "The guard dog",
+          "general": "Cerberus, the dog guarding the world of the dead.",
+          "here": "Hesiod does not name him in these lines. His friendly welcome hides a deadly trap."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 727 gives Tartarus a “neck.” This may mean its upper opening, but the exact physical image is uncertain.",
+    "The sentence about Night’s house begins in line 744 and ends in line 745. The translation carries it across the section boundary using two complete sentences.",
+    "Line 774, marked [del:], is omitted from the reading text. It repeats line 768: “of mighty Hades and dreaded Persephone.”"
+  ]
+}

@@ -1,0 +1,127 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p028 (383–403): Styx, Oceanus’s daughter, joined in love with Pallas
+and in their halls gave birth to Zelos and Nike with her lovely ankles.
+She also bore Kratos and Bia, her glorious children.
+They have no home, no seat away from Zeus,
+and take no road unless the god leads them.
+They always sit beside Zeus, whose thunder crashes loud.
+
+This was what deathless Styx, Oceanus’s daughter, had planned
+on the day when Zeus, the lightning-flinger of Olympus,
+called all the immortal gods to high Olympus.
+He said that any god who fought beside him against the Titans
+would lose none of their privileges:
+each would keep the honor they had held among the immortal gods.
+And anyone left without honor or privilege under Cronus
+would receive both, as was their right.
+
+Deathless Styx was the first to come to Olympus,
+bringing her children, following her dear father’s advice.
+Zeus honored her and gave her special gifts.
+He made her the great oath by which the gods swear,
+and gave her children a home beside him for all time.
+He fulfilled his promises to all the gods, every one.
+He himself holds mighty power and rules.
+
+p029 (404–413): Phoebe came to Coeus’s bed, filled with love.
+The goddess conceived in love with the god
+and bore Leto in her dark-blue robe,
+always gentle, kind to humans and immortal gods,
+gentle from the very first, the kindest on Olympus.
+
+Phoebe also bore renowned Asteria,
+whom Perses once brought to his great house
+to be called his dear wife.
+Asteria conceived and gave birth to Hecate,
+whom Zeus, Cronus’s son, honored above all others.
+He gave her splendid gifts:
+a share of the earth and the unharvested sea.
+
+p030 (414–428): Hecate also has a share of honor in starry heaven,
+and the immortal gods honor her greatly.
+Even now, whenever someone on earth
+seeks divine favor with fine offerings, as custom requires,
+they call on Hecate.
+Great honor comes easily to anyone
+whose prayers the goddess welcomes with goodwill.
+She gives them prosperity too, for she has the power.
+
+Of all the gods born from Gaia and Uranus
+who received a share of honor,
+Hecate has a portion of every one’s share.
+Zeus, Cronus’s son, neither forced her aside
+nor took away anything she had received
+among the Titans, the earlier gods.
+She keeps her share from that first division.
+Though an only child, the goddess has no smaller share
+of honor and privilege on earth, in heaven, and at sea,
+but far more still, because Zeus honors her.
+
+GREEK CONTEXT BEFORE (do not translate)
+377: Πέρσην θʼ, ὃς καὶ πᾶσι μετέπρεπεν ἰδμοσύνῃσιν.
+378: Ἀστραίῳ δʼ Ἠὼς ἀνέμους τέκε καρτεροθύμους,
+379: ἀργέστην Ζέφυρον Βορέην τʼ αἰψηροκέλευθον
+380: καὶ Νότον, ἐν φιλότητι θεὰ θεῷ εὐνηθεῖσα.
+381: τοὺς δὲ μέτʼ ἀστέρα τίκτεν Ἑωσφόρον Ἠριγένεια
+382: ἄστρα τε λαμπετόωντα, τά τʼ οὐρανὸς ἐστεφάνωται.
+
+>>> TRANSLATE THESE GREEK VERSES: 383-428 <<<
+383: Στὺξ δʼ ἔτεκʼ Ὠκεανοῦ θυγάτηρ Πάλλαντι μιγεῖσα
+384: Ζῆλον καὶ Νίκην καλλίσφυρον ἐν μεγάροισιν·
+385: καὶ Κράτος ἠδὲ Βίην ἀριδείκετα γείνατο τέκνα,
+386: τῶν οὐκ ἔστʼ ἀπάνευθε Διὸς δόμος, οὐδέ τις ἕδρη,
+387: οὐδʼ ὁδός, ὅππη μὴ κείνοις θεὸς ἡγεμονεύῃ,
+388: ἀλλʼ αἰεὶ πὰρ Ζηνὶ βαρυκτύπῳ ἑδριόωνται.
+389: ὣς γὰρ ἐβούλευσεν Στὺξ ἄφθιτος Ὠκεανίνη
+390: ἤματι τῷ, ὅτε πάντας Ὀλύμπιος ἀστεροπητὴς
+391: ἀθανάτους ἐκάλεσσε θεοὺς ἐς μακρὸν Ὄλυμπον,
+392: εἶπε δʼ, ὃς ἂν μετὰ εἷο θεῶν Τιτῆσι μάχοιτο,
+393: μή τινʼ ἀπορραίσειν γεράων, τιμὴν δὲ ἕκαστον
+394: ἑξέμεν, ἣν τὸ πάρος γε μετʼ ἀθανάτοισι θεοῖσιν
+395: τὸν δʼ ἔφαθʼ, ὅστις ἄτιμος ὑπὸ Κρόνου ἠδʼ ἀγέραστος,
+396: τιμῆς καὶ γεράων ἐπιβησέμεν, ἧ θέμις ἐστίν.
+397: ἦλθε δʼ ἄρα πρώτη Στὺξ ἄφθιτος Οὔλυμπόνδε
+398: σὺν σφοῖσιν παίδεσσι φίλου διὰ μήδεα πατρός.
+399: τὴν δὲ Ζεὺς τίμησε, περισσὰ δὲ δῶρα δέδωκεν.
+400: αὐτὴν μὲν γὰρ ἔθηκε θεῶν μέγαν ἔμμεναι ὅρκον,
+401: παῖδας δʼ ἤματα πάντα ἑοῦ μεταναιέτας εἶναι.
+402: ὣς δʼ αὔτως πάντεσσι διαμπερές, ὥς περ ὑπέστη,
+403: ἐξετέλεσσʼ· αὐτὸς δὲ μέγα κρατεῖ ἠδὲ ἀνάσσει.
+404: φοίβη δʼ αὖ Κοίου πολυήρατον ἦλθεν ἐς εὐνήν·
+405: κυσαμένη δὴ ἔπειτα θεὰ θεοῦ ἐν φιλότητι
+406: Λητὼ κυανόπεπλον ἐγείνατο, μείλιχον αἰεί,
+407: ἤπιον ἀνθρώποισι καὶ ἀθανάτοισι θεοῖσιν,
+408: μείλιχον ἐξ ἀρχῆς, ἀγανώτατον ἐντὸς Ὀλύμπου.
+409: γείνατο δʼ Ἀστερίην ἐυώνυμον, ἥν ποτε Πέρσης
+410: ἠγάγετʼ ἐς μέγα δῶμα φίλην κεκλῆσθαι ἄκοιτιν.
+411: ἢ δʼ ὑποκυσαμένη Ἑκάτην τέκε, τὴν περὶ πάντων
+412: Ζεὺς Κρονίδης τίμησε· πόρεν δέ οἱ ἀγλαὰ δῶρα,
+413: μοῖραν ἔχειν γαίης τε καὶ ἀτρυγέτοιο θαλάσσης.
+414: ἣ δὲ καὶ ἀστερόεντος ἀπʼ οὐρανοῦ ἔμμορε τιμῆς
+415: ἀθανάτοις τε θεοῖσι τετιμένη ἐστὶ μάλιστα.
+416: καὶ γὰρ νῦν, ὅτε πού τις ἐπιχθονίων ἀνθρώπων
+417: ἔρδων ἱερὰ καλὰ κατὰ νόμον ἱλάσκηται,
+418: κικλῄσκει Ἑκάτην. πολλή τέ οἱ ἕσπετο τιμὴ
+419: ῥεῖα μάλʼ, ᾧ πρόφρων γε θεὰ ὑποδέξεται εὐχάς,
+420: καί τέ οἱ ὄλβον ὀπάζει, ἐπεὶ δύναμίς γε πάρεστιν.
+421: ὅσσοι γὰρ Γαίης τε καὶ Οὐρανοῦ ἐξεγένοντο
+422: καὶ τιμὴν ἔλαχον, τούτων ἔχει αἶσαν ἁπάντων.
+423: οὐδέ τί μιν Κρονίδης ἐβιήσατο οὐδέ τʼ ἀπηύρα,
+424: ὅσσʼ ἔλαχεν Τιτῆσι μετὰ προτέροισι θεοῖσιν,
+425: ἀλλʼ ἔχει, ὡς τὸ πρῶτον ἀπʼ ἀρχῆς ἔπλετο δασμός,
+426: οὐδʼ, ὅτι μουνογενής, ἧσσον θεὰ ἔμμορε τιμῆς,
+427: καὶ γέρας ἐν γαίῃ τε καὶ οὐρανῷ ἠδὲ θαλάσσῃ·
+428: ἀλλʼ ἔτι καὶ πολὺ μᾶλλον, ἐπεὶ Ζεὺς τίεται αὐτήν.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+429: ᾧ δʼ ἐθέλει, μεγάλως παραγίγνεται ἠδʼ ὀνίνησιν·
+430: ἔν τʼ ἀγορῇ λαοῖσι μεταπρέπει, ὅν κʼ ἐθέλῃσιν·
+431: ἠδʼ ὁπότʼ ἐς πόλεμον φθεισήνορα θωρήσσωνται
+432: ἀνέρες, ἔνθα θεὰ παραγίγνεται, οἷς κʼ ἐθέλῃσι
+433: νίκην προφρονέως ὀπάσαι καὶ κῦδος ὀρέξαι.
+434: ἔν τε δίκῃ βασιλεῦσι παρʼ αἰδοίοισι καθίζει,

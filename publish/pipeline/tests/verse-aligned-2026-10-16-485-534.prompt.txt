@@ -1,0 +1,91 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p034 (485–506): Rhea wrapped a great stone in baby clothes and handed it to the son of Ouranos, the mighty lord who then ruled the gods. He took it in his hands and swallowed it, the ruthless creature. He never realized that his own son had been left behind in the stone’s place, unconquerable and untroubled. Soon that son would overpower him with his own strong hands, drive him from his royal position, and rule among the immortals himself.
+
+The young lord’s strength and splendid limbs grew quickly. As the years passed, great Cronus, with his crooked schemes, was tricked by Gaia’s deeply knowing advice and brought his children back up. First he vomited out the stone he had swallowed last. Zeus set it firmly in the broad earth at holy Pytho, in the valleys beneath Parnassus, to stand as a sign for future ages, a wonder for mortal people.
+
+Zeus also freed his father’s brothers, the sons of Ouranos, from their terrible chains. Their father had recklessly bound them. They remembered his kindness and repaid it: they gave him thunder, the smoking thunderbolt, and lightning. Until then, vast Gaia had kept these hidden. Trusting in these weapons, Zeus rules over mortals and immortals.
+
+p035 (507–520): Iapetus married Clymene, a daughter of Oceanus with lovely ankles, and shared her bed. She bore him Atlas, strong in spirit, and Menoetius, full of overbearing pride; Prometheus, clever and endlessly inventive; and Epimetheus, whose thinking went astray. From the start, Epimetheus brought trouble to people who live on bread: he was the first to welcome the virgin girl Zeus had made.
+
+Zeus, whose gaze reaches far, struck the violent Menoetius with a smoking thunderbolt and sent him down into Erebus because of his reckless behavior and overpowering arrogance.
+
+Atlas stands at the ends of the earth, in front of the clear-voiced Hesperides. Under harsh compulsion, he holds up the broad sky with his head and tireless hands. This was the fate Zeus, the wise planner, assigned him.
+
+p036 (521–534): Zeus bound Prometheus, with all his intricate schemes, in painful chains he could not escape, driving a pillar through his middle. He sent a long-winged eagle against him, and it ate his immortal liver. Every night the liver grew back completely—as much as the wide-winged bird had eaten through the whole day.
+
+Heracles, the mighty son of Alcmene with her lovely ankles, killed the eagle. He drove that cruel affliction away from Prometheus, son of Iapetus, and freed him from his suffering. This had the consent of Zeus, who rules on high from Olympus: he wanted the fame of Heracles, born in Thebes, to grow still greater across the earth that feeds so many.
+
+Out of regard for this, Zeus honored his glorious son. Angry though Zeus was, he let go of the anger he had long held against Prometheus for matching his wits against the mighty son of Cronus.
+
+GREEK CONTEXT BEFORE (do not translate)
+479: Ζῆνα μέγαν· τὸν μέν οἱ ἐδέξατο Γαῖα πελώρη
+480: Κρήτῃ ἐν εὐρείῃ τραφέμεν ἀτιταλλέμεναί τε.
+481: ἔνθα μιν ἷκτο φέρουσα θοὴν διὰ νύκτα μέλαιναν
+482: πρώτην ἐς Λύκτον· κρύψεν δέ ἑ χερσὶ λαβοῦσα
+483: ἄντρῳ ἐν ἠλιβάτῳ, ζαθέης ὑπὸ κεύθεσι γαίης,
+484: Αἰγαίῳ ἐν ὄρει πεπυκασμένῳ ὑλήεντι.
+
+>>> TRANSLATE THESE GREEK VERSES: 485-534 <<<
+485: τῷ δὲ σπαργανίσασα μέγαν λίθον ἐγγυάλιξεν
+486: Οὐρανίδῃ μέγʼ ἄνακτι, θεῶν προτέρῳ βασιλῆι.
+487: τὸν τόθʼ ἑλὼν χείρεσσιν ἑὴν ἐσκάτθετο νηδὺν
+488: σχέτλιος· οὐδʼ ἐνόησε μετὰ φρεσίν, ὥς οἱ ὀπίσσω
+489: ἀντὶ λίθου ἑὸς υἱὸς ἀνίκητος καὶ ἀκηδὴς
+490: λείπεθʼ, ὅ μιν τάχʼ ἔμελλε βίῃ καὶ χερσὶ δαμάσσας
+491: τιμῆς ἐξελάειν, ὃ δʼ ἐν ἀθανάτοισι ἀνάξειν.
+492: καρπαλίμως δʼ ἄρʼ ἔπειτα μένος καὶ φαίδιμα γυῖα
+493: ηὔξετο τοῖο ἄνακτος· ἐπιπλομένων δʼ ἐνιαυτῶν
+494: Γαίης ἐννεσίῃσι πολυφραδέεσσι δολωθεὶς
+495: ὃν γόνον ἄψ ἀνέηκε μέγας Κρόνος ἀγκυλομήτης
+496: [del: νικηθεὶς τέχνῃσι βίηφί τε παιδὸς ἑοῖο.]
+497: πρῶτον δʼ ἐξέμεσεν λίθον, ὃν πύματον κατέπινεν·
+498: τὸν μὲν Ζεὺς στήριξε κατὰ χθονὸς εὐρυοδείης
+499: Πυθοῖ ἐν ἠγαθέῃ γυάλοις ὕπο Παρνησοῖο
+500: σῆμʼ ἔμεν ἐξοπίσω, θαῦμα θνητοῖσι βροτοῖσιν.
+501: λῦσε δὲ πατροκασιγνήτους ὀλοῶν ὑπὸ δεσμῶν
+502: Οὐρανίδας, οὓς δῆσε πατὴρ ἀεσιφροσύνῃσιν·
+503: οἳ οἱ ἀπεμνήσαντο χάριν ἐυεργεσιάων,
+504: δῶκαν δὲ βροντὴν ἠδʼ αἰθαλόεντα κεραυνὸν
+505: καὶ στεροπήν· τὸ πρὶν δὲ πελώρη Γαῖα κεκεύθει·
+506: τοῖς πίσυνος θνητοῖσι καὶ ἀθανάτοισιν ἀνάσσει.
+507: κούρην δʼ Ἰαπετὸς καλλίσφυρον Ὠκεανίνην
+508: ἠγάγετο Κλυμένην καὶ ὁμὸν λέχος εἰσανέβαινεν.
+509: ἣ δέ οἱ Ἄτλαντα κρατερόφρονα γείνατο παῖδα·
+510: τίκτε δʼ ὑπερκύδαντα Μενοίτιον ἠδὲ Προμηθέα
+511: ποικίλον αἰολόμητιν, ἁμαρτίνοόν τʼ Ἐπιμηθέα
+512: ὃς κακὸν ἐξ ἀρχῆς γένετʼ ἀνδράσιν ἀλφηστῇσιν·
+513: πρῶτος γάρ ῥα Διὸς πλαστὴν ὑπέδεκτο γυναῖκα
+514: παρθένον. ὑβριστὴν δὲ Μενοίτιον εὐρύοπα Ζεὺς
+515: εἰς Ἔρεβος κατέπεμψε βαλὼν ψολόεντι κεραυνῷ
+516: εἵνεκʼ ἀτασθαλίης τε καὶ ἠνορέης ὑπερόπλου.
+517: Ἄτλας δʼ οὐρανὸν εὐρὺν ἔχει κρατερῆς ὑπʼ ἀνάγκης
+518: πείρασιν ἐν γαίης, πρόπαρ Εσπερίδων λιγυφώνων,
+519: ἑστηὼς κεφαλῇ τε καὶ ἀκαμάτῃσι χέρεσσιν·
+520: ταύτην γάρ οἱ μοῖραν ἐδάσσατο μητίετα Ζεύς.
+521: δῆσε δʼ ἀλυκτοπέδῃσι Προμηθέα ποικιλόβουλον
+522: δεσμοῖς ἀργαλέοισι μέσον διὰ κίονʼ ἐλάσσας·
+523: καί οἱ ἐπʼ αἰετὸν ὦρσε τανύπτερον· αὐτὰρ ὅ γʼ ἧπαρ
+524: ἤσθιεν ἀθάνατον, τὸ δʼ ἀέξετο ἶσον ἁπάντη
+525: νυκτός ὅσον πρόπαν ἦμαρ ἔδοι τανυσίπτερος ὄρνις.
+526: τὸν μὲν ἄρʼ Ἀλκμήνης καλλισφύρου ἄλκιμος υἱὸς
+527: Ἡρακλέης ἔκτεινε, κακὴν δʼ ἀπὸ νοῦσον ἄλαλκεν
+528: Ἰαπετιονίδῃ καὶ ἐλύσατο δυσφροσυνάων
+529: οὐκ ἀέκητι Ζηνὸς Ὀλυμπίου ὑψιμέδοντος,
+530: ὄφρʼ Ἡρακλῆος Θηβαγενέος κλέος εἴη
+531: πλεῖον ἔτʼ ἢ τὸ πάροιθεν ἐπὶ χθόνα πουλυβότειραν.
+532: ταῦτʼ ἄρα ἁζόμενος τίμα ἀριδείκετον υἱόν·
+533: καί περ χωόμενος παύθη χόλου, ὃν πρὶν ἔχεσκεν,
+534: οὕνεκʼ ἐρίζετο βουλὰς ὑπερμενέι Κρονίωνι.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+535: καὶ γὰρ ὅτʼ ἐκρίνοντο θεοὶ θνητοί τʼ ἄνθρωποι
+536: Μηκώνῃ, τότʼ ἔπειτα μέγαν βοῦν πρόφρονι θυμῷ
+537: δασσάμενος προέθηκε, Διὸς νόον ἐξαπαφίσκων.
+538: τοῖς μὲν γὰρ σάρκας τε καὶ ἔγκατα πίονα δημῷ
+539: ἐν ῥινῷ κατέθηκε καλύψας γαστρὶ βοείῃ,
+540: τῷ δʼ αὖτʼ ὀστέα λευκὰ βοὸς δολίῃ ἐπὶ τέχνῃ

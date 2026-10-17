@@ -1,0 +1,39 @@
+{
+  "run_id": "24e1088f-28f5-4e5b-9156-eda9c7d440f6",
+  "created_at_utc": "2026-10-15T22:54:46.351018+00:00",
+  "prompt_version": "verse-aligned-16-v2",
+  "prompt_file": "verse-aligned-2026-10-16-963-1022.prompt.txt",
+  "prompt_sha256": "fc49e718a86f51db96721367689162e4aee8500fb3f0a80bf11e946a6075f283",
+  "prompt_template_sha256": "88206f163a0ef38cf3142cd95d88b471ce29b400c6774809e08cb0a39ced6c9f",
+  "schema_sha256": "6fa67cf33d92a925d9c940e53edbafcf980578fb39260abfd83a075ad1237b84",
+  "source_sha256": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
+  "section_boundaries_sha256": "d1b93ac7a74dad24183bea4bf67ff2ae758feec7a110d3148b4750daa82b10a4",
+  "runner_sha256": "10f9c97372f6f5b975c59970ca3e86088a118f741c7a2bcc6ee891298a36bd05",
+  "model": "gpt-6.1-sol",
+  "effort": "medium",
+  "codex_cli_version": "codex-cli 0.162.1",
+  "range": [
+    963,
+    1022
+  ],
+  "seconds": 36.48,
+  "cli_exit": 0,
+  "tool_event_count": 0,
+  "item_types": [
+    "agent_message"
+  ],
+  "usage_events": [
+    {
+      "type": "turn.completed",
+      "usage": {
+        "input_tokens": 12343,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1825,
+        "reasoning_output_tokens": 516
+      }
+    }
+  ],
+  "error_events": [],
+  "output_sha256": "8e38688ef66052b297fe05504f9bc3ba45fb329fbdf595e61a2c76e7ac328089"
+}

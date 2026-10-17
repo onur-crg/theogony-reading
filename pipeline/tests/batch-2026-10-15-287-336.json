@@ -1,0 +1,216 @@
+{
+  "sections": [
+    {
+      "id": "p022",
+      "start": 287,
+      "end": 305,
+      "heading": "Three-headed Geryon and Echidna",
+      "translation": "Chrysaor fathered three-headed Geryon\nwith Callirhoe, daughter of Oceanus,\nthe famous river god who circles the world.\nMighty Heracles killed Geryon\nbeside his cattle with their rolling walk,\non Erytheia, an island surrounded by water.\nThat day he drove the broad-browed cattle\nto the sacred city of Tiryns,\ncrossing the stream of Oceanus,\nafter killing Orthus, the watchdog,\nand Eurytion, the cattle herder,\nin their misty cattle shelter beyond famous Oceanus.\n\nShe also bore another monster, impossible to overcome,\nnothing like mortal humans or the deathless gods:\nfierce-hearted, divine Echidna, born in a hollow cave.\nHalf of her was a nymph, a female nature spirit,\nwith lovely cheeks and lively eyes;\nthe other half was a monstrous snake, huge and dreadful,\nwith a dappled skin, eating flesh raw\nin the hidden depths of the sacred earth.\nHer cave lies beneath a hollow rock,\nfar from deathless gods and mortal humans.\nThere the gods assigned her a splendid home.\nThere dreadful Echidna keeps watch underground,\nin the land of the Arimoi—\na nymph who never dies or grows old, through all her days.",
+      "summary": "Heracles kills three-headed Geryon and takes his cattle. Echidna, half beautiful nymph and half terrifying snake, lives forever in a cave underground.",
+      "cards": [
+        {
+          "id": "p022-chrysaor",
+          "label": "Chrysaor",
+          "general": "A mythical figure whose name means “Golden Sword.”",
+          "here": "He fathers Geryon with Callirhoe."
+        },
+        {
+          "id": "p022-geryon",
+          "label": "Geryon",
+          "general": "A three-headed being who owns a herd of cattle.",
+          "here": "Heracles kills him and drives away his cattle."
+        },
+        {
+          "id": "p022-callirhoe",
+          "label": "Callirhoe",
+          "general": "A daughter of the river god Oceanus.",
+          "here": "She is Geryon’s mother."
+        },
+        {
+          "id": "p022-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river imagined as flowing around the world.",
+          "here": "Heracles crosses his stream to bring the cattle home."
+        },
+        {
+          "id": "p022-heracles",
+          "label": "Heracles",
+          "general": "A Greek hero famous for his enormous strength; also called Hercules.",
+          "here": "He kills Geryon, Orthus, and Eurytion and takes the cattle."
+        },
+        {
+          "id": "p022-erytheia",
+          "label": "Erytheia",
+          "general": "A mythical island beyond Oceanus.",
+          "here": "Geryon and his cattle are there."
+        },
+        {
+          "id": "p022-tiryns",
+          "label": "Tiryns",
+          "general": "An ancient Greek city associated with Heracles.",
+          "here": "Heracles brings the cattle to this sacred city."
+        },
+        {
+          "id": "p022-orthus",
+          "label": "Orthus",
+          "general": "Geryon’s monstrous watchdog.",
+          "here": "Heracles kills him at the cattle shelter."
+        },
+        {
+          "id": "p022-eurytion",
+          "label": "Eurytion",
+          "general": "The herder who looks after Geryon’s cattle.",
+          "here": "Heracles kills him alongside Orthus."
+        },
+        {
+          "id": "p022-echidna",
+          "label": "Echidna",
+          "general": "An immortal creature, half woman and half snake.",
+          "here": "She lives underground, far from gods and humans."
+        },
+        {
+          "id": "p022-nymph",
+          "label": "Nymph",
+          "general": "A female divine spirit connected with nature.",
+          "here": "Echidna’s upper half looks like a beautiful nymph."
+        },
+        {
+          "id": "p022-arimoi",
+          "label": "Arimoi",
+          "general": "A people or region whose location is uncertain.",
+          "here": "Echidna’s underground home is in their land."
+        }
+      ]
+    },
+    {
+      "id": "p023",
+      "start": 306,
+      "end": 336,
+      "heading": "A Family of Monsters",
+      "translation": "They say Typhaon, a monstrous being,\nterrible, violent, and lawless,\njoined in love with that bright-eyed girl, Echidna.\nShe became pregnant and bore fierce-hearted children.\n\nFirst she bore Orthus, the dog who served Geryon.\nThen came Cerberus, a monster beyond description,\nimpossible to overcome: the raw-flesh-eating dog\nof Hades, god of the dead,\nwith a voice like bronze and fifty heads,\nmerciless and strong.\nThird she bore the Hydra of Lerna,\na water monster skilled in deadly harm.\nThe white-armed goddess Hera raised her,\nin boundless anger at mighty Heracles.\nBut Heracles, son of Zeus, the chief god,\nand known as Amphitryon’s son,\nkilled her with pitiless bronze,\nhelped by Iolaus, who loved battle,\nand guided by Athena, goddess of battle and its spoils.\n\nShe also bore the Chimera, breathing unstoppable fire,\nterrible and huge, swift-footed and strong.\nShe had three heads: one a fierce-eyed lion’s,\none a goat’s, and one a snake’s—a mighty serpent’s.\nPegasus, the winged horse, and brave Bellerophon\nbrought her down.\n\nAfter mating with Orthus, she bore the deadly Sphinx,\na monster that brought ruin to the people of Thebes,\nand the lion of Nemea.\nHera, Zeus’s glorious wife, raised that lion\nand settled him in Nemea’s hills, a curse on humans.\nLiving there, he ravaged the local people,\nruling over Tretus, Nemea, and Apesas.\nBut mighty Heracles used his strength to bring him down.\n\nCeto, a sea goddess, joined in love with Phorcys,\na sea god, and bore her youngest child:\na dreadful snake that guards the all-golden apples\nin the dark earth’s hidden places, at its vast outer limits.\nSuch are the offspring of Ceto and Phorcys.",
+      "summary": "Echidna’s family includes terrifying dogs, the Hydra, and other monsters. Heroes defeat several of them. Ceto and Phorcys also have a snake that guards golden apples.",
+      "cards": [
+        {
+          "id": "p023-typhaon",
+          "label": "Typhaon",
+          "general": "A powerful monstrous being, also called Typhon.",
+          "here": "He mates with Echidna and fathers her first children."
+        },
+        {
+          "id": "p023-orthus",
+          "label": "Orthus",
+          "general": "The monstrous dog that guards Geryon’s cattle.",
+          "here": "He is Echidna’s first child and later fathers two monsters."
+        },
+        {
+          "id": "p023-cerberus",
+          "label": "Cerberus",
+          "general": "The dog of the underworld, where the dead go.",
+          "here": "Hesiod gives him fifty heads and a voice like bronze."
+        },
+        {
+          "id": "p023-hades",
+          "label": "Hades",
+          "general": "The god who rules the dead; his name can also mean his realm.",
+          "here": "Cerberus is his dog."
+        },
+        {
+          "id": "p023-hydra",
+          "label": "Hydra of Lerna",
+          "general": "A dangerous water monster associated with Lerna in Greece.",
+          "here": "Hera raises her, and Heracles kills her with help."
+        },
+        {
+          "id": "p023-hera",
+          "label": "Hera",
+          "general": "A major goddess and the wife of Zeus.",
+          "here": "She raises the Hydra out of hatred for Heracles and also raises the Nemean lion."
+        },
+        {
+          "id": "p023-heracles",
+          "label": "Heracles",
+          "general": "A famously strong hero, born to Zeus and a human mother.",
+          "here": "He defeats the Hydra and the Nemean lion."
+        },
+        {
+          "id": "p023-zeus",
+          "label": "Zeus",
+          "general": "The chief Greek god.",
+          "here": "He is Heracles’s father and Hera’s husband."
+        },
+        {
+          "id": "p023-amphitryon",
+          "label": "Amphitryon",
+          "general": "The human husband of Heracles’s mother.",
+          "here": "Heracles is called his son as well as Zeus’s son."
+        },
+        {
+          "id": "p023-iolaus",
+          "label": "Iolaus",
+          "general": "A companion of Heracles.",
+          "here": "He helps Heracles kill the Hydra."
+        },
+        {
+          "id": "p023-athena",
+          "label": "Athena",
+          "general": "A goddess of wisdom, skilled action, and warfare.",
+          "here": "Her guidance helps Heracles defeat the Hydra."
+        },
+        {
+          "id": "p023-bronze",
+          "label": "Bronze",
+          "general": "A metal used for ancient weapons, armor, and other objects.",
+          "here": "It describes Cerberus’s ringing voice and stands for Heracles’s weapon."
+        },
+        {
+          "id": "p023-chimera",
+          "label": "Chimera",
+          "general": "A fire-breathing monster combining different animals.",
+          "here": "She has the heads of a lion, a goat, and a snake."
+        },
+        {
+          "id": "p023-pegasus-bellerophon",
+          "label": "Pegasus and Bellerophon",
+          "general": "Pegasus is a winged horse; Bellerophon is a human hero.",
+          "here": "Together they defeat the Chimera."
+        },
+        {
+          "id": "p023-sphinx",
+          "label": "Sphinx",
+          "general": "A female monster associated with the Greek city of Thebes.",
+          "here": "She brings destruction to its people, called Cadmeans in the Greek."
+        },
+        {
+          "id": "p023-nemean-lion",
+          "label": "Nemean lion",
+          "general": "A monstrous lion associated with Nemea in Greece.",
+          "here": "He terrorizes the surrounding area until Heracles defeats him."
+        },
+        {
+          "id": "p023-tretus-nemea-apesas",
+          "label": "Tretus, Nemea, and Apesas",
+          "general": "Neighboring places in Greece: a mountain pass, a valley, and a mountain.",
+          "here": "They mark the territory dominated by the lion."
+        },
+        {
+          "id": "p023-ceto-phorcys",
+          "label": "Ceto and Phorcys",
+          "general": "Ancient sea divinities who are parents of several monsters.",
+          "here": "Their youngest child is the snake guarding the golden apples."
+        },
+        {
+          "id": "p023-golden-apples",
+          "label": "Golden apples",
+          "general": "Precious mythical fruit kept at the far edge of the world.",
+          "here": "A dreadful snake guards them; this passage gives the snake no name."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "The mother meant by “she” in line 295 is disputed. Ceto and Callirhoe are possible referents; the translation leaves her unnamed.",
+    "The “she” who bears the Chimera in line 319 may be Echidna or the Hydra. The “she” who mates with Orthus in lines 326–327 may be Echidna or the Chimera. The translation preserves these uncertainties.",
+    "Lines 323–324 are marked for deletion in the supplied Greek and are omitted from the translation. They describe the Chimera as lion in front, serpent behind, and goat in the middle, breathing blazing fire.",
+    "The location of the Arimoi is uncertain."
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "sections": [
+    {
+      "id": "p034",
+      "start": 485,
+      "end": 506,
+      "heading": "The stone and Zeus’s rise",
+      "translation": "Rhea wrapped a great stone in baby clothes and handed it to the son of Ouranos, the mighty lord who then ruled the gods. He took it in his hands and swallowed it, the ruthless creature. He never realized that his own son had been left behind in the stone’s place, unconquerable and untroubled. Soon that son would overpower him with his own strong hands, drive him from his royal position, and rule among the immortals himself.\n\nThe young lord’s strength and splendid limbs grew quickly. As the years passed, great Cronus, with his crooked schemes, was tricked by Gaia’s deeply knowing advice and brought his children back up. First he vomited out the stone he had swallowed last. Zeus set it firmly in the broad earth at holy Pytho, in the valleys beneath Parnassus, to stand as a sign for future ages, a wonder for mortal people.\n\nZeus also freed his father’s brothers, the sons of Ouranos, from their terrible chains. Their father had recklessly bound them. They remembered his kindness and repaid it: they gave him thunder, the smoking thunderbolt, and lightning. Until then, vast Gaia had kept these hidden. Trusting in these weapons, Zeus rules over mortals and immortals.",
+      "summary": "Cronus brings his swallowed children back up. Zeus sets up the stone as a lasting sign and frees his uncles, who give him thunder and lightning.",
+      "cards": [
+        {
+          "id": "p034-rhea",
+          "label": "Rhea",
+          "general": "A goddess, the wife of Cronus and mother of Zeus.",
+          "here": "She gives Cronus a wrapped stone in place of baby Zeus."
+        },
+        {
+          "id": "p034-cronus",
+          "label": "Cronus",
+          "general": "A Titan, son of Ouranos and Gaia, and father of Zeus.",
+          "here": "He rules the gods and has swallowed his children to prevent them from replacing him."
+        },
+        {
+          "id": "p034-ouranos",
+          "label": "Ouranos",
+          "general": "The god who is the sky.",
+          "here": "He is the father of Cronus and of the brothers Zeus frees."
+        },
+        {
+          "id": "p034-zeus",
+          "label": "Zeus",
+          "general": "The god who becomes ruler of gods and humans.",
+          "here": "He survives Cronus’s attempt to swallow him and gains thunder and lightning."
+        },
+        {
+          "id": "p034-gaia",
+          "label": "Gaia",
+          "general": "The goddess who is the earth.",
+          "here": "Her advice helps bring Cronus’s children back. She has also kept the thunder and lightning hidden."
+        },
+        {
+          "id": "p034-pytho",
+          "label": "Pytho",
+          "general": "An older name for Delphi, a sacred place in Greece.",
+          "here": "Zeus sets up the stone there as a lasting sign."
+        },
+        {
+          "id": "p034-parnassus",
+          "label": "Parnassus",
+          "general": "A mountain above Delphi.",
+          "here": "It locates the place where Zeus sets up the stone."
+        },
+        {
+          "id": "p034-cyclopes",
+          "label": "Zeus’s father’s brothers",
+          "general": "The Cyclopes, divine craftsmen with one eye each, are sons of Ouranos and Gaia.",
+          "here": "These are the uncles who repay Zeus with thunder, the thunderbolt, and lightning."
+        },
+        {
+          "id": "p034-thunderbolt",
+          "label": "Thunderbolt",
+          "general": "A bolt of lightning imagined as a weapon a god can throw.",
+          "here": "Hesiod describes it as smoking and names it alongside thunder and lightning."
+        }
+      ]
+    },
+    {
+      "id": "p035",
+      "start": 507,
+      "end": 520,
+      "heading": "The four sons of Iapetus",
+      "translation": "Iapetus married Clymene, a daughter of Oceanus with lovely ankles, and shared her bed. She bore him Atlas, strong in spirit, and Menoetius, full of overbearing pride; Prometheus, clever and endlessly inventive; and Epimetheus, whose thinking went astray. From the start, Epimetheus brought trouble to people who live on bread: he was the first to welcome the virgin girl Zeus had made.\n\nZeus, whose gaze reaches far, struck the violent Menoetius with a smoking thunderbolt and sent him down into Erebus because of his reckless behavior and overpowering arrogance.\n\nAtlas stands at the ends of the earth, in front of the clear-voiced Hesperides. Under harsh compulsion, he holds up the broad sky with his head and tireless hands. This was the fate Zeus, the wise planner, assigned him.",
+      "summary": "Iapetus and Clymene have four sons. Epimetheus brings humans trouble, Zeus strikes down Menoetius, and Atlas must hold up the sky.",
+      "cards": [
+        {
+          "id": "p035-iapetus",
+          "label": "Iapetus",
+          "general": "A Titan, one of the older generation of gods.",
+          "here": "He and Clymene are the parents of the four brothers."
+        },
+        {
+          "id": "p035-clymene",
+          "label": "Clymene",
+          "general": "A goddess, daughter of Oceanus.",
+          "here": "She marries Iapetus and gives birth to Atlas, Menoetius, Prometheus, and Epimetheus."
+        },
+        {
+          "id": "p035-oceanus",
+          "label": "Oceanus",
+          "general": "The god of the great river imagined as surrounding the earth.",
+          "here": "He is Clymene’s father."
+        },
+        {
+          "id": "p035-atlas",
+          "label": "Atlas",
+          "general": "A son of Iapetus and Clymene.",
+          "here": "Zeus makes him hold up the sky with his head and hands."
+        },
+        {
+          "id": "p035-menoetius",
+          "label": "Menoetius",
+          "general": "A brother of Atlas, Prometheus, and Epimetheus.",
+          "here": "Zeus strikes him down for his reckless arrogance."
+        },
+        {
+          "id": "p035-prometheus",
+          "label": "Prometheus",
+          "general": "A god known for his clever schemes.",
+          "here": "Hesiod introduces his inventive mind before describing his punishment."
+        },
+        {
+          "id": "p035-epimetheus",
+          "label": "Epimetheus",
+          "general": "A brother of Prometheus whose judgment fails him.",
+          "here": "He accepts the woman made at Zeus’s command, bringing trouble to humans."
+        },
+        {
+          "id": "p035-girl",
+          "label": "The girl Zeus had made",
+          "general": "The first woman, known elsewhere as Pandora.",
+          "here": "Hesiod leaves her unnamed. Zeus has her made, and Epimetheus welcomes her."
+        },
+        {
+          "id": "p035-erebus",
+          "label": "Erebus",
+          "general": "The dark region beneath the earth.",
+          "here": "Zeus sends Menoetius down into it."
+        },
+        {
+          "id": "p035-hesperides",
+          "label": "Hesperides",
+          "general": "Divine sisters associated with the far west and the guarding of golden apples.",
+          "here": "Their clear voices and distant home help describe where Atlas stands."
+        }
+      ]
+    },
+    {
+      "id": "p036",
+      "start": 521,
+      "end": 534,
+      "heading": "Prometheus and the eagle",
+      "translation": "Zeus bound Prometheus, with all his intricate schemes, in painful chains he could not escape, driving a pillar through his middle. He sent a long-winged eagle against him, and it ate his immortal liver. Every night the liver grew back completely—as much as the wide-winged bird had eaten through the whole day.\n\nHeracles, the mighty son of Alcmene with her lovely ankles, killed the eagle. He drove that cruel affliction away from Prometheus, son of Iapetus, and freed him from his suffering. This had the consent of Zeus, who rules on high from Olympus: he wanted the fame of Heracles, born in Thebes, to grow still greater across the earth that feeds so many.\n\nOut of regard for this, Zeus honored his glorious son. Angry though Zeus was, he let go of the anger he had long held against Prometheus for matching his wits against the mighty son of Cronus.",
+      "summary": "An eagle eats Prometheus’s liver every day, and it grows back each night. With Zeus’s consent, Heracles kills the eagle and ends Prometheus’s suffering.",
+      "cards": [
+        {
+          "id": "p036-prometheus",
+          "label": "Prometheus",
+          "general": "A son of Iapetus, known for his cleverness.",
+          "here": "Zeus punishes him for challenging his plans."
+        },
+        {
+          "id": "p036-liver",
+          "label": "Immortal liver",
+          "general": "The liver is an organ inside the body. Immortal means unable to die.",
+          "here": "Prometheus’s liver grows back each night, allowing the eagle’s attack to happen again each day."
+        },
+        {
+          "id": "p036-heracles",
+          "label": "Heracles",
+          "general": "A mighty hero, son of Zeus and the human woman Alcmene. Also called Hercules.",
+          "here": "He kills the eagle, ending Prometheus’s torment and increasing his own fame."
+        },
+        {
+          "id": "p036-alcmene",
+          "label": "Alcmene",
+          "general": "The mother of Heracles.",
+          "here": "Hesiod describes her as having lovely ankles."
+        },
+        {
+          "id": "p036-olympus",
+          "label": "Olympus",
+          "general": "The mountain that is the home of Zeus and other gods.",
+          "here": "It identifies Zeus’s place of rule."
+        },
+        {
+          "id": "p036-thebes",
+          "label": "Thebes",
+          "general": "A city in Greece.",
+          "here": "It is the birthplace of Heracles."
+        },
+        {
+          "id": "p036-son-of-cronus",
+          "label": "The son of Cronus",
+          "general": "Another way of naming Zeus through his father.",
+          "here": "Zeus is the mighty god whose plans Prometheus challenged."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 496 is marked for deletion and is omitted. It says that Cronus was defeated by his own son’s skill and strength.",
+    "In line 502, “father” may mean Ouranos, the freed brothers’ father, or Cronus, Zeus’s father. The translation follows the first reading.",
+    "The construction in line 522 is disputed. The translation follows the reading that Zeus drove a pillar through Prometheus’s middle; another reading has Prometheus fastened against a pillar."
+  ]
+}

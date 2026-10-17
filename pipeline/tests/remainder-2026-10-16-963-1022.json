@@ -1,0 +1,476 @@
+{
+  "sections": [
+    {
+      "id": "p061",
+      "start": 963,
+      "end": 968,
+      "heading": "A new song begins",
+      "translation": "Now farewell, you who live on Olympus—and you islands, mainlands, and the salt sea between them.\n\nNow sing of the goddesses, sweet-voiced Muses of Olympus, daughters of Zeus who carries the aegis: the immortal goddesses who slept with mortal men and bore children like gods.",
+      "summary": "The poet asks the Muses to sing about goddesses who had children with mortal men.",
+      "cards": [
+        {
+          "id": "p061-olympus",
+          "label": "Olympus",
+          "general": "The mountain where the gods have their home.",
+          "here": "The poet says farewell to the gods before starting a new subject."
+        },
+        {
+          "id": "p061-muses",
+          "label": "Muses",
+          "general": "Goddesses of song and poetry, and daughters of Zeus.",
+          "here": "The poet asks them to tell the next part of his song."
+        },
+        {
+          "id": "p061-zeus",
+          "label": "Zeus",
+          "general": "King of the gods.",
+          "here": "He is named as the Muses’ father."
+        },
+        {
+          "id": "p061-aegis",
+          "label": "Aegis",
+          "general": "A powerful divine shield or protective covering associated with Zeus.",
+          "here": "Carrying the aegis is a sign of Zeus’s power."
+        },
+        {
+          "id": "p061-mortal",
+          "label": "Mortal and immortal",
+          "general": "Mortals can die; immortals live forever.",
+          "here": "The mothers are goddesses, while the fathers are mortal men."
+        }
+      ]
+    },
+    {
+      "id": "p062",
+      "start": 969,
+      "end": 987,
+      "heading": "Goddesses and their children",
+      "translation": "Demeter, radiant among goddesses, joined the hero Iasion in sweet love in a field plowed three times, in the fertile land of Crete. She bore kindly Plutus, who travels everywhere over the earth and the sea’s broad back. Whoever meets him, whoever takes him into their hands, he makes rich and gives great wealth.\n\nHarmonia, daughter of golden Aphrodite, bore Cadmus these children in Thebes with its beautiful crown: Ino, Semele, lovely-cheeked Agave, Autonoe—whom Aristaeus with his flowing hair married—and Polydorus.\n\nCallirhoe, daughter of Oceanus, joined strong-hearted Chrysaor in love through Aphrodite, rich in gold. She bore Geryon, the strongest of all mortals. Mighty Heracles killed him for his cattle with their rolling gait, on Erytheia, surrounded by the sea.\n\nEos bore Tithonus two sons: Memnon in his bronze helmet, king of the Ethiopians, and lord Emathion. With Cephalus she had another splendid son, mighty Phaethon, a man like the gods.",
+      "summary": "Several goddesses have children with mortal men. Their children include the bringer of wealth, royal families, and mighty heroes.",
+      "cards": [
+        {
+          "id": "p062-demeter",
+          "label": "Demeter",
+          "general": "Goddess of grain and farming.",
+          "here": "She has Plutus with Iasion in a plowed field."
+        },
+        {
+          "id": "p062-iasion",
+          "label": "Iasion",
+          "general": "A mortal hero who becomes Demeter’s lover.",
+          "here": "He is Plutus’s father."
+        },
+        {
+          "id": "p062-crete",
+          "label": "Crete",
+          "general": "A large Greek island.",
+          "here": "Its fertile farmland is the setting for Demeter and Iasion’s love."
+        },
+        {
+          "id": "p062-plutus",
+          "label": "Plutus",
+          "general": "The god of wealth; his name means “wealth.”",
+          "here": "He brings riches to anyone he reaches."
+        },
+        {
+          "id": "p062-harmonia",
+          "label": "Harmonia",
+          "general": "A goddess whose name means “harmony.”",
+          "here": "Aphrodite’s daughter and Cadmus’s partner."
+        },
+        {
+          "id": "p062-aphrodite",
+          "label": "Aphrodite",
+          "general": "Goddess of love and sexual desire.",
+          "here": "She is Harmonia’s mother, and her power brings Callirhoe and Chrysaor together."
+        },
+        {
+          "id": "p062-cadmus",
+          "label": "Cadmus",
+          "general": "The legendary founder of Thebes.",
+          "here": "He has five children with Harmonia."
+        },
+        {
+          "id": "p062-thebes",
+          "label": "Thebes",
+          "general": "An important city in ancient Greece.",
+          "here": "Its “beautiful crown” may suggest the walls or towers around it."
+        },
+        {
+          "id": "p062-ino",
+          "label": "Ino",
+          "general": "A daughter of Cadmus and Harmonia.",
+          "here": "The first of their children named in this list."
+        },
+        {
+          "id": "p062-semele",
+          "label": "Semele",
+          "general": "A daughter of Cadmus and Harmonia, and mother of the god Dionysus.",
+          "here": "She appears among the children born at Thebes."
+        },
+        {
+          "id": "p062-agave",
+          "label": "Agave",
+          "general": "A daughter of Cadmus and Harmonia.",
+          "here": "The poem describes her lovely cheeks."
+        },
+        {
+          "id": "p062-autonoe",
+          "label": "Autonoe",
+          "general": "A daughter of Cadmus and Harmonia.",
+          "here": "She marries Aristaeus."
+        },
+        {
+          "id": "p062-aristaeus",
+          "label": "Aristaeus",
+          "general": "A divine figure linked with herding, beekeeping, and farming.",
+          "here": "Autonoe’s husband, described as having thick, flowing hair."
+        },
+        {
+          "id": "p062-polydorus",
+          "label": "Polydorus",
+          "general": "A son of Cadmus and Harmonia.",
+          "here": "He completes the list of their children."
+        },
+        {
+          "id": "p062-callirhoe",
+          "label": "Callirhoe",
+          "general": "A daughter of Oceanus.",
+          "here": "She and Chrysaor are Geryon’s parents."
+        },
+        {
+          "id": "p062-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river believed to flow around the world.",
+          "here": "He is Callirhoe’s father."
+        },
+        {
+          "id": "p062-chrysaor",
+          "label": "Chrysaor",
+          "general": "A powerful figure born from Medusa.",
+          "here": "He is Geryon’s father."
+        },
+        {
+          "id": "p062-geryon",
+          "label": "Geryon",
+          "general": "A mighty, three-headed figure who owned cattle.",
+          "here": "Heracles kills him to take his herd."
+        },
+        {
+          "id": "p062-heracles",
+          "label": "Heracles",
+          "general": "A hero famous for his strength and difficult labors.",
+          "here": "Taking Geryon’s cattle was one of his labors."
+        },
+        {
+          "id": "p062-erytheia",
+          "label": "Erytheia",
+          "general": "Geryon’s island, imagined far to the west.",
+          "here": "The sea surrounds the place where Heracles kills him."
+        },
+        {
+          "id": "p062-eos",
+          "label": "Eos",
+          "general": "Goddess of dawn.",
+          "here": "She has children with Tithonus and Cephalus."
+        },
+        {
+          "id": "p062-tithonus",
+          "label": "Tithonus",
+          "general": "A mortal prince loved by Eos.",
+          "here": "Father of Memnon and Emathion."
+        },
+        {
+          "id": "p062-memnon",
+          "label": "Memnon",
+          "general": "A warrior king who fought at Troy.",
+          "here": "Eos and Tithonus’s son, wearing a bronze helmet."
+        },
+        {
+          "id": "p062-ethiopians",
+          "label": "Ethiopians",
+          "general": "A Greek name for distant peoples imagined near the world’s edges.",
+          "here": "They are Memnon’s people; the name does not map neatly onto modern Ethiopia."
+        },
+        {
+          "id": "p062-emathion",
+          "label": "Emathion",
+          "general": "A son of Eos and Tithonus.",
+          "here": "Memnon’s brother, given the title “lord.”"
+        },
+        {
+          "id": "p062-cephalus",
+          "label": "Cephalus",
+          "general": "A mortal loved by Eos.",
+          "here": "He is Phaethon’s father."
+        },
+        {
+          "id": "p062-phaethon",
+          "label": "Phaethon",
+          "general": "His name means “shining.” Different myths use this name for different figures.",
+          "here": "This Phaethon is the son of Eos and Cephalus, not the familiar son of the Sun who drives its chariot."
+        }
+      ]
+    },
+    {
+      "id": "p063",
+      "start": 988,
+      "end": 1002,
+      "heading": "Phaethon and Medea",
+      "translation": "While Phaethon was still young, in the tender flower of glorious youth, a boy with a carefree heart, smile-loving Aphrodite swept him away. In her most sacred temples she made him her attendant by night, a divine spirit.\n\nBy the will of the gods who live forever, Jason, son of Aeson, led Medea, the daughter of King Aeetes, away from her father. Aeetes was a king sustained by Zeus. Jason had completed the many painful trials imposed on him by the great King Pelias—a proud, violent, reckless man whose deeds were brutal.\n\nAfter completing those trials and suffering greatly, Jason reached Iolcus in his swift ship, bringing the bright-eyed girl with him, and made her his wife in the bloom of her youth. Joined in love with Jason, shepherd of his people, Medea bore a son, Medeius. Chiron, son of Philyra, raised him in the mountains. And so great Zeus’s plan was fulfilled.",
+      "summary": "Aphrodite takes Phaethon to serve in her temples. Jason brings Medea home, marries her, and has a son whom Chiron raises.",
+      "cards": [
+        {
+          "id": "p063-aphrodite",
+          "label": "Aphrodite",
+          "general": "Goddess of love and desire.",
+          "here": "She takes the young Phaethon away and makes him a divine attendant in her temples."
+        },
+        {
+          "id": "p063-attendant",
+          "label": "Attendant by night",
+          "general": "Someone who serves or cares for a temple during the night.",
+          "here": "Phaethon’s exact duties are not explained; the phrase may also suggest intimacy with Aphrodite."
+        },
+        {
+          "id": "p063-divine-spirit",
+          "label": "Divine spirit",
+          "general": "A supernatural being or divine power.",
+          "here": "Phaethon receives divine status after Aphrodite takes him away."
+        },
+        {
+          "id": "p063-jason",
+          "label": "Jason",
+          "general": "The hero who led the Argonauts in search of the Golden Fleece.",
+          "here": "Called “son of Aeson” in the Greek, he completes Pelias’s trials and marries Medea."
+        },
+        {
+          "id": "p063-aeson",
+          "label": "Aeson",
+          "general": "Jason’s father.",
+          "here": "The poem twice identifies Jason through his father’s name."
+        },
+        {
+          "id": "p063-medea",
+          "label": "Medea",
+          "general": "Aeetes’s daughter, known for her knowledge of magic.",
+          "here": "She leaves her father with Jason and becomes his wife."
+        },
+        {
+          "id": "p063-aeetes",
+          "label": "Aeetes",
+          "general": "King of Colchis, where the Golden Fleece was kept.",
+          "here": "Medea’s father; the poem describes his royal power as supported by Zeus."
+        },
+        {
+          "id": "p063-pelias",
+          "label": "Pelias",
+          "general": "A king of Iolcus who sent Jason after the Golden Fleece.",
+          "here": "He imposes the difficult trials, and the poet strongly condemns his character."
+        },
+        {
+          "id": "p063-iolcus",
+          "label": "Iolcus",
+          "general": "A Greek city associated with Jason and Pelias.",
+          "here": "Jason returns there with Medea."
+        },
+        {
+          "id": "p063-shepherd",
+          "label": "Shepherd of his people",
+          "general": "A poetic title for a leader, comparing his people to a flock in his care.",
+          "here": "The title describes Jason."
+        },
+        {
+          "id": "p063-medeius",
+          "label": "Medeius",
+          "general": "A son of Jason and Medea.",
+          "here": "Chiron raises him in the mountains."
+        },
+        {
+          "id": "p063-chiron",
+          "label": "Chiron",
+          "general": "A wise centaur, part human and part horse, who raised and taught heroes.",
+          "here": "He brings up Medeius."
+        },
+        {
+          "id": "p063-philyra",
+          "label": "Philyra",
+          "general": "Chiron’s mother, a daughter of Oceanus.",
+          "here": "The Greek identifies Chiron as her son."
+        },
+        {
+          "id": "p063-zeus",
+          "label": "Zeus",
+          "general": "King of the gods.",
+          "here": "The poet says these events fulfill his plan, without explaining that plan further."
+        }
+      ]
+    },
+    {
+      "id": "p064",
+      "start": 1003,
+      "end": 1018,
+      "heading": "Sea goddesses and island families",
+      "translation": "Then there were the daughters of Nereus, the old man of the sea. Psamathe, radiant among goddesses, bore Phocus after joining Aeacus in love through golden Aphrodite. And the silver-footed goddess Thetis joined Peleus and bore Achilles, who broke through men’s ranks and had a lion’s heart.\n\nCytherea with her beautiful crown bore Aeneas after joining the hero Anchises in sweet love, high on wooded Mount Ida with its many folds.\n\nCirce, daughter of Helios, the son of Hyperion, joined patient-hearted Odysseus in love. She bore Agrius and Latinus, a man both noble and strong. Far, far away, deep among the sacred islands, they ruled over all the famous Tyrrhenians.\n\nCalypso, radiant among goddesses, joined Odysseus in sweet love and bore him Nausithous and Nausinous.",
+      "summary": "More goddesses have children with mortal heroes. Their children include Achilles, Aeneas, and the sons of Odysseus.",
+      "cards": [
+        {
+          "id": "p064-nereus",
+          "label": "Nereus",
+          "general": "An ancient sea god, often called the old man of the sea.",
+          "here": "Father of Psamathe and Thetis."
+        },
+        {
+          "id": "p064-psamathe",
+          "label": "Psamathe",
+          "general": "One of Nereus’s daughters, the sea goddesses called Nereids.",
+          "here": "She has Phocus with Aeacus."
+        },
+        {
+          "id": "p064-phocus",
+          "label": "Phocus",
+          "general": "A son of Psamathe and Aeacus.",
+          "here": "His birth begins this list of sea goddesses’ children."
+        },
+        {
+          "id": "p064-aeacus",
+          "label": "Aeacus",
+          "general": "A mortal king, and father of Peleus as well as Phocus.",
+          "here": "He is Psamathe’s partner."
+        },
+        {
+          "id": "p064-aphrodite",
+          "label": "Aphrodite / Cytherea",
+          "general": "Aphrodite is the goddess of love. Cytherea is another name for her, linked to the island of Cythera.",
+          "here": "She brings Psamathe and Aeacus together, and later bears Aeneas herself."
+        },
+        {
+          "id": "p064-thetis",
+          "label": "Thetis",
+          "general": "A sea goddess and daughter of Nereus.",
+          "here": "Achilles’s mother, described as silver-footed."
+        },
+        {
+          "id": "p064-peleus",
+          "label": "Peleus",
+          "general": "A mortal hero.",
+          "here": "He and Thetis are Achilles’s parents."
+        },
+        {
+          "id": "p064-achilles",
+          "label": "Achilles",
+          "general": "The greatest Greek warrior in the Trojan War.",
+          "here": "His power in battle and courage are pictured through broken enemy ranks and a lion’s heart."
+        },
+        {
+          "id": "p064-aeneas",
+          "label": "Aeneas",
+          "general": "A Trojan hero, son of Aphrodite and Anchises.",
+          "here": "His birth follows his parents’ meeting on Mount Ida."
+        },
+        {
+          "id": "p064-anchises",
+          "label": "Anchises",
+          "general": "A mortal man from the region of Troy.",
+          "here": "Aphrodite’s lover and Aeneas’s father."
+        },
+        {
+          "id": "p064-ida",
+          "label": "Mount Ida",
+          "general": "A mountain near Troy.",
+          "here": "Its “folds” are its many ridges and valleys."
+        },
+        {
+          "id": "p064-circe",
+          "label": "Circe",
+          "general": "A goddess skilled in magic who lives on an island.",
+          "here": "She has Agrius and Latinus with Odysseus."
+        },
+        {
+          "id": "p064-helios",
+          "label": "Helios",
+          "general": "The god of the Sun.",
+          "here": "Circe’s father and Hyperion’s son."
+        },
+        {
+          "id": "p064-hyperion",
+          "label": "Hyperion",
+          "general": "A Titan, one of the older generation of gods.",
+          "here": "Helios’s father and Circe’s grandfather."
+        },
+        {
+          "id": "p064-odysseus",
+          "label": "Odysseus",
+          "general": "A Greek hero famous for his cleverness and long journey home from Troy.",
+          "here": "He has children with both Circe and Calypso."
+        },
+        {
+          "id": "p064-agrius",
+          "label": "Agrius",
+          "general": "A son of Circe and Odysseus.",
+          "here": "He rules the Tyrrhenians with Latinus."
+        },
+        {
+          "id": "p064-latinus",
+          "label": "Latinus",
+          "general": "A legendary ruler associated with the peoples of Italy.",
+          "here": "The son of Circe and Odysseus, described as noble and strong."
+        },
+        {
+          "id": "p064-tyrrhenians",
+          "label": "Tyrrhenians",
+          "general": "A Greek name usually used for the Etruscans of ancient Italy.",
+          "here": "The people ruled by Agrius and Latinus in a distant island setting."
+        },
+        {
+          "id": "p064-calypso",
+          "label": "Calypso",
+          "general": "An island goddess who shelters Odysseus during his travels.",
+          "here": "She bears him two sons."
+        },
+        {
+          "id": "p064-nausithous",
+          "label": "Nausithous",
+          "general": "A son of Calypso and Odysseus in this poem.",
+          "here": "The first of their two sons named."
+        },
+        {
+          "id": "p064-nausinous",
+          "label": "Nausinous",
+          "general": "A son of Calypso and Odysseus.",
+          "here": "Nausithous’s brother."
+        }
+      ]
+    },
+    {
+      "id": "p065",
+      "start": 1019,
+      "end": 1022,
+      "heading": "A song of mortal women",
+      "translation": "These were the immortal goddesses who slept with mortal men and bore children like gods.\n\nNow sing of the women, sweet-voiced Muses of Olympus, daughters of Zeus who carries the aegis.",
+      "summary": "The list of divine mothers ends. The poet asks for a new song about mortal women.",
+      "cards": [
+        {
+          "id": "p065-muses",
+          "label": "Muses of Olympus",
+          "general": "The goddesses of song and poetry, daughters of Zeus.",
+          "here": "The poet asks them to begin the next subject."
+        },
+        {
+          "id": "p065-aegis",
+          "label": "Aegis",
+          "general": "A divine shield or protective covering associated with Zeus.",
+          "here": "The closing line repeats Zeus’s title from the opening of this passage."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 964 has an unusual phrase meaning roughly “the salt sea within.” “Between them” interprets it as the sea among the islands and mainlands; the precise geography is unclear.",
+    "In lines 990–991, Phaethon’s role as Aphrodite’s “attendant by night” is ambiguous. It can suggest temple service and may also imply that he becomes her lover.",
+    "The cattle’s epithet in line 983 is variously understood as describing their rolling gait or their curved feet; the translation uses the gait.",
+    "The eye description in line 998 can mean bright-eyed or rolling-eyed; “bright-eyed” is used here.",
+    "Line 1014, marked for deletion, has been omitted. It says that Circe also bore Telegonus through golden Aphrodite.",
+    "The location described as “deep among the sacred islands” in line 1015 is uncertain; no specific islands have been supplied."
+  ]
+}

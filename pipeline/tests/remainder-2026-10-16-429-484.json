@@ -1,0 +1,171 @@
+{
+  "sections": [
+    {
+      "id": "p031",
+      "start": 429,
+      "end": 452,
+      "heading": "Where Hecate helps",
+      "translation": "Hecate gives powerful help to anyone she chooses.\nIn the public assembly, she makes whoever she favors stand out.\nAnd when men arm themselves for war that destroys lives,\nthe goddess stands beside those she chooses,\nready to grant them victory and glory.\nShe sits beside respected kings as they give judgment.\n\nShe helps, too, when men compete in games:\nthe goddess stands beside them and lends her strength.\nThe winner, victorious through power and strength,\neasily carries off a fine prize, full of joy,\nand brings glory to his parents.\nShe is good at helping riders, too, whenever she chooses.\n\nFor those who work the gray, rough sea\nand pray to Hecate and the thundering Earth-shaker,\nthe glorious goddess easily grants a great catch—\nand easily takes it away when it is in sight,\nif that is what she wants.\n\nWith Hermes, she is good at making livestock thrive in their pens.\nHerds of cattle, great herds of goats,\nand flocks of woolly sheep—if she wishes,\nshe makes a few grow into many, or many dwindle to a few.\n\nSo, though her mother had no other child,\nHecate holds honored privileges among all the immortal gods.\nZeus, the son of Cronus, made her the nurse of all the young\nwho, after her, opened their eyes to the light of far-seeing Dawn.\nFrom the beginning she has cared for the young.\nThese are her honors.",
+      "summary": "Hecate can help people in public life, war, sports, fishing, and farming. She also cares for the young.",
+      "cards": [
+        {
+          "id": "p031-hecate",
+          "label": "Hecate",
+          "general": "A goddess with powers over many parts of life.",
+          "here": "She chooses whom to help and can give success or take it away."
+        },
+        {
+          "id": "p031-assembly",
+          "label": "Public assembly",
+          "general": "A gathering where a community discusses public matters.",
+          "here": "Hecate can make a person stand out among the speakers and listeners."
+        },
+        {
+          "id": "p031-earth-shaker",
+          "label": "Earth-shaker",
+          "general": "A name for Poseidon, god of the sea and earthquakes.",
+          "here": "People fishing at sea pray to him along with Hecate."
+        },
+        {
+          "id": "p031-hermes",
+          "label": "Hermes",
+          "general": "A god associated with travel, messages, and livestock.",
+          "here": "He and Hecate help herds and flocks grow."
+        },
+        {
+          "id": "p031-zeus",
+          "label": "Zeus",
+          "general": "The son of Cronus who becomes ruler of the gods.",
+          "here": "He gives Hecate the task of caring for the young."
+        },
+        {
+          "id": "p031-dawn",
+          "label": "Dawn",
+          "general": "Eos, the goddess who brings the morning light.",
+          "here": "Seeing Dawn's light means coming into the world alive."
+        }
+      ]
+    },
+    {
+      "id": "p032",
+      "start": 453,
+      "end": 467,
+      "heading": "Cronus swallows his children",
+      "translation": "Rhea had glorious children with Cronus:\nHestia, Demeter, and Hera with her golden sandals;\nmighty Hades, whose heart knows no pity,\nwho lives in halls beneath the earth;\nthe thundering Earth-shaker, Poseidon;\nand Zeus, wise in planning, father of gods and humans,\nwhose thunder makes the wide earth shake.\n\nGreat Cronus swallowed his children, each one\nas it came from its mother's sacred womb to her knees.\nHe meant to keep any other glorious descendant of Uranus\nfrom holding the royal honor among the immortal gods.\nFor he had learned from Gaia and starry Uranus\nthat he was destined, strong as he was,\nto be overcome by his own son,\nthrough the plans of great Zeus.\n\nSo Cronus kept watch with his eyes wide open,\nand swallowed his own children as he waited for them.\nRhea was gripped by grief that would not fade.",
+      "summary": "Cronus learns that his son will overthrow him. He swallows his children as they are born, leaving Rhea in lasting grief.",
+      "cards": [
+        {
+          "id": "p032-rhea",
+          "label": "Rhea",
+          "general": "A daughter of Gaia and Uranus, and Cronus's partner.",
+          "here": "She is the mother of the six gods named in this passage."
+        },
+        {
+          "id": "p032-cronus",
+          "label": "Cronus",
+          "general": "A son of Gaia and Uranus who rules the gods before Zeus.",
+          "here": "He swallows his children to prevent one of them from taking his power."
+        },
+        {
+          "id": "p032-hestia",
+          "label": "Hestia",
+          "general": "The goddess of the hearth, the fire at the center of a home.",
+          "here": "She is one of Rhea and Cronus's daughters."
+        },
+        {
+          "id": "p032-demeter",
+          "label": "Demeter",
+          "general": "A goddess of grain and farming.",
+          "here": "She is one of Rhea and Cronus's daughters."
+        },
+        {
+          "id": "p032-hera",
+          "label": "Hera",
+          "general": "A goddess of marriage who becomes queen of the gods.",
+          "here": "She is a daughter of Rhea and Cronus, pictured wearing golden sandals."
+        },
+        {
+          "id": "p032-hades",
+          "label": "Hades",
+          "general": "The god who rules the world of the dead beneath the earth.",
+          "here": "His underground home and pitiless heart mark his stern power."
+        },
+        {
+          "id": "p032-poseidon",
+          "label": "Poseidon",
+          "general": "The god of the sea and earthquakes, also called Earth-shaker.",
+          "here": "He is one of Rhea and Cronus's sons."
+        },
+        {
+          "id": "p032-zeus",
+          "label": "Zeus",
+          "general": "The god of thunder who becomes ruler of the gods.",
+          "here": "He is the son whose plans will bring about Cronus's defeat. “Father of gods and humans” is a title of authority."
+        },
+        {
+          "id": "p032-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, a goddess and the mother of Cronus and Rhea.",
+          "here": "She tells Cronus that his own son will overcome him."
+        },
+        {
+          "id": "p032-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, a god and the father of Cronus and Rhea.",
+          "here": "He and Gaia reveal Cronus's fate. Cronus's children are also his descendants."
+        }
+      ]
+    },
+    {
+      "id": "p033",
+      "start": 468,
+      "end": 484,
+      "heading": "Rhea hides Zeus",
+      "translation": "But when Rhea was about to give birth to Zeus,\nfather of gods and humans,\nshe begged her own dear parents,\nGaia and starry Uranus, to help her devise a plan:\nto give birth to her dear child in secret,\nand to win revenge for her father\nand for the children great Cronus, with his crooked schemes,\nhad swallowed.\n\nThey listened closely to their dear daughter and agreed to help.\nThey told her all that fate had in store\nfor King Cronus and his strong-hearted son.\nThey sent her to Lyctus, in the fertile land of Crete,\nwhen she was about to bear her youngest child,\ngreat Zeus. Vast Gaia received him from her\nto nourish and care for him on the broad island of Crete.\n\nThrough the swift, black night Rhea carried him,\ncoming first to Lyctus.\nTaking him in her arms, she hid him\nin a deep cave, in the hidden places of the holy earth,\non Mount Aegeum, thick with forest.",
+      "summary": "Rhea asks her parents to help save her next baby. She gives birth to Zeus on Crete, where he is hidden in a cave.",
+      "cards": [
+        {
+          "id": "p033-rhea",
+          "label": "Rhea",
+          "general": "Cronus's partner and the mother of his children.",
+          "here": "She seeks a way to save her youngest child, Zeus."
+        },
+        {
+          "id": "p033-gaia-uranus",
+          "label": "Gaia and Uranus",
+          "general": "Earth and Sky, the parents of Rhea and Cronus.",
+          "here": "They help Rhea plan Zeus's secret birth, and Gaia receives him into her care."
+        },
+        {
+          "id": "p033-cronus",
+          "label": "Cronus",
+          "general": "The ruler of the gods before Zeus.",
+          "here": "Rhea seeks revenge for his swallowing their children and for his earlier attack on his father, Uranus."
+        },
+        {
+          "id": "p033-zeus",
+          "label": "Zeus",
+          "general": "The youngest child of Rhea and Cronus, destined to rule the gods.",
+          "here": "His mother hides him so Cronus cannot swallow him."
+        },
+        {
+          "id": "p033-lyctus",
+          "label": "Lyctus",
+          "general": "An ancient town on Crete, a large Greek island.",
+          "here": "Rhea's parents send her there for Zeus's birth."
+        },
+        {
+          "id": "p033-aegeum",
+          "label": "Mount Aegeum",
+          "general": "The mountain on Crete named here as Zeus's hiding place.",
+          "here": "Its thick forest and deep cave shelter the baby."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "In lines 471–473, the Greek leaves the subject of the revenge clause unstated. The translation takes Rhea as seeking revenge for Uranus and her swallowed children; the clause can also be understood as referring to Zeus taking that revenge.",
+    "In lines 481–483, the Greek does not name the female figure who carries and hides Zeus. The translation follows the reading that this is Rhea; Gaia is also possible.",
+    "The exact location of Mount Aegeum is uncertain."
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "sections": [
+    {
+      "id": "p040",
+      "start": 590,
+      "end": 616,
+      "heading": "Women, marriage, and Zeus’s will",
+      "translation": "From that first woman comes the race of women—a great trouble living among mortal men, sharing their plenty but not their crushing poverty.\n\nJust as bees in their sheltered hives feed drones, partners in wrongdoing—the bees hurry about all day until sunset, building white honeycombs, while the drones stay inside the covered hives and gather the harvest of others’ hard work into their own bellies—so Zeus, who thunders on high, made women a curse for mortal men, partners in work that brings pain.\n\nAnd he gave men another evil in place of a blessing. A man may avoid marriage and women’s troublesome ways and choose never to marry, but then he reaches miserable old age with no one to care for him. He has enough to live on while he is alive, but when he dies, distant relatives divide his property. If a man’s fate is to marry, and he gets a good wife with sound sense, then good and bad keep competing throughout his life. But if he ends up with a wife of a wicked kind, he lives with unending sorrow in his chest, deep in his heart and spirit. There is no cure for that misery.\n\nSo no one can fool Zeus or get around his plans. Even kindly Prometheus, son of Iapetus, did not escape Zeus’s heavy anger. For all his knowledge, a mighty chain holds him fast by force.",
+      "summary": "Hesiod presents both marriage and staying unmarried as sources of trouble for men. He says no one can escape Zeus’s plans, even Prometheus.",
+      "cards": [
+        {
+          "id": "p040-first-woman",
+          "label": "The first woman",
+          "general": "In this story, the gods make the first woman as part of Zeus’s punishment for humans.",
+          "here": "“That first woman” refers to the beautiful woman described just before this passage."
+        },
+        {
+          "id": "p040-drones",
+          "label": "Drones",
+          "general": "Drones are male bees. Worker bees build the comb and gather food.",
+          "here": "Hesiod compares women to drones eating food produced by others. This expresses his hostile view of women."
+        },
+        {
+          "id": "p040-mortal",
+          "label": "Mortal",
+          "general": "Someone who will eventually die, unlike an immortal god.",
+          "here": "The mortal men are human men."
+        },
+        {
+          "id": "p040-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, associated with thunder and lightning.",
+          "here": "Hesiod presents women and the difficulties of marriage as parts of Zeus’s punishment."
+        },
+        {
+          "id": "p040-prometheus",
+          "label": "Prometheus",
+          "general": "A clever god who challenged Zeus and stole fire for humans.",
+          "here": "Even his cleverness cannot save him from Zeus’s punishment."
+        },
+        {
+          "id": "p040-iapetus",
+          "label": "Iapetus",
+          "general": "A Titan and the father of Prometheus.",
+          "here": "Hesiod identifies Prometheus through his father."
+        }
+      ]
+    },
+    {
+      "id": "p041",
+      "start": 617,
+      "end": 628,
+      "heading": "Back into the light",
+      "translation": "When their father Uranus first grew angry with Briareus, Cottus, and Gyges, he bound them in mighty chains. He was struck with dread at their overwhelming strength, their appearance, and their size, and he forced them to live beneath the wide-pathed earth.\n\nThere they stayed in pain, beneath the ground at the farthest edge, at the limits of the great earth. For a very long time they suffered, with deep grief in their hearts.\n\nBut Zeus, son of Cronus, and the other immortal gods whom lovely-haired Rhea bore through her love with Cronus brought them back into the light, following Gaia’s advice. Gaia herself had explained everything fully: with their help, the gods would win victory and shining glory.",
+      "summary": "Uranus imprisoned his three powerful sons underground. Gaia tells Zeus and his fellow gods that freeing them will help them win.",
+      "cards": [
+        {
+          "id": "p041-uranus",
+          "label": "Uranus",
+          "general": "The god of the sky, Gaia’s partner and the father of many early gods.",
+          "here": "He imprisons Briareus, Cottus, and Gyges because their strength and size alarm him."
+        },
+        {
+          "id": "p041-briareus",
+          "label": "Briareus",
+          "general": "One of three giant brothers called the Hundred-Handers. Each has a hundred hands and fifty heads.",
+          "here": "He is freed from imprisonment beneath the earth."
+        },
+        {
+          "id": "p041-cottus",
+          "label": "Cottus",
+          "general": "One of the three Hundred-Handers, sons of Gaia and Uranus.",
+          "here": "He has suffered underground with his brothers."
+        },
+        {
+          "id": "p041-gyges",
+          "label": "Gyges",
+          "general": "One of the three Hundred-Handers, alongside Briareus and Cottus.",
+          "here": "He shares his brothers’ imprisonment and release."
+        },
+        {
+          "id": "p041-zeus",
+          "label": "Zeus",
+          "general": "A son of Cronus and Rhea who becomes ruler of the gods.",
+          "here": "He and his fellow gods bring the imprisoned brothers back into the light."
+        },
+        {
+          "id": "p041-cronus",
+          "label": "Cronus",
+          "general": "A Titan who ruled the gods before Zeus.",
+          "here": "He is the father of Zeus and the other gods who free the brothers."
+        },
+        {
+          "id": "p041-rhea",
+          "label": "Rhea",
+          "general": "A Titan and the mother of Zeus and his siblings by Cronus.",
+          "here": "Hesiod describes her as lovely-haired."
+        },
+        {
+          "id": "p041-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "She advises the gods to free the brothers so they can help win the war."
+        }
+      ]
+    },
+    {
+      "id": "p042",
+      "start": 629,
+      "end": 638,
+      "heading": "Ten years without victory",
+      "translation": "For a long time the Titan gods and the children of Cronus had fought each other in fierce battles, enduring heart-rending toil. The proud Titans fought from high Mount Othrys. The other gods, the givers of good things, fought from Olympus—the gods whom lovely-haired Rhea bore after sharing Cronus’s bed.\n\nWith heart-rending anger against each other, they had fought without a break for ten full years. Neither side could find a way to end the bitter struggle. The war hung in an even balance.",
+      "summary": "The Titans and the children of Cronus have fought for ten full years. Neither side is winning.",
+      "cards": [
+        {
+          "id": "p042-titans",
+          "label": "Titans",
+          "general": "An older generation of gods, born to Gaia and Uranus.",
+          "here": "The Titans fighting from Mount Othrys oppose Zeus and the other children of Cronus."
+        },
+        {
+          "id": "p042-cronus",
+          "label": "Cronus",
+          "general": "A Titan and the father of Zeus and his siblings.",
+          "here": "His children form the side fighting against the Titans."
+        },
+        {
+          "id": "p042-othrys",
+          "label": "Mount Othrys",
+          "general": "A mountain in mainland Greece.",
+          "here": "It serves as the Titans’ base in the war."
+        },
+        {
+          "id": "p042-olympus",
+          "label": "Olympus",
+          "general": "A mountain in Greece associated with the home of Zeus and his fellow gods.",
+          "here": "The children of Cronus fight from Olympus."
+        },
+        {
+          "id": "p042-rhea",
+          "label": "Rhea",
+          "general": "The mother of Zeus and his siblings by Cronus.",
+          "here": "Her children are the gods fighting from Olympus."
+        }
+      ]
+    },
+    {
+      "id": "p043",
+      "start": 639,
+      "end": 653,
+      "heading": "Zeus calls for their strength",
+      "translation": "But when Zeus had given the three brothers everything they needed—nectar and ambrosia, which the gods themselves eat—proud courage grew in all their chests. Once they had tasted the nectar and delicious ambrosia, Zeus, father of gods and humans, spoke to them:\n\n“Listen to me, glorious children of Gaia and Uranus, so I can tell you what the heart in my chest urges me to say. For a very long time now, day after day, we have fought against each other for victory and power—the Titan gods and all of us born to Cronus.\n\n“Now show your great strength and your irresistible hands against the Titans in this grim battle. Remember the kindness we showed you: after all your suffering, our plans brought you back into the light, out of those cruel chains and the misty darkness.”",
+      "summary": "Zeus feeds the freed brothers and asks them to help defeat the Titans, reminding them that he and his allies rescued them.",
+      "cards": [
+        {
+          "id": "p043-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, often called the father of gods and humans.",
+          "here": "He feeds the Hundred-Handers and asks them to join his side in the war."
+        },
+        {
+          "id": "p043-nectar",
+          "label": "Nectar",
+          "general": "The drink of the gods.",
+          "here": "Together with ambrosia, it restores the freed brothers’ courage."
+        },
+        {
+          "id": "p043-ambrosia",
+          "label": "Ambrosia",
+          "general": "The food of the gods.",
+          "here": "Zeus gives it to the brothers after their imprisonment."
+        },
+        {
+          "id": "p043-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "She is the mother of the three brothers Zeus addresses."
+        },
+        {
+          "id": "p043-uranus",
+          "label": "Uranus",
+          "general": "The god of the sky and the father of the Hundred-Handers.",
+          "here": "Zeus names the brothers’ parents when calling on them."
+        },
+        {
+          "id": "p043-cronus",
+          "label": "Cronus",
+          "general": "The father of Zeus and his siblings by Rhea.",
+          "here": "Zeus identifies his side as the children of Cronus."
+        },
+        {
+          "id": "p043-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "They are the enemies Zeus asks the Hundred-Handers to fight."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 591 is marked for deletion and has been omitted from the reading text. It repeats the claim that women descend from the first woman and calls their race destructive.",
+    "At lines 595 and 601–602, the language of being partners in bad or painful work is compressed. The translation preserves that wording; the surrounding bee comparison suggests sharing the products of others’ labor while causing hardship."
+  ]
+}

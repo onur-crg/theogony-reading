@@ -1,0 +1,59 @@
+{
+  "sections": [
+    {
+      "id": "p005",
+      "start": 53,
+      "end": 62,
+      "heading": "The Birth of the Muses",
+      "translation": "In Pieria, Mnemosyne slept with Zeus, son of Cronus, and bore him the Muses. Mnemosyne rules the hills of Eleuther. Her daughters bring forgetfulness of troubles and relief from worries.\n\nFor nine nights wise Zeus slept with her, climbing into her sacred bed far from the other immortal gods. When a year had passed, the seasons had turned, the months had waned, and many days had run their course, she gave birth to nine daughters, all of one mind, a little way from the highest peak of snowy Olympus. Their hearts are set on song, and their spirits are free from care.",
+      "summary": "Mnemosyne and Zeus have nine daughters, the Muses. Their songs help people forget their troubles.",
+      "cards": [
+        {
+          "id": "muses",
+          "label": "Muses",
+          "general": "Nine goddesses of song and poetry.",
+          "here": "Daughters of Zeus and Mnemosyne who bring relief from worries."
+        },
+        {
+          "id": "mnemosyne",
+          "label": "Mnemosyne",
+          "general": "The goddess of memory. Her name means “Memory.”",
+          "here": "The mother of the nine Muses."
+        },
+        {
+          "id": "zeus",
+          "label": "Zeus",
+          "general": "King of the gods.",
+          "here": "The wise father of the Muses."
+        },
+        {
+          "id": "cronus",
+          "label": "Cronus",
+          "general": "Zeus’s father, who ruled the gods before him.",
+          "here": "The Greek calls Zeus “son of Cronus.”"
+        },
+        {
+          "id": "pieria",
+          "label": "Pieria",
+          "general": "A region near Mount Olympus in northern Greece.",
+          "here": "Where Mnemosyne gives birth to the Muses."
+        },
+        {
+          "id": "eleuther",
+          "label": "Eleuther",
+          "general": "An obscure place-name.",
+          "here": "Mnemosyne rules its hills."
+        },
+        {
+          "id": "olympus",
+          "label": "Olympus",
+          "general": "A mountain in Greece and the home of the gods.",
+          "here": "The Muses are born near its snowy summit."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "The precise location of Eleuther is uncertain."
+  ]
+}

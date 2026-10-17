@@ -1,0 +1,117 @@
+{
+  "sections": [
+    {
+      "id": "p037",
+      "start": 535,
+      "end": 557,
+      "heading": "Prometheus divides the offering",
+      "translation": "When gods and mortal humans were settling matters at Mecone, Prometheus eagerly divided a great ox and set the portions before them, trying to trick Zeus. In one portion he laid the meat and the rich, fatty organs inside the hide, covering them with the ox’s stomach. In the other he carefully arranged the ox’s white bones, hiding them under shining fat—a cunning trick.\n\nThen the father of gods and humans said to him:\n“Son of Iapetus, most glorious of all lords, my friend, how unevenly you have divided the portions!”\n\nSo Zeus mocked him, Zeus whose plans never fail. Prometheus, with his twisting schemes, answered with a quiet smile, still intent on his trick:\n“Zeus, greatest and most glorious of the everlasting gods, choose whichever portion your heart tells you to.”\n\nHe spoke deceitfully. But Zeus, whose plans never fail, recognized the trick and saw it clearly. In his heart he foresaw troubles for mortal humans—troubles that would indeed come true.\n\nWith both hands he lifted the white fat. Anger filled his mind and heart when he saw the ox’s white bones laid out in that cunning trick.\n\nEver since then, the peoples of the earth have burned white bones for the immortal gods on altars fragrant with sacrifice.",
+      "summary": "Prometheus hides bones under tempting fat. Zeus sees through the trick, and trouble will follow for humans. This explains why people burn bones as offerings to the gods.",
+      "cards": [
+        {
+          "id": "p037-prometheus",
+          "label": "Prometheus",
+          "general": "A divine figure known for clever schemes and for helping humans.",
+          "here": "He divides the ox and tries to make the portion of bones look better than the meat."
+        },
+        {
+          "id": "p037-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, associated with the sky and thunder.",
+          "here": "Called the father of gods and humans, he recognizes Prometheus’s trick."
+        },
+        {
+          "id": "p037-iapetus",
+          "label": "Iapetus",
+          "general": "One of the Titans, an older generation of gods.",
+          "here": "Prometheus’s father. Zeus addresses Prometheus as “Son of Iapetus.”"
+        },
+        {
+          "id": "p037-mecone",
+          "label": "Mecone",
+          "general": "An ancient name for Sicyon, a place in Greece.",
+          "here": "The place where gods and humans meet and Prometheus divides the ox."
+        },
+        {
+          "id": "p037-sacrifice",
+          "label": "Sacrifice and altar",
+          "general": "A sacrifice is an offering to a god. An altar is the structure on which offerings are placed or burned.",
+          "here": "Hesiod explains the custom of burning an animal’s bones and fat for the gods."
+        }
+      ]
+    },
+    {
+      "id": "p038",
+      "start": 558,
+      "end": 569,
+      "heading": "Prometheus steals fire",
+      "translation": "Deeply angered, Zeus the cloud-gatherer said to him:\n“Son of Iapetus, clever beyond all others, my friend, you still have not forgotten your cunning tricks!”\n\nSo spoke Zeus in anger, Zeus whose plans never fail. From then on, always remembering the trick, he would not give mortal people living on earth the tireless power of fire in ash wood.\n\nBut the noble son of Iapetus deceived him. Prometheus stole the far-shining glow of tireless fire in a hollow fennel stalk. It bit deep into the heart of Zeus, who thunders on high. His heart blazed with anger when he saw fire’s far-shining glow among humans.",
+      "summary": "Zeus withholds fire from humans. Prometheus steals it in a hollow stalk, making Zeus furious.",
+      "cards": [
+        {
+          "id": "p038-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, who controls clouds and thunder.",
+          "here": "He withholds fire because of Prometheus’s trick with the ox."
+        },
+        {
+          "id": "p038-prometheus",
+          "label": "Prometheus",
+          "general": "A clever divine figure and a son of the Titan Iapetus.",
+          "here": "He steals fire and brings it to humans."
+        },
+        {
+          "id": "p038-ash",
+          "label": "Ash wood",
+          "general": "Wood from an ash tree; “ash” here does not mean the powder left after burning.",
+          "here": "The Greek wording connecting ash trees and fire is uncertain."
+        },
+        {
+          "id": "p038-fennel",
+          "label": "Fennel stalk",
+          "general": "Giant fennel has a stalk whose inner material can carry a slowly burning ember.",
+          "here": "Prometheus uses a hollow stalk to carry the stolen fire."
+        }
+      ]
+    },
+    {
+      "id": "p039",
+      "start": 570,
+      "end": 589,
+      "heading": "A beautiful trap",
+      "translation": "At once, to repay humans for the fire, Zeus made an evil for them. Following the plan of Zeus, son of Cronus, famous Hephaestus, lame in both legs, shaped earth into the likeness of a modest young woman.\n\nBright-eyed Athena dressed and belted her in a silvery robe. With her own hands she lowered an intricately worked veil over her head, a wonder to see. Around her head she placed a golden crown, which famous Hephaestus himself had skillfully made with his hands to please his father Zeus.\n\nThe crown held many intricate figures, a wonder to see: creatures of the many kinds the land and sea support. He set many of these upon it, marvelous figures shining with beauty, like living creatures with voices of their own.\n\nWhen he had made this beautiful evil in exchange for the good gift of fire, Hephaestus led her out to where the other gods and humans were. She stood proud in the finery given her by bright-eyed Athena, daughter of mighty Zeus.\n\nWonder seized the immortal gods and mortal humans when they saw this dangerous trap, which humans had no means to escape.",
+      "summary": "Zeus answers the theft of fire by having a woman made and beautifully dressed. Gods and humans marvel at her, but she is a trap for humans.",
+      "cards": [
+        {
+          "id": "p039-zeus-cronus",
+          "label": "Zeus and Cronus",
+          "general": "Zeus rules the gods. Cronus, a Titan, is his father.",
+          "here": "“Son of Cronus” means Zeus, who plans the response to the stolen fire."
+        },
+        {
+          "id": "p039-hephaestus",
+          "label": "Hephaestus",
+          "general": "The god of skilled craft and metalworking, traditionally depicted with a disability affecting his legs.",
+          "here": "He shapes the woman from earth and makes her golden crown."
+        },
+        {
+          "id": "p039-athena",
+          "label": "Athena",
+          "general": "A daughter of Zeus, associated with wisdom, warfare, and skilled crafts.",
+          "here": "She dresses the woman and places the veil and crown on her."
+        },
+        {
+          "id": "p039-woman",
+          "label": "The woman",
+          "general": "This figure is usually identified as Pandora, who is named in Hesiod’s other poem, Works and Days.",
+          "here": "Hesiod gives her no personal name in these lines. He presents her beauty as part of Zeus’s trap."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "At line 563, Μελίῃσι can be understood as ash trees or as the Melian nymphs associated with them. Its relationship to fire and mortal humans is disputed. The translation uses the ash-wood interpretation.",
+    "At lines 571 and 579, Hephaestus’s epithet Ἀμφιγυήεις is traditionally understood as referring to his lameness in both legs, though its exact meaning is disputed.",
+    "Lines 576–577, marked [del:], are omitted. They describe Athena placing lovely wreaths of fresh meadow flowers around the woman’s head."
+  ]
+}

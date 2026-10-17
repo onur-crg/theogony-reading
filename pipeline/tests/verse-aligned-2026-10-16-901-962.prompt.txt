@@ -1,0 +1,119 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p057 (901–917): Next Zeus married radiant Themis. She bore the Seasons: Eunomia, Dike, and flourishing Eirene, who watch over the work of mortal people. She also bore the Fates, whom Zeus the wise planner honored above all: Clotho, Lachesis, and Atropos, who give mortal people their share of good and bad.
+
+Eurynome, the lovely daughter of Oceanus, bore Zeus three Graces with beautiful cheeks: Aglaia, Euphrosyne, and lovely Thalia. From their eyes, as they looked, flowed desire that melts the limbs. Beautiful were their glances beneath their brows.
+
+Then Zeus lay with Demeter, who feeds so many. She bore white-armed Persephone, whom Aidoneus snatched away from her mother. Zeus the wise planner gave her to him.
+
+Then Zeus fell in love with lovely-haired Mnemosyne. She bore him the nine Muses with golden headbands, who delight in feasts and the joy of song.
+
+p058 (918–929): Leto joined in love with Zeus, who bears the aegis, and gave birth to Apollo and Artemis the archer—children lovelier than all the other gods of heaven.
+
+Last of all, Zeus made Hera in her full bloom his wife. She joined in love with the king of gods and humans and bore Hebe, Ares, and Eileithyia.
+
+Zeus himself brought forth bright-eyed Tritogeneia from his own head: Athena, the fearsome, tireless goddess who stirs up battle and leads armies. She delights in the clash of fighting, in wars and battles.
+
+Hera, furious with her husband and quarreling with him, gave birth to famous Hephaestus without joining anyone in love. He surpassed all the gods of heaven in craftsmanship.
+
+p059 (930–946): From Amphitrite and the thundering Earth-shaker Poseidon came great Triton, mighty in strength. This fearsome god lives in a golden house at the bottom of the sea, beside his dear mother and his father the king.
+
+Cytherea bore Phobos and Deimos to Ares, who pierces shields. These terrifying sons throw tightly packed ranks of warriors into confusion in chilling war, alongside Ares the city-sacker. She also bore Harmonia, whom bold Cadmus made his wife.
+
+Maia, daughter of Atlas, entered Zeus's sacred bed and bore him glorious Hermes, messenger of the immortals.
+
+Semele, daughter of Cadmus, joined Zeus in love and bore him a splendid son, Dionysus, full of joy. She was mortal; her son was immortal. Now both are gods.
+
+Alcmene joined in love with Zeus the cloud-gatherer and gave birth to mighty Heracles.
+
+And Hephaestus, the famous god with disabled legs, made flourishing Aglaia, the youngest of the Graces, his wife.
+
+p060 (947–962): Golden-haired Dionysus made fair-haired Ariadne, daughter of Minos, his wife in her full bloom. For his sake, Zeus son of Cronus made her immortal and free from aging.
+
+After completing his painful labors, mighty Heracles, the brave son of Alcmene with her lovely ankles, made honored Hebe his wife on snowy Olympus. She is the daughter of great Zeus and Hera of the golden sandals. Happy Heracles! His great work accomplished, he lives among the immortals, free from harm and aging for all time.
+
+The renowned Perseis, a daughter of Oceanus, bore Circe and King Aeetes to tireless Helios. Aeetes, son of Helios who shines on mortals, married beautiful-cheeked Idyia, a daughter of Oceanus, the river that circles the world. This marriage followed the gods' wishes. Through golden Aphrodite's power, Idyia yielded to Aeetes in love and bore him Medea with her lovely ankles.
+
+GREEK CONTEXT BEFORE (do not translate)
+895: πρώτην μὲν κούρην γλαυκώπιδα Τριτογένειαν
+896: ἶσον ἔχουσαν πατρὶ μένος καὶ ἐπίφρονα βουλήν.
+897: αὐτὰρ ἔπειτʼ ἄρα παῖδα θεῶν βασιλῆα καὶ ἀνδρῶν
+898: ἤμελλεν τέξεσθαι, ὑπέρβιον ἦτορ ἔχοντα·
+899: ἀλλʼ ἄρα μιν Ζεὺς πρόσθεν ἑὴν ἐσκάτθετο νηδύν,
+900: ὡς δή οἱ φράσσαιτο θεὰ ἀγαθόν τε κακόν τε.
+
+>>> TRANSLATE THESE GREEK VERSES: 901-962 <<<
+901: δεύτερον ἠγάγετο λιπαρὴν Θέμιν, ἣ τέκεν Ὥρας,
+902: Εὐνομίην τε Δίκην τε καὶ Εἰρήνην τεθαλυῖαν,
+903: αἳ ἔργʼ ὠρεύουσι καταθνητοῖσι βροτοῖσι,
+904: Μοίρας θʼ, ᾗ πλείστην τιμὴν πόρε μητίετα Ζεύς,
+905: Κλωθώ τε Λάχεσίν τε καὶ Ἄτροπον, αἵτε διδοῦσι
+906: θνητοῖς ἀνθρώποισιν ἔχειν ἀγαθόν τε κακόν τε.
+907: τρεῖς δέ οἱ Εὐρυνομη Χάριτας τέκε καλλιπαρῄους,
+908: Ὠκεανοῦ κούρη, πολυήρατον εἶδος ἔχουσα,
+909: Ἀγλαΐην τε καὶ Εὐφροσύνην Θαλίην τʼ ἐρατεινήν·
+910: τῶν καὶ ἀπὸ βλεφάρων ἔρος εἴβετο δερκομενάων
+911: λυσιμελής· καλὸν δέ θʼ ὑπʼ ὀφρύσι δερκιόωνται.
+912: αὐτὰρ ὁ Δήμητρος πολυφόρβης ἐς λέχος ἦλθεν,
+913: ἣ τέκε Περσεφόνην λευκώλενον, ἣν Ἀιδωνεὺς
+914: ἥρπασε ἧς παρὰ μητρός· ἔδωκε δὲ μητίετα Ζεύς.
+915: Μνημοσύνης δʼ ἐξαῦτις ἐράσσατο καλλικόμοιο,
+916: ἐξ ἧς οἱ Μοῦσαι χρυσάμπυκες ἐξεγένοντο
+917: ἐννέα, τῇσιν ἅδον θαλίαι καὶ τέρψις ἀοιδῆς.
+918: Λητὼ δʼ Ἀπόλλωνα καὶ Ἄρτεμιν ἰοχέαιραν,
+919: ἱμερόεντα γόνον περὶ πάντων Οὐρανιώνων,
+920: γείνατʼ ἄρʼ αἰγιόχοιο Διὸς φιλότητι μιγεῖσα.
+921: λοισθοτάτην δʼ Ἥρην θαλερὴν ποιήσατʼ ἄκοιτιν·
+922: ἣ δʼ Ἥβην καὶ Ἄρηα καὶ Εἰλείθυιαν ἔτικτε
+923: μιχθεῖσʼ ἐν φιλότητι θεῶν βασιλῆι καὶ ἀνδρῶν.
+924: αὐτὸς δʼ ἐκ κεφαλῆς γλαυκώπιδα Τριτογένειαν
+925: δεινὴν ἐγρεκύδοιμον ἀγέστρατον Ἀτρυτώνην
+926: πότνιαν, ᾗ κέλαδοί τε ἅδον πόλεμοί τε μάχαι τε,
+927: Ἥρη δʼ Ἥφαιστον κλυτὸν οὐ φιλότητι μιγεῖσα
+928: γείνατο, καὶ ζαμένησε καὶ ἤρισε ᾧ παρακοίτῃ,
+929: ἐκ πάντων τέχνῃσι κεκασμένον Οὐρανιώνων.
+930: Ἐκ δʼ Ἀμφιτρίτης καὶ ἐρικτύπου Ἐννοσιγαίου
+931: Τρίτων εὐρυβίης γένετο μέγας, ὅστε θαλάσσης
+932: πυθμένʼ ἔχων παρὰ μητρὶ φίλῃ καὶ πατρὶ ἄνακτι
+933: ναίει χρύσεα δῶ, δεινὸς θεός. αὐτὰρ Ἄρηι
+934: ῥινοτόρῳ Κυθέρεια Φόβον καὶ Δεῖμον ἔτικτε
+935: δεινούς, οἵτʼ ἀνδρῶν πυκινὰς κλονέουσι φάλαγγας
+936: ἐν πολέμῳ κρυόεντι σὺν Ἄρηι πτολιπόρθῳ,
+937: Ἁρμονίην θʼ, ἣν Κάδμος ὑπέρθυμος θέτʼ ἄκοιτιν.
+938: Ζηνὶ δʼ ἄρʼ Ἀτλαντὶς Μαίη τέκε κύδιμον Ἑρμῆν,
+939: κήρυκʼ ἀθανάτων, ἱερὸν λέχος εἰσαναβᾶσα.
+940: Καδμείη δʼ ἄρα οἱ Σεμέλη τέκε φαίδιμον υἱὸν
+941: μιχθεῖσʼ ἐν φιλότητι, Διώνυσον πολυγηθέα,
+942: ἀθάνατον θνητή· νῦν δʼ ἀμφότεροι θεοί εἰσιν.
+943: Ἀλκμήνη δʼ ἄρʼ ἔτικτε βίην Ἡρακληείην
+944: μιχθεῖσʼ ἐν φιλότητι Διὸς νεφεληγερέταο.
+945: ἀγλαΐην δʼ Ἥφαιστος, ἀγακλυτὸς ἀμφιγυήεις,
+946: ὁπλοτάτην Χαρίτων θαλερὴν ποιήσατʼ ἄκοιτιν.
+947: χρυσοκόμης δὲ Διώνυσος ξανθὴν Ἀριάδνην,
+948: κούρην Μίνωος, θαλερὴν ποιήσατʼ ἄκοιτιν.
+949: τὴν δέ οἱ ἀθάνατον καὶ ἀγήρω θῆκε Κρονίων.
+950: ἥβην δʼ Ἀλκμήνης καλλισφύρου ἄλκιμος υἱός,
+951: ἲς Ἡρακλῆος, τελέσας στονόεντας ἀέθλους,
+952: παῖδα Διὸς μεγάλοιο καὶ Ἥρης χρυσοπεδίλου,
+953: αἰδοίην θέτʼ ἄκοιτιν ἐν Οὐλύμπῳ νιφόεντι,
+954: ὄλβιος, ὃς μέγα ἔργον ἐν ἀθανάτοισιν ἀνύσσας
+955: ναίει ἀπήμαντος καὶ ἀγήραος ἤματα πάντα.
+956: ἠελίῳ δʼ ἀκάμαντι τέκεν κλυτὸς Ὠκεανίνη
+957: Περσηὶς Κίρκην τε καὶ Αἰήτην βασιλῆα.
+958: Αἰήτης δʼ υἱὸς φαεσιμβρότου Ἠελίοιο
+959: κούρην Ὠκεανοῖο τελήεντος ποταμοῖο
+960: γῆμε θεῶν βουλῇσιν Ἰδυῖαν καλλιπάρῃον.
+961: ἣ δέ οἱ Μήδειαν ἐύσφυρον ἐν φιλότητι
+962: γείναθʼ ὑποδμηθεῖσα διὰ χρυσέην Ἀφροδίτην.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+963: ὑμεῖς μὲν νῦν χαίρετʼ, Ὀλύμπια δώματʼ ἔχοντες,
+964: νῆσοί τʼ ἤπειροί τε καὶ ἁλμυρὸς ἔνδοθι πόντος.
+965: νῦν δὲ θεάων φῦλον ἀείσατε, ἡδυέπειαι
+966: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο,
+967: ὅσσαι δὴ θνητοῖσι παρʼ ἀνδράσιν εὐνηθεῖσαι
+968: ἀθάναται γείναντο θεοῖς ἐπιείκελα τέκνα.

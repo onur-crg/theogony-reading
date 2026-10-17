@@ -1,0 +1,98 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p044 (654–663): So Zeus spoke, and noble Cottus answered:
+
+“Mighty god, what you tell us is no mystery. We know for ourselves how far your wisdom and understanding reach beyond all others. You have shielded the immortal gods from chilling ruin. Thanks to your good judgment, we have come back from the misty darkness, free of merciless chains, after suffering beyond imagining, Lord Zeus, son of Cronus. So now, with steady minds and careful planning, we will defend your power in this terrible war, fighting the Titans through the fiercest battles.”
+
+p045 (664–686): So Cottus spoke. The gods, the givers of good things, approved his words, and their hearts longed for war even more than before. That day they all stirred up a dreadful battle, female and male alike: the Titan gods, the children of Cronus, and those Zeus had brought up into the light from Erebus beneath the earth—terrifying, powerful beings with overwhelming strength.
+
+Each of those giants had a hundred hands springing from his shoulders, and fifty heads grew from his shoulders above his sturdy limbs. Now they faced the Titans in deadly battle, gripping towering rocks in their powerful hands. Across from them, the Titans eagerly tightened their battle ranks. Both sides showed what their hands and strength could do.
+
+The boundless sea roared terribly all around. The earth crashed aloud; the wide sky shook and groaned. Tall Olympus shuddered from its base under the immortals’ onslaught. Deep tremors reached misty Tartarus, along with the piercing roar of feet in the endless rush of battle and the crash of mighty blows. So they hurled their weapons of pain at one another. The cries of both sides reached the starry sky as they called out and clashed with a mighty battle shout.
+
+p046 (687–710): Now Zeus no longer held back his fury. At once it filled his heart, and he revealed his full strength. From heaven and Olympus he advanced, flashing lightning without a pause. Thunderbolts flew thick and fast from his powerful hand, with thunder and lightning, whirling sacred flame.
+
+All around, the life-giving earth burned and roared. Vast forests crackled loudly in the fire. All the land boiled, and so did the streams of Oceanus and the barren sea. Hot vapor wrapped the earthbound Titans, and an immense flame reached the bright upper air. The dazzling glare of thunderbolt and lightning blinded their eyes, strong as they were.
+
+An astonishing heat filled Chaos. To see it with your own eyes and hear it with your own ears was just as though Gaia, the Earth, and wide Ouranos, the Sky above, were crashing together. Such a mighty roar would rise if Gaia were collapsing and Ouranos came crashing down from high above. So great was the crash as the gods met in battle.
+
+The winds roared amid the shaking and dust, the thunder and lightning and smoking thunderbolts—the weapons of great Zeus. They carried cries and shouts between the two armies. An immense uproar rose from that dreadful conflict, and the gods’ deeds revealed their strength.
+
+GREEK CONTEXT BEFORE (do not translate)
+648: Τιτῆνές τε θεοὶ καὶ ὅσοι Κρόνου ἐκγενόμεσθα.
+649: ὑμεῖς δὲ μεγάλην τε βίην καὶ χεῖρας ἀάπτους
+650: φαίνετε Τιτήνεσσιν ἐναντίοι ἐν δαῒ λυγρῇ
+651: μνησάμενοι φιλότητος ἐνηέος, ὅσσα παθόντες
+652: ἐς φάος ἂψ ἀφίκεσθε δυσηλεγέος ὑπὸ δεσμοῦ
+653: ἡμετέρας διὰ βουλὰς ὑπὸ ζόφου ἠερόεντος.
+
+>>> TRANSLATE THESE GREEK VERSES: 654-710 <<<
+654: ὣς φάτο· τὸν δʼ ἐξαῦτις ἀμείβετο Κόττος ἀμύμων·
+655: Δαιμόνιʼ, οὐκ ἀδάητα πιφαύσκεαι· ἀλλὰ καὶ αὐτοὶ
+656: ἴδμεν, ὅ τοι περὶ μὲν πραπίδες, περὶ δʼ ἐστὶ νόημα,
+657: ἀλκτὴρ δʼ ἀθανάτοισιν ἀρῆς γένεο κρυεροῖο.
+658: σῇσι δʼ ἐπιφροσύνῃσιν ὑπὸ ζόφου ἠερόεντος
+659: ἄψορρον δʼ† ἐξαῦτις ἀμειλίκτων ὑπὸ δεσμῶν
+660: ἠλύθομεν, Κρόνου υἱὲ ἄναξ, ἀνάελπτα παθόντες.
+661: τῷ καὶ νῦν ἀτενεῖ τε νόῳ καὶ ἐπίφρονι βουλῇ
+662: ῥυσόμεθα κράτος ὑμὸν ἐν αἰνῇ δηϊοτῆτι
+663: μαρνάμενοι Τιτῆσιν ἀνὰ κρατερὰς ὑσμίνας.
+664: ὣς φάτʼ· ἐπῄνεσσαν δὲ θεοί, δωτῆρες ἐάων,
+665: μῦθον ἀκούσαντες· πολέμου δʼ ἐλιλαίετο θυμὸς
+666: μᾶλλον ἔτʼ ἢ τὸ πάροιθε· μάχην δʼ ἀμέγαρτον ἔγειραν
+667: πάντες, θήλειαι τε καὶ ἄρσενες, ἤματι κείνῳ,
+668: Τιτῆνές τε θεοὶ καὶ ὅσοι Κρόνου ἐξεγένοντο,
+669: οὕς τε Ζεὺς Ἐρέβευσφιν ὑπὸ χθονὸς ἧκε φόωσδε
+670: δεινοί τε κρατεροί τε, βίην ὑπέροπλον ἔχοντες.
+671: τῶν ἑκατὸν μὲν χεῖρες ἀπʼ ὤμων ἀίσσοντο
+672: πᾶσιν ὁμῶς, κεφαλαὶ δὲ ἑκάστῳ πεντήκοντα
+673: ἐξ ὤμων ἐπέφυκον ἐπὶ στιβαροῖσι μέλεσσιν.
+674: οἳ τότε Τιτήνεσσι κατέσταθεν ἐν δαῒ λυγρῇ
+675: πέτρας ἠλιβάτους στιβαρῇς ἐν χερσὶν ἔχοντες.
+676: Τιτῆνες δʼ ἑτέρωθεν ἐκαρτύναντο φάλαγγας
+677: προφρονέως, χειρῶν τε βίης θʼ ἅμα ἔργον ἔφαινον
+678: ἀμφότεροι· δεινὸν δὲ περίαχε πόντος ἀπείρων,
+679: γῆ δὲ μέγʼ ἐσμαράγησεν, ἐπέστενε δʼ οὐρανὸς εὐρὺς
+680: σειόμενος, πεδόθεν δὲ τινάσσετο μακρὸς Ὄλυμπος
+681: ῥιπῇ ὕπʼ ἀθανάτων, ἔνοσις δʼ ἵκανε βαρεῖα
+682: Τάρταρον ἠερόεντα, ποδῶν τʼ αἰπεῖα ἰωὴ
+683: ἀσπέτου ἰωχμοῖο βολάων τε κρατεράων·
+684: ὣς ἄρʼ ἐπʼ ἀλλήλοις ἵεσαν βέλεα στονόεντα.
+685: φωνὴ δʼ ἀμφοτέρων ἵκετʼ οὐρανὸν ἀστερόεντα
+686: κεκλομένων· οἳ δὲ ξύνισαν μεγάλῳ ἀλαλητῷ.
+687: οὐδʼ ἄρʼ ἔτι Ζεὺς ἴσχεν ἑὸν μένος, ἀλλά νυ τοῦ γε
+688: εἶθαρ μὲν μένεος πλῆντο φρένες, ἐκ δέ τε πᾶσαν
+689: φαῖνε βίην· ἄμυδις δʼ ἄρʼ ἀπʼ οὐρανοῦ ἠδʼ ἀπʼ Ὀλύμπου
+690: ἀστράπτων ἔστειχε συνωχαδόν· οἱ δὲ κεραυνοὶ
+691: ἴκταρ ἅμα βροντῇ τε καὶ ἀστεροπῇ ποτέοντο
+692: χειρὸς ἄπο στιβαρῆς, ἱερὴν φλόγα εἰλυφόωντες
+693: ταρφέες· ἀμφὶ δὲ γαῖα φερέσβιος ἐσμαράγιζε
+694: καιομένη, λάκε δʼ ἀμφὶ πυρὶ μεγάλʼ ἄσπετος ὕλη.
+695: ἔζεε δὲ χθὼν πᾶσα καὶ Ὠκεανοῖο ῥέεθρα
+696: πόντος τʼ ἀτρύγετος· τοὺς δʼ ἄμφεπε θερμὸς ἀυτμὴ
+697: Τιτῆνας χθονίους, φλὸξ δʼ αἰθέρα δῖαν ἵκανεν
+698: ἄσπετος, ὄσσε δʼ ἄμερδε καὶ ἰφθίμων περ ἐόντων
+699: αὐγὴ μαρμαίρουσα κεραυνοῦ τε στεροπῆς τε.
+700: καῦμα δὲ θεσπέσιον κάτεχεν Χάος· εἴσατο δʼ ἄντα
+701: ὀφθαλμοῖσιν ἰδεῖν ἠδʼ οὔασι ὄσσαν ἀκοῦσαι
+702: αὔτως, ὡς εἰ Γαῖα καὶ Οὐρανὸς εὐρὺς ὕπερθε
+703: πίλνατο· τοῖος γάρ κε μέγας ὑπὸ δοῦπος ὀρώρει
+704: τῆς μὲν ἐρειπομένης, τοῦ δʼ ὑψόθεν ἐξεριπόντος·
+705: τόσσος δοῦπος ἔγεντο θεῶν ἔριδι ξυνιόντων.
+706: σὺν δʼ ἄνεμοι ἔνοσίν τε κονίην τʼ ἐσφαράγιζον
+707: βροντήν τε στεροπήν τε καὶ αἰθαλόεντα κεραυνόν,
+708: κῆλα Διὸς μεγάλοιο, φέρον δʼ ἰαχήν τʼ ἐνοπήν τε
+709: ἐς μέσον ἀμφοτέρων· ὄτοβος δʼ ἄπλητος ὀρώρει
+710: σμερδαλέης ἔριδος, κάρτος δʼ ἀνεφαίνετο ἔργων.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+711: ἐκλίνθη δὲ μάχη· πρὶν δʼ ἀλλήλοις ἐπέχοντες
+712: ἐμμενέως ἐμάχοντο διὰ κρατερὰς ὑσμίνας.
+713: οἳ δʼ ἄρʼ ἐνὶ πρώτοισι μάχην δριμεῖαν ἔγειραν
+714: Κόττος τε Βριάρεώς τε Γύης τʼ ἄατος πολέμοιο,
+715: οἵ ῥα τριηκοσίας πέτρας στιβαρῶν ἀπὸ χειρῶν
+716: πέμπον ἐπασσυτέρας, κατὰ δʼ ἐσκίασαν βελέεσσι

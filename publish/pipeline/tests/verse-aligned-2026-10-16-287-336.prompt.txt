@@ -1,0 +1,144 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p022 (287–305): Chrysaor fathered three-headed Geryon
+with Callirhoe, daughter of Oceanus,
+the famous river god who circles the world.
+Mighty Heracles killed Geryon
+beside his cattle with their rolling walk,
+on Erytheia, an island surrounded by water.
+That day he drove the broad-browed cattle
+to the sacred city of Tiryns,
+crossing the stream of Oceanus,
+after killing Orthus, the watchdog,
+and Eurytion, the cattle herder,
+in their misty cattle shelter beyond famous Oceanus.
+
+She also bore another monster, impossible to overcome,
+nothing like mortal humans or the deathless gods:
+fierce-hearted, divine Echidna, born in a hollow cave.
+Half of her was a nymph, a female nature spirit,
+with lovely cheeks and lively eyes;
+the other half was a monstrous snake, huge and dreadful,
+with a dappled skin, eating flesh raw
+in the hidden depths of the sacred earth.
+Her cave lies beneath a hollow rock,
+far from deathless gods and mortal humans.
+There the gods assigned her a splendid home.
+There dreadful Echidna keeps watch underground,
+in the land of the Arimoi—
+a nymph who never dies or grows old, through all her days.
+
+p023 (306–336): They say Typhaon, a monstrous being,
+terrible, violent, and lawless,
+joined in love with that bright-eyed girl, Echidna.
+She became pregnant and bore fierce-hearted children.
+
+First she bore Orthus, the dog who served Geryon.
+Then came Cerberus, a monster beyond description,
+impossible to overcome: the raw-flesh-eating dog
+of Hades, god of the dead,
+with a voice like bronze and fifty heads,
+merciless and strong.
+Third she bore the Hydra of Lerna,
+a water monster skilled in deadly harm.
+The white-armed goddess Hera raised her,
+in boundless anger at mighty Heracles.
+But Heracles, son of Zeus, the chief god,
+and known as Amphitryon’s son,
+killed her with pitiless bronze,
+helped by Iolaus, who loved battle,
+and guided by Athena, goddess of battle and its spoils.
+
+She also bore the Chimera, breathing unstoppable fire,
+terrible and huge, swift-footed and strong.
+She had three heads: one a fierce-eyed lion’s,
+one a goat’s, and one a snake’s—a mighty serpent’s.
+Pegasus, the winged horse, and brave Bellerophon
+brought her down.
+
+After mating with Orthus, she bore the deadly Sphinx,
+a monster that brought ruin to the people of Thebes,
+and the lion of Nemea.
+Hera, Zeus’s glorious wife, raised that lion
+and settled him in Nemea’s hills, a curse on humans.
+Living there, he ravaged the local people,
+ruling over Tretus, Nemea, and Apesas.
+But mighty Heracles used his strength to bring him down.
+
+Ceto, a sea goddess, joined in love with Phorcys,
+a sea god, and bore her youngest child:
+a dreadful snake that guards the all-golden apples
+in the dark earth’s hidden places, at its vast outer limits.
+Such are the offspring of Ceto and Phorcys.
+
+GREEK CONTEXT BEFORE (do not translate)
+281: ἔκθορε Χρυσαωρ τε μέγας καὶ Πήγασος ἵππος.
+282: τῷ μὲν ἐπώνυμον ἦεν, ὅτʼ Ὠκεανοῦ περὶ πηγὰς
+283: γένθʼ, ὃ δʼ ἄορ χρύσειον ἔχων μετὰ χερσὶ φίλῃσιν.
+284: χὠ μὲν ἀποπτάμενος προλιπὼν χθόνα, μητέρα μήλων,
+285: ἵκετʼ ἐς ἀθανάτους· Ζηνὸς δʼ ἐν δώμασι ναίει
+286: βροντήν τε στεροπήν τε φέρων Διὶ μητιόεντι.
+
+>>> TRANSLATE THESE GREEK VERSES: 287-336 <<<
+287: Χρυσάωρ δʼ ἔτεκεν τρικέφαλον Γηρυονῆα
+288: μιχθεὶς Καλλιρόῃ κούρῃ κλυτοῦ Ὠκεανοῖο.
+289: τὸν μὲν ἄρʼ ἐξενάριξε βίη Ἡρακληείη
+290: βουσὶ παρʼ εἰλιπόδεσσι περιρρύτῳ εἰν Ἐρυθείῃ
+291: ἤματι τῷ ὅτε περ βοῦς ἤλασεν εὐρυμετώπους
+292: Τίρυνθʼ εἰς ἱερὴν διαβὰς πόρον Ὠκεανοῖο
+293: Ὄρθον τε κτείνας καὶ βουκόλον Εὐρυτίωνα
+294: σταθμῷ ἐν ἠερόεντι πέρην κλυτοῦ Ὠκεανοῖο.
+295: ἣ δʼ ἔτεκʼ ἄλλο πέλωρον ἀμήχανον, οὐδὲν ἐοικὸς
+296: θνητοῖς ἀνθρώποις οὐδʼ ἀθανάτοισι θεοῖσιν,
+297: σπῆι ἔνι γλαφυρῷ θείην κρατερόφρονʼ Ἔχιδναν,
+298: ἥμισυ μὲν νύμφην ἑλικώπιδα καλλιπάρῃον,
+299: ἥμισυ δʼ αὖτε πέλωρον ὄφιν δεινόν τε μέγαν τε
+300: αἰόλον ὠμηστὴν ζαθέης ὑπὸ κεύθεσι γαίης.
+301: ἔνθα δέ οἱ σπέος ἐστὶ κάτω κοίλῃ ὑπὸ πέτρῃ
+302: τηλοῦ ἀπʼ ἀθανάτων τε θεῶν θνητῶν τʼ ἀνθρώπων·
+303: ἔνθʼ ἄρα οἱ δάσσαντο θεοὶ κλυτὰ δώματα ναίειν.
+304: ἣ δʼ ἔρυτʼ εἰν Ἀρίμοισιν ὑπὸ χθονὶ λυγρὴ Ἔχιδνα,
+305: ἀθάνατος νύμφη καὶ ἀγήραος ἤματα πάντα.
+306: τῇ δὲ Τυφάονά φασι μιγήμεναι ἐν φιλότητι
+307: δεινόν θʼ ὑβριστήν τʼ ἄνομόν θʼ ἑλικώπιδι κούρῃ·
+308: ἣ δʼ ὑποκυσαμένη τέκετο κρατερόφρονα τέκνα.
+309: Ὄρθον μὲν πρῶτον κύνα γείνατο Γηρυονῆι·
+310: δεύτερον αὖτις ἔτικτεν ἀμήχανον, οὔ τι φατειὸν
+311: Κέρβερον ὠμηστήν, Ἀίδεω κύνα χαλκεόφωνον,
+312: πεντηκοντακέφαλον, ἀναιδέα τε κρατερόν τε·
+313: τὸ τρίτον Ὕδρην αὖτις ἐγείνατο λυγρὰ ἰδυῖαν
+314: Λερναίην, ἣν θρέψε θεὰ λευκώλενος Ἥρη
+315: ἄπλητον κοτέουσα βίῃ Ἡρακληείῃ.
+316: καὶ τὴν μὲν Διὸς υἱὸς ἐνήρατο νηλέι χαλκῷ
+317: Ἀμφιτρυωνιάδης σὺν ἀρηιφίλῳ Ἰολάῳ
+318: Ηρακλέης βουλῇσιν Ἀθηναίης ἀγελείης.
+319: ἣ δὲ Χίμαιραν ἔτικτε πνέουσαν ἀμαιμάκετον πῦρ,
+320: δεινήν τε μεγάλην τε ποδώκεά τε κρατερήν τε·
+321: τῆς δʼ ἦν τρεῖς κεφαλαί· μία μὲν χαροποῖο λέοντος,
+322: ἣ δὲ χιμαίρης, ἣ δʼ ὄφιος, κρατεροῖο δράκοντος,
+323: [del: πρόσθε λέων, ὄπιθεν δὲ δράκων, μέσση δὲ χίμαιρα,]
+324: [del: δεινὸν ἀποπνείουσα πυρὸς μένος αἰθομένοιο.]
+325: τὴν μὲν Πήγασος εἷλε καὶ ἐσθλὸς Βελλεροφόντης.
+326: ἣ δʼ ἄρα Φῖκʼ ὀλοὴν τέκε Καδμείοισιν ὄλεθρον
+327: Ὅρθῳ ὑποδμηθεῖσα Νεμειαῖόν τε λέοντα,
+328: τόν ῥʼ Ἥρη θρέψασα Διὸς κυδρὴ παράκοιτις
+329: γουνοῖσιν κατένασσε Νεμείης, πῆμʼ ἀνθρώποις.
+330: ἔνθʼ ἄρʼ ὃ οἰκείων ἐλεφαίρετο φῦλʼ ἀνθρώπων,
+331: κοιρανέων Τρητοῖο Νεμείης ἠδʼ Ἀπέσαντος·
+332: ἀλλά ἑ ἲς ἐδάμασσε βίης Ἡρακληείης.
+333: Κητὼ δʼ ὁπλότατον Φόρκυι φιλότητι μιγεῖσα
+334: γείνατο δεινὸν ὄφιν, ὃς ἐρεμνῆς κεύθεσι γαίης
+335: πείρασιν ἐν μεγάλοις παγχρύσεα μῆλα φυλάσσει.
+336: τοῦτο μὲν ἐκ Κητοῦς καὶ Φόρκυνος γένος ἐστίν.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+337: Τηθὺς δʼ Ὠκεανῷ Ποταμοὺς τέκε δινήεντας,
+338: Νεῖλόν τʼ Ἀλφειόν τε καὶ Ἠριδανὸν βαθυδίνην
+339: Στρυμόνα Μαίανδρόν τε καὶ Ἴστρον καλλιρέεθρον
+340: Φᾶσίν τε Ῥῆσόν τʼ Ἀχελώιόν τʼ ἀργυροδίνην
+341: Νέσσον τε Ῥοδίον θʼ Ἁλιάκμονά θʼ Ἑπτάπορόν τε
+342: Γρήνικόν τε καὶ Αἴσηπον θεῖόν τε Σιμοῦντα

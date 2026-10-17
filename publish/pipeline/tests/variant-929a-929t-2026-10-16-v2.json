@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "id": "v929",
+      "start": 929,
+      "end": 929,
+      "heading": "A separate account of Athena’s birth",
+      "translation": "Hera raged and quarreled with her husband.\nOut of this quarrel she bore a glorious son,\nHephaestus, without making love with Zeus, who carries the aegis.\nHis handiwork surpassed that of all the heavenly gods.\nBut Zeus, away from Hera, lay with the lovely-cheeked daughter\nof Oceanus and Tethys with her beautiful hair.\n\n[Gap in the Greek source]\n\nHe deceived Metis, though she knew so many tricks.\nHe seized her in his hands and put her inside his belly,\nafraid she might bear another child stronger than his thunderbolt.\nThat was why Zeus, son of Cronus, enthroned on high,\nliving in the upper air, suddenly swallowed her.\nAt once she conceived Pallas Athena.\nThen the father of gods and humans gave birth to Athena\nfrom his head, beside the banks of the river Triton.\n\nMetis, Athena’s mother, stayed hidden\nbeneath the organs inside Zeus’s body.\nShe shaped what was right and knew more\nthan all the gods and mortal humans.\nThere the goddess had found a place; from there,\nher handiwork surpassed that of all the immortals\nwho have their homes on Olympus.\n[She made the aegis, Athena’s armor that sends armies fleeing.]\nWith it, Zeus brought Athena to birth, wearing her battle gear.",
+      "summary": "In this separate version, Hera bears Hephaestus without Zeus. Zeus swallows Metis, who conceives Athena inside him. Athena is born from his head, equipped for battle.",
+      "cards": [
+        {
+          "id": "hera",
+          "label": "Hera",
+          "general": "A goddess and Zeus’s wife.",
+          "here": "After quarreling with Zeus, she bears Hephaestus without him."
+        },
+        {
+          "id": "hephaestus",
+          "label": "Hephaestus",
+          "general": "The god of metalworking and skilled craftsmanship.",
+          "here": "Hera’s son, whose handiwork surpasses that of the other heavenly gods."
+        },
+        {
+          "id": "zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, whose weapon is the thunderbolt.",
+          "here": "He swallows Metis and later gives birth to Athena from his head."
+        },
+        {
+          "id": "cronus",
+          "label": "Cronus",
+          "general": "Zeus’s father, who ruled the gods before him.",
+          "here": "The poem calls Zeus “son of Cronus.”"
+        },
+        {
+          "id": "oceanus_tethys",
+          "label": "Oceanus and Tethys",
+          "general": "Ancient water deities, parents of rivers and many goddesses.",
+          "here": "Their daughter is the woman Zeus sleeps with, apparently Metis."
+        },
+        {
+          "id": "metis",
+          "label": "Metis",
+          "general": "A goddess of intelligence and cunning.",
+          "here": "Athena’s mother, who remains inside Zeus after he swallows her."
+        },
+        {
+          "id": "athena",
+          "label": "Pallas Athena",
+          "general": "A goddess of wisdom, crafts, and warfare. Pallas is another name used for her.",
+          "here": "She is born from Zeus’s head wearing battle gear."
+        },
+        {
+          "id": "triton",
+          "label": "Triton",
+          "general": "The name of a river whose location is uncertain.",
+          "here": "Athena’s birth takes place beside its banks."
+        },
+        {
+          "id": "olympus",
+          "label": "Olympus",
+          "general": "The mountain where the gods have their homes.",
+          "here": "The poem compares the goddess’s skill with that of all the gods living there."
+        },
+        {
+          "id": "aegis",
+          "label": "Aegis",
+          "general": "A divine protective covering, often pictured as a shield or cloak.",
+          "here": "The bracketed line describes it as Athena’s armor, terrifying enough to scatter armies."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "These supplementary verses are translated as a separate textual variant, not incorporated into the main numbered text.",
+    "The source has a gap after 929f. Its extent and missing words are unknown; no connecting words have been supplied.",
+    "The daughter of Oceanus and Tethys in 929e–f is apparently Metis, but the gap interrupts the connection.",
+    "The wording and connections in 929q–r are obscure. “Had found a place” interprets παρέδεκτο as “had been received” inside Zeus, with Metis as the goddess. The connection expressed by “from there” is also uncertain.",
+    "Line 929s is marked as deleted in the supplied text. It is included in square brackets as requested. “She” is taken to mean Metis; the following line is understood to describe Zeus bringing Athena to birth with the aegis."
+  ]
+}

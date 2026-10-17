@@ -1,0 +1,378 @@
+{
+  "sections": [
+    {
+      "id": "p001",
+      "start": 1,
+      "end": 8,
+      "heading": "Dancing on Helicon",
+      "translation": "Let us begin our song with the Muses, goddesses of song,\nwho live on Helicon, the great and sacred mountain.\nOn soft feet they dance around the violet-dark spring\nand the altar of mighty Zeus, the son of Cronus.\nAfter washing their tender skin in the river Permessus,\nor the Horse’s Spring, or the sacred river Olmeius,\nthey form lovely, graceful dances high on Helicon,\ntheir feet moving with force.",
+      "summary": "The Muses wash in sacred waters and dance on Mount Helicon.",
+      "cards": [
+        {
+          "id": "p001-muses",
+          "label": "Muses",
+          "general": "Goddesses who inspire song and poetry.",
+          "here": "They dance on their sacred mountain."
+        },
+        {
+          "id": "p001-helicon",
+          "label": "Helicon",
+          "general": "A mountain in Greece associated with the Muses.",
+          "here": "Its springs and heights are places where they wash and dance."
+        },
+        {
+          "id": "p001-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the Greek gods.",
+          "here": "The Muses dance around his altar."
+        },
+        {
+          "id": "p001-cronus",
+          "label": "Cronus",
+          "general": "A god of the older generation, called the Titans.",
+          "here": "He is named as Zeus’s father."
+        },
+        {
+          "id": "p001-altar",
+          "label": "Altar",
+          "general": "A structure where people make offerings to a god.",
+          "here": "This altar belongs to Zeus."
+        },
+        {
+          "id": "p001-permessus",
+          "label": "Permessus",
+          "general": "A river near Mount Helicon.",
+          "here": "One of the waters where the Muses bathe."
+        },
+        {
+          "id": "p001-horses-spring",
+          "label": "Horse’s Spring",
+          "general": "A spring on Helicon, also called Hippocrene.",
+          "here": "Another bathing place for the Muses."
+        },
+        {
+          "id": "p001-olmeius",
+          "label": "Olmeius",
+          "general": "A river near Mount Helicon.",
+          "here": "Hesiod calls its waters sacred."
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "start": 9,
+      "end": 21,
+      "heading": "A Song Full of Gods",
+      "translation": "From there they set out, wrapped in thick mist,\nwalking through the night, their beautiful voices rising.\nThey sing of Zeus, who carries the aegis, his shield of power;\nof majestic Hera of Argos, walking in golden sandals;\nof bright-eyed Athena, daughter of aegis-bearing Zeus;\nof shining Apollo and Artemis, who showers arrows;\nof Poseidon, who holds the earth and shakes it;\nof honored Themis, goddess of justice, and Aphrodite,\ngoddess of love, with her curling lashes;\nof Hebe, goddess of youth, crowned in gold, and beautiful Dione;\nof Leto, Apollo and Artemis’s mother, and the Titan Iapetus;\nof Cronus with his crafty plans;\nof Eos the Dawn, great Helios the Sun, and bright Selene the Moon;\nof Gaia the Earth, great Oceanus, the river around the world,\nand black Night, and the sacred family\nof all the other gods who live forever.",
+      "summary": "Hidden in mist, the Muses travel at night and sing about the gods.",
+      "cards": [
+        {
+          "id": "p002-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods and father of Athena.",
+          "here": "He carries the aegis and begins the list of gods."
+        },
+        {
+          "id": "p002-aegis",
+          "label": "Aegis",
+          "general": "A divine protective object, pictured as a shield or cloak.",
+          "here": "Carrying it marks Zeus’s power."
+        },
+        {
+          "id": "p002-hera",
+          "label": "Hera",
+          "general": "Zeus’s wife and queen of the gods.",
+          "here": "She is linked with Argos and wears golden sandals."
+        },
+        {
+          "id": "p002-argos",
+          "label": "Argos",
+          "general": "A Greek city and surrounding region where Hera was worshipped.",
+          "here": "Hesiod calls Hera “of Argos.”"
+        },
+        {
+          "id": "p002-athena",
+          "label": "Athena",
+          "general": "Zeus’s daughter, a goddess of wisdom, crafts, and warfare.",
+          "here": "She is described as bright-eyed."
+        },
+        {
+          "id": "p002-apollo",
+          "label": "Apollo",
+          "general": "A god associated with music, prophecy, and archery.",
+          "here": "He is called shining, translating the name Phoebus."
+        },
+        {
+          "id": "p002-artemis",
+          "label": "Artemis",
+          "general": "A goddess of hunting and Apollo’s sister.",
+          "here": "She showers arrows."
+        },
+        {
+          "id": "p002-poseidon",
+          "label": "Poseidon",
+          "general": "A god of the sea and earthquakes.",
+          "here": "He holds the earth and shakes it."
+        },
+        {
+          "id": "p002-themis",
+          "label": "Themis",
+          "general": "A goddess of justice and rightful order.",
+          "here": "The Muses sing of her with honor."
+        },
+        {
+          "id": "p002-aphrodite",
+          "label": "Aphrodite",
+          "general": "The goddess of love and desire.",
+          "here": "Hesiod draws attention to her eyes or lashes."
+        },
+        {
+          "id": "p002-hebe",
+          "label": "Hebe",
+          "general": "The goddess of youth.",
+          "here": "She wears a golden crown."
+        },
+        {
+          "id": "p002-dione",
+          "label": "Dione",
+          "general": "A goddess whose name is closely related to Zeus’s.",
+          "here": "She is praised as beautiful."
+        },
+        {
+          "id": "p002-leto",
+          "label": "Leto",
+          "general": "The mother of Apollo and Artemis.",
+          "here": "She is among the gods praised in the song."
+        },
+        {
+          "id": "p002-iapetus",
+          "label": "Iapetus",
+          "general": "One of the Titans, the older generation of gods.",
+          "here": "He appears alongside Leto and Cronus."
+        },
+        {
+          "id": "p002-cronus",
+          "label": "Cronus",
+          "general": "A Titan and Zeus’s father.",
+          "here": "He is described as crafty in his planning."
+        },
+        {
+          "id": "p002-eos",
+          "label": "Eos",
+          "general": "Dawn imagined as a goddess.",
+          "here": "She is named alongside the Sun and Moon."
+        },
+        {
+          "id": "p002-helios",
+          "label": "Helios",
+          "general": "The Sun imagined as a god.",
+          "here": "Hesiod calls him great."
+        },
+        {
+          "id": "p002-selene",
+          "label": "Selene",
+          "general": "The Moon imagined as a goddess.",
+          "here": "She is described as bright."
+        },
+        {
+          "id": "p002-gaia",
+          "label": "Gaia",
+          "general": "The Earth imagined as a goddess.",
+          "here": "She is included among the eternal gods."
+        },
+        {
+          "id": "p002-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river believed to flow around the world.",
+          "here": "He is praised as great."
+        },
+        {
+          "id": "p002-night",
+          "label": "Night",
+          "general": "Night imagined as a goddess, called Nyx in Greek.",
+          "here": "She is described as black."
+        },
+        {
+          "id": "p002-immortal",
+          "label": "Immortal",
+          "general": "Able to live forever.",
+          "here": "The song praises the whole family of everlasting gods."
+        }
+      ]
+    },
+    {
+      "id": "p003",
+      "start": 22,
+      "end": 34,
+      "heading": "The Muses Give Hesiod a Voice",
+      "translation": "These were the goddesses who once taught Hesiod beautiful song\nwhile he tended lambs below sacred Helicon.\nThis is what they said to me first—\nthe Muses of Olympus, daughters of Zeus who carries the aegis:\n“Shepherds who live out in the fields, shameful creatures, nothing but bellies!\nWe know how to tell many lies that sound like the truth;\nand we know, when we choose, how to speak the truth.”\nSo spoke great Zeus’s daughters, their words clear and sure.\nThey plucked a branch from a flourishing laurel tree\nand gave it to me as a staff—a wonderful sight.\nThen they breathed a divine voice into me,\nso I could sing of things to come and things long past.\nThey told me to praise the family of blessed gods who live forever,\nand always to sing of the Muses themselves, first and last.",
+      "summary": "The Muses speak sharply to Hesiod, then give him a staff and the power to sing about the gods.",
+      "cards": [
+        {
+          "id": "p003-hesiod",
+          "label": "Hesiod",
+          "general": "The Greek poet speaking in this poem.",
+          "here": "He says the Muses taught him while he was tending lambs."
+        },
+        {
+          "id": "p003-muses",
+          "label": "Muses",
+          "general": "Goddesses who inspire poetry and song.",
+          "here": "They give Hesiod his poetic voice and tell him what to sing."
+        },
+        {
+          "id": "p003-helicon",
+          "label": "Helicon",
+          "general": "A sacred mountain in Greece.",
+          "here": "Hesiod meets the Muses below it."
+        },
+        {
+          "id": "p003-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "Calling the Muses “of Olympus” connects them with the divine household."
+        },
+        {
+          "id": "p003-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods.",
+          "here": "He is the Muses’ father and carries the divine aegis."
+        },
+        {
+          "id": "p003-bellies",
+          "label": "Nothing but bellies",
+          "general": "An insult suggesting that someone cares only about food.",
+          "here": "The Muses use it to mock the shepherds."
+        },
+        {
+          "id": "p003-laurel-staff",
+          "label": "Laurel staff",
+          "general": "A long stick made from a laurel tree, which has glossy evergreen leaves.",
+          "here": "The Muses give it to Hesiod as a sign of his new authority as a singer."
+        },
+        {
+          "id": "p003-divine",
+          "label": "Divine",
+          "general": "Coming from or belonging to the gods.",
+          "here": "Hesiod’s new singing voice comes from the Muses."
+        }
+      ]
+    },
+    {
+      "id": "p004",
+      "start": 35,
+      "end": 52,
+      "heading": "A Song That Fills Olympus",
+      "translation": "But why am I talking like this about oak or rock?\nCome, let us begin with the Muses.\nInside Olympus, the mountain home of the gods,\ntheir songs delight the great mind of Zeus their father.\nTheir voices join as they tell of what is,\nwhat will be, and what was before.\nSweet song flows tirelessly from their mouths.\nTheir father Zeus’s halls laugh with joy—\nZeus whose thunder booms—as the goddesses’ lily-delicate voices spread.\nThe peak of snowy Olympus echoes,\nand so do the homes of the immortal gods.\nSending out their deathless voices,\nthey first sing in praise of the gods’ honored family from the beginning:\nthose born to Gaia the Earth and wide Uranus the Sky,\nand the gods descended from them, the givers of good things.\nNext they sing of Zeus, father of gods and humans,\nat both the beginning and the end of their song:\nhow far he surpasses the gods, how greatest he is in power.\nThen they sing of humankind and the mighty Giants,\nthose powerful beings of the ancient divine world.\nSo the Muses of Olympus, daughters of aegis-bearing Zeus,\ndelight their father’s mind inside Olympus.",
+      "summary": "The Muses fill Olympus with song about the gods’ beginnings, Zeus’s power, humans, and Giants.",
+      "cards": [
+        {
+          "id": "p004-oak-rock",
+          "label": "Oak or rock",
+          "general": "An old expression whose exact meaning here is uncertain.",
+          "here": "Hesiod uses it as he breaks off his personal story and returns to the Muses."
+        },
+        {
+          "id": "p004-muses",
+          "label": "Muses",
+          "general": "Goddesses of song and poetry.",
+          "here": "Their united voices delight Zeus and make Olympus echo."
+        },
+        {
+          "id": "p004-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "Its snowy peak and divine halls ring with the Muses’ song."
+        },
+        {
+          "id": "p004-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods and the Muses’ father.",
+          "here": "Their song celebrates his supreme power."
+        },
+        {
+          "id": "p004-lily",
+          "label": "Lily-delicate",
+          "general": "A comparison with a lily flower, suggesting delicacy and beauty.",
+          "here": "Hesiod uses the flower image to describe the goddesses’ voices."
+        },
+        {
+          "id": "p004-gaia",
+          "label": "Gaia",
+          "general": "The Earth imagined as a goddess.",
+          "here": "She and Uranus are parents of an early generation of gods."
+        },
+        {
+          "id": "p004-uranus",
+          "label": "Uranus",
+          "general": "The Sky imagined as a god.",
+          "here": "With Gaia, he fathers the gods whose family history the Muses sing."
+        },
+        {
+          "id": "p004-giants",
+          "label": "Giants",
+          "general": "A race of powerful beings in Greek myth.",
+          "here": "They are a separate subject of the Muses’ song, alongside humankind."
+        },
+        {
+          "id": "p004-aegis",
+          "label": "Aegis",
+          "general": "A divine shield or protective cloak.",
+          "here": "It identifies Zeus as the powerful father of the Muses."
+        }
+      ]
+    },
+    {
+      "id": "p005",
+      "start": 53,
+      "end": 62,
+      "heading": "Nine Daughters of Memory",
+      "translation": "In Pieria, a region near Olympus, Mnemosyne—Memory herself,\nwho rules the hills of Eleuther—slept with their father,\nZeus the son of Cronus, and gave birth to the Muses:\nforgetfulness of troubles, a rest from worries.\nFor nine nights Zeus, wise in planning, lay with her,\nclimbing into her sacred bed far from the other gods.\nWhen a year had passed and the seasons had turned,\nas the months waned and many days completed their course,\nshe gave birth to nine daughters, all of one mind.\nSong fills their hearts, and their spirits are free from care.\nShe bore them a little way below the highest peak of snowy Olympus.",
+      "summary": "Memory and Zeus have nine daughters, the Muses, whose songs bring relief from worry.",
+      "cards": [
+        {
+          "id": "p005-pieria",
+          "label": "Pieria",
+          "general": "A region near Mount Olympus associated with the Muses.",
+          "here": "It is the setting for their birth."
+        },
+        {
+          "id": "p005-mnemosyne",
+          "label": "Mnemosyne",
+          "general": "The goddess of memory; her name means “Memory.”",
+          "here": "She is the mother of the nine Muses."
+        },
+        {
+          "id": "p005-eleuther",
+          "label": "Eleuther",
+          "general": "A place or hill whose exact identification is uncertain.",
+          "here": "Mnemosyne rules its hills."
+        },
+        {
+          "id": "p005-zeus",
+          "label": "Zeus, son of Cronus",
+          "general": "The ruler of the gods, born to the older god Cronus.",
+          "here": "He spends nine nights with Mnemosyne and fathers the Muses."
+        },
+        {
+          "id": "p005-muses",
+          "label": "Muses",
+          "general": "Nine goddesses who inspire poetry and song.",
+          "here": "They share one purpose, love song, and bring relief from troubles."
+        },
+        {
+          "id": "p005-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "The Muses are born near its highest snowy peak."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "In line 13, Athena’s eye epithet can suggest brightness, gray coloring, or an association with owls. “Bright-eyed” keeps its visual force without choosing a precise color.",
+    "In line 16, Aphrodite’s epithet is interpreted in several ways, including curved eyelids, curling lashes, or an alluring glance. “Curling lashes” is one possible reading.",
+    "The exact force of “oak or rock” in line 35 is disputed. The translation preserves the image; in context it marks Hesiod’s return from his personal story to the Muses.",
+    "The place called Eleuther in line 54 cannot be identified securely."
+  ]
+}

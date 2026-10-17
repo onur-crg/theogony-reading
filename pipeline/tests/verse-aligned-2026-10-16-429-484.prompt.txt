@@ -1,0 +1,155 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p031 (429–452): Hecate gives powerful help to anyone she chooses.
+In the public assembly, she makes whoever she favors stand out.
+And when men arm themselves for war that destroys lives,
+the goddess stands beside those she chooses,
+ready to grant them victory and glory.
+She sits beside respected kings as they give judgment.
+
+She helps, too, when men compete in games:
+the goddess stands beside them and lends her strength.
+The winner, victorious through power and strength,
+easily carries off a fine prize, full of joy,
+and brings glory to his parents.
+She is good at helping riders, too, whenever she chooses.
+
+For those who work the gray, rough sea
+and pray to Hecate and the thundering Earth-shaker,
+the glorious goddess easily grants a great catch—
+and easily takes it away when it is in sight,
+if that is what she wants.
+
+With Hermes, she is good at making livestock thrive in their pens.
+Herds of cattle, great herds of goats,
+and flocks of woolly sheep—if she wishes,
+she makes a few grow into many, or many dwindle to a few.
+
+So, though her mother had no other child,
+Hecate holds honored privileges among all the immortal gods.
+Zeus, the son of Cronus, made her the nurse of all the young
+who, after her, opened their eyes to the light of far-seeing Dawn.
+From the beginning she has cared for the young.
+These are her honors.
+
+p032 (453–467): Rhea had glorious children with Cronus:
+Hestia, Demeter, and Hera with her golden sandals;
+mighty Hades, whose heart knows no pity,
+who lives in halls beneath the earth;
+the thundering Earth-shaker, Poseidon;
+and Zeus, wise in planning, father of gods and humans,
+whose thunder makes the wide earth shake.
+
+Great Cronus swallowed his children, each one
+as it came from its mother's sacred womb to her knees.
+He meant to keep any other glorious descendant of Uranus
+from holding the royal honor among the immortal gods.
+For he had learned from Gaia and starry Uranus
+that he was destined, strong as he was,
+to be overcome by his own son,
+through the plans of great Zeus.
+
+So Cronus kept watch with his eyes wide open,
+and swallowed his own children as he waited for them.
+Rhea was gripped by grief that would not fade.
+
+p033 (468–484): But when Rhea was about to give birth to Zeus,
+father of gods and humans,
+she begged her own dear parents,
+Gaia and starry Uranus, to help her devise a plan:
+to give birth to her dear child in secret,
+and to win revenge for her father
+and for the children great Cronus, with his crooked schemes,
+had swallowed.
+
+They listened closely to their dear daughter and agreed to help.
+They told her all that fate had in store
+for King Cronus and his strong-hearted son.
+They sent her to Lyctus, in the fertile land of Crete,
+when she was about to bear her youngest child,
+great Zeus. Vast Gaia received him from her
+to nourish and care for him on the broad island of Crete.
+
+Through the swift, black night Rhea carried him,
+coming first to Lyctus.
+Taking him in her arms, she hid him
+in a deep cave, in the hidden places of the holy earth,
+on Mount Aegeum, thick with forest.
+
+GREEK CONTEXT BEFORE (do not translate)
+423: οὐδέ τί μιν Κρονίδης ἐβιήσατο οὐδέ τʼ ἀπηύρα,
+424: ὅσσʼ ἔλαχεν Τιτῆσι μετὰ προτέροισι θεοῖσιν,
+425: ἀλλʼ ἔχει, ὡς τὸ πρῶτον ἀπʼ ἀρχῆς ἔπλετο δασμός,
+426: οὐδʼ, ὅτι μουνογενής, ἧσσον θεὰ ἔμμορε τιμῆς,
+427: καὶ γέρας ἐν γαίῃ τε καὶ οὐρανῷ ἠδὲ θαλάσσῃ·
+428: ἀλλʼ ἔτι καὶ πολὺ μᾶλλον, ἐπεὶ Ζεὺς τίεται αὐτήν.
+
+>>> TRANSLATE THESE GREEK VERSES: 429-484 <<<
+429: ᾧ δʼ ἐθέλει, μεγάλως παραγίγνεται ἠδʼ ὀνίνησιν·
+430: ἔν τʼ ἀγορῇ λαοῖσι μεταπρέπει, ὅν κʼ ἐθέλῃσιν·
+431: ἠδʼ ὁπότʼ ἐς πόλεμον φθεισήνορα θωρήσσωνται
+432: ἀνέρες, ἔνθα θεὰ παραγίγνεται, οἷς κʼ ἐθέλῃσι
+433: νίκην προφρονέως ὀπάσαι καὶ κῦδος ὀρέξαι.
+434: ἔν τε δίκῃ βασιλεῦσι παρʼ αἰδοίοισι καθίζει,
+435: ἐσθλὴ δʼ αὖθʼ ὁπότʼ ἄνδρες ἀεθλεύωσιν ἀγῶνι,
+436: ἔνθα θεὰ καὶ τοῖς παραγίγνεται ἠδʼ ὀνίνησιν·
+437: νικήσας δὲ βίῃ καὶ κάρτεϊ καλὸν ἄεθλον
+438: ῥεῖα φέρει χαίρων τε, τοκεῦσι δὲ κῦδος ὀπάζει.
+439: ἐσθλὴ δʼ ἱππήεσσι παρεστάμεν, οἷς κʼ ἐθέλῃσιν.
+440: καὶ τοῖς, οἳ γλαυκὴν δυσπέμφελον ἐργάζονται,
+441: εὔχονται δʼ Ἑκάτῃ καὶ ἐρικτύπῳ Ἐννοσιγαίῳ,
+442: ῥηιδίως ἄγρην κυδρὴ θεὸς ὤπασε πολλήν,
+443: ῥεῖα δʼ ἀφείλετο φαινομένην, ἐθέλουσά γε θυμῷ.
+444: ἐσθλὴ δʼ ἐν σταθμοῖσι σὺν Ἑρμῇ ληίδʼ ἀέξειν·
+445: βουκολίας δʼ ἀγέλας τε καὶ αἰπόλια πλατέʼ αἰγῶν
+446: ποίμνας τʼ εἰροπόκων ὀίων, θυμῷ γʼ ἐθέλουσα,
+447: ἐξ ὀλίγων βριάει κἀκ πολλῶν μείονα θῆκεν.
+448: οὕτω τοι καὶ μουνογενὴς ἐκ μητρὸς ἐοῦσα
+449: πᾶσι μετʼ ἀθανάτοισι τετίμηται γεράεσσιν.
+450: θῆκε δέ μιν Κρονίδης κουροτρόφον, οἳ μετʼ ἐκείνην
+451: ὀφθαλμοῖσιν ἴδοντο φάος πολυδερκέος Ἠοῦς.
+452: οὕτως ἐξ ἀρχῆς κουροτρόφος, αἳ δέ τε τιμαί.
+453: Ῥείη δὲ δμηθεῖσα Κρόνῳ τέκε φαίδιμα τέκνα,
+454: Ἱστίην Δήμητρα καὶ Ἥρην χρυσοπέδιλον
+455: ἴφθιμόν τʼ Ἀίδην, ὃς ὑπὸ χθονὶ δώματα ναίει
+456: νηλεὲς ἦτορ ἔχων, καὶ ἐρίκτυπον Ἐννοσίγαιον
+457: Ζῆνά τε μητιόεντα, θεῶν πατέρʼ ἠδὲ καὶ ἀνδρῶν,
+458: τοῦ καὶ ὑπὸ βροντῆς πελεμίζεται εὐρεῖα χθών.
+459: καὶ τοὺς μὲν κατέπινε μέγας Κρόνος, ὥς τις ἕκαστος
+460: νηδύος ἐξ ἱερῆς μητρὸς πρὸς γούναθʼ ἵκοιτο,
+461: τὰ φρονέων, ἵνα μή τις ἀγαυῶν Οὐρανιώνων
+462: ἄλλος ἐν ἀθανάτοισιν ἔχοι βασιληίδα τιμήν.
+463: πεύθετο γὰρ Γαίης τε καὶ Οὐρανοῦ ἀστερόεντος,
+464: οὕνεκά οἱ πέπρωτο ἑῷ ὑπὸ παιδὶ δαμῆναι
+465: καὶ κρατερῷ περ ἐόντι, Διὸς μεγάλου διὰ βουλάς·
+466: τῷ ὅ γʼ ἄρʼ οὐκ ἀλαὸς σκοπιὴν ἔχεν, ἀλλὰ δοκεύων
+467: παῖδας ἑοὺς κατέπινε· Ῥέην δʼ ἔχε πένθος ἄλαστον.
+468: ἀλλʼ ὅτε δὴ Δίʼ ἔμελλε θεῶν πατέρʼ ἠδὲ καὶ ἀνδρῶν
+469: τέξεσθαι, τότʼ ἔπειτα φίλους λιτάνευε τοκῆας
+470: τοὺς αὐτῆς, Γαῖάν τε καὶ Οὐρανὸν ἀστερόεντα,
+471: μῆτιν συμφράσσασθαι, ὅπως λελάθοιτο τεκοῦσα
+472: παῖδα φίλον, τίσαιτο δʼ ἐρινῦς πατρὸς ἑοῖο
+473: παίδων θʼ, οὓς κατέπινε μέγας Κρόνος ἀγκυλομήτης.
+474: οἳ δὲ θυγατρὶ φίλῃ μάλα μὲν κλύον ἠδʼ ἐπίθοντο,
+475: καί οἱ πεφραδέτην, ὅσα περ πέπρωτο γενέσθαι
+476: ἀμφὶ Κρόνῳ βασιλῆι καὶ υἱέι καρτεροθύμῳ.
+477: πέμψαν δʼ ἐς Λύκτον, Κρήτης ἐς πίονα δῆμον,
+478: ὁππότʼ ἄρʼ ὁπλότατον παίδων τέξεσθαι ἔμελλε,
+479: Ζῆνα μέγαν· τὸν μέν οἱ ἐδέξατο Γαῖα πελώρη
+480: Κρήτῃ ἐν εὐρείῃ τραφέμεν ἀτιταλλέμεναί τε.
+481: ἔνθα μιν ἷκτο φέρουσα θοὴν διὰ νύκτα μέλαιναν
+482: πρώτην ἐς Λύκτον· κρύψεν δέ ἑ χερσὶ λαβοῦσα
+483: ἄντρῳ ἐν ἠλιβάτῳ, ζαθέης ὑπὸ κεύθεσι γαίης,
+484: Αἰγαίῳ ἐν ὄρει πεπυκασμένῳ ὑλήεντι.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+485: τῷ δὲ σπαργανίσασα μέγαν λίθον ἐγγυάλιξεν
+486: Οὐρανίδῃ μέγʼ ἄνακτι, θεῶν προτέρῳ βασιλῆι.
+487: τὸν τόθʼ ἑλὼν χείρεσσιν ἑὴν ἐσκάτθετο νηδὺν
+488: σχέτλιος· οὐδʼ ἐνόησε μετὰ φρεσίν, ὥς οἱ ὀπίσσω
+489: ἀντὶ λίθου ἑὸς υἱὸς ἀνίκητος καὶ ἀκηδὴς
+490: λείπεθʼ, ὅ μιν τάχʼ ἔμελλε βίῃ καὶ χερσὶ δαμάσσας

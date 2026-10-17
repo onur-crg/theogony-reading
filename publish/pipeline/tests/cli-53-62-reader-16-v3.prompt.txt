@@ -1,0 +1,38 @@
+Write an English version of the marked Greek lines for a 16-year-old who does not know Greek myths. Make it clear and enjoyable to read, with natural sentences and some of the poem’s rhythm. Keep Hesiod’s meaning and images. Use today’s words, not old-fashioned ones. Do not add or leave out important facts. Keep names in the reading text. Add only the brief clue needed to follow a sentence; put other background in cards. If Hesiod explains a name, keep that explanation in the translation. Use natural English word order and make pronouns clear. Avoid interrupting sentences with explanations.
+
+Return one JSON result for each section below. Give each a short title, the translation, a very simple summary, and one short card for each useful name or hard word. Use the name hints only if they fit the Greek. Put real doubts in "uncertainties".
+
+SECTIONS
+[{"id": "p005", "start": 53, "end": 62, "heading": "How the Muses were born"}]
+
+NAME HINTS
+[]
+
+CONTEXT BEFORE (do not translate)
+47: δεύτερον αὖτε Ζῆνα, θεῶν πατέρʼ ἠδὲ καὶ ἀνδρῶν,
+48: ἀρχόμεναί θʼ ὑμνεῦσι καὶ ἐκλήγουσαι ἀοιδῆς,
+49: ὅσσον φέρτατός ἐστι θεῶν κράτεί τε μέγιστος.
+50: αὖτις δʼ ἀνθρώπων τε γένος κρατερῶν τε Γιγάντων
+51: ὑμνεῦσαι τέρπουσι Διὸς νόον ἐντὸς Ὀλύμπου
+52: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο.
+
+>>> TRANSLATE THESE GREEK VERSES: 53-62 <<<
+53: τὰς ἐν Πιερίῃ Κρονίδῃ τέκε πατρὶ μιγεῖσα
+54: Μνημοσύνη, γουνοῖσιν Ἐλευθῆρος μεδέουσα,
+55: λησμοσύνην τε κακῶν ἄμπαυμά τε μερμηράων.
+56: ἐννέα γάρ οἱ νυκτὸς ἐμίσγετο μητίετα Ζεὺς
+57: νόσφιν ἀπʼ ἀθανάτων ἱερὸν λέχος εἰσαναβαίνων·
+58: ἀλλʼ ὅτε δή ῥʼ ἐνιαυτὸς ἔην, περὶ δʼ ἔτραπον ὧραι
+59: μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη,
+60: ἣ δʼ ἔτεκʼ ἐννέα κούρας ὁμόφρονας, ᾗσιν ἀοιδὴ
+61: μέμβλεται ἐν στήθεσσιν, ἀκηδέα θυμὸν ἐχούσαις,
+62: τυτθὸν ἀπʼ ἀκροτάτης κορυφῆς νιφόεντος Ὀλύμπου.
+>>> END OF ASSIGNED VERSES <<<
+
+CONTEXT AFTER (do not translate)
+63: ἔνθα σφιν λιπαροί τε χοροὶ καὶ δώματα καλά.
+64: πὰρ δʼ αὐτῇς Χάριτές τε καὶ Ἵμερος οἰκίʼ ἔχουσιν
+65: ἐν θαλίῃς· ἐρατὴν δὲ διὰ στόμα ὄσσαν ἱεῖσαι
+66: μέλπονται πάντων τε νόμους καὶ ἤθεα κεδνὰ
+67: ἀθανάτων κλείουσιν, ἐπήρατον ὄσσαν ἱεῖσαι.
+68: αἳ τότʼ ἴσαν πρὸς Ὄλυμπον ἀγαλλόμεναι ὀπὶ καλῇ,

@@ -1,0 +1,349 @@
+{
+  "sections": [
+    {
+      "id": "p057",
+      "start": 901,
+      "end": 917,
+      "heading": "Zeus and his growing family",
+      "translation": "Next Zeus married radiant Themis. She bore the Seasons: Eunomia, Dike, and flourishing Eirene, who watch over the work of mortal people. She also bore the Fates, whom Zeus the wise planner honored above all: Clotho, Lachesis, and Atropos, who give mortal people their share of good and bad.\n\nEurynome, the lovely daughter of Oceanus, bore Zeus three Graces with beautiful cheeks: Aglaia, Euphrosyne, and lovely Thalia. From their eyes, as they looked, flowed desire that melts the limbs. Beautiful were their glances beneath their brows.\n\nThen Zeus lay with Demeter, who feeds so many. She bore white-armed Persephone, whom Aidoneus snatched away from her mother. Zeus the wise planner gave her to him.\n\nThen Zeus fell in love with lovely-haired Mnemosyne. She bore him the nine Muses with golden headbands, who delight in feasts and the joy of song.",
+      "summary": "Zeus has children with several goddesses. Their children include the Seasons, the Fates, the Graces, Persephone, and the nine Muses.",
+      "cards": [
+        {
+          "id": "p057-zeus",
+          "label": "Zeus",
+          "general": "King of the gods.",
+          "here": "He fathers the children listed in this section and gives Persephone to Aidoneus."
+        },
+        {
+          "id": "p057-themis",
+          "label": "Themis",
+          "general": "A goddess of divine order and what is right.",
+          "here": "Zeus's second wife and the mother of the Seasons and the Fates."
+        },
+        {
+          "id": "p057-seasons",
+          "label": "The Seasons",
+          "general": "The Horae: goddesses who oversee the seasons and orderly life.",
+          "here": "Eunomia means Good Order, Dike means Justice, and Eirene means Peace. They watch over human work."
+        },
+        {
+          "id": "p057-fates",
+          "label": "The Fates",
+          "general": "Goddesses who determine people's allotted lives.",
+          "here": "Clotho, Lachesis, and Atropos give people their share of good and bad. Their names suggest spinning, allotting, and what cannot be turned back."
+        },
+        {
+          "id": "p057-eurynome",
+          "label": "Eurynome",
+          "general": "A goddess and daughter of Oceanus.",
+          "here": "She and Zeus are the parents of the three Graces."
+        },
+        {
+          "id": "p057-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river believed to flow around the world.",
+          "here": "He is Eurynome's father."
+        },
+        {
+          "id": "p057-graces",
+          "label": "The Graces",
+          "general": "Goddesses of beauty, charm, and delight.",
+          "here": "Aglaia, Euphrosyne, and Thalia have names suggesting splendor, good cheer, and flourishing."
+        },
+        {
+          "id": "p057-demeter",
+          "label": "Demeter",
+          "general": "Goddess of grain and farming.",
+          "here": "She feeds many through the earth's crops and is Persephone's mother."
+        },
+        {
+          "id": "p057-persephone",
+          "label": "Persephone",
+          "general": "Daughter of Demeter and Zeus, and queen of the underworld.",
+          "here": "Aidoneus takes her away from her mother with Zeus's agreement."
+        },
+        {
+          "id": "p057-aidoneus",
+          "label": "Aidoneus",
+          "general": "Another name for Hades, ruler of the underworld.",
+          "here": "He snatches Persephone away."
+        },
+        {
+          "id": "p057-mnemosyne",
+          "label": "Mnemosyne",
+          "general": "The goddess of memory.",
+          "here": "She and Zeus are the parents of the nine Muses."
+        },
+        {
+          "id": "p057-muses",
+          "label": "The Muses",
+          "general": "Nine goddesses who inspire song, poetry, and other arts.",
+          "here": "They wear golden headbands and delight in feasting and singing."
+        }
+      ]
+    },
+    {
+      "id": "p058",
+      "start": 918,
+      "end": 929,
+      "heading": "Children born in extraordinary ways",
+      "translation": "Leto joined in love with Zeus, who bears the aegis, and gave birth to Apollo and Artemis the archer—children lovelier than all the other gods of heaven.\n\nLast of all, Zeus made Hera in her full bloom his wife. She joined in love with the king of gods and humans and bore Hebe, Ares, and Eileithyia.\n\nZeus himself brought forth bright-eyed Tritogeneia from his own head: Athena, the fearsome, tireless goddess who stirs up battle and leads armies. She delights in the clash of fighting, in wars and battles.\n\nHera, furious with her husband and quarreling with him, gave birth to famous Hephaestus without joining anyone in love. He surpassed all the gods of heaven in craftsmanship.",
+      "summary": "Leto and Hera bear children to Zeus. Zeus brings Athena from his head, and Hera gives birth to Hephaestus on her own.",
+      "cards": [
+        {
+          "id": "p058-leto",
+          "label": "Leto",
+          "general": "A goddess and the mother of Apollo and Artemis.",
+          "here": "She bears these two children after joining Zeus in love."
+        },
+        {
+          "id": "p058-apollo",
+          "label": "Apollo",
+          "general": "A god associated with archery, music, healing, and prophecy.",
+          "here": "The son of Leto and Zeus."
+        },
+        {
+          "id": "p058-artemis",
+          "label": "Artemis",
+          "general": "Goddess of hunting and wild animals.",
+          "here": "Leto and Zeus's daughter, described as an archer."
+        },
+        {
+          "id": "p058-aegis",
+          "label": "Aegis",
+          "general": "A divine protective object, described as a shield or a skin worn or carried.",
+          "here": "Bearing it is one of Zeus's marks of power."
+        },
+        {
+          "id": "p058-hera",
+          "label": "Hera",
+          "general": "Queen of the gods and a goddess of marriage.",
+          "here": "Zeus's last wife in this account. She also gives birth to Hephaestus without a partner."
+        },
+        {
+          "id": "p058-hebe",
+          "label": "Hebe",
+          "general": "The goddess of youth.",
+          "here": "A daughter of Hera and Zeus."
+        },
+        {
+          "id": "p058-ares",
+          "label": "Ares",
+          "general": "A god of war.",
+          "here": "A son of Hera and Zeus."
+        },
+        {
+          "id": "p058-eileithyia",
+          "label": "Eileithyia",
+          "general": "A goddess who helps women in childbirth.",
+          "here": "A daughter of Hera and Zeus."
+        },
+        {
+          "id": "p058-athena",
+          "label": "Athena / Tritogeneia",
+          "general": "Athena is a goddess of wisdom, warfare, and skilled work. Tritogeneia is one of her traditional titles.",
+          "here": "She emerges from Zeus's head as a fearsome leader in battle. Atrytone, another title in the Greek, is translated as “tireless.”"
+        },
+        {
+          "id": "p058-hephaestus",
+          "label": "Hephaestus",
+          "general": "The god of fire and craftsmanship, especially metalworking.",
+          "here": "Hera bears him on her own. His skill exceeds that of every other god."
+        }
+      ]
+    },
+    {
+      "id": "p059",
+      "start": 930,
+      "end": 946,
+      "heading": "More divine families",
+      "translation": "From Amphitrite and the thundering Earth-shaker Poseidon came great Triton, mighty in strength. This fearsome god lives in a golden house at the bottom of the sea, beside his dear mother and his father the king.\n\nCytherea bore Phobos and Deimos to Ares, who pierces shields. These terrifying sons throw tightly packed ranks of warriors into confusion in chilling war, alongside Ares the city-sacker. She also bore Harmonia, whom bold Cadmus made his wife.\n\nMaia, daughter of Atlas, entered Zeus's sacred bed and bore him glorious Hermes, messenger of the immortals.\n\nSemele, daughter of Cadmus, joined Zeus in love and bore him a splendid son, Dionysus, full of joy. She was mortal; her son was immortal. Now both are gods.\n\nAlcmene joined in love with Zeus the cloud-gatherer and gave birth to mighty Heracles.\n\nAnd Hephaestus, the famous god with disabled legs, made flourishing Aglaia, the youngest of the Graces, his wife.",
+      "summary": "Hesiod names more divine parents and children, including Triton, Hermes, Dionysus, and Heracles. He also names the wives of Cadmus and Hephaestus.",
+      "cards": [
+        {
+          "id": "p059-amphitrite",
+          "label": "Amphitrite",
+          "general": "A sea goddess and Poseidon's wife.",
+          "here": "Triton's mother, who lives with him and Poseidon beneath the sea."
+        },
+        {
+          "id": "p059-poseidon",
+          "label": "Poseidon / Earth-shaker",
+          "general": "God of the sea and earthquakes.",
+          "here": "“Earth-shaker” translates Ennosigaios, his title in the Greek. He is Triton's father."
+        },
+        {
+          "id": "p059-triton",
+          "label": "Triton",
+          "general": "A sea god, son of Amphitrite and Poseidon.",
+          "here": "He lives with his parents in a golden house on the sea floor."
+        },
+        {
+          "id": "p059-cytherea",
+          "label": "Cytherea",
+          "general": "A title of Aphrodite, goddess of love, linked to the island of Cythera.",
+          "here": "She and Ares are the parents of Phobos, Deimos, and Harmonia."
+        },
+        {
+          "id": "p059-ares",
+          "label": "Ares",
+          "general": "A god of war.",
+          "here": "He pierces shields and destroys cities; Phobos and Deimos join him in battle."
+        },
+        {
+          "id": "p059-phobos-deimos",
+          "label": "Phobos and Deimos",
+          "general": "Divine figures whose names mean Panic and Terror.",
+          "here": "These sons of Ares and Cytherea scatter the ordered ranks of soldiers."
+        },
+        {
+          "id": "p059-harmonia",
+          "label": "Harmonia",
+          "general": "A goddess whose name means Harmony.",
+          "here": "The daughter of Ares and Cytherea, and the wife of Cadmus."
+        },
+        {
+          "id": "p059-cadmus",
+          "label": "Cadmus",
+          "general": "A legendary founder of the Greek city of Thebes.",
+          "here": "Harmonia's husband and Semele's father."
+        },
+        {
+          "id": "p059-maia-atlas",
+          "label": "Maia and Atlas",
+          "general": "Maia is a goddess. Her father Atlas holds up the sky.",
+          "here": "Maia bears Hermes to Zeus."
+        },
+        {
+          "id": "p059-hermes",
+          "label": "Hermes",
+          "general": "Messenger of the gods.",
+          "here": "The son of Maia and Zeus."
+        },
+        {
+          "id": "p059-semele",
+          "label": "Semele",
+          "general": "A mortal daughter of Cadmus and the mother of Dionysus.",
+          "here": "Hesiod says that she has now become a goddess."
+        },
+        {
+          "id": "p059-dionysus",
+          "label": "Dionysus",
+          "general": "God of wine and festive celebration.",
+          "here": "The joyful, immortal son of Zeus and the once-mortal Semele."
+        },
+        {
+          "id": "p059-alcmene-heracles",
+          "label": "Alcmene and Heracles",
+          "general": "Alcmene is a mortal woman. Her son Heracles is a hero famous for his strength.",
+          "here": "Zeus is Heracles' father."
+        },
+        {
+          "id": "p059-hephaestus-aglaia",
+          "label": "Hephaestus and Aglaia",
+          "general": "Hephaestus is the god of craftsmanship. Aglaia is one of the three Graces.",
+          "here": "He marries Aglaia, the youngest Grace."
+        }
+      ]
+    },
+    {
+      "id": "p060",
+      "start": 947,
+      "end": 962,
+      "heading": "Marriage and life among the gods",
+      "translation": "Golden-haired Dionysus made fair-haired Ariadne, daughter of Minos, his wife in her full bloom. For his sake, Zeus son of Cronus made her immortal and free from aging.\n\nAfter completing his painful labors, mighty Heracles, the brave son of Alcmene with her lovely ankles, made honored Hebe his wife on snowy Olympus. She is the daughter of great Zeus and Hera of the golden sandals. Happy Heracles! His great work accomplished, he lives among the immortals, free from harm and aging for all time.\n\nThe renowned Perseis, a daughter of Oceanus, bore Circe and King Aeetes to tireless Helios. Aeetes, son of Helios who shines on mortals, married beautiful-cheeked Idyia, a daughter of Oceanus, the river that circles the world. This marriage followed the gods' wishes. Through golden Aphrodite's power, Idyia yielded to Aeetes in love and bore him Medea with her lovely ankles.",
+      "summary": "Ariadne becomes immortal, and Heracles marries Hebe and lives safely among the gods. Hesiod then traces the family of Helios down to Medea.",
+      "cards": [
+        {
+          "id": "p060-dionysus",
+          "label": "Dionysus",
+          "general": "God of wine and festive celebration.",
+          "here": "He marries Ariadne, whom Zeus makes immortal for his sake."
+        },
+        {
+          "id": "p060-ariadne-minos",
+          "label": "Ariadne and Minos",
+          "general": "Ariadne is a daughter of Minos, a legendary king of Crete.",
+          "here": "She becomes Dionysus's wife and receives freedom from death and aging."
+        },
+        {
+          "id": "p060-zeus-cronus",
+          "label": "Zeus / son of Cronus",
+          "general": "Zeus is king of the gods. Cronus is his father.",
+          "here": "“Son of Cronus” translates the title Cronion. Zeus makes Ariadne immortal."
+        },
+        {
+          "id": "p060-heracles-alcmene",
+          "label": "Heracles and Alcmene",
+          "general": "Heracles is the strong hero born to Alcmene and Zeus.",
+          "here": "After his painful labors, he marries Hebe and lives forever among the gods."
+        },
+        {
+          "id": "p060-labors",
+          "label": "Labors",
+          "general": "Difficult tasks that demand great effort.",
+          "here": "The dangerous feats Heracles had to complete. These lines do not list them."
+        },
+        {
+          "id": "p060-hebe-hera",
+          "label": "Hebe and Hera",
+          "general": "Hebe is the goddess of youth. Hera is queen of the gods.",
+          "here": "Hebe, daughter of Zeus and Hera, marries Heracles."
+        },
+        {
+          "id": "p060-olympus",
+          "label": "Olympus",
+          "general": "The mountain that is home to the gods.",
+          "here": "Heracles marries Hebe on its snowy heights."
+        },
+        {
+          "id": "p060-perseis",
+          "label": "Perseis",
+          "general": "A divine daughter of Oceanus.",
+          "here": "She and Helios are the parents of Circe and Aeetes."
+        },
+        {
+          "id": "p060-helios",
+          "label": "Helios",
+          "general": "The Sun, understood as a god.",
+          "here": "Called tireless because of his continuing journey across the sky."
+        },
+        {
+          "id": "p060-circe",
+          "label": "Circe",
+          "general": "A goddess known for her magical powers.",
+          "here": "Daughter of Helios and Perseis, and sister of Aeetes."
+        },
+        {
+          "id": "p060-aeetes",
+          "label": "Aeetes",
+          "general": "A legendary king of Colchis, on the Black Sea.",
+          "here": "Son of Helios and Perseis, husband of Idyia, and father of Medea."
+        },
+        {
+          "id": "p060-oceanus-idyia",
+          "label": "Oceanus and Idyia",
+          "general": "Oceanus is the divine river surrounding the world. Idyia is one of his daughters.",
+          "here": "Idyia marries Aeetes with the gods' agreement."
+        },
+        {
+          "id": "p060-medea",
+          "label": "Medea",
+          "general": "A woman famous in Greek myth for her magical knowledge.",
+          "here": "The daughter of Aeetes and Idyia."
+        },
+        {
+          "id": "p060-aphrodite",
+          "label": "Aphrodite",
+          "general": "Goddess of love and sexual desire.",
+          "here": "Her power brings Idyia and Aeetes together in love. “Golden” is a traditional description of her."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "At line 925, Athena's title Atrytone is commonly understood as “tireless” or “unwearied”; its precise meaning is uncertain.",
+    "At line 945, Hephaestus's epithet amphigyeeis is traditionally understood as referring to impairment in both legs, though its exact meaning is disputed.",
+    "At line 954, “among the immortals” can be connected with Heracles' accomplishment or with his life afterward. The translation follows the latter reading."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "id": "p008",
+      "start": 94,
+      "end": 103,
+      "heading": "The gift of song",
+      "translation": "From the Muses and Apollo, who shoots from afar,\ncome singers and lyre players on earth;\nfrom Zeus come kings.\nFortunate is anyone the Muses love:\nsweet speech flows from his mouth.\n\nSomeone may be wasting away with a wounded heart,\nhis spirit weighed down by fresh grief.\nBut when a singer, a servant of the Muses,\nsings of the glorious deeds of people long ago\nand the blessed gods who live on Olympus,\nhe soon forgets his sadness and remembers none of his troubles.\nSo quickly do the goddesses’ gifts turn his thoughts away.",
+      "summary": "The Muses and Apollo give people music and song. A singer’s song can make someone forget their grief.",
+      "cards": [
+        {
+          "id": "muses",
+          "label": "Muses",
+          "general": "Goddesses who inspire poetry, song, and other arts.",
+          "here": "They give singers their gifts, and their songs bring relief from grief."
+        },
+        {
+          "id": "apollo",
+          "label": "Apollo",
+          "general": "A god associated with music and archery.",
+          "here": "He gives people music along with the Muses. “Who shoots from afar” refers to his skill with a bow."
+        },
+        {
+          "id": "lyre",
+          "label": "Lyre",
+          "general": "A stringed instrument played by plucking, often used to accompany singing.",
+          "here": "Lyre players receive their gifts from the Muses and Apollo."
+        },
+        {
+          "id": "zeus",
+          "label": "Zeus",
+          "general": "The king of the Greek gods.",
+          "here": "Kings owe their position and authority to him."
+        },
+        {
+          "id": "olympus",
+          "label": "Olympus",
+          "general": "A mountain in Greece regarded as the home of the gods.",
+          "here": "The singer celebrates the gods who live there."
+        },
+        {
+          "id": "blessed",
+          "label": "Blessed",
+          "general": "Enjoying happiness and good fortune.",
+          "here": "The word describes the gods’ happy existence."
+        }
+      ]
+    }
+  ],
+  "uncertainties": []
+}

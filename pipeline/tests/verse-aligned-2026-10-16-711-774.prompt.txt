@@ -1,0 +1,113 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p047 (711–728): Then the battle turned. Until then, the two sides had held their ground against each other, fighting fiercely without giving way.
+
+At the front, Cottus, Briareus, and Gyges, who could never get enough of war, stirred up savage fighting. From their powerful hands they hurled three hundred rocks, one after another, until their missiles overshadowed the Titans. They overpowered those proud gods with their hands, sent them beneath the earth with its wide roads, and bound them in painful chains—as far beneath the earth as the sky is above it. That is how far it is from earth to misty Tartarus.
+
+A bronze anvil falling from the sky for nine nights and nine days would reach the earth on the tenth day. And a bronze anvil falling from earth for nine nights and nine days would reach Tartarus on the tenth.
+
+A bronze fence has been built around Tartarus. Night spreads in three layers around its neck, while above it grow the roots of earth and the sea that yields no harvest.
+
+p048 (729–744): There the Titan gods are hidden in misty darkness, by the will of Zeus the cloud-gatherer, in a dank place at the ends of the vast earth. They cannot get out. Poseidon has fitted bronze doors across the entrance, and a wall runs around on either side. There Gyges, Cottus, and great-hearted Obriareus live as faithful guards of Zeus, who carries the aegis.
+
+There, side by side, lie the sources and boundaries of dark earth, misty Tartarus, the sea that yields no harvest, and the starry sky—dreadful, dank places that even the gods hate.
+
+There is a huge chasm. Once inside its gates, you would not reach the bottom even in a whole year. Instead, one savage storm after another would carry you this way and that. Even the immortal gods find this marvel terrifying.
+
+There too is the fearsome house of dark Night.
+
+p049 (745–766): Night’s house stands wrapped in blue-black clouds. Before it, Iapetus’s son stands firm, holding up the broad sky with his head and tireless hands.
+
+Here Night and Day draw near and greet each other as they cross the great bronze threshold. One goes inside while the other goes out; the house never holds them both at once. One is always outside, travelling over the earth, while the other waits inside until her own time to set out arrives. Day brings people on earth the light that lets them see far. Deadly Night, wrapped in a misty cloud, carries Sleep in her hands, the brother of Death.
+
+Here dark Night’s children have their homes: Sleep and Death, fearsome gods. Shining Helios never looks upon them with his rays, either as he climbs into the sky or as he comes down from it.
+
+Sleep travels peacefully over the earth and the broad back of the sea, gentle toward human beings. But Death has a heart of iron, a merciless heart of bronze inside his chest. Once he seizes someone, he holds on. Even the immortal gods hate him.
+
+p050 (767–774): There, in front, stand the echoing halls of the god below, mighty Hades, and dreaded Persephone. A fearsome, merciless dog keeps watch before them. He has a cruel trick: he greets everyone coming in with his wagging tail and both ears, but he never lets them go back out. He lies in wait and devours anyone he catches going outside the gates.
+
+GREEK CONTEXT BEFORE (do not translate)
+705: τόσσος δοῦπος ἔγεντο θεῶν ἔριδι ξυνιόντων.
+706: σὺν δʼ ἄνεμοι ἔνοσίν τε κονίην τʼ ἐσφαράγιζον
+707: βροντήν τε στεροπήν τε καὶ αἰθαλόεντα κεραυνόν,
+708: κῆλα Διὸς μεγάλοιο, φέρον δʼ ἰαχήν τʼ ἐνοπήν τε
+709: ἐς μέσον ἀμφοτέρων· ὄτοβος δʼ ἄπλητος ὀρώρει
+710: σμερδαλέης ἔριδος, κάρτος δʼ ἀνεφαίνετο ἔργων.
+
+>>> TRANSLATE THESE GREEK VERSES: 711-774 <<<
+711: ἐκλίνθη δὲ μάχη· πρὶν δʼ ἀλλήλοις ἐπέχοντες
+712: ἐμμενέως ἐμάχοντο διὰ κρατερὰς ὑσμίνας.
+713: οἳ δʼ ἄρʼ ἐνὶ πρώτοισι μάχην δριμεῖαν ἔγειραν
+714: Κόττος τε Βριάρεώς τε Γύης τʼ ἄατος πολέμοιο,
+715: οἵ ῥα τριηκοσίας πέτρας στιβαρῶν ἀπὸ χειρῶν
+716: πέμπον ἐπασσυτέρας, κατὰ δʼ ἐσκίασαν βελέεσσι
+717: Τιτῆνας, καὶ τοὺς μὲν ὑπὸ χθονὸς εὐρυοδείης
+718: πέμψαν καὶ δεσμοῖσιν ἐν ἀργαλέοισιν ἔδησαν
+719: χερσὶν νικήσαντες ὑπερθύμους περ ἐόντας,
+720: τόσσον ἔνερθʼ ὑπὸ γῆς, ὅσον οὐρανός ἐστʼ ἀπὸ γαίης·
+721: τόσσον γάρ τʼ ἀπὸ γῆς ἐς Τάρταρον ἠερόεντα.
+722: ἐννέα γὰρ νύκτας τε καὶ ἤματα χάλκεος ἄκμων
+723: οὐρανόθεν κατιὼν δεκάτῃ κʼ ἐς γαῖαν ἵκοιτο·
+724: ἐννέα δʼ αὖ νύκτας τε καὶ ἤματα χάλκεος ἄκμων
+725: ἐκ γαίης κατιὼν δεκάτῃ κʼ ἐς Τάρταρον ἵκοι.
+726: τὸν πέρι χάλκεον ἕρκος ἐλήλαται· ἀμφὶ δέ μιν νὺξ
+727: τριστοιχεὶ κέχυται περὶ δειρήν· αὐτὰρ ὕπερθεν
+728: γῆς ῥίζαι πεφύασι καὶ ἀτρυγέτοιο θαλάσσης.
+729: ἔνθα θεοὶ Τιτῆνες ὑπὸ ζόφῳ ἠερόεντι
+730: κεκρύφαται βουλῇσι Διὸς νεφεληγερέταο
+731: χώρῳ ἐν εὐρώεντι, πελώρης ἔσχατα γαίης.
+732: τοῖς οὐκ ἐξιτόν ἐστι. θύρας δʼ ἐπέθηκε Ποσειδέων
+733: χαλκείας, τεῖχος δὲ περοίχεται ἀμφοτέρωθεν.
+734: ἔνθα Γύης Κόττος τε καὶ Ὀβριάρεως μεγάθυμος
+735: ναίουσιν, φύλακες πιστοὶ Διὸς αἰγιόχοιο.
+736: ἔνθα δὲ γῆς δνοφερῆς καὶ Ταρτάρου ἠερόεντος
+737: πόντου τʼ ἀτρυγέτοιο καὶ οὐρανοῦ ἀστερόεντος
+738: ἑξείης πάντων πηγαὶ καὶ πείρατʼ ἔασιν
+739: ἀργαλέʼ εὐρώεντα, τά τε στυγέουσι θεοί περ,
+740: χάσμα μέγʼ, οὐδέ κε πάντα τελεσφόρον εἰς ἐνιαυτὸν
+741: οὖδας ἵκοιτʼ, εἰ πρῶτα πυλέων ἔντοσθε γένοιτο,
+742: ἀλλά κεν ἔνθα καὶ ἔνθα φέροι πρὸ θύελλα θυέλλῃ
+743: ἀργαλέη· δεινὸν δὲ καὶ ἀθανάτοισι θεοῖσι
+744: τοῦτο τέρας. Νυκτὸς δʼ ἐρεβεννῆς οἰκία δεινὰ
+745: ἕστηκεν νεφέλῃς κεκαλυμμένα κυανέῃσιν.
+746: τῶν πρόσθʼ Ἰαπετοῖο πάις ἔχει οὐρανὸν εὐρὺν
+747: ἑστηὼς κεφαλῇ τε καὶ ἀκαμάτῃσι χέρεσσιν
+748: ἀστεμφέως, ὅθι Νύξ τε καὶ Ἡμέρη ἆσσον ἰοῦσαι
+749: ἀλλήλας προσέειπον, ἀμειβόμεναι μέγαν οὐδὸν
+750: χάλκεον· ἣ μὲν ἔσω καταβήσεται, ἣ δὲ θύραζε
+751: ἔρχεται, οὐδέ ποτʼ ἀμφοτέρας δόμος ἐντὸς ἐέργει,
+752: ἀλλʼ αἰεὶ ἑτέρη γε δόμων ἔκτοσθεν ἐοῦσα
+753: γαῖαν ἐπιστρέφεται, ἣ δʼ αὖ δόμου ἐντὸς ἐοῦσα
+754: μίμνει τὴν αὐτῆς ὥρην ὁδοῦ, ἔστʼ ἂν ἵκηται,
+755: ἣ μὲν ἐπιχθονίοισι φάος πολυδερκὲς ἔχουσα,
+756: ἣ δʼ Ὕπνον μετὰ χερσί, κασίγνητον Θανάτοιο.
+757: Νὺξ ὀλοή, νεφέλῃ κεκαλυμμένη ἠεροειδεῖ.
+758: ἔνθα δὲ Νυκτὸς παῖδες ἐρεμνῆς οἰκίʼ ἔχουσιν,
+759: Ὕπνος καὶ Θάνατος, δεινοὶ θεοί· οὐδέ ποτʼ αὐτοὺς
+760: Ἠέλιος φαέθων ἐπιδέρκεται ἀκτίνεσσιν
+761: οὐρανὸν εἲς ἀνιὼν οὐδʼ οὐρανόθεν καταβαίνων.
+762: τῶν δʼ ἕτερος γαῖάν τε καὶ εὐρέα νῶτα θαλάσσης
+763: ἥσυχος ἀνστρέφεται καὶ μείλιχος ἀνθρώποισι,
+764: τοῦ δὲ σιδηρέη μὲν κραδίη, χάλκεον δέ οἱ ἦτορ
+765: νηλεὲς ἐν στήθεσσιν· ἔχει δʼ ὃν πρῶτα λάβῃσιν
+766: ἀνθρώπων· ἐχθρὸς δὲ καὶ ἀθανάτοισι θεοῖσιν.
+767: ἔνθα θεοῦ χθονίου πρόσθεν δόμοι ἠχήεντες
+768: ἰφθίμου τʼ Ἀίδεω καὶ ἐπαινῆς Περσεφονείης
+769: ἑστᾶσιν, δεινὸς δὲ κύων προπάροιθε φυλάσσει
+770: νηλειής, τέχνην δὲ κακὴν ἔχει· ἐς μὲν ἰόντας
+771: σαίνει ὁμῶς οὐρῇ τε καὶ οὔασιν ἀμφοτέροισιν,
+772: ἐξελθεῖν δʼ οὐκ αὖτις ἐᾷ πάλιν, ἀλλὰ δοκεύων
+773: ἐσθίει, ὅν κε λάβῃσι πυλέων ἔκτοσθεν ἰόντα.
+774: [del: ἰφθίμου τʼ Ἀίδεω καὶ ἐπαινῆς Περσεφονείης.]
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+775: ἔνθα δὲ ναιετάει στυγερὴ θεὸς ἀθανάτοισι,
+776: δεινὴ Στύξ, θυγάτηρ ἀψορρόου Ὠκεανοῖο
+777: πρεσβυτάτη· νόσφιν δὲ θεῶν κλυτὰ δώματα ναίει
+778: μακρῇσιν πέτρῃσι κατηρεφέʼ· ἀμφὶ δὲ πάντη
+779: κίοσιν ἀργυρέοισι πρὸς οὐρανὸν ἐστήρικται.
+780: παῦρα δὲ Θαύμαντος θυγάτηρ πόδας ὠκέα Ἶρις

@@ -1,0 +1,172 @@
+{
+  "sections": [
+    {
+      "id": "p054",
+      "start": 839,
+      "end": 868,
+      "heading": "Zeus defeats Typhoeus",
+      "translation": "Zeus thundered with a harsh and mighty crash. All around, the earth rang terribly, and so did the wide sky above, the sea, the streams of Oceanus, and Tartarus beneath the earth. Great Olympus shook beneath his immortal feet as the king sprang into action. The earth groaned beneath him.\n\nHeat from both fighters gripped the violet-dark sea—from thunder and lightning, from the monster’s fire, from fiery blasts of wind and the blazing thunderbolt. All the earth boiled, and the sky and sea. Long waves raged against the shores on every side under the force of the immortal fighters, and the shaking would not stop. Hades, ruler of the dead below, trembled. So did the Titans deep in Tartarus around Cronus, at the endless roar and the terrible fighting.\n\nThen Zeus gathered all his strength and took up his weapons: thunder, lightning, and the smoking thunderbolt. He leaped from Olympus and struck, scorching every monstrous head of the terrifying creature. When Zeus had beaten him down with blow after blow, Typhoeus collapsed, his limbs powerless, and the vast earth groaned.\n\nFlames shot from the thunderstruck lord Typhoeus in the mountain’s dark and rugged valleys. A vast stretch of earth burned in the tremendous heat and melted like tin, heated by skilled young men in crucibles pierced with holes. Even iron, the strongest metal, yields to blazing fire in mountain valleys and melts in the sacred earth beneath Hephaestus’s hands. So the earth melted in the glare of the burning fire.\n\nIn bitter fury, Zeus hurled Typhoeus into wide Tartarus.",
+      "summary": "Zeus defeats Typhoeus with his thunderbolt. Their battle shakes and burns the world, and Zeus throws the monster into Tartarus.",
+      "cards": [
+        {
+          "id": "p054-zeus",
+          "label": "Zeus",
+          "general": "The god of the sky and thunder, who becomes ruler of the gods.",
+          "here": "He uses thunder, lightning, and his thunderbolt against Typhoeus."
+        },
+        {
+          "id": "p054-typhoeus",
+          "label": "Typhoeus",
+          "general": "A gigantic monster with many snake heads, also called Typhon.",
+          "here": "He fights Zeus with fire and is defeated."
+        },
+        {
+          "id": "p054-oceanus",
+          "label": "Oceanus",
+          "general": "A divine river believed to flow around the world.",
+          "here": "His streams shake with the rest of the world."
+        },
+        {
+          "id": "p054-olympus",
+          "label": "Olympus",
+          "general": "The mountain where Zeus and the other Olympian gods have their home.",
+          "here": "It shakes beneath Zeus’s feet before he leaps into battle."
+        },
+        {
+          "id": "p054-tartarus",
+          "label": "Tartarus",
+          "general": "A deep, dark place far beneath the earth.",
+          "here": "The defeated Titans are there, and Zeus throws Typhoeus there too."
+        },
+        {
+          "id": "p054-hades",
+          "label": "Hades",
+          "general": "The god who rules the world of the dead.",
+          "here": "Even he trembles at the battle."
+        },
+        {
+          "id": "p054-titans-cronus",
+          "label": "Titans and Cronus",
+          "general": "The Titans are an older generation of gods. Cronus, Zeus’s father, was their ruler.",
+          "here": "They tremble together in Tartarus, where they are held after their defeat."
+        },
+        {
+          "id": "p054-hephaestus",
+          "label": "Hephaestus",
+          "general": "The god of metalworking and the forge.",
+          "here": "His melting of iron shows how the battle’s heat melts the earth."
+        },
+        {
+          "id": "p054-crucible",
+          "label": "Crucible",
+          "general": "A container that can withstand the heat needed to melt metal.",
+          "here": "The earth melts as tin does in a metalworker’s crucible."
+        }
+      ]
+    },
+    {
+      "id": "p055",
+      "start": 869,
+      "end": 885,
+      "heading": "Wild winds and a new king",
+      "translation": "From Typhoeus comes the force of the moisture-laden winds, except for Notus, Boreas, and sky-clearing Zephyrus. These three come from the gods and are a great help to mortals. But the others blow across the sea as reckless gusts. They fall upon the misty water and rage in vicious storms, bringing great suffering to mortals. Now one wind blows, now another: they scatter ships and kill sailors. People who meet them at sea have no defense against their violence.\n\nThese winds also sweep across the boundless, flowering earth. They ruin the lovely work of earth-born people, filling the land with dust and a dreadful uproar.\n\nWhen the blessed gods had finished their struggle and settled their contest with the Titans by force over who would hold power and honor, Gaia advised them to urge far-seeing Olympian Zeus to be king and ruler of the immortals. Zeus then shared out their honors among them.",
+      "summary": "Typhoeus is the source of destructive storm winds. After defeating the Titans, the gods choose Zeus as king, and he gives them their honors.",
+      "cards": [
+        {
+          "id": "p055-typhoeus",
+          "label": "Typhoeus",
+          "general": "The monstrous enemy Zeus has just defeated.",
+          "here": "Hesiod makes him the source of dangerous winds."
+        },
+        {
+          "id": "p055-notus",
+          "label": "Notus",
+          "general": "The South Wind, imagined as a god.",
+          "here": "Hesiod groups him with the winds that help people."
+        },
+        {
+          "id": "p055-boreas",
+          "label": "Boreas",
+          "general": "The North Wind, imagined as a god.",
+          "here": "He is one of the three winds distinguished from Typhoeus’s destructive gusts."
+        },
+        {
+          "id": "p055-zephyrus",
+          "label": "Zephyrus",
+          "general": "The West Wind, imagined as a god.",
+          "here": "He is described as clearing the sky."
+        },
+        {
+          "id": "p055-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "She advises the gods to make Zeus their king."
+        },
+        {
+          "id": "p055-titans",
+          "label": "Titans",
+          "general": "An older generation of gods who fought Zeus and his allies.",
+          "here": "Their defeat settles which gods will hold power."
+        },
+        {
+          "id": "p055-zeus",
+          "label": "Olympian Zeus",
+          "general": "Zeus is the god of thunder. “Olympian” connects him with Mount Olympus, the gods’ home.",
+          "here": "The gods choose him to rule them."
+        },
+        {
+          "id": "p055-honors",
+          "label": "Honors",
+          "general": "A god’s recognized rank, privileges, and share of power.",
+          "here": "Zeus assigns each god a place in the new order."
+        }
+      ]
+    },
+    {
+      "id": "p056",
+      "start": 886,
+      "end": 900,
+      "heading": "Zeus swallows Metis",
+      "translation": "Zeus, king of the gods, made Metis his first wife. She knew more than any other god or mortal. But when she was about to give birth to the bright-eyed goddess Athena, Zeus deceived her with cunning, coaxing words and swallowed her into his belly. He did this on the advice of Gaia and starry Uranus.\n\nThey had advised him to do this so that no one else would take Zeus’s royal place among the everlasting gods. For Metis was destined to bear children of great wisdom: first a daughter, bright-eyed Tritogeneia, equal to her father in strength and wise judgment. After that, Metis would bear a son with a fierce and mighty spirit, who would become king of gods and humans.\n\nBut before that could happen, Zeus swallowed Metis into his belly, so that the goddess could advise him on good and evil.",
+      "summary": "Zeus swallows his wise wife Metis because her future son is destined to replace him as king. Inside Zeus, she can advise him.",
+      "cards": [
+        {
+          "id": "p056-zeus",
+          "label": "Zeus",
+          "general": "The king of the gods.",
+          "here": "He swallows Metis to prevent the birth of a son who would take his throne."
+        },
+        {
+          "id": "p056-metis",
+          "label": "Metis",
+          "general": "A goddess whose name means cleverness or wise planning.",
+          "here": "She is Zeus’s first wife, Athena’s mother, and a source of advice."
+        },
+        {
+          "id": "p056-athena",
+          "label": "Athena / Tritogeneia",
+          "general": "Athena is a goddess of wisdom, warfare, and skilled crafts. Tritogeneia is another name for her.",
+          "here": "Metis’s first child will match Zeus in strength and wise judgment."
+        },
+        {
+          "id": "p056-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "She helps Zeus protect his rule by advising him to swallow Metis."
+        },
+        {
+          "id": "p056-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, understood as a god and Gaia’s partner.",
+          "here": "He joins Gaia in advising Zeus."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "At line 846, the Greek can suggest fiery whirlwinds or scorching blasts of wind; the translation uses “fiery blasts of wind.”",
+    "At line 868, the phrase translated “in bitter fury” can also suggest anguish or distress.",
+    "The epithet translated “far-seeing” at line 884 is also interpreted as referring to Zeus’s far-carrying voice.",
+    "Athena’s epithet at lines 888 and 895 can mean bright-eyed or gray-eyed and may suggest an owl’s eyes. The meaning of her name Tritogeneia is uncertain."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "run_id": "e08dcd27-c84f-4572-89fb-80eb32283b84",
+  "created_at_utc": "2026-10-15T22:13:58.995734+00:00",
+  "prompt_version": "reader-16-v3.1",
+  "prompt_template": "agent-prompt.txt",
+  "prompt_template_sha256": "5594b3d6818dbccec5e0dcfcf914cfbccb6ec488468fd96de24d8819866b13d5",
+  "prompt_file": "remainder-2026-10-16-383-428.prompt.txt",
+  "prompt_sha256": "33cfc9ad9ed63b9c9d00bb2823617f8a29331a2324a5f2ad14ee408d49ed7eb3",
+  "runner_sha256": "c2bc683ae8893786439c14dfb42f2f2d43461a549428bab6550f8c473143ed12",
+  "schema_sha256": "f24a12df133aa33f41789f1568265c75f43f6ce386b41160a5d521356fdc2686",
+  "source_sha256": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
+  "section_boundaries_sha256": "d1b93ac7a74dad24183bea4bf67ff2ae758feec7a110d3148b4750daa82b10a4",
+  "glossary_sha256": "c9933ca57813a47d4ee7c79a80a76d2ada1bbd43ab957c89a4d77e78368046e4",
+  "codex_cli_version": "codex-cli 0.162.1",
+  "range": [
+    383,
+    428
+  ],
+  "model": "gpt-6.1-sol",
+  "effort": "medium",
+  "seconds": 71.51,
+  "prompt_characters": 4232,
+  "cli_exit": 0,
+  "tool_event_count": 0,
+  "item_types": [
+    "agent_message"
+  ],
+  "usage_events": [
+    {
+      "type": "turn.completed",
+      "usage": {
+        "input_tokens": 11578,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 3368,
+        "reasoning_output_tokens": 779
+      }
+    }
+  ],
+  "error_events": [],
+  "output_sha256": "5ee5feb6e20c28b01328e7d5128b4fc157d1683dbb39f43e35e8de01bdffcaf4"
+}

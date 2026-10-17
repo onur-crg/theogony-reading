@@ -1,0 +1,165 @@
+{
+  "sections": [
+    {
+      "id": "p044",
+      "start": 654,
+      "end": 663,
+      "heading": "Cottus promises to fight",
+      "translation": "So Zeus spoke, and noble Cottus answered:\n\n“Mighty god, what you tell us is no mystery. We know for ourselves how far your wisdom and understanding reach beyond all others. You have shielded the immortal gods from chilling ruin. Thanks to your good judgment, we have come back from the misty darkness, free of merciless chains, after suffering beyond imagining, Lord Zeus, son of Cronus. So now, with steady minds and careful planning, we will defend your power in this terrible war, fighting the Titans through the fiercest battles.”",
+      "summary": "Cottus thanks Zeus for freeing him and his companions. They promise to fight the Titans and defend Zeus and his allies.",
+      "cards": [
+        {
+          "id": "p044-cottus",
+          "label": "Cottus",
+          "general": "One of three giant brothers, each with a hundred hands and fifty heads.",
+          "here": "He speaks for the brothers Zeus has freed from imprisonment."
+        },
+        {
+          "id": "p044-zeus",
+          "label": "Zeus",
+          "general": "The god who commands thunder and lightning, and a son of Cronus.",
+          "here": "Cottus thanks him for freeing the brothers and promises to defend his side."
+        },
+        {
+          "id": "p044-cronus",
+          "label": "Cronus",
+          "general": "A Titan and the father of Zeus and several other gods.",
+          "here": "Cottus addresses Zeus as the son of Cronus."
+        },
+        {
+          "id": "p044-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "The Titans are fighting Zeus and his allies."
+        },
+        {
+          "id": "p044-immortal",
+          "label": "Immortal",
+          "general": "Unable to die.",
+          "here": "The gods can fight and suffer, even though they cannot die."
+        }
+      ]
+    },
+    {
+      "id": "p045",
+      "start": 664,
+      "end": 686,
+      "heading": "The armies clash",
+      "translation": "So Cottus spoke. The gods, the givers of good things, approved his words, and their hearts longed for war even more than before. That day they all stirred up a dreadful battle, female and male alike: the Titan gods, the children of Cronus, and those Zeus had brought up into the light from Erebus beneath the earth—terrifying, powerful beings with overwhelming strength.\n\nEach of those giants had a hundred hands springing from his shoulders, and fifty heads grew from his shoulders above his sturdy limbs. Now they faced the Titans in deadly battle, gripping towering rocks in their powerful hands. Across from them, the Titans eagerly tightened their battle ranks. Both sides showed what their hands and strength could do.\n\nThe boundless sea roared terribly all around. The earth crashed aloud; the wide sky shook and groaned. Tall Olympus shuddered from its base under the immortals’ onslaught. Deep tremors reached misty Tartarus, along with the piercing roar of feet in the endless rush of battle and the crash of mighty blows. So they hurled their weapons of pain at one another. The cries of both sides reached the starry sky as they called out and clashed with a mighty battle shout.",
+      "summary": "Both armies charge into battle. The hundred-handed giants fight for Zeus, and the violence shakes the sea, earth, sky, and depths below.",
+      "cards": [
+        {
+          "id": "p045-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "They form their ranks against Zeus and his allies."
+        },
+        {
+          "id": "p045-cronus",
+          "label": "Cronus",
+          "general": "A Titan and the father of Zeus and several other gods.",
+          "here": "His children form one of the groups fighting the Titans."
+        },
+        {
+          "id": "p045-zeus",
+          "label": "Zeus",
+          "general": "The god who commands thunder and lightning.",
+          "here": "He has freed the hundred-handed giants to join his side."
+        },
+        {
+          "id": "p045-erebus",
+          "label": "Erebus",
+          "general": "The darkness deep beneath the earth.",
+          "here": "Zeus brought the imprisoned giants out of this darkness into daylight."
+        },
+        {
+          "id": "p045-giants",
+          "label": "Hundred-handed giants",
+          "general": "Cottus, Briareus, and Gyes: three brothers with a hundred hands and fifty heads each.",
+          "here": "They face the Titans with huge rocks in their hands."
+        },
+        {
+          "id": "p045-olympus",
+          "label": "Olympus",
+          "general": "A high mountain associated with the home of the gods.",
+          "here": "The gods’ assault shakes the mountain from its base."
+        },
+        {
+          "id": "p045-tartarus",
+          "label": "Tartarus",
+          "general": "A vast, dark region far beneath the earth.",
+          "here": "Even these depths feel the battle’s tremors and noise."
+        }
+      ]
+    },
+    {
+      "id": "p046",
+      "start": 687,
+      "end": 710,
+      "heading": "Zeus unleashes his fire",
+      "translation": "Now Zeus no longer held back his fury. At once it filled his heart, and he revealed his full strength. From heaven and Olympus he advanced, flashing lightning without a pause. Thunderbolts flew thick and fast from his powerful hand, with thunder and lightning, whirling sacred flame.\n\nAll around, the life-giving earth burned and roared. Vast forests crackled loudly in the fire. All the land boiled, and so did the streams of Oceanus and the barren sea. Hot vapor wrapped the earthbound Titans, and an immense flame reached the bright upper air. The dazzling glare of thunderbolt and lightning blinded their eyes, strong as they were.\n\nAn astonishing heat filled Chaos. To see it with your own eyes and hear it with your own ears was just as though Gaia, the Earth, and wide Ouranos, the Sky above, were crashing together. Such a mighty roar would rise if Gaia were collapsing and Ouranos came crashing down from high above. So great was the crash as the gods met in battle.\n\nThe winds roared amid the shaking and dust, the thunder and lightning and smoking thunderbolts—the weapons of great Zeus. They carried cries and shouts between the two armies. An immense uproar rose from that dreadful conflict, and the gods’ deeds revealed their strength.",
+      "summary": "Zeus unleashes all his strength. His lightning burns the world, blinds the Titans, and makes a noise like Earth and Sky crashing together.",
+      "cards": [
+        {
+          "id": "p046-zeus",
+          "label": "Zeus",
+          "general": "The god who commands thunder and lightning.",
+          "here": "He releases his full power against the Titans."
+        },
+        {
+          "id": "p046-olympus",
+          "label": "Olympus",
+          "general": "A high mountain associated with the home of the gods.",
+          "here": "Zeus advances from heaven and Olympus as he attacks."
+        },
+        {
+          "id": "p046-thunderbolt",
+          "label": "Thunderbolt",
+          "general": "A bolt of lightning imagined as a weapon a god can throw.",
+          "here": "Zeus hurls thunderbolts wrapped in sacred flame."
+        },
+        {
+          "id": "p046-oceanus",
+          "label": "Oceanus",
+          "general": "The great river believed to circle the world, and the god of that river.",
+          "here": "Even its waters boil under Zeus’s fire."
+        },
+        {
+          "id": "p046-barren-sea",
+          "label": "Barren sea",
+          "general": "A poetic description of the sea as producing no crops.",
+          "here": "It does not mean the sea has no living creatures."
+        },
+        {
+          "id": "p046-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "Zeus’s enemies are surrounded by hot vapor and blinded by lightning."
+        },
+        {
+          "id": "p046-chaos",
+          "label": "Chaos",
+          "general": "The vast opening or gulf that appears at the beginning of Hesiod’s universe.",
+          "here": "The name means a yawning gap, rather than everyday confusion. Zeus’s heat fills it."
+        },
+        {
+          "id": "p046-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "The battle sounds as though she were collapsing beneath a falling Sky."
+        },
+        {
+          "id": "p046-ouranos",
+          "label": "Ouranos",
+          "general": "Sky himself, understood as a god.",
+          "here": "Hesiod imagines how it would sound if he crashed down onto Gaia."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 659 contains a dagger marking a textual difficulty around “back again.” The translation keeps the clear overall sense: Zeus enabled the brothers to return from darkness and imprisonment.",
+    "In line 660, the description of their suffering can suggest something beyond expectation or beyond hope. “Suffering beyond imagining” keeps the emphasis without specifying either interpretation.",
+    "The syntax of lines 706–708 is compressed and uncertain in detail. The translation takes the winds as roaring amid the earthquake, dust, and thunderstorm, then carrying the armies’ cries."
+  ]
+}

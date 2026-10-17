@@ -1,0 +1,52 @@
+These are supplementary Greek lines found after numbered verse 929. Translate them as a separate textual variant, not as part of the main numbered reading text.
+
+Write an English version of the marked Greek lines for a 16-year-old who does not know Greek myths. Make it clear and enjoyable to read, with natural sentences and some of the poem’s rhythm. Keep Hesiod’s meaning and images. Use today’s words, not old-fashioned ones. Do not add or leave out important facts. Keep names in the reading text. Add only the brief clue needed to follow a sentence; put other background in cards. If Hesiod explains a name, keep that explanation in the translation. Use natural English word order and make pronouns clear. Avoid interrupting sentences with explanations.
+
+Return one JSON result for each section below. Give each a short title, the translation, a very simple summary, and one short card for each useful name or hard word. Use the name hints only if they fit the Greek. Put real doubts in "uncertainties".
+In this separate variant appendix, put the deleted line 929s in square brackets and explain its status in "uncertainties". Mark the source gap after 929f without inventing missing words.
+
+SECTIONS
+[{"id": "v929", "start": 929, "end": 929, "heading": "Additional verses after 929"}]
+
+NAME HINTS
+[]
+
+CONTEXT BEFORE (do not translate)
+924: αὐτὸς δʼ ἐκ κεφαλῆς γλαυκώπιδα Τριτογένειαν
+925: δεινὴν ἐγρεκύδοιμον ἀγέστρατον Ἀτρυτώνην
+926: πότνιαν, ᾗ κέλαδοί τε ἅδον πόλεμοί τε μάχαι τε,
+927: Ἥρη δʼ Ἥφαιστον κλυτὸν οὐ φιλότητι μιγεῖσα
+928: γείνατο, καὶ ζαμένησε καὶ ἤρισε ᾧ παρακοίτῃ,
+929: ἐκ πάντων τέχνῃσι κεκασμένον Οὐρανιώνων.
+
+>>> TRANSLATE THESE GREEK VERSES: 929a-929t <<<
+929a: [add: Ἥρη δὲ ζαμένησε καὶ ἤρισε ᾧ παρακοίτῃ. ]
+929b: [add: ἐκ ταύτης δʼ ἔριδος ἣ μὲν τέκε φαίδιμον υἱὸν]
+929c: [add: Ἥφαιστον, φιλότητος ἄτερ Διὸς αἰγιόχοιο,]
+929d: [add: ἐκ πάντων παλάμῃσι κεκασμένον Οὐρανιώνων·]
+929e: [add: αὐτὰρ ὅ γʼ Ὠκεανοῦ καὶ Τηθύος ἠυκόμοιο]
+929f: [add: κούρῃ νόσφʼ Ἥρης παρελέξατο καλλιπαρήῳ,]
+[gap in Greek source after 929f]
+929g: [add: ἐξαπαφὼν Μῆτιν καίπερ πολυδήνεʼ ἐοῦσαν.]
+929h: [add: συμμάρψας δʼ ὅ γε χερσὶν ἑὴν ἐγκάτθετο νηδὺν]
+929i: [add: δείσας, μὴ τέξῃ κρατερώτερον ἄλλο κεραυνοῦ.]
+929j: [add: τοὔνεκά μιν Κρονίδης ὑψίζυγος αἰθέρι ναίων]
+929k: [add: κάππιεν ἐξαπίνης· ἣ δʼ αὐτίκα Παλλάδʼ Ἀθήνην]
+929l: [add: κύσατο· τὴν μὲν ἔτικτε πατὴρ ἀνδρῶν τε θεῶν τε]
+929m: [add: πὰρ κορυφὴν Τρίτωνος ἐπʼ ὄχθῃσιν ποταμοῖο.]
+929n: [add: Μῆτις δʼ αὖτε Ζηνὸς ὑπὸ σπλάγχνοις λελαθυῖα]
+929o: [add: ἧστο, Ἀθηναίης μήτηρ, τέκταινα δικαίων]
+929p: [add: πλεῖστα θεῶν τε ἰδυῖα καταθνητῶν τʼ ἀνθρώπων,]
+929q: [add: ἔνθα θεὰ παρέδεκτο ὅθεν παλάμαις περὶ πάντων]
+929r: [add: ἀθανάτων ἐκέκασθʼ οἳ Ὀλύμπια δώματʼ ἔχουσιν,]
+929s: [del: αἰγίδα ποιήσασα φοβέστρατον ἔντος Ἀθήνης·]
+929t: [add: σὺν τῇ ἐγείνατό μιν πολεμήια τεύχεʼ ἔχουσαν.]
+>>> END OF ASSIGNED VERSES <<<
+
+CONTEXT AFTER (do not translate)
+930: Ἐκ δʼ Ἀμφιτρίτης καὶ ἐρικτύπου Ἐννοσιγαίου
+931: Τρίτων εὐρυβίης γένετο μέγας, ὅστε θαλάσσης
+932: πυθμένʼ ἔχων παρὰ μητρὶ φίλῃ καὶ πατρὶ ἄνακτι
+933: ναίει χρύσεα δῶ, δεινὸς θεός. αὐτὰρ Ἄρηι
+934: ῥινοτόρῳ Κυθέρεια Φόβον καὶ Δεῖμον ἔτικτε
+935: δεινούς, οἵτʼ ἀνδρῶν πυκινὰς κλονέουσι φάλαγγας

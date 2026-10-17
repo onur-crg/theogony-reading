@@ -1,0 +1,37 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p005 (53–62): In Pieria, Mnemosyne slept with Zeus, son of Cronus, and bore him the Muses. Mnemosyne rules the hills of Eleuther. Her daughters bring forgetfulness of troubles and relief from worries.
+
+For nine nights wise Zeus slept with her, climbing into her sacred bed far from the other immortal gods. When a year had passed, the seasons had turned, the months had waned, and many days had run their course, she gave birth to nine daughters, all of one mind, a little way from the highest peak of snowy Olympus. Their hearts are set on song, and their spirits are free from care.
+
+GREEK CONTEXT BEFORE (do not translate)
+47: δεύτερον αὖτε Ζῆνα, θεῶν πατέρʼ ἠδὲ καὶ ἀνδρῶν,
+48: ἀρχόμεναί θʼ ὑμνεῦσι καὶ ἐκλήγουσαι ἀοιδῆς,
+49: ὅσσον φέρτατός ἐστι θεῶν κράτεί τε μέγιστος.
+50: αὖτις δʼ ἀνθρώπων τε γένος κρατερῶν τε Γιγάντων
+51: ὑμνεῦσαι τέρπουσι Διὸς νόον ἐντὸς Ὀλύμπου
+52: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο.
+
+>>> TRANSLATE THESE GREEK VERSES: 53-62 <<<
+53: τὰς ἐν Πιερίῃ Κρονίδῃ τέκε πατρὶ μιγεῖσα
+54: Μνημοσύνη, γουνοῖσιν Ἐλευθῆρος μεδέουσα,
+55: λησμοσύνην τε κακῶν ἄμπαυμά τε μερμηράων.
+56: ἐννέα γάρ οἱ νυκτὸς ἐμίσγετο μητίετα Ζεὺς
+57: νόσφιν ἀπʼ ἀθανάτων ἱερὸν λέχος εἰσαναβαίνων·
+58: ἀλλʼ ὅτε δή ῥʼ ἐνιαυτὸς ἔην, περὶ δʼ ἔτραπον ὧραι
+59: μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη,
+60: ἣ δʼ ἔτεκʼ ἐννέα κούρας ὁμόφρονας, ᾗσιν ἀοιδὴ
+61: μέμβλεται ἐν στήθεσσιν, ἀκηδέα θυμὸν ἐχούσαις,
+62: τυτθὸν ἀπʼ ἀκροτάτης κορυφῆς νιφόεντος Ὀλύμπου.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+63: ἔνθα σφιν λιπαροί τε χοροὶ καὶ δώματα καλά.
+64: πὰρ δʼ αὐτῇς Χάριτές τε καὶ Ἵμερος οἰκίʼ ἔχουσιν
+65: ἐν θαλίῃς· ἐρατὴν δὲ διὰ στόμα ὄσσαν ἱεῖσαι
+66: μέλπονται πάντων τε νόμους καὶ ἤθεα κεδνὰ
+67: ἀθανάτων κλείουσιν, ἐπήρατον ὄσσαν ἱεῖσαι.
+68: αἳ τότʼ ἴσαν πρὸς Ὄλυμπον ἀγαλλόμεναι ὀπὶ καλῇ,

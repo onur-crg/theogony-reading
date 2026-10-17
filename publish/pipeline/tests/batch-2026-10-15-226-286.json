@@ -1,0 +1,351 @@
+{
+  "sections": [
+    {
+      "id": "p018",
+      "start": 226,
+      "end": 232,
+      "heading": "Strife’s bitter children",
+      "translation": "Then hateful Strife, the goddess of conflict, gave birth to painful Toil,\nForgetfulness and Hunger, and Sorrows that bring tears;\nClashes and Battles, Murders and Slaughter;\nQuarrels, Lies and Arguments;\nLawlessness and Ruin, always close companions;\nand Oath, who brings terrible suffering to people on earth\nwhenever someone knowingly swears a false oath.",
+      "summary": "Strife gives birth to suffering, violence, lies and other troubles. A knowingly false oath brings especially great harm.",
+      "cards": [
+        {
+          "id": "p018-strife",
+          "label": "Strife",
+          "general": "Conflict and hostility, imagined as a goddess.",
+          "here": "She gives birth to the troubles listed here."
+        },
+        {
+          "id": "p018-toil",
+          "label": "Toil",
+          "general": "Hard, exhausting work.",
+          "here": "Painful Toil is one of Strife’s children."
+        },
+        {
+          "id": "p018-personification",
+          "label": "Troubles as children",
+          "general": "A poem can turn an idea or experience into a living being.",
+          "here": "Hunger, Lies and the other troubles become members of a divine family."
+        },
+        {
+          "id": "p018-lawlessness",
+          "label": "Lawlessness",
+          "general": "Disregard for laws and proper behavior.",
+          "here": "Lawlessness and Ruin are close companions."
+        },
+        {
+          "id": "p018-ruin",
+          "label": "Ruin",
+          "general": "Disaster, including the reckless blindness that can lead to it.",
+          "here": "Strife’s daughter Ruin stays close to Lawlessness."
+        },
+        {
+          "id": "p018-oath",
+          "label": "Oath",
+          "general": "A solemn promise or claim, made with divine powers as witnesses.",
+          "here": "Oath becomes a divine being who punishes deliberate false swearing."
+        }
+      ]
+    },
+    {
+      "id": "p019",
+      "start": 233,
+      "end": 239,
+      "heading": "Nereus, the truthful sea god",
+      "translation": "Pontus, the Sea, fathered Nereus, truthful and free from lies,\nthe eldest of his children. They call him the Old Man\nbecause he is trustworthy and gentle. He never forgets\nwhat is right, and his thoughts are fair and kind.\nThen Pontus joined with Gaia, the Earth, and fathered\nmighty Thaumas, proud Phorcys, Ceto with her lovely cheeks,\nand Eurybia, whose heart is as hard as unbreakable stone.",
+      "summary": "The Sea fathers honest, gentle Nereus. With Earth, he also has Thaumas, Phorcys, Ceto and strong-hearted Eurybia.",
+      "cards": [
+        {
+          "id": "p019-pontus",
+          "label": "Pontus",
+          "general": "The Sea imagined as a god.",
+          "here": "He fathers Nereus and, with Gaia, four more children."
+        },
+        {
+          "id": "p019-nereus",
+          "label": "Nereus",
+          "general": "A gentle, truthful sea god, often called the Old Man of the Sea.",
+          "here": "He is Pontus’s eldest child and always respects what is right."
+        },
+        {
+          "id": "p019-gaia",
+          "label": "Gaia",
+          "general": "The Earth imagined as a goddess.",
+          "here": "She and Pontus are the parents of Thaumas, Phorcys, Ceto and Eurybia."
+        },
+        {
+          "id": "p019-thaumas",
+          "label": "Thaumas",
+          "general": "A divine son of Sea and Earth.",
+          "here": "He is described as mighty."
+        },
+        {
+          "id": "p019-phorcys",
+          "label": "Phorcys",
+          "general": "A sea god, born from Sea and Earth.",
+          "here": "He is described as proud."
+        },
+        {
+          "id": "p019-ceto",
+          "label": "Ceto",
+          "general": "A sea goddess, born from Sea and Earth.",
+          "here": "The poem praises her lovely cheeks."
+        },
+        {
+          "id": "p019-eurybia",
+          "label": "Eurybia",
+          "general": "A goddess, born from Sea and Earth.",
+          "here": "Her hard, unyielding spirit is compared to unbreakable stone."
+        }
+      ]
+    },
+    {
+      "id": "p020",
+      "start": 240,
+      "end": 264,
+      "heading": "Fifty daughters of the sea",
+      "translation": "In the sea that yields no harvest, Nereus and lovely-haired Doris\nhad daughters, beautiful goddesses.\nDoris was the daughter of Oceanus, the great river encircling the world.\nTheir daughters were:\n\nPloto, Eucrante, Sao and Amphitrite;\nEudora, Thetis, Galene and Glauce;\nCymothoe, Speio, Thoe and lovely Halia;\nPasithea, Erato and Eunice with her rosy arms;\ngraceful Melite, Eulimene and Agave;\nDoto, Proto, Pherusa and Dynamene;\nNesaea, Actaea and Protomedea;\nDoris, Panopea and beautiful Galatea;\nlovely Hippothoe and Hipponoe with her rosy arms;\nand Cymodoce, who easily calms the waves on the misty sea\nand the blasts of raging winds,\nwith Cymatolege and Amphitrite of the lovely ankles.\n\nThen Cymo, Eione and Halimede with her lovely crown;\nGlauconome, who loves to smile, and Pontoporea;\nLeagora, Euagora and Laomedea;\nPolynoe, Autonoe and Lysianassa;\nEuarne, lovely in figure and flawless in looks;\nPsamathe with her graceful body, and glorious Menippe;\nNeso, Eupompe, Themisto and Pronoe;\nand Nemertes, who has her immortal father’s mind.\n\nThese fifty daughters were born to faultless Nereus,\nand all knew how to do their work without fault.",
+      "summary": "Nereus and Doris have fifty sea-goddess daughters. Some calm waves and winds; all are skilled at their work.",
+      "cards": [
+        {
+          "id": "p020-nereids",
+          "label": "Nereids",
+          "general": "The fifty sea-goddess daughters of Nereus and Doris.",
+          "here": "The poem names all fifty and praises their beauty and skill."
+        },
+        {
+          "id": "p020-nereus",
+          "label": "Nereus",
+          "general": "The truthful, gentle sea god introduced just before this passage.",
+          "here": "He is the father of all fifty daughters."
+        },
+        {
+          "id": "p020-doris-mother",
+          "label": "Doris, the mother",
+          "general": "A goddess who is a daughter of Oceanus.",
+          "here": "She and Nereus are the parents of the fifty sea goddesses."
+        },
+        {
+          "id": "p020-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river imagined as flowing around the world.",
+          "here": "He is Doris’s father and the daughters’ grandfather."
+        },
+        {
+          "id": "p020-unharvested-sea",
+          "label": "The sea that yields no harvest",
+          "general": "A poetic description of the sea, where people cannot grow crops.",
+          "here": "It sets the daughters’ home apart from cultivated land."
+        },
+        {
+          "id": "p020-amphitrite",
+          "label": "Amphitrite",
+          "general": "One of the fifty sea goddesses.",
+          "here": "She helps Cymodoce and Cymatolege calm waves and winds."
+        },
+        {
+          "id": "p020-thetis",
+          "label": "Thetis",
+          "general": "One of Nereus and Doris’s sea-goddess daughters.",
+          "here": "She appears near the beginning of the list."
+        },
+        {
+          "id": "p020-doris-daughter",
+          "label": "Doris, the daughter",
+          "general": "One of the fifty sea goddesses.",
+          "here": "She shares her name with her mother."
+        },
+        {
+          "id": "p020-galatea",
+          "label": "Galatea",
+          "general": "One of the fifty sea goddesses.",
+          "here": "The poem singles out her beauty."
+        },
+        {
+          "id": "p020-cymodoce",
+          "label": "Cymodoce",
+          "general": "A sea goddess whose name is connected with waves.",
+          "here": "She calms waves and fierce winds with two of her sisters."
+        },
+        {
+          "id": "p020-cymatolege",
+          "label": "Cymatolege",
+          "general": "A sea goddess whose name suggests stilling waves.",
+          "here": "She helps Cymodoce and Amphitrite calm the sea."
+        },
+        {
+          "id": "p020-rosy-arms",
+          "label": "Rosy arms",
+          "general": "Arms whose beauty or color is compared to roses.",
+          "here": "The description praises Eunice and Hipponoe."
+        },
+        {
+          "id": "p020-nemertes",
+          "label": "Nemertes",
+          "general": "One of the fifty sea goddesses.",
+          "here": "She shares the mind of her truthful father, Nereus."
+        }
+      ]
+    },
+    {
+      "id": "p021",
+      "start": 265,
+      "end": 286,
+      "heading": "Swift wings and Medusa’s children",
+      "translation": "Thaumas married Electra, daughter of deep-flowing Oceanus.\nShe gave birth to swift Iris, the rainbow goddess,\nand the lovely-haired Harpies, winged beings named Aello and Ocypete.\nOn swift wings they keep pace with gusts of wind and birds,\nracing high through the air.\n\nCeto bore Phorcys the lovely-cheeked Graeae,\ngray-haired from birth. That is why immortal gods\nand people walking the earth call them the Graeae—the Gray Women:\nPemphredo in her beautiful robe, and Enyo in a saffron-yellow robe.\nShe also bore the Gorgons, three fearsome sisters who live\nbeyond glorious Oceanus, at the world’s edge toward Night,\nwhere the clear-voiced Hesperides, the maidens of evening, live:\nSthenno, Euryale and Medusa, who suffered a terrible fate.\n\nMedusa was mortal; the other two could never die or grow old.\nWith her the dark-haired sea god Poseidon slept,\nin a soft meadow among the flowers of spring.\nWhen Perseus, a mortal hero, cut off her head,\nmighty Chrysaor and Pegasus the horse sprang out.\nPegasus took his name from the Greek word for “springs,”\nfor he was born beside the springs of Oceanus;\nChrysaor’s name means “Golden Sword,” for he held a golden sword in his hands.\n\nPegasus flew away, leaving earth, the mother of sheep,\nand reached the immortal gods. He lives in the halls of Zeus,\ncarrying thunder and lightning for that wise god.",
+      "summary": "Electra bears Iris and the Harpies. Ceto bears the Graeae and Gorgons. When Perseus kills Medusa, Chrysaor and Pegasus spring out; Pegasus flies to live with Zeus.",
+      "cards": [
+        {
+          "id": "p021-thaumas",
+          "label": "Thaumas",
+          "general": "A divine son of Sea and Earth.",
+          "here": "He marries Electra and fathers Iris and the Harpies."
+        },
+        {
+          "id": "p021-electra",
+          "label": "Electra",
+          "general": "A goddess who is a daughter of Oceanus.",
+          "here": "She is the mother of Iris, Aello and Ocypete."
+        },
+        {
+          "id": "p021-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river imagined as circling the world.",
+          "here": "Electra is his daughter; the Gorgons live beyond him."
+        },
+        {
+          "id": "p021-iris",
+          "label": "Iris",
+          "general": "The goddess associated with the rainbow.",
+          "here": "She is the swift daughter of Thaumas and Electra."
+        },
+        {
+          "id": "p021-harpies",
+          "label": "Harpies",
+          "general": "Winged female beings associated with rushing winds.",
+          "here": "They have lovely hair and fly as fast as winds and birds."
+        },
+        {
+          "id": "p021-aello",
+          "label": "Aello",
+          "general": "A Harpy whose name suggests a storm wind.",
+          "here": "She is one of Electra’s two Harpy daughters."
+        },
+        {
+          "id": "p021-ocypete",
+          "label": "Ocypete",
+          "general": "A Harpy whose name means “swift-flying.”",
+          "here": "She races through the air alongside Aello."
+        },
+        {
+          "id": "p021-ceto-phorcys",
+          "label": "Ceto and Phorcys",
+          "general": "Sea divinities, both children of Sea and Earth.",
+          "here": "They are the parents of the Graeae and the Gorgons."
+        },
+        {
+          "id": "p021-graeae",
+          "label": "Graeae",
+          "general": "A name meaning “Gray Women.”",
+          "here": "These sisters have gray hair from the moment they are born."
+        },
+        {
+          "id": "p021-pemphredo",
+          "label": "Pemphredo",
+          "general": "One of the Graeae.",
+          "here": "She wears a beautiful robe."
+        },
+        {
+          "id": "p021-enyo",
+          "label": "Enyo",
+          "general": "One of the Graeae named in this passage.",
+          "here": "She wears a saffron-yellow robe."
+        },
+        {
+          "id": "p021-saffron",
+          "label": "Saffron-yellow",
+          "general": "A rich yellow like the color produced by saffron, a flower-derived spice and dye.",
+          "here": "It describes Enyo’s robe."
+        },
+        {
+          "id": "p021-gorgons",
+          "label": "Gorgons",
+          "general": "Three fearsome sisters: Sthenno, Euryale and Medusa.",
+          "here": "They live beyond Oceanus, near Night."
+        },
+        {
+          "id": "p021-night",
+          "label": "Night",
+          "general": "Darkness imagined as a goddess.",
+          "here": "Her region marks the remote edge of the world."
+        },
+        {
+          "id": "p021-hesperides",
+          "label": "Hesperides",
+          "general": "Divine maidens associated with evening and the far west.",
+          "here": "Their clear voices are heard in the region where the Gorgons live."
+        },
+        {
+          "id": "p021-sthenno",
+          "label": "Sthenno",
+          "general": "One of the three Gorgon sisters.",
+          "here": "She is immortal and never grows old."
+        },
+        {
+          "id": "p021-euryale",
+          "label": "Euryale",
+          "general": "One of the three Gorgon sisters.",
+          "here": "Like Sthenno, she is immortal and never grows old."
+        },
+        {
+          "id": "p021-medusa",
+          "label": "Medusa",
+          "general": "The only mortal Gorgon.",
+          "here": "Perseus cuts off her head, and Chrysaor and Pegasus spring out."
+        },
+        {
+          "id": "p021-mortal",
+          "label": "Mortal and immortal",
+          "general": "A mortal can die; an immortal cannot.",
+          "here": "Medusa can die, while her two sisters cannot die or grow old."
+        },
+        {
+          "id": "p021-poseidon",
+          "label": "Poseidon",
+          "general": "The god of the sea.",
+          "here": "The poem calls him “Dark-haired” and says he slept with Medusa."
+        },
+        {
+          "id": "p021-perseus",
+          "label": "Perseus",
+          "general": "A mortal hero in Greek myth.",
+          "here": "He kills Medusa by cutting off her head."
+        },
+        {
+          "id": "p021-chrysaor",
+          "label": "Chrysaor",
+          "general": "A mythical figure whose name means “Golden Sword.”",
+          "here": "He springs from Medusa holding a golden sword."
+        },
+        {
+          "id": "p021-pegasus",
+          "label": "Pegasus",
+          "general": "A winged horse.",
+          "here": "He springs from Medusa, flies to the gods and carries Zeus’s thunder and lightning."
+        },
+        {
+          "id": "p021-pegasus-name",
+          "label": "Pegasus and springs",
+          "general": "Hesiod connects Pegasus’s name with pēgai, the Greek word for springs.",
+          "here": "The poem explains his name through his birthplace beside Oceanus’s springs."
+        },
+        {
+          "id": "p021-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the Greek gods, associated with thunder and lightning.",
+          "here": "Pegasus lives in his halls and carries his thunder and lightning."
+        }
+      ]
+    }
+  ],
+  "uncertainties": []
+}

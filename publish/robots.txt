@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theogony-reading.vercel.app/sitemap.xml

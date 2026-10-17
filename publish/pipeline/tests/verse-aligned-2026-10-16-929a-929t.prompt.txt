@@ -1,0 +1,54 @@
+Translate each of these additional Greek lines into one English line for a 16-year-old. Use clear, natural English and preserve Hesiod's meaning and images. A sentence may continue across lines. Keep names. Do not invent or omit facts. Return exactly one item for each label 929a through 929t in order; put the label in "n" and the English line in "text". Do not include the label inside the English text. Avoid em dashes.
+
+These lines are a separate textual variant, not part of the 1–1022 numbered reading. The source marks a gap after 929f; do not invent missing words. Line 929s is marked for deletion; translate it in square brackets and note that status under "uncertainties". Keep any other genuine doubts there as well.
+
+EARLIER ENGLISH DRAFT FOR STYLE ONLY
+Hera raged and quarreled with her husband.
+Out of this quarrel she bore a glorious son,
+Hephaestus, without making love with Zeus, who carries the aegis.
+His handiwork surpassed that of all the heavenly gods.
+But Zeus, away from Hera, lay with the lovely-cheeked daughter
+of Oceanus and Tethys with her beautiful hair.
+
+[Gap in the Greek source]
+
+He deceived Metis, though she knew so many tricks.
+He seized her in his hands and put her inside his belly,
+afraid she might bear another child stronger than his thunderbolt.
+That was why Zeus, son of Cronus, enthroned on high,
+living in the upper air, suddenly swallowed her.
+At once she conceived Pallas Athena.
+Then the father of gods and humans gave birth to Athena
+from his head, beside the banks of the river Triton.
+
+Metis, Athena’s mother, stayed hidden
+beneath the organs inside Zeus’s body.
+She shaped what was right and knew more
+than all the gods and mortal humans.
+There the goddess had found a place; from there,
+her handiwork surpassed that of all the immortals
+who have their homes on Olympus.
+[She made the aegis, Athena’s armor that sends armies fleeing.]
+With it, Zeus brought Athena to birth, wearing her battle gear.
+
+GREEK VARIANT LINES
+929a: [add: Ἥρη δὲ ζαμένησε καὶ ἤρισε ᾧ παρακοίτῃ. ]
+929b: [add: ἐκ ταύτης δʼ ἔριδος ἣ μὲν τέκε φαίδιμον υἱὸν]
+929c: [add: Ἥφαιστον, φιλότητος ἄτερ Διὸς αἰγιόχοιο,]
+929d: [add: ἐκ πάντων παλάμῃσι κεκασμένον Οὐρανιώνων·]
+929e: [add: αὐτὰρ ὅ γʼ Ὠκεανοῦ καὶ Τηθύος ἠυκόμοιο]
+929f: [add: κούρῃ νόσφʼ Ἥρης παρελέξατο καλλιπαρήῳ,]
+929g: [add: ἐξαπαφὼν Μῆτιν καίπερ πολυδήνεʼ ἐοῦσαν.]
+929h: [add: συμμάρψας δʼ ὅ γε χερσὶν ἑὴν ἐγκάτθετο νηδὺν]
+929i: [add: δείσας, μὴ τέξῃ κρατερώτερον ἄλλο κεραυνοῦ.]
+929j: [add: τοὔνεκά μιν Κρονίδης ὑψίζυγος αἰθέρι ναίων]
+929k: [add: κάππιεν ἐξαπίνης· ἣ δʼ αὐτίκα Παλλάδʼ Ἀθήνην]
+929l: [add: κύσατο· τὴν μὲν ἔτικτε πατὴρ ἀνδρῶν τε θεῶν τε]
+929m: [add: πὰρ κορυφὴν Τρίτωνος ἐπʼ ὄχθῃσιν ποταμοῖο.]
+929n: [add: Μῆτις δʼ αὖτε Ζηνὸς ὑπὸ σπλάγχνοις λελαθυῖα]
+929o: [add: ἧστο, Ἀθηναίης μήτηρ, τέκταινα δικαίων]
+929p: [add: πλεῖστα θεῶν τε ἰδυῖα καταθνητῶν τʼ ἀνθρώπων,]
+929q: [add: ἔνθα θεὰ παρέδεκτο ὅθεν παλάμαις περὶ πάντων]
+929r: [add: ἀθανάτων ἐκέκασθʼ οἳ Ὀλύμπια δώματʼ ἔχουσιν,]
+929s: [del: αἰγίδα ποιήσασα φοβέστρατον ἔντος Ἀθήνης·]
+929t: [add: σὺν τῇ ἐγείνατό μιν πολεμήια τεύχεʼ ἔχουσαν.]

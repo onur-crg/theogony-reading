@@ -1,0 +1,153 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p014 (174–187): Gaia, the goddess Earth, hid her son Cronus in ambush.
+She put a jagged-toothed sickle in his hands
+and told him the whole plan.
+
+Then mighty Uranus, the god Sky, came bringing night.
+Longing to make love, he spread himself
+all over Earth. From his hiding place,
+his son reached out with his left hand;
+with his right he gripped the huge, long, jagged sickle
+and swiftly sliced off his own father’s genitals,
+flinging them behind him.
+
+But they did not leave his hand without a result.
+Earth caught every drop of blood that scattered,
+and as the years rolled round, she gave birth
+to the powerful Erinyes, spirits of vengeance,
+and the great Giants, gleaming in armor,
+long spears in their hands,
+and the Meliae, ash-tree spirits,
+whom people across the boundless earth call by that name.
+
+p015 (188–206): Once Cronus had cut off the genitals
+with adamant—a substance nothing could break—
+and thrown them from the land into the surging sea,
+they drifted over the water for a long time.
+White foam rose around the immortal flesh,
+and in that foam a girl grew.
+
+First she drew near holy Cythera, an island;
+then she reached Cyprus, surrounded by the sea.
+Out stepped a beautiful goddess, worthy of reverence,
+and grass grew beneath her slender feet.
+
+Gods and humans call her Aphrodite, the goddess of love,
+because she grew in foam—the Greek word is aphros.
+They call her Cytherea because she came to Cythera,
+and Cyprus-born because she was born on wave-washed Cyprus,
+and “Genital-loving” because she appeared from genitals.
+
+Eros, the god Love, went with her,
+and beautiful Himeros, the god Desire, followed,
+from the moment of her birth
+as she went to join the company of gods.
+
+From the beginning, this has been her honor,
+the share assigned to her among humans and immortal gods:
+young women’s intimate whispers, smiles and deceptions,
+sweet pleasure, lovemaking, and tenderness.
+
+p016 (207–210): Their father, mighty Sky, called the children
+he himself had fathered “Titans,” in reproach.
+He said they had strained too far in their recklessness,
+committing a terrible deed—
+and that punishment for it would come later.
+
+p017 (211–225): Night gave birth to hateful Moros, the doom awaiting us,
+to black Ker, a spirit of death, and to Thanatos, Death himself.
+She bore Hypnos, Sleep, and the whole tribe of Dreams.
+The dark goddess Night bore them without sleeping with anyone.
+
+Then she bore Momus, Blame, and Oizys, painful Misery,
+and the Hesperides, maidens who tend the beautiful golden apples
+and the trees that bear them,
+beyond famous Oceanus, the river circling the world.
+
+She also bore the Fates and the Keres, merciless avengers—
+Clotho, Lachesis, and Atropos,
+who give mortals their share of good and bad at birth.
+They pursue the wrongdoing of humans and gods,
+and these goddesses never let their terrible anger rest
+until they make whoever has done wrong pay dearly.
+
+Deadly Night also bore Nemesis, the goddess of payback,
+a source of suffering for mortals.
+After her she bore Apate, Deceit, and Philotes, Intimacy,
+and destructive Old Age,
+and Eris, fierce-hearted Strife.
+
+GREEK CONTEXT BEFORE (do not translate)
+168: φθέγξατο. θαρσήσας δὲ μέγας Κρόνος ἀγκυλομήτης
+169: ἂψ αὖτις μύθοισι προσηύδα μητέρα κεδνήν·
+170: μῆτερ, ἐγώ κεν τοῦτό γʼ ὑποσχόμενος τελέσαιμι
+171: ἔργον, ἐπεὶ πατρός γε δυσωνύμου οὐκ ἀλεγίζω
+172: ἡμετέρου· πρότερος γὰρ ἀεικέα μήσατο ἔργα.
+173: ὣς φάτο· γήθησεν δὲ μέγα φρεσὶ Γαῖα πελώρη·
+
+>>> TRANSLATE THESE GREEK VERSES: 174-225 <<<
+174: εἷσε δέ μιν κρύψασα λόχῳ· ἐνέθηκε δὲ χερσὶν
+175: ἅρπην καρχαρόδοντα· δόλον δʼ ὑπεθήκατο πάντα.
+176: ἦλθε δὲ νύκτʼ ἐπάγων μέγας Οὐρανός, ἀμφὶ δὲ Γαίῃ
+177: ἱμείρων φιλότητος ἐπέσχετο καί ῥʼ ἐτανύσθη
+178: πάντη· ὃ δʼ ἐκ λοχέοιο πάις ὠρέξατο χειρὶ
+179: σκαιῇ, δεξιτερῇ δὲ πελώριον ἔλλαβεν ἅρπην
+180: μακρὴν καρχαρόδοντα, φίλου δʼ ἀπὸ μήδεα πατρὸς
+181: ἐσσυμένως ἤμησε, πάλιν δʼ ἔρριψε φέρεσθαι
+182: ἐξοπίσω· τὰ μὲν οὔ τι ἐτώσια ἔκφυγε χειρός·
+183: ὅσσαι γὰρ ῥαθάμιγγες ἀπέσσυθεν αἱματόεσσαι,
+184: πάσας δέξατο Γαῖα· περιπλομένων δʼ ἐνιαυτῶν
+185: γείνατʼ Ἐρινῦς τε κρατερὰς μεγάλους τε Γίγαντας,
+186: τεύχεσι λαμπομένους, δολίχʼ ἔγχεα χερσὶν ἔχοντας,
+187: Νύμφας θʼ ἃς Μελίας καλέουσʼ ἐπʼ ἀπείρονα γαῖαν.
+188: μήδεα δʼ ὡς τὸ πρῶτον ἀποτμήξας ἀδάμαντι
+189: κάββαλʼ ἀπʼ ἠπείροιο πολυκλύστῳ ἐνὶ πόντῳ,
+190: ὣς φέρετʼ ἂμ πέλαγος πουλὺν χρόνον, ἀμφὶ δὲ λευκὸς
+191: ἀφρὸς ἀπʼ ἀθανάτου χροὸς ὤρνυτο· τῷ δʼ ἔνι κούρη
+192: ἐθρέφθη· πρῶτον δὲ Κυθήροισιν ζαθέοισιν
+193: ἔπλητʼ, ἔνθεν ἔπειτα περίρρυτον ἵκετο Κύπρον.
+194: ἐκ δʼ ἔβη αἰδοίη καλὴ θεός, ἀμφὶ δὲ ποίη
+195: ποσσὶν ὕπο ῥαδινοῖσιν ἀέξετο· τὴν δʼ Ἀφροδίτην
+196: [del: ἀφρογενέα τε θεὰν καὶ ἐυστέφανον Κυθέρειαν]
+197: κικλῄσκουσι θεοί τε καὶ ἀνέρες, οὕνεκʼ ἐν ἀφρῷ
+198: θρέφθη· ἀτὰρ Κυθέρειαν, ὅτι προσέκυρσε Κυθήροις·
+199: Κυπρογενέα δʼ, ὅτι γέντο πολυκλύστῳ ἐνὶ Κύπρῳ·
+200: ἠδὲ φιλομμηδέα, ὅτι μηδέων ἐξεφαάνθη.
+201: τῇ δʼ Ἔρος ὡμάρτησε καὶ Ἵμερος ἕσπετο καλὸς
+202: γεινομένῃ τὰ πρῶτα θεῶν τʼ ἐς φῦλον ἰούσῃ.
+203: ταύτην δʼ ἐξ ἀρχῆς τιμὴν ἔχει ἠδὲ λέλογχε
+204: μοῖραν ἐν ἀνθρώποισι καὶ ἀθανάτοισι θεοῖσι,
+205: παρθενίους τʼ ὀάρους μειδήματά τʼ ἐξαπάτας τε
+206: τέρψιν τε γλυκερὴν φιλότητά τε μειλιχίην τε.
+207: τοὺς δὲ πατὴρ Τιτῆνας ἐπίκλησιν καλέεσκε
+208: παῖδας νεικείων μέγας Οὐρανός, οὓς τέκεν αὐτός·
+209: φάσκε δὲ τιταίνοντας ἀτασθαλίῃ μέγα ῥέξαι
+210: ἔργον, τοῖο δʼ ἔπειτα τίσιν μετόπισθεν ἔσεσθαι.
+211: νὺξ δʼ ἔτεκεν στυγερόν τε Μόρον καὶ Κῆρα μέλαιναν
+212: καὶ Θάνατον, τέκε δʼ Ὕπνον, ἔτικτε δὲ φῦλον Ὀνείρων·
+213: οὔ τινι κοιμηθεῖσα θεὰ τέκε Νὺξ ἐρεβεννή,
+214: δεύτερον αὖ Μῶμον καὶ Ὀιζὺν ἀλγινόεσσαν
+215: Ἑσπερίδας θʼ, ᾗς μῆλα πέρην κλυτοῦ Ὠκεανοῖο
+216: χρύσεα καλὰ μέλουσι φέροντά τε δένδρεα καρπόν.
+217: καὶ Μοίρας καὶ Κῆρας ἐγείνατο νηλεοποίνους,
+218: Κλωθώ τε Λάχεσίν τε καὶ Ἄτροπον, αἵτε βροτοῖσι
+219: γεινομένοισι διδοῦσιν ἔχειν ἀγαθόν τε κακόν τε,
+220: αἵτʼ ἀνδρῶν τε θεῶν τε παραιβασίας ἐφέπουσιν·
+221: οὐδέ ποτε λήγουσι θεαὶ δεινοῖο χόλοιο,
+222: πρίν γʼ ἀπὸ τῷ δώωσι κακὴν ὄπιν, ὅς τις ἁμάρτῃ.
+223: τίκτε δὲ καὶ Νέμεσιν, πῆμα θνητοῖσι βροτοῖσι,
+224: Νὺξ ὀλοή· μετὰ τὴν δʼ Ἀπάτην τέκε καὶ Φιλότητα
+225: Γῆράς τʼ οὐλόμενον, καὶ Ἔριν τέκε καρτερόθυμον.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+226: αὐτὰρ Ἔρις στυγερὴ τέκε μὲν Πόνον ἀλγινόεντα
+227: Λήθην τε Λιμόν τε καὶ Ἄλγεα δακρυόεντα
+228: Ὑσμίνας τε Μάχας τε Φόνους τʼ Ἀνδροκτασίας τε
+229: Νείκεά τε ψευδέας τε Λόγους Ἀμφιλλογίας τε
+230: Δυσνομίην τʼ Ἄτην τε, συνήθεας ἀλλήλῃσιν,
+231: Ὅρκον θʼ, ὃς δὴ πλεῖστον ἐπιχθονίους ἀνθρώπους

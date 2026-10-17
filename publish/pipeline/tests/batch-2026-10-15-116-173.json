@@ -1,0 +1,290 @@
+{
+  "sections": [
+    {
+      "id": "p010",
+      "start": 116,
+      "end": 125,
+      "heading": "The first beings",
+      "translation": "First of all, Chaos came into being—a vast gap. Then came Gaia, broad-chested Earth, the firm seat of all things forever; and misty Tartarus, deep in the earth with its wide paths; and Eros, the god of desire, most beautiful of the immortal gods. He loosens limbs and overpowers the mind and careful judgment in the hearts of every god and every human.\n\nFrom Chaos came Erebus, the darkness, and black Night. From Night came Aether, the bright upper air, and Day. She conceived and gave birth to them after joining with Erebus in love.",
+      "summary": "The first beings appear. Darkness and Night come from Chaos; Night and Darkness become the parents of bright air and Day.",
+      "cards": [
+        {
+          "id": "p010-chaos",
+          "label": "Chaos",
+          "general": "The name means a gap or chasm, rather than everyday disorder.",
+          "here": "Chaos is the first being to appear and the source of Darkness and Night."
+        },
+        {
+          "id": "p010-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, imagined as a goddess.",
+          "here": "Her broad body provides a firm seat for everything."
+        },
+        {
+          "id": "p010-tartarus",
+          "label": "Tartarus",
+          "general": "A deep, dark region far below the earth.",
+          "here": "It appears among the earliest beings, in the earth’s depths."
+        },
+        {
+          "id": "p010-eros",
+          "label": "Eros",
+          "general": "The divine power of love and sexual desire.",
+          "here": "His power weakens limbs and overwhelms clear thinking in gods and humans alike."
+        },
+        {
+          "id": "p010-erebus",
+          "label": "Erebus",
+          "general": "Darkness imagined as a divine being.",
+          "here": "He comes from Chaos and fathers Aether and Day with Night."
+        },
+        {
+          "id": "p010-night",
+          "label": "Night",
+          "general": "Night imagined as a goddess, also called Nyx.",
+          "here": "She comes from Chaos and gives birth to Aether and Day."
+        },
+        {
+          "id": "p010-aether",
+          "label": "Aether",
+          "general": "The bright, clear upper air above the lower atmosphere.",
+          "here": "Aether is a child of Night and Erebus."
+        },
+        {
+          "id": "p010-day",
+          "label": "Day",
+          "general": "Daylight imagined as a goddess, also called Hemera.",
+          "here": "She is born to Night and Erebus."
+        },
+        {
+          "id": "p010-immortal",
+          "label": "Immortal",
+          "general": "Living forever; unable to die.",
+          "here": "The word describes the gods."
+        }
+      ]
+    },
+    {
+      "id": "p011",
+      "start": 126,
+      "end": 138,
+      "heading": "Earth’s children",
+      "translation": "First Gaia, Earth, gave birth to starry Uranus, Sky, equal to herself in size, to cover her on every side and be a firm seat forever for the blessed gods.\n\nShe gave birth to the tall Mountains, lovely homes for the Nymphs—the goddesses who live among the mountains’ valleys. She also bore Pontus, the barren Sea, raging with waves, without joining anyone in the pleasures of love.\n\nThen she lay with Sky and bore Oceanus, the great river with its deep whirlpools; Coeus, Crius, Hyperion, and Iapetus; Theia, Rhea, Themis, and Mnemosyne; Phoebe with her golden crown, and lovely Tethys.\n\nAfter them came the youngest, Cronus, with his crooked schemes—the most fearsome of her children. He hated his vigorous father.",
+      "summary": "Earth gives birth to Sky, the Mountains, and Sea. With Sky, she then has twelve children. The youngest, Cronus, hates his father.",
+      "cards": [
+        {
+          "id": "p011-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, imagined as a god.",
+          "here": "Earth bears him and later has children with him."
+        },
+        {
+          "id": "p011-nymphs",
+          "label": "Nymphs",
+          "general": "Goddesses associated with natural places such as mountains, woods, and springs.",
+          "here": "These Nymphs live among mountain valleys."
+        },
+        {
+          "id": "p011-pontus",
+          "label": "Pontus",
+          "general": "The Sea itself, imagined as a god.",
+          "here": "Earth gives birth to him without a partner."
+        },
+        {
+          "id": "p011-barren",
+          "label": "Barren sea",
+          "general": "Land is called barren when it produces no crops.",
+          "here": "The phrase pictures the sea as a place where no harvest grows."
+        },
+        {
+          "id": "p011-oceanus",
+          "label": "Oceanus",
+          "general": "The god of the great river imagined as surrounding the world; one of the gods called Titans.",
+          "here": "Earth and Sky’s child, described as having deep whirlpools."
+        },
+        {
+          "id": "p011-coeus",
+          "label": "Coeus",
+          "general": "One of the Titans, the twelve children listed here of Earth and Sky.",
+          "here": "Hesiod names him without describing him further."
+        },
+        {
+          "id": "p011-crius",
+          "label": "Crius",
+          "general": "One of the Titans, children of Earth and Sky.",
+          "here": "He appears among the brothers born before Cronus."
+        },
+        {
+          "id": "p011-hyperion",
+          "label": "Hyperion",
+          "general": "One of the Titans, children of Earth and Sky.",
+          "here": "Hesiod lists him among their sons."
+        },
+        {
+          "id": "p011-iapetus",
+          "label": "Iapetus",
+          "general": "One of the Titans, children of Earth and Sky.",
+          "here": "He is another of Cronus’s older brothers."
+        },
+        {
+          "id": "p011-theia",
+          "label": "Theia",
+          "general": "One of the female Titans, daughters of Earth and Sky.",
+          "here": "She begins the list of their six daughters."
+        },
+        {
+          "id": "p011-rhea",
+          "label": "Rhea",
+          "general": "One of the female Titans, daughters of Earth and Sky.",
+          "here": "She is named alongside her sisters."
+        },
+        {
+          "id": "p011-themis",
+          "label": "Themis",
+          "general": "A Titan goddess associated with justice and the proper order of things.",
+          "here": "She is listed as a daughter of Earth and Sky."
+        },
+        {
+          "id": "p011-mnemosyne",
+          "label": "Mnemosyne",
+          "general": "The goddess of memory and one of the Titans.",
+          "here": "She is a daughter of Earth and Sky."
+        },
+        {
+          "id": "p011-phoebe",
+          "label": "Phoebe",
+          "general": "One of the female Titans, daughters of Earth and Sky.",
+          "here": "She wears a golden crown."
+        },
+        {
+          "id": "p011-tethys",
+          "label": "Tethys",
+          "general": "One of the female Titans, daughters of Earth and Sky.",
+          "here": "Hesiod describes her as lovely."
+        },
+        {
+          "id": "p011-cronus",
+          "label": "Cronus",
+          "general": "The youngest Titan, a son of Earth and Sky.",
+          "here": "He is fearsome, skilled in crooked schemes, and hostile to his father."
+        }
+      ]
+    },
+    {
+      "id": "p012",
+      "start": 139,
+      "end": 153,
+      "heading": "One eye, a hundred hands",
+      "translation": "Earth also gave birth to the Cyclopes, with their fierce hearts: Brontes, Steropes, and mighty-hearted Arges. They gave Zeus, the thunder god, his thunder and made his thunderbolt.\n\nIn every other way they were like the gods, but a single eye lay in the middle of each forehead. They were called Cyclopes—“Round-eyes”—because each had that one round eye in his forehead. Strength, force, and skill showed in everything they made.\n\nThree more children were born to Earth and Sky, huge and powerful, too terrible to name: Cottus, Briareus, and Gyges, towering sons. A hundred monstrous hands sprang from each one’s shoulders, and fifty heads grew from the shoulders above each one’s sturdy limbs. Their enormous bodies held boundless, mighty strength.",
+      "summary": "Earth bears three one-eyed makers of thunder and lightning. Earth and Sky also have three huge sons, each with a hundred hands and fifty heads.",
+      "cards": [
+        {
+          "id": "p012-cyclopes",
+          "label": "Cyclopes",
+          "general": "One-eyed giants; their name means “Round-eyes.” A single one is a Cyclops.",
+          "here": "These three brothers are powerful craftspeople who make Zeus’s thunderbolt."
+        },
+        {
+          "id": "p012-brontes",
+          "label": "Brontes",
+          "general": "One of the three Cyclopes; his name is connected with thunder.",
+          "here": "He helps provide Zeus with thunder and a thunderbolt."
+        },
+        {
+          "id": "p012-steropes",
+          "label": "Steropes",
+          "general": "One of the three Cyclopes; his name is connected with lightning.",
+          "here": "He works alongside Brontes and Arges."
+        },
+        {
+          "id": "p012-arges",
+          "label": "Arges",
+          "general": "One of the three Cyclopes; his name suggests brightness or a flash.",
+          "here": "Hesiod describes him as mighty-hearted."
+        },
+        {
+          "id": "p012-zeus",
+          "label": "Zeus",
+          "general": "The god of thunder and lightning, who becomes ruler of the gods.",
+          "here": "The poem briefly looks ahead to the Cyclopes giving him his weapons."
+        },
+        {
+          "id": "p012-thunderbolt",
+          "label": "Thunderbolt",
+          "general": "A bolt of lightning imagined as a weapon.",
+          "here": "The Cyclopes make it for Zeus."
+        },
+        {
+          "id": "p012-hundred-handers",
+          "label": "Hundred-Handers",
+          "general": "A common name for Cottus, Briareus, and Gyges.",
+          "here": "Each brother has a hundred hands, fifty heads, and immense strength."
+        },
+        {
+          "id": "p012-cottus",
+          "label": "Cottus",
+          "general": "One of the three Hundred-Handers, sons of Earth and Sky.",
+          "here": "He is named first among these enormous brothers."
+        },
+        {
+          "id": "p012-briareus",
+          "label": "Briareus",
+          "general": "One of the three Hundred-Handers, sons of Earth and Sky.",
+          "here": "Like his brothers, he has a hundred hands and fifty heads."
+        },
+        {
+          "id": "p012-gyges",
+          "label": "Gyges",
+          "general": "One of the three Hundred-Handers, sons of Earth and Sky.",
+          "here": "He shares his brothers’ huge size and boundless strength."
+        }
+      ]
+    },
+    {
+      "id": "p013",
+      "start": 154,
+      "end": 173,
+      "heading": "Earth makes a plan",
+      "translation": "All the children born to Earth and Sky were fearsome indeed, and their father hated them from the start. As soon as each was born, Sky hid them away in a hollow inside Earth and let none come into the light. He took pleasure in this cruel work.\n\nHuge Earth groaned inside, cramped by the burden. She thought up a cunning, harmful plan. Quickly she created a substance, gray adamant—a material of extraordinary hardness—and made a great sickle, a curved cutting blade. Then she explained her plan to her dear children. With an aching heart, she spoke to give them courage:\n\n“My children, yours is a reckless father. If you are willing to listen to me, we could make him pay for his cruel abuse. He was the first to plot these shameful deeds.”\n\nSo she spoke. Fear seized them all, and none said a word. But great Cronus, with his crooked schemes, took courage and answered his loving mother:\n\n“Mother, I promise I can carry out this deed. I have no concern for our father, with his shameful name. He was the first to plot these shameful deeds.”\n\nSo he spoke, and huge Earth’s heart filled with joy.",
+      "summary": "Sky traps his children inside Earth. In pain, she makes a sickle and asks them to help punish him. Only Cronus agrees, and Earth is delighted.",
+      "cards": [
+        {
+          "id": "p013-earth-sky",
+          "label": "Earth and Sky",
+          "general": "Gaia and Uranus are both parts of the world and divine parents.",
+          "here": "Sky forces their children to stay inside Earth, causing her pain."
+        },
+        {
+          "id": "p013-adamant",
+          "label": "Adamant",
+          "general": "An extraordinarily hard substance in ancient stories; its exact material is uncertain.",
+          "here": "Earth creates gray adamant and uses it to make a sickle."
+        },
+        {
+          "id": "p013-sickle",
+          "label": "Sickle",
+          "general": "A tool with a curved blade, normally used to cut crops.",
+          "here": "Earth makes a large one as part of her plan against Sky."
+        },
+        {
+          "id": "p013-cronus",
+          "label": "Cronus",
+          "general": "The youngest Titan, a son of Earth and Sky, known for cunning.",
+          "here": "He alone speaks up and promises to carry out Earth’s plan."
+        },
+        {
+          "id": "p013-make-pay",
+          "label": "Make him pay",
+          "general": "Punish someone for harm they have caused.",
+          "here": "Earth asks her children to help punish their father for trapping them inside her."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 118 is marked for deletion in the supplied Greek, so it is omitted. Including it would specify the immortal gods on snowy Olympus as those whose firm seat Earth provides.",
+    "The word describing the sea in line 131 has a disputed origin. “Barren” preserves the traditional understanding of it as yielding no harvest.",
+    "In line 148, the description translated “too terrible to name” can also suggest “not to be spoken of.” The brothers’ names immediately follow.",
+    "Lines 154–158 can be read as referring to all Earth and Sky’s children or more narrowly to the monstrous children just described. The translation follows the broad wording, “all the children.”"
+  ]
+}

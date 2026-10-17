@@ -1,0 +1,594 @@
+{
+  "sections": [
+    {
+      "id": "p024",
+      "start": 337,
+      "end": 345,
+      "heading": "The River Sons",
+      "translation": "Tethys bore Ocean the swirling Rivers:\nNile, Alpheus, and Eridanus with his deep whirlpools;\nStrymon, Maeander, and Ister with his lovely streams;\nPhasis, Rhesus, and Achelous with his silver swirls;\nNessus, Rhodius, Haliacmon, and Heptaporus;\nGrenicus, Aesepus, and sacred Simois;\nPeneus, Hermus, and Caicus with his fine-flowing waters;\ngreat Sangarius, Ladon, and Parthenius;\nEvenus, Ardescus, and sacred Scamander.",
+      "summary": "Tethys and Ocean have many sons, the river gods.",
+      "cards": [
+        {
+          "id": "p024-tethys",
+          "label": "Tethys",
+          "general": "A Titan goddess and the mother of rivers and water goddesses.",
+          "here": "She bears Ocean these river sons."
+        },
+        {
+          "id": "p024-ocean",
+          "label": "Ocean",
+          "general": "Ocean, or Oceanus, is the god of the great river believed to circle the world.",
+          "here": "He is the father of the Rivers."
+        },
+        {
+          "id": "p024-rivers",
+          "label": "Rivers",
+          "general": "For the Greeks, a river could also be a god.",
+          "here": "The named rivers are children of Tethys and Ocean."
+        },
+        {
+          "id": "p024-nile",
+          "label": "Nile",
+          "general": "The great river of Egypt.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-alpheus",
+          "label": "Alpheus",
+          "general": "A river in southern Greece, flowing past Olympia.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-eridanus",
+          "label": "Eridanus",
+          "general": "A mythical river whose location was understood differently by different ancient writers.",
+          "here": "His waters form deep whirlpools."
+        },
+        {
+          "id": "p024-strymon",
+          "label": "Strymon",
+          "general": "A river flowing into the northern Aegean Sea.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-maeander",
+          "label": "Maeander",
+          "general": "A famously winding river in what is now western Turkey.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-ister",
+          "label": "Ister",
+          "general": "The ancient Greek name for the Danube.",
+          "here": "Hesiod praises his lovely streams."
+        },
+        {
+          "id": "p024-phasis",
+          "label": "Phasis",
+          "general": "A river at the eastern end of the Black Sea, in what is now Georgia.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-rhesus",
+          "label": "Rhesus",
+          "general": "A river name associated with the region around Troy.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-achelous",
+          "label": "Achelous",
+          "general": "A major river in western Greece and its god.",
+          "here": "His swirling waters gleam like silver."
+        },
+        {
+          "id": "p024-nessus",
+          "label": "Nessus",
+          "general": "A river name in Hesiod’s list.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-rhodius",
+          "label": "Rhodius",
+          "general": "A river in the region around Troy.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-haliacmon",
+          "label": "Haliacmon",
+          "general": "A river in northern Greece.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-heptaporus",
+          "label": "Heptaporus",
+          "general": "A river associated with the region around Troy.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-grenicus",
+          "label": "Grenicus",
+          "general": "A river name usually identified with the Granicus in what is now northwestern Turkey.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-aesepus",
+          "label": "Aesepus",
+          "general": "A river in what is now northwestern Turkey.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-simois",
+          "label": "Simois",
+          "general": "A river near Troy.",
+          "here": "Hesiod calls him sacred."
+        },
+        {
+          "id": "p024-peneus",
+          "label": "Peneus",
+          "general": "A major river in Thessaly, in Greece.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-hermus",
+          "label": "Hermus",
+          "general": "A river in what is now western Turkey.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-caicus",
+          "label": "Caicus",
+          "general": "A river in what is now western Turkey.",
+          "here": "Hesiod praises his flowing waters."
+        },
+        {
+          "id": "p024-sangarius",
+          "label": "Sangarius",
+          "general": "A large river in what is now Turkey.",
+          "here": "Hesiod calls him great."
+        },
+        {
+          "id": "p024-ladon",
+          "label": "Ladon",
+          "general": "A river in Arcadia, in southern Greece.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-parthenius",
+          "label": "Parthenius",
+          "general": "A river flowing into the Black Sea in what is now northern Turkey.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-evenus",
+          "label": "Evenus",
+          "general": "A river in western Greece.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-ardescus",
+          "label": "Ardescus",
+          "general": "A river name in Hesiod’s list.",
+          "here": "One of the river sons."
+        },
+        {
+          "id": "p024-scamander",
+          "label": "Scamander",
+          "general": "A river near Troy, also worshipped as a god.",
+          "here": "Hesiod calls him sacred."
+        }
+      ]
+    },
+    {
+      "id": "p025",
+      "start": 346,
+      "end": 370,
+      "heading": "Ocean’s Many Daughters",
+      "translation": "Tethys also bore a sacred family of daughters.\nAcross the earth, they nurture the young,\ntogether with Lord Apollo and the Rivers:\nthis is the task Zeus has given them.\n\nThey are Peitho, Admete, Ianthe, Electra,\nDoris, Prymno, and godlike Urania;\nHippo, Clymene, Rhodea, Callirhoe,\nZeuxo, Clytie, Idyia, Pasithoe,\nPlexaura, Galaxaura, and lovely Dione;\nMelobosis, Thoe, and beautiful Polydora;\nCerceis, lovely in form, and wide-eyed Pluto;\nPerseis, Ianeira, Acaste, Xanthe,\nlovely Petraea, Menestho, Europa,\nMetis, Eurynome, and Telesto in her saffron-colored robe;\nChryseis, Asia, and enchanting Calypso;\nEudora, Tyche, Amphiro, Ocyroe,\nand Styx, the foremost of them all.\n\nThese are the eldest daughters born to Ocean and Tethys,\nbut there are many others.\nThere are three thousand slender-ankled daughters of Ocean,\nscattered far and wide, watching over the earth\nand the depths of the waters everywhere alike—\nglorious children of goddesses.\n\nAnd there are just as many other Rivers,\nsons of Ocean whom the noble Tethys bore,\nwhose waters rush and roar.\nIt would be hard for a mortal to tell all their names,\nbut people living beside each river know its name.",
+      "summary": "Ocean and Tethys have three thousand daughters who care for the young and watch over land and water. They also have just as many river sons.",
+      "cards": [
+        {
+          "id": "p025-oceanids",
+          "label": "Daughters of Ocean",
+          "general": "These water goddesses are often called Oceanids.",
+          "here": "Hesiod names the eldest, then says there are three thousand altogether."
+        },
+        {
+          "id": "p025-apollo",
+          "label": "Apollo",
+          "general": "A god associated with music, prophecy, healing, and the protection of the young.",
+          "here": "He helps the Rivers and Ocean’s daughters nurture the young."
+        },
+        {
+          "id": "p025-zeus",
+          "label": "Zeus",
+          "general": "The king of the gods.",
+          "here": "He assigns the daughters their task."
+        },
+        {
+          "id": "p025-peitho",
+          "label": "Peitho",
+          "general": "Her name means persuasion; she is also associated with its divine power.",
+          "here": "One of Ocean and Tethys’s eldest daughters."
+        },
+        {
+          "id": "p025-admete",
+          "label": "Admete",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-ianthe",
+          "label": "Ianthe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-electra",
+          "label": "Electra",
+          "general": "An Oceanid who shares her name with other mythical figures.",
+          "here": "A daughter of Ocean and Tethys."
+        },
+        {
+          "id": "p025-doris",
+          "label": "Doris",
+          "general": "An Oceanid and the mother of the sea goddesses called Nereids.",
+          "here": "One of Ocean and Tethys’s eldest daughters."
+        },
+        {
+          "id": "p025-prymno",
+          "label": "Prymno",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-urania",
+          "label": "Urania",
+          "general": "An Oceanid who shares her name with one of the Muses.",
+          "here": "Hesiod calls this daughter godlike."
+        },
+        {
+          "id": "p025-hippo",
+          "label": "Hippo",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-clymene",
+          "label": "Clymene",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-rhodea",
+          "label": "Rhodea",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-callirhoe",
+          "label": "Callirhoe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-zeuxo",
+          "label": "Zeuxo",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-clytie",
+          "label": "Clytie",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-idyia",
+          "label": "Idyia",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-pasithoe",
+          "label": "Pasithoe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-plexaura",
+          "label": "Plexaura",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-galaxaura",
+          "label": "Galaxaura",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-dione",
+          "label": "Dione",
+          "general": "A goddess whose family connections vary across Greek traditions.",
+          "here": "Hesiod lists her among Ocean’s daughters and calls her lovely."
+        },
+        {
+          "id": "p025-melobosis",
+          "label": "Melobosis",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-thoe",
+          "label": "Thoe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-polydora",
+          "label": "Polydora",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "Hesiod calls her beautiful."
+        },
+        {
+          "id": "p025-cerceis",
+          "label": "Cerceis",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "Hesiod praises her lovely form."
+        },
+        {
+          "id": "p025-pluto",
+          "label": "Pluto",
+          "general": "This Pluto is a female Oceanid; the name is also used for the god of the underworld.",
+          "here": "Hesiod describes her large, beautiful eyes."
+        },
+        {
+          "id": "p025-perseis",
+          "label": "Perseis",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-ianeira",
+          "label": "Ianeira",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-acaste",
+          "label": "Acaste",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-xanthe",
+          "label": "Xanthe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-petraea",
+          "label": "Petraea",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "Hesiod calls her lovely."
+        },
+        {
+          "id": "p025-menestho",
+          "label": "Menestho",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-europa",
+          "label": "Europa",
+          "general": "An Oceanid who shares her name with other mythical figures.",
+          "here": "A daughter of Ocean and Tethys."
+        },
+        {
+          "id": "p025-metis",
+          "label": "Metis",
+          "general": "A goddess of wisdom and clever planning.",
+          "here": "One of Ocean and Tethys’s eldest daughters."
+        },
+        {
+          "id": "p025-eurynome",
+          "label": "Eurynome",
+          "general": "An Oceanid who is also the mother of the Graces.",
+          "here": "One of Ocean and Tethys’s eldest daughters."
+        },
+        {
+          "id": "p025-telesto",
+          "label": "Telesto",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "She wears a saffron-colored robe."
+        },
+        {
+          "id": "p025-saffron",
+          "label": "Saffron-colored",
+          "general": "A rich yellow or orange-yellow, like the color produced by saffron dye.",
+          "here": "The color of Telesto’s robe."
+        },
+        {
+          "id": "p025-chryseis",
+          "label": "Chryseis",
+          "general": "An Oceanid who shares her name with a woman in the story of the Trojan War.",
+          "here": "A daughter of Ocean and Tethys."
+        },
+        {
+          "id": "p025-asia",
+          "label": "Asia",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "A goddess’s name, rather than a place in this sentence."
+        },
+        {
+          "id": "p025-calypso",
+          "label": "Calypso",
+          "general": "A goddess whose parentage differs across Greek poems.",
+          "here": "Hesiod makes her Ocean and Tethys’s daughter and calls her enchanting."
+        },
+        {
+          "id": "p025-eudora",
+          "label": "Eudora",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-tyche",
+          "label": "Tyche",
+          "general": "The goddess of fortune or chance.",
+          "here": "One of Ocean and Tethys’s eldest daughters."
+        },
+        {
+          "id": "p025-amphiro",
+          "label": "Amphiro",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-ocyroe",
+          "label": "Ocyroe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters."
+        },
+        {
+          "id": "p025-styx",
+          "label": "Styx",
+          "general": "A goddess and an underworld river whose water seals the gods’ most binding oaths.",
+          "here": "Hesiod ranks her foremost among Ocean’s daughters."
+        },
+        {
+          "id": "p025-mortal",
+          "label": "Mortal",
+          "general": "Someone who will eventually die, especially a human.",
+          "here": "A human could hardly name every river."
+        }
+      ]
+    },
+    {
+      "id": "p026",
+      "start": 371,
+      "end": 374,
+      "heading": "Sun, Moon, and Dawn",
+      "translation": "Theia, yielding to Hyperion in love,\nbore great Helios, the Sun, and bright Selene, the Moon,\nand Eos, the Dawn, who shines for everyone on earth\nand for the immortal gods who live in the wide sky.",
+      "summary": "Theia and Hyperion have three children: Sun, Moon, and Dawn.",
+      "cards": [
+        {
+          "id": "p026-theia",
+          "label": "Theia",
+          "general": "One of the Titans, an older generation of gods.",
+          "here": "The mother of Helios, Selene, and Eos."
+        },
+        {
+          "id": "p026-hyperion",
+          "label": "Hyperion",
+          "general": "One of the Titans.",
+          "here": "The father of Helios, Selene, and Eos."
+        },
+        {
+          "id": "p026-helios",
+          "label": "Helios",
+          "general": "The Sun as a god.",
+          "here": "Theia and Hyperion’s son."
+        },
+        {
+          "id": "p026-selene",
+          "label": "Selene",
+          "general": "The Moon as a goddess.",
+          "here": "Theia and Hyperion’s bright daughter."
+        },
+        {
+          "id": "p026-eos",
+          "label": "Eos",
+          "general": "The goddess of dawn, the first light of morning.",
+          "here": "She brings light to people and gods."
+        },
+        {
+          "id": "p026-immortal",
+          "label": "Immortal",
+          "general": "Living forever; unable to die.",
+          "here": "A description of the gods."
+        }
+      ]
+    },
+    {
+      "id": "p027",
+      "start": 375,
+      "end": 382,
+      "heading": "Winds and Starry Skies",
+      "translation": "Eurybia, shining among goddesses,\njoined Crius in love and bore him\ngreat Astraeus, Pallas, and Perses,\nwhose knowledge set him apart from everyone.\n\nEos lay with Astraeus, goddess with god,\nand bore him the fierce-hearted Winds:\nZephyrus, who clears the sky, swift-moving Boreas,\nand Notus.\n\nAfter the Winds, Eos, born at daybreak,\nbore Eosphorus, the Morning Star,\nand the gleaming stars that crown the sky.",
+      "summary": "Eurybia and Crius have three sons. Eos and one of those sons, Astraeus, become the parents of the Winds and stars.",
+      "cards": [
+        {
+          "id": "p027-eurybia",
+          "label": "Eurybia",
+          "general": "A goddess, daughter of Earth and the Sea.",
+          "here": "With Crius, she has Astraeus, Pallas, and Perses."
+        },
+        {
+          "id": "p027-crius",
+          "label": "Crius",
+          "general": "One of the Titans, an older generation of gods.",
+          "here": "The father of Astraeus, Pallas, and Perses."
+        },
+        {
+          "id": "p027-astraeus",
+          "label": "Astraeus",
+          "general": "A god associated with stars.",
+          "here": "With Eos, he fathers the Winds and stars."
+        },
+        {
+          "id": "p027-pallas",
+          "label": "Pallas",
+          "general": "A god who shares his name with other mythical figures.",
+          "here": "A son of Eurybia and Crius."
+        },
+        {
+          "id": "p027-perses",
+          "label": "Perses",
+          "general": "A son of Eurybia and Crius.",
+          "here": "Hesiod singles him out for his knowledge."
+        },
+        {
+          "id": "p027-eos",
+          "label": "Eos",
+          "general": "The goddess of dawn.",
+          "here": "She is the mother of the Winds and stars; “born at daybreak” is a poetic title for her."
+        },
+        {
+          "id": "p027-winds",
+          "label": "Winds",
+          "general": "The Greeks imagined winds as gods with their own names and characters.",
+          "here": "Three are named as children of Eos and Astraeus."
+        },
+        {
+          "id": "p027-zephyrus",
+          "label": "Zephyrus",
+          "general": "The god of the west wind.",
+          "here": "He is described as clearing the sky."
+        },
+        {
+          "id": "p027-boreas",
+          "label": "Boreas",
+          "general": "The god of the north wind.",
+          "here": "He travels swiftly."
+        },
+        {
+          "id": "p027-notus",
+          "label": "Notus",
+          "general": "The god of the south wind.",
+          "here": "The third Wind named."
+        },
+        {
+          "id": "p027-eosphorus",
+          "label": "Eosphorus",
+          "general": "The Morning Star: the planet Venus when it appears before sunrise.",
+          "here": "A divine child of Eos and Astraeus."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "In line 365, λίμνης can describe a lake or a broader body of water, including the sea. “The depths of the waters” leaves that range open.",
+    "In line 379, Zephyrus’s epithet ἀργέστην can suggest brightness or the clearing of the sky. The translation follows the sky-clearing sense."
+  ]
+}

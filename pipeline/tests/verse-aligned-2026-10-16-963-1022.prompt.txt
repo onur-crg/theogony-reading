@@ -1,0 +1,108 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p061 (963–968): Now farewell, you who live on Olympus—and you islands, mainlands, and the salt sea between them.
+
+Now sing of the goddesses, sweet-voiced Muses of Olympus, daughters of Zeus who carries the aegis: the immortal goddesses who slept with mortal men and bore children like gods.
+
+p062 (969–987): Demeter, radiant among goddesses, joined the hero Iasion in sweet love in a field plowed three times, in the fertile land of Crete. She bore kindly Plutus, who travels everywhere over the earth and the sea’s broad back. Whoever meets him, whoever takes him into their hands, he makes rich and gives great wealth.
+
+Harmonia, daughter of golden Aphrodite, bore Cadmus these children in Thebes with its beautiful crown: Ino, Semele, lovely-cheeked Agave, Autonoe—whom Aristaeus with his flowing hair married—and Polydorus.
+
+Callirhoe, daughter of Oceanus, joined strong-hearted Chrysaor in love through Aphrodite, rich in gold. She bore Geryon, the strongest of all mortals. Mighty Heracles killed him for his cattle with their rolling gait, on Erytheia, surrounded by the sea.
+
+Eos bore Tithonus two sons: Memnon in his bronze helmet, king of the Ethiopians, and lord Emathion. With Cephalus she had another splendid son, mighty Phaethon, a man like the gods.
+
+p063 (988–1002): While Phaethon was still young, in the tender flower of glorious youth, a boy with a carefree heart, smile-loving Aphrodite swept him away. In her most sacred temples she made him her attendant by night, a divine spirit.
+
+By the will of the gods who live forever, Jason, son of Aeson, led Medea, the daughter of King Aeetes, away from her father. Aeetes was a king sustained by Zeus. Jason had completed the many painful trials imposed on him by the great King Pelias—a proud, violent, reckless man whose deeds were brutal.
+
+After completing those trials and suffering greatly, Jason reached Iolcus in his swift ship, bringing the bright-eyed girl with him, and made her his wife in the bloom of her youth. Joined in love with Jason, shepherd of his people, Medea bore a son, Medeius. Chiron, son of Philyra, raised him in the mountains. And so great Zeus’s plan was fulfilled.
+
+p064 (1003–1018): Then there were the daughters of Nereus, the old man of the sea. Psamathe, radiant among goddesses, bore Phocus after joining Aeacus in love through golden Aphrodite. And the silver-footed goddess Thetis joined Peleus and bore Achilles, who broke through men’s ranks and had a lion’s heart.
+
+Cytherea with her beautiful crown bore Aeneas after joining the hero Anchises in sweet love, high on wooded Mount Ida with its many folds.
+
+Circe, daughter of Helios, the son of Hyperion, joined patient-hearted Odysseus in love. She bore Agrius and Latinus, a man both noble and strong. Far, far away, deep among the sacred islands, they ruled over all the famous Tyrrhenians.
+
+Calypso, radiant among goddesses, joined Odysseus in sweet love and bore him Nausithous and Nausinous.
+
+p065 (1019–1022): These were the immortal goddesses who slept with mortal men and bore children like gods.
+
+Now sing of the women, sweet-voiced Muses of Olympus, daughters of Zeus who carries the aegis.
+
+GREEK CONTEXT BEFORE (do not translate)
+957: Περσηὶς Κίρκην τε καὶ Αἰήτην βασιλῆα.
+958: Αἰήτης δʼ υἱὸς φαεσιμβρότου Ἠελίοιο
+959: κούρην Ὠκεανοῖο τελήεντος ποταμοῖο
+960: γῆμε θεῶν βουλῇσιν Ἰδυῖαν καλλιπάρῃον.
+961: ἣ δέ οἱ Μήδειαν ἐύσφυρον ἐν φιλότητι
+962: γείναθʼ ὑποδμηθεῖσα διὰ χρυσέην Ἀφροδίτην.
+
+>>> TRANSLATE THESE GREEK VERSES: 963-1022 <<<
+963: ὑμεῖς μὲν νῦν χαίρετʼ, Ὀλύμπια δώματʼ ἔχοντες,
+964: νῆσοί τʼ ἤπειροί τε καὶ ἁλμυρὸς ἔνδοθι πόντος.
+965: νῦν δὲ θεάων φῦλον ἀείσατε, ἡδυέπειαι
+966: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο,
+967: ὅσσαι δὴ θνητοῖσι παρʼ ἀνδράσιν εὐνηθεῖσαι
+968: ἀθάναται γείναντο θεοῖς ἐπιείκελα τέκνα.
+969: Δημήτηρ μὲν Πλοῦτον ἐγείνατο, δῖα θεάων,
+970: Ἰασίωνʼ ἥρωι μιγεῖσʼ ἐρατῇ φιλότητι
+971: νειῷ ἔνι τριπόλῳ, Κρήτης ἐν πίονι δήμῳ,
+972: ἐσθλόν, ὃς εἶσʼ ἐπὶ γῆν τε καὶ εὐρέα νῶτα θαλάσσης
+973: πάντη· τῷ δὲ τυχόντι καὶ οὗ κʼ ἐς χεῖρας ἵκηται,
+974: τὸν δʼ ἀφνειὸν ἔθηκε, πολὺν δέ οἱ ὤπασεν ὄλβον.
+975: Κάδμῳ δʼ Ἁρμονίη, θυγάτηρ χρυσέης Ἀφροδιτης,
+976: Ἰνὼ καὶ Σεμέλην καὶ Ἀγαυὴν καλλιπάρῃον
+977: Αὐτονόην θʼ, ἣν γῆμεν Ἀρισταῖος βαθυχαίτης,
+978: γείνατο καὶ Πολύδωρον ἐυστεφάνῳ ἐνὶ Θήβῃ.
+979: κούρη δʼ Ὠκεανοῦ, Χρυσάορι καρτεροθύμῳ
+980: μιχθεῖσʼ ἐν φιλότητι πολυχρύσου Ἀφροδίτης,
+981: Καλλιρόη τέκε παῖδα βροτῶν κάρτιστον ἁπάντων,
+982: Γηρυονέα, τὸν κτεῖνε βίη Ἡρακληείη
+983: βοῶν ἕνεκʼ εἰλιπόδων ἀμφιρρύτῳ εἰν Ἐρυθείῃ.
+984: Τιθωνῷ δʼ Ἠὼς τέκε Μέμνονα χαλκοκορυστήν,
+985: Αἰθιόπων βασιλῆα, καὶ Ἠμαθίωνα ἄνακτα.
+986: αὐτὰρ ὑπαὶ Κεφάλῳ φιτύσατο φαίδιμον υἱόν,
+987: ἴφθιμον Φαέθοντα, θεοῖς ἐπιείκελον ἄνδρα.
+988: τόν ῥα νέον τέρεν ἄνθος ἔχοντʼ ἐρικυδέος ἥβης
+989: παῖδʼ ἀταλὰ φρονέοντα φιλομμειδὴς Ἀφροδίτη
+990: ὦρτʼ ἀναρεψαμένη, καί μιν ζαθέοις ἐνὶ νηοῖς
+991: νηοπόλον νύχιον ποιήσατο, δαίμονα δῖον.
+992: κούρην δʼ Αἰήταο διοτρεφέος βασιλῆος
+993: Αἰσονίδης βουλῇσι θεῶν αἰειγενετάων
+994: ἦγε παρʼ Αἰήτεω, τελέσας στονόεντας ἀέθλους,
+995: τοὺς πολλοὺς ἐπέτελλε μέγας βασιλεὺς ὑπερήνωρ,
+996: ὑβριστὴς Πελίης καὶ ἀτάσθαλος, ὀβριμοεργός.
+997: τοὺς τελέσας Ἰαωλκὸν ἀφίκετο, πολλὰ μογήσας,
+998: ὠκείης ἐπὶ νηὸς ἄγων ἑλικώπιδα κούρην
+999: Αἰσονίδης, καί μιν θαλερὴν ποιήσατʼ ἄκοιτιν.
+1000: καί ῥʼ ἥ γε δμηθεῖσʼ ὑπʼ Ἰήσονι, ποιμένι λαῶν,
+1001: Μήδειον τέκε παῖδα, τὸν οὔρεσιν ἔτρεφε Χείρων
+1002: Φιλυρίδης· μεγάλου δὲ Διὸς νόος ἐξετελεῖτο.
+1003: αὐτὰρ Νηρῆος κοῦραι,· ἁλίοιο γέροντος,
+1004: ἦ τοι μὲν Φῶκον Ψαμάθη τέκε δῖα θεάων
+1005: Αἰακοῦ ἐν φιλότητι διὰ χρυσέην Ἀφροδίτην,
+1006: Πηλέι δὲ δμηθεῖσα θεὰ Θέτις ἀργυρόπεζα
+1007: γείνατʼ Ἀχιλλῆα ῥηξήνορα θυμολέοντα.
+1008: Αἰνείαν δʼ ἄρʼ ἔτικτεν ἐυστέφανος Κυθέρεια
+1009: Ἀγχίσῃ ἥρωι μιγεῖσʼ ἐρατῇ φιλότητι
+1010: Ἴδης ἐν κορυφῇσι πολυπτύχου ὑληέσσης.
+1011: Κίρκη δʼ, Ἠελίου θυγάτηρ Ὑπεριονίδαο,
+1012: γείνατʼ Ὀδυσσῆος ταλασίφρονος ἐν φιλότητι
+1013: Ἄγριον ἠδὲ Λατῖνον ἀμύμονά τε κρατερόν τε·
+1014: [del: Τηλέγονον δʼ ἄρʼ ἔτικτε διὰ χρυσέην Ἀφροδίτην.]
+1015: οἳ δή τοι μάλα τῆλε μυχῷ νήσων ἱεράων
+1016: πᾶσιν Τυρσηνοῖσιν ἀγακλειτοῖσιν ἄνασσον.
+1017: Ναυσίθοον δʼ Ὀδυσῆι Καλυψὼ δῖα θεάων
+1018: γείνατο Ναυσίνοόν τε μιγεῖσʼ ἐρατῇ φιλότητι.
+1019: αὗται μὲν θνητοῖσι παρʼ ἀνδράσιν εὐνηθεῖσαι
+1020: ἀθάναται γείναντο θεοῖς ἐπιείκελα τέκνα.
+1021: νῦν δὲ γυναικῶν φῦλον ἀείσατε, ἡδυέπειαι
+1022: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+(none)

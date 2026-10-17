@@ -1,0 +1,229 @@
+{
+  "sections": [
+    {
+      "id": "p028",
+      "start": 383,
+      "end": 403,
+      "heading": "Styx stands with Zeus",
+      "translation": "Styx, Oceanus’s daughter, joined in love with Pallas\nand in their halls gave birth to Zelos and Nike with her lovely ankles.\nShe also bore Kratos and Bia, her glorious children.\nThey have no home, no seat away from Zeus,\nand take no road unless the god leads them.\nThey always sit beside Zeus, whose thunder crashes loud.\n\nThis was what deathless Styx, Oceanus’s daughter, had planned\non the day when Zeus, the lightning-flinger of Olympus,\ncalled all the immortal gods to high Olympus.\nHe said that any god who fought beside him against the Titans\nwould lose none of their privileges:\neach would keep the honor they had held among the immortal gods.\nAnd anyone left without honor or privilege under Cronus\nwould receive both, as was their right.\n\nDeathless Styx was the first to come to Olympus,\nbringing her children, following her dear father’s advice.\nZeus honored her and gave her special gifts.\nHe made her the great oath by which the gods swear,\nand gave her children a home beside him for all time.\nHe fulfilled his promises to all the gods, every one.\nHe himself holds mighty power and rules.",
+      "summary": "Styx and her children support Zeus. He rewards them and keeps his promises to the other gods.",
+      "cards": [
+        {
+          "id": "p028-styx",
+          "label": "Styx",
+          "general": "A goddess and a river whose water makes the gods’ most binding oath.",
+          "here": "She brings her children to support Zeus."
+        },
+        {
+          "id": "p028-oceanus",
+          "label": "Oceanus",
+          "general": "The god of the great river believed to circle the world.",
+          "here": "Styx’s father, who advises her to join Zeus."
+        },
+        {
+          "id": "p028-pallas",
+          "label": "Pallas",
+          "general": "A god from the Titan family.",
+          "here": "The father of Styx’s four children."
+        },
+        {
+          "id": "p028-zelos",
+          "label": "Zelos",
+          "general": "The spirit of rivalry and the drive to excel.",
+          "here": "One of Styx’s children, always beside Zeus."
+        },
+        {
+          "id": "p028-nike",
+          "label": "Nike",
+          "general": "The goddess of victory.",
+          "here": "One of Styx’s children, described as having lovely ankles."
+        },
+        {
+          "id": "p028-kratos",
+          "label": "Kratos",
+          "general": "The spirit of power and might.",
+          "here": "One of Styx’s children, always beside Zeus."
+        },
+        {
+          "id": "p028-bia",
+          "label": "Bia",
+          "general": "The spirit of force.",
+          "here": "One of Styx’s children, always beside Zeus."
+        },
+        {
+          "id": "p028-zeus",
+          "label": "Zeus",
+          "general": "The god of thunder and lightning, who becomes ruler of the gods.",
+          "here": "He promises rewards to the gods who fight beside him."
+        },
+        {
+          "id": "p028-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "Zeus gathers the gods there."
+        },
+        {
+          "id": "p028-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "Zeus calls for allies to fight against them."
+        },
+        {
+          "id": "p028-cronus",
+          "label": "Cronus",
+          "general": "Zeus’s father, who ruled the gods before him.",
+          "here": "Zeus offers honor to gods who had received none under Cronus."
+        },
+        {
+          "id": "p028-honor",
+          "label": "Honor and privileges",
+          "general": "A god’s recognized rank, rights, and share of power.",
+          "here": "Zeus promises to protect or grant these."
+        },
+        {
+          "id": "p028-oath",
+          "label": "Oath",
+          "general": "A solemn promise that binds the person making it.",
+          "here": "The gods swear their strongest oath by Styx."
+        }
+      ]
+    },
+    {
+      "id": "p029",
+      "start": 404,
+      "end": 413,
+      "heading": "Hecate’s family",
+      "translation": "Phoebe came to Coeus’s bed, filled with love.\nThe goddess conceived in love with the god\nand bore Leto in her dark-blue robe,\nalways gentle, kind to humans and immortal gods,\ngentle from the very first, the kindest on Olympus.\n\nPhoebe also bore renowned Asteria,\nwhom Perses once brought to his great house\nto be called his dear wife.\nAsteria conceived and gave birth to Hecate,\nwhom Zeus, Cronus’s son, honored above all others.\nHe gave her splendid gifts:\na share of the earth and the unharvested sea.",
+      "summary": "Phoebe has two daughters, Leto and Asteria. Asteria’s daughter Hecate receives great honors from Zeus.",
+      "cards": [
+        {
+          "id": "p029-phoebe",
+          "label": "Phoebe",
+          "general": "A goddess of the older Titan generation.",
+          "here": "The mother of Leto and Asteria."
+        },
+        {
+          "id": "p029-coeus",
+          "label": "Coeus",
+          "general": "A god of the older Titan generation.",
+          "here": "The father of Phoebe’s daughters."
+        },
+        {
+          "id": "p029-leto",
+          "label": "Leto",
+          "general": "A goddess, later the mother of Apollo and Artemis.",
+          "here": "Phoebe’s gentle daughter, dressed in dark blue."
+        },
+        {
+          "id": "p029-asteria",
+          "label": "Asteria",
+          "general": "A goddess, the sister of Leto.",
+          "here": "Perses’s wife and Hecate’s mother."
+        },
+        {
+          "id": "p029-perses",
+          "label": "Perses",
+          "general": "A god from the Titan family.",
+          "here": "Asteria’s husband and Hecate’s father."
+        },
+        {
+          "id": "p029-hecate",
+          "label": "Hecate",
+          "general": "A goddess with powers reaching across earth, sea, and heaven.",
+          "here": "Zeus grants her a share of earth and sea."
+        },
+        {
+          "id": "p029-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods and son of Cronus.",
+          "here": "He gives Hecate exceptional honor."
+        },
+        {
+          "id": "p029-cronus",
+          "label": "Cronus",
+          "general": "Zeus’s father and the gods’ earlier ruler.",
+          "here": "He is named to identify Zeus’s family."
+        },
+        {
+          "id": "p029-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "Leto is called the kindest there."
+        },
+        {
+          "id": "p029-unharvested",
+          "label": "Unharvested sea",
+          "general": "A traditional poetic description of the sea, often understood as bearing no crops.",
+          "here": "The sea is one of the realms in which Hecate receives a share."
+        }
+      ]
+    },
+    {
+      "id": "p030",
+      "start": 414,
+      "end": 428,
+      "heading": "Hecate keeps her honors",
+      "translation": "Hecate also has a share of honor in starry heaven,\nand the immortal gods honor her greatly.\nEven now, whenever someone on earth\nseeks divine favor with fine offerings, as custom requires,\nthey call on Hecate.\nGreat honor comes easily to anyone\nwhose prayers the goddess welcomes with goodwill.\nShe gives them prosperity too, for she has the power.\n\nOf all the gods born from Gaia and Uranus\nwho received a share of honor,\nHecate has a portion of every one’s share.\nZeus, Cronus’s son, neither forced her aside\nnor took away anything she had received\namong the Titans, the earlier gods.\nShe keeps her share from that first division.\nThough an only child, the goddess has no smaller share\nof honor and privilege on earth, in heaven, and at sea,\nbut far more still, because Zeus honors her.",
+      "summary": "Hecate keeps her ancient powers and honors. She can answer prayers and give people success and prosperity.",
+      "cards": [
+        {
+          "id": "p030-hecate",
+          "label": "Hecate",
+          "general": "A goddess whose powers extend across earth, sea, and heaven.",
+          "here": "She keeps her earlier rights and can grant blessings to people."
+        },
+        {
+          "id": "p030-offerings",
+          "label": "Offerings",
+          "general": "Gifts or sacrifices presented to a god.",
+          "here": "People make them while asking for divine favor."
+        },
+        {
+          "id": "p030-prosperity",
+          "label": "Prosperity",
+          "general": "Wealth, success, and a flourishing life.",
+          "here": "A blessing Hecate has the power to give."
+        },
+        {
+          "id": "p030-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "With Uranus, she is the parent of the older gods."
+        },
+        {
+          "id": "p030-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, understood as a god.",
+          "here": "With Gaia, he is the parent of the older gods."
+        },
+        {
+          "id": "p030-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods.",
+          "here": "He protects Hecate’s earlier privileges and gives her great honor."
+        },
+        {
+          "id": "p030-cronus",
+          "label": "Cronus",
+          "general": "Zeus’s father and the gods’ earlier ruler.",
+          "here": "Zeus is identified as his son."
+        },
+        {
+          "id": "p030-titans",
+          "label": "Titans",
+          "general": "The older generation of gods descended from Gaia and Uranus.",
+          "here": "Hecate already held privileges among them before Zeus ruled."
+        },
+        {
+          "id": "p030-share",
+          "label": "Share of honor",
+          "general": "An allotted part of divine authority, rank, and privileges.",
+          "here": "Hecate shares in the powers assigned to the older gods."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "At line 413, the traditional sea epithet translated as “unharvested” has an uncertain exact meaning; “barren” is another common rendering."
+  ]
+}

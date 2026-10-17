@@ -1,0 +1,159 @@
+{
+  "sections": [
+    {
+      "id": "p021",
+      "start": 265,
+      "end": 286,
+      "heading": "Iris, the Gorgons, and Pegasus",
+      "translation": "Thaumas married Electra, daughter of deep-flowing Oceanus. She gave birth to swift Iris and the lovely-haired Harpies, Aello and Ocypete. On their fast wings they keep pace with gusts of wind and birds, darting high through the air.\n\nCeto bore Phorcys the fair-cheeked Graiae, gray-haired from birth. That is why the immortal gods and humans who walk the earth call them Graiae, the Old Women: Pemphredo in her beautiful robe and Enyo in her saffron-yellow robe.\n\nCeto also bore the Gorgons, who live beyond famous Oceanus, at the world's far edge toward Night, where the clear-voiced Hesperides live. They are Sthenno, Euryale, and Medusa, who suffered a terrible fate. Medusa was mortal; the other two could never die or grow old. Dark-haired Poseidon slept with Medusa in a soft meadow among spring flowers.\n\nWhen Perseus cut off Medusa's head, great Chrysaor and the horse Pegasus sprang out. Pegasus got his name because he was born beside the springs of Oceanus; Chrysaor got his because he held a golden sword in his hands.\n\nPegasus took flight, leaving the earth, mother of flocks, and reached the immortal gods. He lives in Zeus's halls, carrying thunder and lightning for Zeus, the wise planner.",
+      "summary": "Electra gives birth to Iris and the Harpies. Ceto gives birth to the gray-haired Graiae and the Gorgons. When Perseus cuts off Medusa's head, Chrysaor and Pegasus spring out. Pegasus flies to the gods and carries Zeus's thunder and lightning.",
+      "cards": [
+        {
+          "id": "thaumas",
+          "label": "Thaumas",
+          "general": "A sea god.",
+          "here": "Electra's husband and father of Iris and the Harpies."
+        },
+        {
+          "id": "oceanus",
+          "label": "Oceanus",
+          "general": "The divine river imagined as flowing around the world.",
+          "here": "Electra's father; the Gorgons live beyond his waters."
+        },
+        {
+          "id": "electra",
+          "label": "Electra",
+          "general": "A divine daughter of Oceanus.",
+          "here": "Mother of Iris and the Harpies."
+        },
+        {
+          "id": "iris",
+          "label": "Iris",
+          "general": "A goddess associated with the rainbow and a messenger for the gods.",
+          "here": "The swift daughter of Thaumas and Electra."
+        },
+        {
+          "id": "harpies",
+          "label": "Harpies",
+          "general": "Winged female beings whose name suggests snatching things away.",
+          "here": "Their wings carry them as fast as winds and birds."
+        },
+        {
+          "id": "aello",
+          "label": "Aello",
+          "general": "A Harpy whose name suggests a storm wind.",
+          "here": "One of Electra's two Harpy daughters."
+        },
+        {
+          "id": "ocypete",
+          "label": "Ocypete",
+          "general": "A Harpy whose name means “swift-flying.”",
+          "here": "Aello's sister."
+        },
+        {
+          "id": "ceto",
+          "label": "Ceto",
+          "general": "A sea goddess.",
+          "here": "Mother of the Graiae and the Gorgons."
+        },
+        {
+          "id": "phorcys",
+          "label": "Phorcys",
+          "general": "A sea god.",
+          "here": "Father of Ceto's children."
+        },
+        {
+          "id": "graiae",
+          "label": "Graiae",
+          "general": "Their Greek name means “Old Women.”",
+          "here": "Hesiod explains their name through their gray hair, which they had from birth."
+        },
+        {
+          "id": "pemphredo",
+          "label": "Pemphredo",
+          "general": "One of the Graiae.",
+          "here": "She wears a beautiful robe."
+        },
+        {
+          "id": "enyo",
+          "label": "Enyo",
+          "general": "One of the Graiae; a different figure from the war goddess with the same name.",
+          "here": "She wears a saffron-yellow robe."
+        },
+        {
+          "id": "saffron",
+          "label": "Saffron-yellow",
+          "general": "A rich golden yellow, like the color made from saffron spice.",
+          "here": "The color of Enyo's robe."
+        },
+        {
+          "id": "gorgons",
+          "label": "Gorgons",
+          "general": "Three fearsome sisters: Sthenno, Euryale, and Medusa.",
+          "here": "They live beyond Oceanus, near Night."
+        },
+        {
+          "id": "night",
+          "label": "Night",
+          "general": "Hesiod treats Night as a divine being.",
+          "here": "Her region marks the remote place where the Gorgons live."
+        },
+        {
+          "id": "hesperides",
+          "label": "Hesperides",
+          "general": "Divine maidens associated with evening and the far west.",
+          "here": "Their clear voices are heard in the region where the Gorgons live."
+        },
+        {
+          "id": "sthenno",
+          "label": "Sthenno",
+          "general": "One of the three Gorgons.",
+          "here": "She is immortal and never grows old."
+        },
+        {
+          "id": "euryale",
+          "label": "Euryale",
+          "general": "One of the three Gorgons.",
+          "here": "Like Sthenno, she is immortal and never grows old."
+        },
+        {
+          "id": "medusa",
+          "label": "Medusa",
+          "general": "The only mortal Gorgon.",
+          "here": "Perseus cuts off her head, and Chrysaor and Pegasus emerge."
+        },
+        {
+          "id": "poseidon",
+          "label": "Poseidon",
+          "general": "The god of the sea, often called “the Dark-haired One.”",
+          "here": "He sleeps with Medusa in a meadow."
+        },
+        {
+          "id": "perseus",
+          "label": "Perseus",
+          "general": "A Greek hero.",
+          "here": "He kills Medusa by cutting off her head."
+        },
+        {
+          "id": "chrysaor",
+          "label": "Chrysaor",
+          "general": "His name means “Golden Sword.”",
+          "here": "He emerges from Medusa holding a golden sword, which explains his name."
+        },
+        {
+          "id": "pegasus",
+          "label": "Pegasus",
+          "general": "A winged horse. Hesiod links his name with pēgai, the Greek word for “springs.”",
+          "here": "Born beside Oceanus's springs, he flies to the gods and carries Zeus's thunder and lightning."
+        },
+        {
+          "id": "zeus",
+          "label": "Zeus",
+          "general": "King of the gods, associated with thunder and lightning.",
+          "here": "Pegasus lives in his halls and carries his thunder and lightning."
+        }
+      ]
+    }
+  ],
+  "uncertainties": []
+}

@@ -1,0 +1,109 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p037 (535–557): When gods and mortal humans were settling matters at Mecone, Prometheus eagerly divided a great ox and set the portions before them, trying to trick Zeus. In one portion he laid the meat and the rich, fatty organs inside the hide, covering them with the ox’s stomach. In the other he carefully arranged the ox’s white bones, hiding them under shining fat—a cunning trick.
+
+Then the father of gods and humans said to him:
+“Son of Iapetus, most glorious of all lords, my friend, how unevenly you have divided the portions!”
+
+So Zeus mocked him, Zeus whose plans never fail. Prometheus, with his twisting schemes, answered with a quiet smile, still intent on his trick:
+“Zeus, greatest and most glorious of the everlasting gods, choose whichever portion your heart tells you to.”
+
+He spoke deceitfully. But Zeus, whose plans never fail, recognized the trick and saw it clearly. In his heart he foresaw troubles for mortal humans—troubles that would indeed come true.
+
+With both hands he lifted the white fat. Anger filled his mind and heart when he saw the ox’s white bones laid out in that cunning trick.
+
+Ever since then, the peoples of the earth have burned white bones for the immortal gods on altars fragrant with sacrifice.
+
+p038 (558–569): Deeply angered, Zeus the cloud-gatherer said to him:
+“Son of Iapetus, clever beyond all others, my friend, you still have not forgotten your cunning tricks!”
+
+So spoke Zeus in anger, Zeus whose plans never fail. From then on, always remembering the trick, he would not give mortal people living on earth the tireless power of fire in ash wood.
+
+But the noble son of Iapetus deceived him. Prometheus stole the far-shining glow of tireless fire in a hollow fennel stalk. It bit deep into the heart of Zeus, who thunders on high. His heart blazed with anger when he saw fire’s far-shining glow among humans.
+
+p039 (570–589): At once, to repay humans for the fire, Zeus made an evil for them. Following the plan of Zeus, son of Cronus, famous Hephaestus, lame in both legs, shaped earth into the likeness of a modest young woman.
+
+Bright-eyed Athena dressed and belted her in a silvery robe. With her own hands she lowered an intricately worked veil over her head, a wonder to see. Around her head she placed a golden crown, which famous Hephaestus himself had skillfully made with his hands to please his father Zeus.
+
+The crown held many intricate figures, a wonder to see: creatures of the many kinds the land and sea support. He set many of these upon it, marvelous figures shining with beauty, like living creatures with voices of their own.
+
+When he had made this beautiful evil in exchange for the good gift of fire, Hephaestus led her out to where the other gods and humans were. She stood proud in the finery given her by bright-eyed Athena, daughter of mighty Zeus.
+
+Wonder seized the immortal gods and mortal humans when they saw this dangerous trap, which humans had no means to escape.
+
+GREEK CONTEXT BEFORE (do not translate)
+529: οὐκ ἀέκητι Ζηνὸς Ὀλυμπίου ὑψιμέδοντος,
+530: ὄφρʼ Ἡρακλῆος Θηβαγενέος κλέος εἴη
+531: πλεῖον ἔτʼ ἢ τὸ πάροιθεν ἐπὶ χθόνα πουλυβότειραν.
+532: ταῦτʼ ἄρα ἁζόμενος τίμα ἀριδείκετον υἱόν·
+533: καί περ χωόμενος παύθη χόλου, ὃν πρὶν ἔχεσκεν,
+534: οὕνεκʼ ἐρίζετο βουλὰς ὑπερμενέι Κρονίωνι.
+
+>>> TRANSLATE THESE GREEK VERSES: 535-589 <<<
+535: καὶ γὰρ ὅτʼ ἐκρίνοντο θεοὶ θνητοί τʼ ἄνθρωποι
+536: Μηκώνῃ, τότʼ ἔπειτα μέγαν βοῦν πρόφρονι θυμῷ
+537: δασσάμενος προέθηκε, Διὸς νόον ἐξαπαφίσκων.
+538: τοῖς μὲν γὰρ σάρκας τε καὶ ἔγκατα πίονα δημῷ
+539: ἐν ῥινῷ κατέθηκε καλύψας γαστρὶ βοείῃ,
+540: τῷ δʼ αὖτʼ ὀστέα λευκὰ βοὸς δολίῃ ἐπὶ τέχνῃ
+541: εὐθετίσας κατέθηκε καλύψας ἀργέτι δημῷ.
+542: δὴ τότε μιν προσέειπε πατὴρ ἀνδρῶν τε θεῶν τε·
+543: Ἰαπετιονίδη, πάντων ἀριδείκετʼ ἀνάκτων,
+544: ὦ πέπον, ὡς ἑτεροζήλως διεδάσσαο μοίρας.
+545: ὣς φάτο κερτομέων Ζεὺς ἄφθιτα μήδεα εἰδώς.
+546: τὸν δʼ αὖτε προσέειπε Προμηθεὺς ἀγκυλομήτης
+547: ἦκʼ ἐπιμειδήσας, δολίης δʼ οὐ λήθετο τέχνης·
+548: ζεῦ κύδιστε μέγιστε θεῶν αἰειγενετάων,
+549: τῶν δʼ ἕλεʼ, ὁπποτέρην σε ἐνὶ φρεσὶ θυμὸς ἀνώγει.
+550: Φῆ ῥα δολοφρονέων· Ζεὺς δʼ ἄφθιτα μήδεα εἰδὼς
+551: γνῶ ῥʼ οὐδʼ ἠγνοίησε δόλον· κακὰ δʼ ὄσσετο θυμῷ
+552: θνητοῖς ἀνθρώποισι, τὰ καὶ τελέεσθαι ἔμελλεν.
+553: χερσὶ δʼ ὅ γʼ ἀμφοτέρῃσιν ἀνείλετο λευκὸν ἄλειφαρ.
+554: χώσατο δὲ φρένας ἀμφί, χόλος δέ μιν ἵκετο θυμόν,
+555: ὡς ἴδεν ὀστέα λευκὰ βοὸς δολίῃ ἐπὶ τέχνῃ.
+556: ἐκ τοῦ δʼ ἀθανάτοισιν ἐπὶ χθονὶ φῦλʼ ἀνθρώπων
+557: καίουσʼ ὀστέα λευκὰ θυηέντων ἐπὶ βωμῶν.
+558: τὸν δὲ μέγʼ ὀχθήσας προσέφη νεφεληγερέτα Ζεύς·
+559: Ἰαπετιονίδη, πάντων πέρι μήδεα εἰδώς,
+560: ὦ πέπον, οὐκ ἄρα πω δολίης ἐπιλήθεο τέχνης.
+561: ὣς φάτο χωόμενος Ζεὺς ἄφθιτα μήδεα εἰδώς·
+562: ἐκ τούτου δὴ ἔπειτα δόλου μεμνημένος αἰεὶ
+563: οὐκ ἐδίδου Μελίῃσι πυρὸς μένος ἀκαμάτοιο
+564: θνητοῖς ἀνθρώποις, οἳ ἐπὶ χθονὶ ναιετάουσιν.
+565: ἀλλά μιν ἐξαπάτησεν ἐὺς πάις Ἰαπετοῖο
+566: κλέψας ἀκαμάτοιο πυρὸς τηλέσκοπον. αὐγὴν
+567: ἐν κοΐλῳ νάρθηκι· δάκεν δέ ἑ νειόθι θυμόν,
+568: Ζῆνʼ ὑψιβρεμέτην, ἐχόλωσε δέ μιν φίλον ἦτορ,
+569: ὡς ἴδʼ ἐν ἀνθρώποισι πυρὸς τηλέσκοπον αὐγήν.
+570: αὐτίκα δʼ ἀντὶ πυρὸς τεῦξεν κακὸν ἀνθρώποισιν·
+571: γαίης γὰρ σύμπλασσε περικλυτὸς Ἀμφιγυήεις
+572: παρθένῳ αἰδοίῃ ἴκελον Κρονίδεω διὰ βουλάς.
+573: ζῶσε δὲ καὶ κόσμησε θεὰ γλαυκῶπις Ἀθήνη
+574: ἀργυφέη ἐσθῆτι· κατὰ κρῆθεν δὲ καλύπτρην
+575: δαιδαλέην χείρεσσι κατέσχεθε, θαῦμα ἰδέσθαι·
+576: [del: ἀμφὶ δέ οἱ στεφάνους, νεοθηλέος ἄνθεα ποίης,]
+577: [del: ἱμερτοὺς περίθηκε καρήατι Παλλὰς Ἀθήνη.]
+578: ἀμφὶ δέ οἱ στεφάνην χρυσέην κεφαλῆφιν ἔθηκε,
+579: τὴν αὐτὸς ποίησε περικλυτὸς Ἀμφιγυήεις
+580: ἀσκήσας παλάμῃσι, χαριζόμενος Διὶ πατρί.
+581: τῇ δʼ ἐνὶ δαίδαλα πολλὰ τετεύχατο, θαῦμα ἰδέσθαι,
+582: κνώδαλʼ, ὅσʼ ἤπειρος πολλὰ τρέφει ἠδὲ θάλασσα,
+583: τῶν ὅ γε πόλλʼ ἐνέθηκε,—χάρις δʼ ἀπελάμπετο πολλή,—
+584: θαυμάσια, ζῴοισιν ἐοικότα φωνήεσσιν.
+585: αὐτὰρ ἐπεὶ δὴ τεῦξε καλὸν κακὸν ἀντʼ ἀγαθοῖο.
+586: ἐξάγαγʼ, ἔνθα περ ἄλλοι ἔσαν θεοὶ ἠδʼ ἄνθρωποι,
+587: κόσμῳ ἀγαλλομένην γλαυκώπιδος ὀβριμοπάτρης.
+588: θαῦμα δʼ ἔχʼ ἀθανάτους τε θεοὺς θνητούς τʼ ἀνθρώπους,
+589: ὡς εἶδον δόλον αἰπύν, ἀμήχανον ἀνθρώποισιν.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+590: ἐκ τῆς γὰρ γένος ἐστὶ γυναικῶν θηλυτεράων,
+591: [del: τῆς γὰρ ὀλώιόν ἐστι γένος καὶ φῦλα γυναικῶν,]
+592: πῆμα μέγʼ αἳ θνητοῖσι μετʼ ἀνδράσι ναιετάουσιν
+593: οὐλομένης πενίης οὐ σύμφοροι, ἀλλὰ κόροιο.
+594: ὡς δʼ ὁπότʼ ἐν σμήνεσσι κατηρεφέεσσι μέλισσαι
+595: κηφῆνας βόσκωσι, κακῶν ξυνήονας ἔργων—

@@ -1,0 +1,106 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p006 (63–79): There the Muses, the goddesses of song, have shining dancing grounds and beautiful homes. Beside them live the Graces, goddesses of beauty and charm, and Himeros, the god of desire, surrounded by celebration. Lovely voices flow from the Muses’ mouths as they sing of all the immortal gods’ laws and praise their noble ways.
+
+Then they went toward Olympus, the mountain home of the gods, delighting in their beautiful voices, their divine song. The dark earth rang around them as they sang, and a lovely beat rose beneath their feet as they walked toward their father. He is Zeus, king of heaven, who holds the thunder and the smoking lightning bolt. By his strength he defeated his father Cronus, then set everything in good order for the immortal gods and assigned each their honors.
+
+These things the Muses sang, whose homes are on Olympus: nine daughters born to mighty Zeus—Clio, Euterpe, Thalia, Melpomene, Terpsichore, Erato, Polyhymnia, Urania, and Calliope, the foremost of them all.
+
+p007 (80–93): For Calliope also walks beside respected kings. When the Muses, mighty Zeus’s daughters, choose to honor a king sustained by Zeus and watch over him at birth, they pour sweet dew onto his tongue, and gentle words flow from his mouth. All the people look to him as he settles disputes with fair judgments. Speaking with confidence and skill, he can quickly end even a bitter quarrel.
+
+This is why kings are wise: when people have been wronged, they can easily set matters right in the public assembly, winning people over with gentle words. As such a king walks through the gathering, people greet him like a god, with warm respect, and he stands out among the crowd. Such is the Muses’ sacred gift to human beings.
+
+p008 (94–103): From the Muses and Apollo, who shoots from afar,
+come singers and lyre players on earth;
+from Zeus come kings.
+Fortunate is anyone the Muses love:
+sweet speech flows from his mouth.
+
+Someone may be wasting away with a wounded heart,
+his spirit weighed down by fresh grief.
+But when a singer, a servant of the Muses,
+sings of the glorious deeds of people long ago
+and the blessed gods who live on Olympus,
+he soon forgets his sadness and remembers none of his troubles.
+So quickly do the goddesses’ gifts turn his thoughts away.
+
+p009 (104–115): Greetings, daughters of Zeus! Give me a song that stirs longing. Celebrate the sacred family of the gods who live forever: those born of Gaia, the Earth, and starry Uranus, the Sky; those born of dark Night; and those whom Pontus, the salty Sea, brought up.
+
+Tell how, in the beginning, the gods and the earth came into being, and the rivers and the boundless sea, surging with waves, and the shining stars and the wide sky above—[and the gods born from these, the givers of good things]. Tell how the gods divided their riches and shared out their honors, and how they first took possession of Olympus with its many ridges.
+
+Tell me these things, Muses whose homes are on Olympus, from the beginning. Tell me which of them came into being first.
+
+GREEK CONTEXT BEFORE (do not translate)
+57: νόσφιν ἀπʼ ἀθανάτων ἱερὸν λέχος εἰσαναβαίνων·
+58: ἀλλʼ ὅτε δή ῥʼ ἐνιαυτὸς ἔην, περὶ δʼ ἔτραπον ὧραι
+59: μηνῶν φθινόντων, περὶ δʼ ἤματα πόλλʼ ἐτελέσθη,
+60: ἣ δʼ ἔτεκʼ ἐννέα κούρας ὁμόφρονας, ᾗσιν ἀοιδὴ
+61: μέμβλεται ἐν στήθεσσιν, ἀκηδέα θυμὸν ἐχούσαις,
+62: τυτθὸν ἀπʼ ἀκροτάτης κορυφῆς νιφόεντος Ὀλύμπου.
+
+>>> TRANSLATE THESE GREEK VERSES: 63-115 <<<
+63: ἔνθα σφιν λιπαροί τε χοροὶ καὶ δώματα καλά.
+64: πὰρ δʼ αὐτῇς Χάριτές τε καὶ Ἵμερος οἰκίʼ ἔχουσιν
+65: ἐν θαλίῃς· ἐρατὴν δὲ διὰ στόμα ὄσσαν ἱεῖσαι
+66: μέλπονται πάντων τε νόμους καὶ ἤθεα κεδνὰ
+67: ἀθανάτων κλείουσιν, ἐπήρατον ὄσσαν ἱεῖσαι.
+68: αἳ τότʼ ἴσαν πρὸς Ὄλυμπον ἀγαλλόμεναι ὀπὶ καλῇ,
+69: ἀμβροσίῃ μολπῇ· περὶ δʼ ἴαχε γαῖα μέλαινα
+70: ὑμνεύσαις, ἐρατὸς δὲ ποδῶν ὕπο δοῦπος ὀρώρει
+71: νισσομένων πατέρʼ εἰς ὅν· ὃ δʼ οὐρανῷ ἐμβασιλεύει,
+72: αὐτὸς ἔχων βροντὴν ἠδʼ αἰθαλόεντα κεραυνόν,
+73: κάρτει νικήσας πατέρα Κρόνον· εὖ δὲ ἕκαστα
+74: ἀθανάτοις διέταξεν ὁμῶς καὶ ἐπέφραδε τιμάς.
+75: ταῦτʼ ἄρα Μοῦσαι ἄειδον, Ὀλύμπια δώματʼ ἔχουσαι,
+76: ἐννέα θυγατέρες μεγάλου Διὸς ἐκγεγαυῖαι,
+77: Κλειώ τʼ Εὐτέρπη τε Θάλειά τε Μελπομένη τε
+78: Τερψιχόρη τʼ Ἐρατώ τε Πολύμνιά τʼ Οὐρανίη τε
+79: Καλλιόπη θʼ· ἣ δὲ προφερεστάτη ἐστὶν ἁπασέων.
+80: ἣ γὰρ καὶ βασιλεῦσιν ἅμʼ αἰδοίοισιν ὀπηδεῖ.
+81: ὅν τινα τιμήσωσι Διὸς κοῦραι μεγάλοιο
+82: γεινόμενόν τε ἴδωσι διοτρεφέων βασιλήων,
+83: τῷ μὲν ἐπὶ γλώσσῃ γλυκερὴν χείουσιν ἐέρσην,
+84: τοῦ δʼ ἔπεʼ ἐκ στόματος ῥεῖ μείλιχα· οἱ δέ τε λαοὶ
+85: πάντες ἐς αὐτὸν ὁρῶσι διακρίνοντα θέμιστας
+86: ἰθείῃσι δίκῃσιν· ὃ δʼ ἀσφαλέως ἀγορεύων
+87: αἶψά κε καὶ μέγα νεῖκος ἐπισταμένως κατέπαυσεν·
+88: τοὔνεκα γὰρ βασιλῆες ἐχέφρονες, οὕνεκα λαοῖς
+89: βλαπτομένοις ἀγορῆφι μετάτροπα ἔργα τελεῦσι
+90: ῥηιδίως, μαλακοῖσι παραιφάμενοι ἐπέεσσιν.
+91: ἐρχόμενον δʼ ἀνʼ ἀγῶνα θεὸν ὣς ἱλάσκονται
+92: αἰδοῖ μειλιχίῃ, μετὰ δὲ πρέπει ἀγρομένοισιν·
+93: τοίη Μουσάων ἱερὴ δόσις ἀνθρώποισιν.
+94: ἐκ γάρ τοι Μουσέων καὶ ἑκηβόλου Ἀπόλλωνος
+95: ἄνδρες ἀοιδοὶ ἔασιν ἐπὶ χθόνα καὶ κιθαρισταί,
+96: ἐκ δὲ Διὸς βασιλῆες· ὃ δʼ ὄλβιος, ὅν τινα Μοῦσαι
+97: φίλωνται· γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή.
+98: εἰ γάρ τις καὶ πένθος ἔχων νεοκηδέι θυμῷ
+99: ἄζηται κραδίην ἀκαχήμενος, αὐτὰρ ἀοιδὸς
+100: Μουσάων θεράπων κλέεα προτέρων ἀνθρώπων
+101: ὑμνήσῃ μάκαράς τε θεούς, οἳ Ὄλυμπον ἔχουσιν,
+102: αἶψʼ ὅ γε δυσφροσυνέων ἐπιλήθεται οὐδέ τι κηδέων
+103: μέμνηται· ταχέως δὲ παρέτραπε δῶρα θεάων.
+104: χαίρετε, τέκνα Διός, δότε δʼ ἱμερόεσσαν ἀοιδήν.
+105: κλείετε δʼ ἀθανάτων ἱερὸν γένος αἰὲν ἐόντων,
+106: οἳ Γῆς τʼ ἐξεγένοντο καὶ Οὐρανοῦ ἀστερόεντος,
+107: Νυκτός τε δνοφερῆς, οὕς θʼ ἁλμυρὸς ἔτρεφε Πόντος.
+108: εἴπατε δʼ, ὡς τὰ πρῶτα θεοὶ καὶ γαῖα γένοντο
+109: καὶ ποταμοὶ καὶ πόντος ἀπείριτος, οἴδματι θυίων,
+110: ἄστρα τε λαμπετόωντα καὶ οὐρανὸς εὐρὺς ὕπερθεν
+111: [del: οἵ τʼ ἐκ τῶν ἐγένοντο θεοί, δωτῆρες ἐάων]
+112: ὥς τʼ ἄφενος δάσσαντο καὶ ὡς τιμὰς διέλοντο
+113: ἠδὲ καὶ ὡς τὰ πρῶτα πολύπτυχον ἔσχον Ὄλυμπον.
+114: ταῦτά μοι ἔσπετε Μοῦσαι, Ὀλύμπια δώματʼ ἔχουσαι
+115: ἐξ ἀρχῆς, καὶ εἴπαθʼ, ὅ τι πρῶτον γένετʼ αὐτῶν.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+116: ἦ τοι μὲν πρώτιστα Χάος γένετʼ, αὐτὰρ ἔπειτα
+117: Γαῖʼ εὐρύστερνος, πάντων ἕδος ἀσφαλὲς αἰεὶ
+118: [del: ἀθανάτων, οἳ ἔχουσι κάρη νιφόεντος Ὀλύμπου,]
+119: Τάρταρά τʼ ἠερόεντα μυχῷ χθονὸς εὐρυοδείης,
+120: ἠδʼ Ἔρος, ὃς κάλλιστος ἐν ἀθανάτοισι θεοῖσι,
+121: λυσιμελής, πάντων δὲ θεῶν πάντων τʼ ἀνθρώπων

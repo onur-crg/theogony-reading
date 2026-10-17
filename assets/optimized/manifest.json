@@ -1,0 +1,192 @@
+{
+  "vase": {
+    "file": "assets/optimized/vase.744b834d072f.webp",
+    "width": 192,
+    "height": 263,
+    "bytes": 15278,
+    "sha256": "744b834d072fc868947bc0d2fbe20f081fbd0c4c362403ee4f550886a94983b4",
+    "source": "greek-objects-handdrawn-v3.png",
+    "source_sha256": "7344ac60b230b975c0601182d92c3ec83578f01f236284c4a39e30162466c3a5",
+    "operation": {
+      "crop": [
+        46,
+        86,
+        192,
+        263
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  },
+  "scroll": {
+    "file": "assets/optimized/scroll.526ddde8b6f4.webp",
+    "width": 250,
+    "height": 231,
+    "bytes": 12458,
+    "sha256": "526ddde8b6f452cf01aee6ab7b46324c7e3564faf58873c0737c7f99bdfb0e11",
+    "source": "greek-objects-handdrawn-v3.png",
+    "source_sha256": "7344ac60b230b975c0601182d92c3ec83578f01f236284c4a39e30162466c3a5",
+    "operation": {
+      "crop": [
+        1267,
+        105,
+        250,
+        231
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  },
+  "lyre": {
+    "file": "assets/optimized/lyre.82c7f0cabcb5.webp",
+    "width": 188,
+    "height": 212,
+    "bytes": 12178,
+    "sha256": "82c7f0cabcb528a4822b6a6cc8163b74862d51c08de08e984d0807340f9b2872",
+    "source": "greek-objects-handdrawn-v3.png",
+    "source_sha256": "7344ac60b230b975c0601182d92c3ec83578f01f236284c4a39e30162466c3a5",
+    "operation": {
+      "crop": [
+        18,
+        708,
+        188,
+        212
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  },
+  "twig": {
+    "file": "assets/optimized/twig.69c6d7dd6675.webp",
+    "width": 195,
+    "height": 193,
+    "bytes": 7914,
+    "sha256": "69c6d7dd6675aec840cdee94833d90e5903874fe036c72a5abdeb7be5ae68501",
+    "source": "greek-objects-handdrawn-v3.png",
+    "source_sha256": "7344ac60b230b975c0601182d92c3ec83578f01f236284c4a39e30162466c3a5",
+    "operation": {
+      "crop": [
+        1296,
+        721,
+        195,
+        193
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  },
+  "gaia": {
+    "file": "assets/optimized/gaia.42fa2a8511b4.webp",
+    "width": 647,
+    "height": 809,
+    "bytes": 14508,
+    "sha256": "42fa2a8511b44f6ae2b4952cf6970deb7c3da59efc802fcb144a88c74db92f1d",
+    "source": "gods-unified-blue-v5.png",
+    "source_sha256": "4e4894dfc32bc93c84feaea081012ec533ed165246b47f95aec2b9576d78f8c9",
+    "operation": {
+      "crop": [
+        0,
+        0,
+        647,
+        809
+      ],
+      "fill": "#dedede",
+      "alpha": "clamp(2 * red - 0.5)"
+    }
+  },
+  "zeus": {
+    "file": "assets/optimized/zeus.fd4a9a36809d.webp",
+    "width": 648,
+    "height": 809,
+    "bytes": 15724,
+    "sha256": "fd4a9a36809d476171f9b5c30268a95efb8bc821fa33b99bb87a0ee4243b7cc8",
+    "source": "gods-unified-blue-v5.png",
+    "source_sha256": "4e4894dfc32bc93c84feaea081012ec533ed165246b47f95aec2b9576d78f8c9",
+    "operation": {
+      "crop": [
+        647,
+        0,
+        648,
+        809
+      ],
+      "fill": "#dedede",
+      "alpha": "clamp(2 * red - 0.5)"
+    }
+  },
+  "athena": {
+    "file": "assets/optimized/athena.52d48dbccce2.webp",
+    "width": 647,
+    "height": 809,
+    "bytes": 18078,
+    "sha256": "52d48dbccce2a72e30be48ab75c5fcef1591bae75beddfcc0ea6d78cc7790ba2",
+    "source": "gods-unified-blue-v5.png",
+    "source_sha256": "4e4894dfc32bc93c84feaea081012ec533ed165246b47f95aec2b9576d78f8c9",
+    "operation": {
+      "crop": [
+        1295,
+        0,
+        647,
+        809
+      ],
+      "fill": "#dedede",
+      "alpha": "clamp(2 * red - 0.5)"
+    }
+  },
+  "passage-muses-v1": {
+    "file": "assets/optimized/passage-muses-v1.921e33e7a542.webp",
+    "width": 1510,
+    "height": 950,
+    "bytes": 265058,
+    "sha256": "921e33e7a54286a55de445ee9df57d1867723da3d277b8fd628eaad46190cfc6",
+    "source": "passage-muses-v1.png",
+    "source_sha256": "1525921fcabb02690d0e5a8bc5d2c37f4443e8e6cb9fa6aa5672aada98e7de53",
+    "operation": {
+      "crop": [
+        16,
+        70,
+        1510,
+        950
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  },
+  "passage-first-beings-v1": {
+    "file": "assets/optimized/passage-first-beings-v1.188afa91d0b3.webp",
+    "width": 1464,
+    "height": 915,
+    "bytes": 108592,
+    "sha256": "188afa91d0b3f15827566333d111369bc1526969a8211b55dd613591fe61b3f9",
+    "source": "passage-first-beings-v1.png",
+    "source_sha256": "3f9534aab6c179057568660d5bffedcf4709ab44693cba3acf006deca8cc21b4",
+    "operation": {
+      "crop": [
+        36,
+        70,
+        1464,
+        915
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  },
+  "passage-cronus-v3": {
+    "file": "assets/optimized/passage-cronus-v3.4d580c442295.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 204442,
+    "sha256": "4d580c442295ceb8b68a550c3ac3e69dac25bcce6efe745f44254986c31e0297",
+    "source": "passage-cronus-v3.png",
+    "source_sha256": "4b2df29c65acc0341a714dde843a28a9749e74677d8bbb1539dfe9b1eff8e3f1",
+    "operation": {
+      "crop": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "fill": "#075fce",
+      "alpha": "source alpha"
+    }
+  }
+}

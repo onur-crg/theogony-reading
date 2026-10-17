@@ -1,0 +1,50 @@
+Write an English version of the marked Greek lines for a 16-year-old who does not know Greek myths. Make it clear and enjoyable to read, with natural sentences and some of the poem’s rhythm. Keep Hesiod’s meaning and images. Use today’s words, not old-fashioned ones. Do not add or leave out important facts. Keep names in the reading text. Add only the brief clue needed to follow a sentence; put other background in cards. If Hesiod explains a name, keep that explanation in the translation. Use natural English word order and make pronouns clear. Avoid interrupting sentences with explanations.
+
+Return one JSON result for each section below. Give each a short title, the translation, a very simple summary, and one short card for each useful name or hard word. Use the name hints only if they fit the Greek. Put real doubts in "uncertainties".
+
+SECTIONS
+[{"id": "p021", "start": 265, "end": 286, "heading": "Iris and the Gorgons"}]
+
+NAME HINTS
+[]
+
+CONTEXT BEFORE (do not translate)
+259: Εὐάρνη τε φυήν τʼ ἐρατὴ καὶ εἶδος ἄμωμος
+260: καὶ Ψαμάθη χαρίεσσα δέμας δίη τε Μενίππη
+261: Νησώ τʼ Εὐπόμπη τε Θεμιστώ τε Προνόη τε
+262: Νημερτής θʼ, ἣ πατρὸς ἔχει νόον ἀθανάτοιο.
+263: αὗται μὲν Νηρῆος ἀμύμονος ἐξεγένοντο
+264: κοῦραι πεντήκοντα, ἀμύμονα ἔργα ἰδυῖαι.
+
+>>> TRANSLATE THESE GREEK VERSES: 265-286 <<<
+265: Θαύμας δʼ Ὠκεανοῖο βαθυρρείταο θύγατρα
+266: ἠγάγετʼ Ἠλέκτρην· ἣ δʼ ὠκεῖαν τέκεν Ἶριν
+267: ἠυκόμους θʼ Ἁρπυίας Ἀελλώ τʼ Ὠκυπέτην τε,
+268: αἵ ῥʼ ἀνέμων πνοιῇσι καὶ οἰωνοῖς ἅμʼ ἕπονται
+269: ὠκείῃς πτερύγεσσι· μεταχρόνιαι γὰρ ἴαλλον.
+270: Φόρκυϊ δʼ αὖ Κητὼ Γραίας τέκε καλλιπαρῄους
+271: ἐκ γενετῆς πολιάς, τὰς δὴ Γραίας καλέουσιν
+272: ἀθάνατοί τε θεοὶ χαμαὶ ἐρχόμενοί τʼ ἄνθρωποι,
+273: Πεμφρηδώ τʼ ἐύπεπλον Ἐνυώ τε κροκόπεπλον,
+274: Γοργούς θʼ, αἳ ναίουσι πέρην κλυτοῦ Ὠκεανοῖο
+275: ἐσχατιῇ πρὸς Νυκτός, ἵνʼ Ἑσπερίδες λιγύφωνοι,
+276: Σθεννώ τʼ Εὐρυάλη τε Μέδουσά τε λυγρὰ παθοῦσα.
+277: ἣ μὲν ἔην θνητή, αἳ δʼ ἀθάνατοι καὶ ἀγήρῳ,
+278: αἱ δύο· τῇ δὲ μιῇ παρελέξατο Κυανοχαίτης
+279: ἐν μαλακῷ λειμῶνι καὶ ἄνθεσιν εἰαρινοῖσιν.
+280: τῆς δʼ ὅτε δὴ Περσεὺς κεφαλὴν ἀπεδειροτόμησεν,
+281: ἔκθορε Χρυσαωρ τε μέγας καὶ Πήγασος ἵππος.
+282: τῷ μὲν ἐπώνυμον ἦεν, ὅτʼ Ὠκεανοῦ περὶ πηγὰς
+283: γένθʼ, ὃ δʼ ἄορ χρύσειον ἔχων μετὰ χερσὶ φίλῃσιν.
+284: χὠ μὲν ἀποπτάμενος προλιπὼν χθόνα, μητέρα μήλων,
+285: ἵκετʼ ἐς ἀθανάτους· Ζηνὸς δʼ ἐν δώμασι ναίει
+286: βροντήν τε στεροπήν τε φέρων Διὶ μητιόεντι.
+>>> END OF ASSIGNED VERSES <<<
+
+CONTEXT AFTER (do not translate)
+287: Χρυσάωρ δʼ ἔτεκεν τρικέφαλον Γηρυονῆα
+288: μιχθεὶς Καλλιρόῃ κούρῃ κλυτοῦ Ὠκεανοῖο.
+289: τὸν μὲν ἄρʼ ἐξενάριξε βίη Ἡρακληείη
+290: βουσὶ παρʼ εἰλιπόδεσσι περιρρύτῳ εἰν Ἐρυθείῃ
+291: ἤματι τῷ ὅτε περ βοῦς ἤλασεν εὐρυμετώπους
+292: Τίρυνθʼ εἰς ἱερὴν διαβὰς πόρον Ὠκεανοῖο

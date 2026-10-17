@@ -1,0 +1,111 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p010 (116–125): First of all, Chaos came into being—a vast gap. Then came Gaia, broad-chested Earth, the firm seat of all things forever; and misty Tartarus, deep in the earth with its wide paths; and Eros, the god of desire, most beautiful of the immortal gods. He loosens limbs and overpowers the mind and careful judgment in the hearts of every god and every human.
+
+From Chaos came Erebus, the darkness, and black Night. From Night came Aether, the bright upper air, and Day. She conceived and gave birth to them after joining with Erebus in love.
+
+p011 (126–138): First Gaia, Earth, gave birth to starry Uranus, Sky, equal to herself in size, to cover her on every side and be a firm seat forever for the blessed gods.
+
+She gave birth to the tall Mountains, lovely homes for the Nymphs—the goddesses who live among the mountains’ valleys. She also bore Pontus, the barren Sea, raging with waves, without joining anyone in the pleasures of love.
+
+Then she lay with Sky and bore Oceanus, the great river with its deep whirlpools; Coeus, Crius, Hyperion, and Iapetus; Theia, Rhea, Themis, and Mnemosyne; Phoebe with her golden crown, and lovely Tethys.
+
+After them came the youngest, Cronus, with his crooked schemes—the most fearsome of her children. He hated his vigorous father.
+
+p012 (139–153): Earth also gave birth to the Cyclopes, with their fierce hearts: Brontes, Steropes, and mighty-hearted Arges. They gave Zeus, the thunder god, his thunder and made his thunderbolt.
+
+In every other way they were like the gods, but a single eye lay in the middle of each forehead. They were called Cyclopes—“Round-eyes”—because each had that one round eye in his forehead. Strength, force, and skill showed in everything they made.
+
+Three more children were born to Earth and Sky, huge and powerful, too terrible to name: Cottus, Briareus, and Gyges, towering sons. A hundred monstrous hands sprang from each one’s shoulders, and fifty heads grew from the shoulders above each one’s sturdy limbs. Their enormous bodies held boundless, mighty strength.
+
+p013 (154–173): All the children born to Earth and Sky were fearsome indeed, and their father hated them from the start. As soon as each was born, Sky hid them away in a hollow inside Earth and let none come into the light. He took pleasure in this cruel work.
+
+Huge Earth groaned inside, cramped by the burden. She thought up a cunning, harmful plan. Quickly she created a substance, gray adamant—a material of extraordinary hardness—and made a great sickle, a curved cutting blade. Then she explained her plan to her dear children. With an aching heart, she spoke to give them courage:
+
+“My children, yours is a reckless father. If you are willing to listen to me, we could make him pay for his cruel abuse. He was the first to plot these shameful deeds.”
+
+So she spoke. Fear seized them all, and none said a word. But great Cronus, with his crooked schemes, took courage and answered his loving mother:
+
+“Mother, I promise I can carry out this deed. I have no concern for our father, with his shameful name. He was the first to plot these shameful deeds.”
+
+So he spoke, and huge Earth’s heart filled with joy.
+
+GREEK CONTEXT BEFORE (do not translate)
+110: ἄστρα τε λαμπετόωντα καὶ οὐρανὸς εὐρὺς ὕπερθεν
+111: [del: οἵ τʼ ἐκ τῶν ἐγένοντο θεοί, δωτῆρες ἐάων]
+112: ὥς τʼ ἄφενος δάσσαντο καὶ ὡς τιμὰς διέλοντο
+113: ἠδὲ καὶ ὡς τὰ πρῶτα πολύπτυχον ἔσχον Ὄλυμπον.
+114: ταῦτά μοι ἔσπετε Μοῦσαι, Ὀλύμπια δώματʼ ἔχουσαι
+115: ἐξ ἀρχῆς, καὶ εἴπαθʼ, ὅ τι πρῶτον γένετʼ αὐτῶν.
+
+>>> TRANSLATE THESE GREEK VERSES: 116-173 <<<
+116: ἦ τοι μὲν πρώτιστα Χάος γένετʼ, αὐτὰρ ἔπειτα
+117: Γαῖʼ εὐρύστερνος, πάντων ἕδος ἀσφαλὲς αἰεὶ
+118: [del: ἀθανάτων, οἳ ἔχουσι κάρη νιφόεντος Ὀλύμπου,]
+119: Τάρταρά τʼ ἠερόεντα μυχῷ χθονὸς εὐρυοδείης,
+120: ἠδʼ Ἔρος, ὃς κάλλιστος ἐν ἀθανάτοισι θεοῖσι,
+121: λυσιμελής, πάντων δὲ θεῶν πάντων τʼ ἀνθρώπων
+122: δάμναται ἐν στήθεσσι νόον καὶ ἐπίφρονα βουλήν.
+123: ἐκ Χάεος δʼ Ἔρεβός τε μέλαινά τε Νὺξ ἐγένοντο·
+124: Νυκτὸς δʼ αὖτʼ Αἰθήρ τε καὶ Ἡμέρη ἐξεγένοντο,
+125: οὓς τέκε κυσαμένη Ἐρέβει φιλότητι μιγεῖσα.
+126: Γαῖα δέ τοι πρῶτον μὲν ἐγείνατο ἶσον ἑαυτῇ
+127: Οὐρανὸν ἀστερόενθʼ, ἵνα μιν περὶ πάντα καλύπτοι,
+128: ὄφρʼ εἴη μακάρεσσι θεοῖς ἕδος ἀσφαλὲς αἰεί.
+129: γείνατο δʼ Οὔρεα μακρά, θεῶν χαρίεντας ἐναύλους,
+130: Νυμφέων, αἳ ναίουσιν ἀνʼ οὔρεα βησσήεντα.
+131: ἣ δὲ καὶ ἀτρύγετον πέλαγος τέκεν, οἴδματι θυῖον,
+132: Πόντον, ἄτερ φιλότητος ἐφιμέρου· αὐτὰρ ἔπειτα
+133: Οὐρανῷ εὐνηθεῖσα τέκʼ Ὠκεανὸν βαθυδίνην,
+134: Κοῖόν τε Κρῖόν θʼ Ὑπερίονά τʼ Ἰαπετόν τε
+135: Θείαν τε Ῥείαν τε Θέμιν τε Μνημοσύνην τε
+136: Φοίβην τε χρυσοστέφανον Τηθύν τʼ ἐρατεινήν.
+137: τοὺς δὲ μέθʼ ὁπλότατος γένετο Κρόνος ἀγκυλομήτης,
+138: δεινότατος παίδων· θαλερὸν δʼ ἤχθηρε τοκῆα.
+139: γείνατο δʼ αὖ Κύκλωπας ὑπέρβιον ἦτορ ἔχοντας,
+140: Βρόντην τε Στερόπην τε καὶ Ἄργην ὀβριμόθυμον,
+141: οἳ Ζηνὶ βροντήν τε δόσαν τεῦξάν τε κεραυνόν.
+142: οἳ δή τοι τὰ μὲν ἄλλα θεοῖς ἐναλίγκιοι ἦσαν,
+143: μοῦνος δʼ ὀφθαλμὸς μέσσῳ ἐνέκειτο μετώπῳ.
+144: Κύκλωπες δʼ ὄνομʼ ἦσαν ἐπώνυμον, οὕνεκʼ ἄρα σφέων
+145: κυκλοτερὴς ὀφθαλμὸς ἕεις ἐνέκειτο μετώπῳ·
+146: ἰσχὺς δʼ ἠδὲ βίη καὶ μηχαναὶ ἦσαν ἐπʼ ἔργοις.
+147: ἄλλοι δʼ αὖ Γαίης τε καὶ Οὐρανοῦ ἐξεγένοντο
+148: τρεῖς παῖδες μεγάλοι τε καὶ ὄβριμοι, οὐκ ὀνομαστοί,
+149: Κόττος τε Βριάρεώς τε Γύης θʼ, ὑπερήφανα τέκνα.
+150: τῶν ἑκατὸν μὲν χεῖρες ἀπʼ ὤμων ἀίσσοντο,
+151: ἄπλαστοι, κεφαλαὶ δὲ ἑκάστῳ πεντήκοντα
+152: ἐξ ὤμων ἐπέφυκον ἐπὶ στιβαροῖσι μέλεσσιν·
+153: ἰσχὺς δʼ ἄπλητος κρατερὴ μεγάλῳ ἐπὶ εἴδει.
+154: ὅσσοι γὰρ Γαίης τε καὶ Οὐρανοῦ ἐξεγένοντο,
+155: δεινότατοι παίδων, σφετέρῳ δʼ ἤχθοντο τοκῆι
+156: ἐξ ἀρχῆς· καὶ τῶν μὲν ὅπως τις πρῶτα γένοιτο,
+157: πάντας ἀποκρύπτασκε, καὶ ἐς φάος οὐκ ἀνίεσκε,
+158: Γαίης ἐν κευθμῶνι, κακῷ δʼ ἐπετέρπετο ἔργῳ
+159: Οὐρανός. ἣ δʼ ἐντὸς στοναχίζετο Γαῖα πελώρη
+160: στεινομένη· δολίην δὲ κακήν τʼ ἐφράσσατο τέχνην.
+161: αἶψα δὲ ποιήσασα γένος πολιοῦ ἀδάμαντος
+162: τεῦξε μέγα δρέπανον καὶ ἐπέφραδε παισὶ φίλοισιν·
+163: εἶπε δὲ θαρσύνουσα, φίλον τετιημένη ἦτορ·
+164: παῖδες ἐμοὶ καὶ πατρὸς ἀτασθάλου, αἴ κʼ ἐθέλητε
+165: πείθεσθαι, πατρός κε κακὴν τισαίμεθα λώβην
+166: ὑμετέρου· πρότερος γὰρ ἀεικέα μήσατο ἔργα.
+167: ὣς φάτο· τοὺς δʼ ἄρα πάντας ἕλεν δέος, οὐδέ τις αὐτῶν
+168: φθέγξατο. θαρσήσας δὲ μέγας Κρόνος ἀγκυλομήτης
+169: ἂψ αὖτις μύθοισι προσηύδα μητέρα κεδνήν·
+170: μῆτερ, ἐγώ κεν τοῦτό γʼ ὑποσχόμενος τελέσαιμι
+171: ἔργον, ἐπεὶ πατρός γε δυσωνύμου οὐκ ἀλεγίζω
+172: ἡμετέρου· πρότερος γὰρ ἀεικέα μήσατο ἔργα.
+173: ὣς φάτο· γήθησεν δὲ μέγα φρεσὶ Γαῖα πελώρη·
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+174: εἷσε δέ μιν κρύψασα λόχῳ· ἐνέθηκε δὲ χερσὶν
+175: ἅρπην καρχαρόδοντα· δόλον δʼ ὑπεθήκατο πάντα.
+176: ἦλθε δὲ νύκτʼ ἐπάγων μέγας Οὐρανός, ἀμφὶ δὲ Γαίῃ
+177: ἱμείρων φιλότητος ἐπέσχετο καί ῥʼ ἐτανύσθη
+178: πάντη· ὃ δʼ ἐκ λοχέοιο πάις ὠρέξατο χειρὶ
+179: σκαιῇ, δεξιτερῇ δὲ πελώριον ἔλλαβεν ἅρπην

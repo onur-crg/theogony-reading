@@ -1,0 +1,177 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p051 (775–806): There lives a goddess hated by the immortals:
+dread Styx, eldest daughter of Oceanus,
+the river that flows back on itself.
+Far from the other gods she lives in a splendid house,
+with towering rocks above it and silver pillars
+supporting it on every side, reaching toward the sky.
+
+Rarely does swift-footed Iris, daughter of Thaumas,
+come across the sea’s broad back with a message.
+But whenever quarrels and strife break out among the immortals,
+and one of the gods who live on Olympus tells a lie,
+Zeus sends Iris far away to bring back, in a golden jug,
+the famous cold water by which the gods swear their great oath.
+It trickles down from a high, sheer rock.
+
+Far beneath the earth with its broad roads,
+a branch of the sacred river Oceanus
+flows through black night.
+One tenth of his water has been set apart:
+nine parts wind around the earth and the sea’s broad back
+in silver swirls, then pour into the sea.
+The one remaining part flows from the rock—
+a great source of suffering for the gods.
+
+If any immortal who lives on snowy Olympus
+pours out this water and swears a false oath over it,
+that god lies breathless for a full year.
+They never come near ambrosia or nectar to eat or drink,
+but lie without breath or speech on a bed spread for them,
+wrapped in a dreadful coma.
+
+When that sickness has lasted a full year,
+another, harsher ordeal follows.
+For nine years the god is cut off from the gods who live forever,
+never joining their councils or their feasts
+for all those nine years.
+In the tenth, they join once more
+the gatherings of the immortals who live on Olympus.
+
+Such is the oath the gods established:
+the ancient, unfailing water of Styx,
+which flows through a harsh and rocky place.
+
+p052 (807–819): There, side by side, are the sources and the limits
+of dark earth, misty Tartarus,
+the barren sea and the starry sky:
+grim, moldy places that even the gods hate.
+
+There stand marble gates and a bronze threshold,
+unshakable, fixed on roots that stretch unbroken below,
+grown there of itself.
+Beyond the gates, apart from all the other gods,
+the Titans live on the far side of gloomy Chaos.
+
+But Cottus and Gyes, the famous allies
+of loudly thundering Zeus,
+live in homes at the foundations of Oceanus.
+As for noble Briareus, the Earth-shaker Poseidon,
+whose crashes thunder deep,
+made him his son-in-law:
+he gave him his daughter Cymopolea to marry.
+
+p053 (820–838): After Zeus had driven the Titans out of heaven,
+vast Gaia gave birth to her youngest child, Typhoeus,
+joining in love with Tartarus through golden Aphrodite.
+
+This powerful god had hands strong enough for mighty deeds,
+and feet that never tired.
+From his shoulders grew a hundred snake heads,
+the heads of a terrifying serpent,
+flicking their dark tongues.
+Fire flashed beneath the brows
+of the eyes in those monstrous heads;
+from every head fire blazed as he stared.
+
+Voices sounded in all his fearsome heads,
+sending out every kind of incredible cry.
+Sometimes they spoke so that the gods could understand;
+sometimes they sounded like a proud, bellowing bull
+whose force could not be held back;
+sometimes like a lion with a ruthless heart;
+sometimes like puppies—a wonder to hear.
+At other times he hissed,
+and the tall mountains echoed.
+
+That day something beyond all help would have happened:
+Typhoeus would have ruled over mortals and immortals,
+if Zeus, the father of gods and humans,
+had not been quick to notice.
+
+GREEK CONTEXT BEFORE (do not translate)
+769: ἑστᾶσιν, δεινὸς δὲ κύων προπάροιθε φυλάσσει
+770: νηλειής, τέχνην δὲ κακὴν ἔχει· ἐς μὲν ἰόντας
+771: σαίνει ὁμῶς οὐρῇ τε καὶ οὔασιν ἀμφοτέροισιν,
+772: ἐξελθεῖν δʼ οὐκ αὖτις ἐᾷ πάλιν, ἀλλὰ δοκεύων
+773: ἐσθίει, ὅν κε λάβῃσι πυλέων ἔκτοσθεν ἰόντα.
+774: [del: ἰφθίμου τʼ Ἀίδεω καὶ ἐπαινῆς Περσεφονείης.]
+
+>>> TRANSLATE THESE GREEK VERSES: 775-838 <<<
+775: ἔνθα δὲ ναιετάει στυγερὴ θεὸς ἀθανάτοισι,
+776: δεινὴ Στύξ, θυγάτηρ ἀψορρόου Ὠκεανοῖο
+777: πρεσβυτάτη· νόσφιν δὲ θεῶν κλυτὰ δώματα ναίει
+778: μακρῇσιν πέτρῃσι κατηρεφέʼ· ἀμφὶ δὲ πάντη
+779: κίοσιν ἀργυρέοισι πρὸς οὐρανὸν ἐστήρικται.
+780: παῦρα δὲ Θαύμαντος θυγάτηρ πόδας ὠκέα Ἶρις
+781: ἀγγελίην πωλεῖται ἐπʼ εὐρέα νῶτα θαλάσσης.
+782: ὁππότʼ ἔρις καὶ νεῖκος ἐν ἀθανάτοισιν ὄρηται
+783: καί ῥʼ ὅστις ψεύδηται Ὀλύμπια δώματʼ ἐχόντων,
+784: Ζεὺς δέ τε Ἶριν ἔπεμψε θεῶν μέγαν ὅρκον ἐνεῖκαι
+785: τηλόθεν ἐν χρυσέῃ προχόῳ πολυώνυμον ὕδωρ
+786: ψυχρόν, ὅτʼ ἐκ πέτρης καταλείβεται ἠλιβάτοιο
+787: ὑψηλῆς· πολλὸν δὲ ὑπὸ χθονὸς εὐρυοδείης
+788: ἐξ ἱεροῦ ποταμοῖο ῥέει διὰ νύκτα μέλαιναν
+789: Ὠκεανοῖο κέρας· δεκάτη δʼ ἐπὶ μοῖρα δέδασται·
+790: ἐννέα μὲν περὶ γῆν τε καὶ εὐρέα νῶτα θαλάσσης
+791: δίνῃς ἀργυρέῃς εἱλιγμένος εἰς ἅλα πίπτει,
+792: ἣ δὲ μίʼ ἐκ πέτρης προρέει μέγα πῆμα θεοῖσιν.
+793: ὅς κεν τὴν ἐπίορκον ἀπολλείψας ἐπομόσσῃ
+794: ἀθανάτων, οἳ ἔχουσι κάρη νιφόεντος Ὀλύμπου,
+795: κεῖται νήυτμος τετελεσμένον εἰς ἐνιαυτόν·
+796: οὐδέ ποτʼ ἀμβροσίης καὶ νέκταρος ἔρχεται ἆσσον
+797: βρώσιος, ἀλλά τε κεῖται ἀνάπνευστος καὶ ἄναυδος
+798: στρωτοῖς ἐν λεχέεσσι, κακὸν δέ ἑ κῶμα καλύπτει.
+799: αὐτὰρ ἐπεὶ νοῦσον τελέσῃ μέγαν εἰς ἐνιαυτόν,
+800: ἄλλος γʼ ἐξ ἄλλου δέχεται χαλεπώτερος ἄεθλος.
+801: εἰνάετες δὲ θεῶν ἀπαμείρεται αἰὲν ἐόντων,
+802: οὐδέ ποτʼ ἐς βουλὴν ἐπιμίσγεται οὐδʼ ἐπὶ δαῖτας
+803: ἐννέα πάντα ἔτεα· δεκάτῳ δʼ ἐπιμίσγεται αὖτις
+804: εἴρας ἐς ἀθανάτων, οἳ Ὀλύμπια δώματʼ ἔχουσιν.
+805: τοῖον ἄρʼ ὅρκον ἔθεντο θεοὶ Στυγὸς ἄφθιτον ὕδωρ
+806: ὠγύγιον, τὸ δʼ ἵησι καταστυφέλου διὰ χώρου.
+807: ἔνθα δὲ γῆς δνοφερῆς καὶ Ταρτάρου ἠερόεντος
+808: πόντου τʼ ἀτρυγέτοιο καὶ οὐρανοῦ ἀστερόεντος
+809: ἑξείης πάντων πηγαὶ καὶ πείρατʼ ἔασιν
+810: ἀργαλέʼ εὐρώεντα, τά τε στυγέουσι θεοί περ.
+811: ἔνθα δὲ μαρμάρεαί τε πύλαι καὶ χάλκεος οὐδὸς
+812: ἀστεμφής, ῥίζῃσι διηνεκέεσσιν ἀρηρώς,
+813: αὐτοφυής· πρόσθεν δὲ θεῶν ἔκτοσθεν ἁπάντων
+814: Τιτῆνες ναίουσι, πέρην Χάεος ζοφεροῖο.
+815: αὐτὰρ ἐρισμαράγοιο Διὸς κλειτοὶ ἐπίκουροι
+816: δώματα ναιετάουσιν ἐπʼ Ὠκεανοῖο θεμέθλοις,
+817: Κόττος τʼ ἠδὲ Γύης· Βριάρεών γε μὲν ἠὺν ἐόντα
+818: γαμβρὸν ἑὸν ποίησε βαρύκτυπος Ἐννοσίγαιος,
+819: δῶκε δὲ Κυμοπόλειαν ὀπυίειν, θυγατέρα ἥν.
+820: αὐτὰρ ἐπεὶ Τιτῆνας ἀπʼ οὐρανοῦ ἐξέλασεν Ζεύς,
+821: ὁπλότατον τέκε παῖδα Τυφωέα Γαῖα πελώρη
+822: Ταρτάρου ἐν φιλότητι διὰ χρυσέην Ἀφροδίτην·
+823: οὗ χεῖρες μὲν ἔασιν ἐπʼ ἰσχύι, ἔργματʼ ἔχουσαι,
+824: καὶ πόδες ἀκάματοι κρατεροῦ θεοῦ· ἐκ δέ οἱ ὤμων
+825: ἣν ἑκατὸν κεφαλαὶ ὄφιος, δεινοῖο δράκοντος,
+826: γλώσσῃσιν δνοφερῇσι λελιχμότες, ἐκ δέ οἱ ὄσσων
+827: θεσπεσίῃς κεφαλῇσιν ὑπʼ ὀφρύσι πῦρ ἀμάρυσσεν·
+828: πασέων δʼ ἐκ κεφαλέων πῦρ καίετο δερκομένοιο·
+829: φωναὶ δʼ ἐν πάσῃσιν ἔσαν δεινῇς κεφαλῇσι
+830: παντοίην ὄπʼ ἰεῖσαι ἀθέσφατον· ἄλλοτε μὲν γὰρ
+831: φθέγγονθʼ ὥστε θεοῖσι συνιέμεν, ἄλλοτε δʼ αὖτε
+832: ταύρου ἐριβρύχεω, μένος ἀσχέτου, ὄσσαν ἀγαύρου,
+833: ἄλλοτε δʼ αὖτε λέοντος ἀναιδέα θυμὸν ἔχοντος,
+834: ἄλλοτε δʼ αὖ σκυλάκεσσιν ἐοικότα, θαύματʼ ἀκοῦσαι,
+835: ἄλλοτε δʼ αὖ ῥοίζεσχʼ, ὑπὸ δʼ ἤχεεν οὔρεα μακρά.
+836: καί νύ κεν ἔπλετο ἔργον ἀμήχανον ἤματι κείνῳ
+837: καί κεν ὅ γε θνητοῖσι καὶ ἀθανάτοισιν ἄναξεν,
+838: εἰ μὴ ἄρʼ ὀξὺ νόησε πατὴρ ἀνδρῶν τε θεῶν τε.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+839: σκληρὸν δʼ ἐβρόντησε καὶ ὄβριμον, ἀμφὶ δὲ γαῖα
+840: σμερδαλέον κονάβησε καὶ οὐρανὸς εὐρὺς ὕπερθε
+841: πόντος τʼ Ὠκεανοῦ τε ῥοαὶ καὶ Τάρταρα γαίης.
+842: ποσσὶ δʼ ὕπʼ ἀθανάτοισι μέγας πελεμίζετʼ Ὄλυμπος
+843: ὀρνυμένοιο ἄνακτος· ἐπεστενάχιζε δὲ γαῖα.
+844: καῦμα δʼ ὑπʼ ἀμφοτέρων κάτεχεν ἰοειδέα πόντον

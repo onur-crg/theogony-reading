@@ -1,0 +1,107 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p054 (839–868): Zeus thundered with a harsh and mighty crash. All around, the earth rang terribly, and so did the wide sky above, the sea, the streams of Oceanus, and Tartarus beneath the earth. Great Olympus shook beneath his immortal feet as the king sprang into action. The earth groaned beneath him.
+
+Heat from both fighters gripped the violet-dark sea—from thunder and lightning, from the monster’s fire, from fiery blasts of wind and the blazing thunderbolt. All the earth boiled, and the sky and sea. Long waves raged against the shores on every side under the force of the immortal fighters, and the shaking would not stop. Hades, ruler of the dead below, trembled. So did the Titans deep in Tartarus around Cronus, at the endless roar and the terrible fighting.
+
+Then Zeus gathered all his strength and took up his weapons: thunder, lightning, and the smoking thunderbolt. He leaped from Olympus and struck, scorching every monstrous head of the terrifying creature. When Zeus had beaten him down with blow after blow, Typhoeus collapsed, his limbs powerless, and the vast earth groaned.
+
+Flames shot from the thunderstruck lord Typhoeus in the mountain’s dark and rugged valleys. A vast stretch of earth burned in the tremendous heat and melted like tin, heated by skilled young men in crucibles pierced with holes. Even iron, the strongest metal, yields to blazing fire in mountain valleys and melts in the sacred earth beneath Hephaestus’s hands. So the earth melted in the glare of the burning fire.
+
+In bitter fury, Zeus hurled Typhoeus into wide Tartarus.
+
+p055 (869–885): From Typhoeus comes the force of the moisture-laden winds, except for Notus, Boreas, and sky-clearing Zephyrus. These three come from the gods and are a great help to mortals. But the others blow across the sea as reckless gusts. They fall upon the misty water and rage in vicious storms, bringing great suffering to mortals. Now one wind blows, now another: they scatter ships and kill sailors. People who meet them at sea have no defense against their violence.
+
+These winds also sweep across the boundless, flowering earth. They ruin the lovely work of earth-born people, filling the land with dust and a dreadful uproar.
+
+When the blessed gods had finished their struggle and settled their contest with the Titans by force over who would hold power and honor, Gaia advised them to urge far-seeing Olympian Zeus to be king and ruler of the immortals. Zeus then shared out their honors among them.
+
+p056 (886–900): Zeus, king of the gods, made Metis his first wife. She knew more than any other god or mortal. But when she was about to give birth to the bright-eyed goddess Athena, Zeus deceived her with cunning, coaxing words and swallowed her into his belly. He did this on the advice of Gaia and starry Uranus.
+
+They had advised him to do this so that no one else would take Zeus’s royal place among the everlasting gods. For Metis was destined to bear children of great wisdom: first a daughter, bright-eyed Tritogeneia, equal to her father in strength and wise judgment. After that, Metis would bear a son with a fierce and mighty spirit, who would become king of gods and humans.
+
+But before that could happen, Zeus swallowed Metis into his belly, so that the goddess could advise him on good and evil.
+
+GREEK CONTEXT BEFORE (do not translate)
+833: ἄλλοτε δʼ αὖτε λέοντος ἀναιδέα θυμὸν ἔχοντος,
+834: ἄλλοτε δʼ αὖ σκυλάκεσσιν ἐοικότα, θαύματʼ ἀκοῦσαι,
+835: ἄλλοτε δʼ αὖ ῥοίζεσχʼ, ὑπὸ δʼ ἤχεεν οὔρεα μακρά.
+836: καί νύ κεν ἔπλετο ἔργον ἀμήχανον ἤματι κείνῳ
+837: καί κεν ὅ γε θνητοῖσι καὶ ἀθανάτοισιν ἄναξεν,
+838: εἰ μὴ ἄρʼ ὀξὺ νόησε πατὴρ ἀνδρῶν τε θεῶν τε.
+
+>>> TRANSLATE THESE GREEK VERSES: 839-900 <<<
+839: σκληρὸν δʼ ἐβρόντησε καὶ ὄβριμον, ἀμφὶ δὲ γαῖα
+840: σμερδαλέον κονάβησε καὶ οὐρανὸς εὐρὺς ὕπερθε
+841: πόντος τʼ Ὠκεανοῦ τε ῥοαὶ καὶ Τάρταρα γαίης.
+842: ποσσὶ δʼ ὕπʼ ἀθανάτοισι μέγας πελεμίζετʼ Ὄλυμπος
+843: ὀρνυμένοιο ἄνακτος· ἐπεστενάχιζε δὲ γαῖα.
+844: καῦμα δʼ ὑπʼ ἀμφοτέρων κάτεχεν ἰοειδέα πόντον
+845: βροντῆς τε στεροπῆς τε, πυρός τʼ ἀπὸ τοῖο πελώρου,
+846: πρηστήρων ἀνέμων τε κεραυνοῦ τε φλεγέθοντος.
+847: ἔζεε δὲ χθὼν πᾶσα καὶ οὐρανὸς ἠδὲ θάλασσα·
+848: θυῖε δʼ ἄρʼ ἀμφʼ ἀκτὰς περί τʼ ἀμφί τε κύματα μακρὰ
+849: ῥιπῇ ὕπʼ ἀθανάτων, ἔνοσις δʼ ἄσβεστος ὀρώρει·
+850: τρέε δʼ Ἀίδης, ἐνέροισι καταφθιμένοισιν ἀνάσσων,
+851: Τιτῆνές θʼ ὑποταρτάριοι, Κρόνον ἀμφὶς ἐόντες,
+852: ἀσβέστου κελάδοιο καὶ αἰνῆς δηιοτῆτος.
+853: Ζεὺς δʼ ἐπεὶ οὖν κόρθυνεν ἑὸν μένος, εἵλετο δʼ ὅπλα,
+854: βροντήν τε στεροπήν τε καὶ αἰθαλόεντα κεραυνόν,
+855: πλῆξεν ἀπʼ Οὐλύμποιο ἐπάλμενος· ἀμφὶ δὲ πάσας
+856: ἔπρεσε θεσπεσίας κεφαλὰς δεινοῖο πελώρου.
+857: αὐτὰρ ἐπεὶ δή μιν δάμασεν πληγῇσιν ἱμάσσας,
+858: ἤριπε γυιωθείς, στενάχιζε δὲ γαῖα πελώρη.
+859: φλὸξ δὲ κεραυνωθέντος ἀπέσσυτο τοῖο ἄνακτος
+860: οὔρεος ἐν βήσσῃσιν ἀιδνῇς παιπαλοέσσῃς,
+861: πληγέντος. πολλὴ δὲ πελώρη καίετο γαῖα
+862: ἀτμῇ θεσπεσίῃ καὶ ἐτήκετο κασσίτερος ὣς
+863: τέχνῃ ὕπʼ αἰζηῶν ἐν ἐυτρήτοις χοάνοισι
+864: θαλφθείς, ἠὲ σίδηρος, ὅ περ κρατερώτατός ἐστιν.
+865: οὔρεος ἐν βήσσῃσι δαμαζόμενος πυρὶ κηλέῳ
+866: τήκεται ἐν χθονὶ δίῃ ὑφʼ Ἡφαιστου παλάμῃσιν.
+867: ὣς ἄρα τήκετο γαῖα σέλαι πυρὸς αἰθομένοιο.
+868: ῥῖψε δέ μιν θυμῷ ἀκαχὼν ἐς Τάρταρον εὐρύν.
+869: ἐκ δὲ Τυφωέος ἔστʼ ἀνέμων μένος ὑγρὸν ἀέντων,
+870: νόσφι Νότου Βορέω τε καὶ ἀργέστεω Ζεφύροιο·
+871: οἵ γε μὲν ἐκ θεόφιν γενεή, θνητοῖς μέγʼ ὄνειαρ·
+872: οἱ δʼ ἄλλοι μαψαῦραι ἐπιπνείουσι θάλασσαν·
+873: αἳ δή τοι πίπτουσαι ἐς ἠεροειδέα πόντον,
+874: πῆμα μέγα θνητοῖσι, κακῇ θυίουσιν ἀέλλῃ·
+875: ἄλλοτε δʼ ἄλλαι ἄεισι διασκιδνᾶσί τε νῆας
+876: ναύτας τε φθείρουσι· κακοῦ δʼ οὐ γίγνεται ἀλκὴ
+877: ἀνδράσιν, οἳ κείνῃσι συνάντωνται κατὰ πόντον·
+878: αἳ δʼ αὖ καὶ κατὰ γαῖαν ἀπείριτον ἀνθεμόεσσαν
+879: ἔργʼ ἐρατὰ φθείρουσι χαμαιγενέων ἀνθρώπων
+880: πιμπλεῖσαι κόνιός τε καὶ ἀργαλέου κολοσυρτοῦ.
+881: αὐτὰρ ἐπεί ῥα πόνον μάκαρες θεοὶ ἐξετέλεσσαν,
+882: Τιτήνεσσι δὲ τιμάων κρίναντο βίηφι,
+883: δή ῥα τότʼ ὤτρυνον βασιλευέμεν ἠδὲ ἀνάσσειν
+884: Γαίης φραδμοσύνῃσιν Ὀλύμπιον εὐρύοπα Ζῆν
+885: ἀθανάτων· ὃ δὲ τοῖσιν ἑὰς διεδάσσατο τιμάς.
+886: Ζεὺς δὲ θεῶν βασιλεὺς πρώτην ἄλοχον θέτο Μῆτιν
+887: πλεῖστα θεῶν εἰδυῖαν ἰδὲ θνητῶν ἀνθρώπων.
+888: ἀλλʼ ὅτε δὴ ἄρʼ ἔμελλε θεὰν γλαυκῶπιν Ἀθήνην
+889: τέξεσθαι, τότʼ ἔπειτα δόλῳ φρένας ἐξαπατήσας
+890: αἱμυλίοισι λόγοισιν ἑὴν ἐσκάτθετο νηδὺν
+891: Γαίης φραδμοσύνῃσι καὶ Οὐρανοῦ ἀστερόεντος.
+892: τὼς γάρ οἱ φρασάτην, ἵνα μὴ βασιληίδα τιμὴν
+893: ἄλλος ἔχοι Διὸς ἀντὶ θεῶν αἰειγενετάων.
+894: ἐκ γὰρ τῆς εἵμαρτο περίφρονα τέκνα γενέσθαι·
+895: πρώτην μὲν κούρην γλαυκώπιδα Τριτογένειαν
+896: ἶσον ἔχουσαν πατρὶ μένος καὶ ἐπίφρονα βουλήν.
+897: αὐτὰρ ἔπειτʼ ἄρα παῖδα θεῶν βασιλῆα καὶ ἀνδρῶν
+898: ἤμελλεν τέξεσθαι, ὑπέρβιον ἦτορ ἔχοντα·
+899: ἀλλʼ ἄρα μιν Ζεὺς πρόσθεν ἑὴν ἐσκάτθετο νηδύν,
+900: ὡς δή οἱ φράσσαιτο θεὰ ἀγαθόν τε κακόν τε.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+901: δεύτερον ἠγάγετο λιπαρὴν Θέμιν, ἣ τέκεν Ὥρας,
+902: Εὐνομίην τε Δίκην τε καὶ Εἰρήνην τεθαλυῖαν,
+903: αἳ ἔργʼ ὠρεύουσι καταθνητοῖσι βροτοῖσι,
+904: Μοίρας θʼ, ᾗ πλείστην τιμὴν πόρε μητίετα Ζεύς,
+905: Κλωθώ τε Λάχεσίν τε καὶ Ἄτροπον, αἵτε διδοῦσι
+906: θνητοῖς ἀνθρώποισιν ἔχειν ἀγαθόν τε κακόν τε.

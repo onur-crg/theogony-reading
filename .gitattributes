@@ -1,0 +1,14 @@
+*.py text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+# Recorded hashes require exact original bytes, not line-ending conversion.
+pipeline/tests/** -text
+publish/pipeline/tests/** -text
+sources/*.xml -text
+publish/sources/*.xml -text
+*.png binary
+*.webp binary
+*.jpg binary
+*.ico binary

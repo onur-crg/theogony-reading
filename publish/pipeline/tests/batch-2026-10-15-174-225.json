@@ -1,0 +1,270 @@
+{
+  "sections": [
+    {
+      "id": "p014",
+      "start": 174,
+      "end": 187,
+      "heading": "Cronus strikes",
+      "translation": "Gaia, the goddess Earth, hid her son Cronus in ambush.\nShe put a jagged-toothed sickle in his hands\nand told him the whole plan.\n\nThen mighty Uranus, the god Sky, came bringing night.\nLonging to make love, he spread himself\nall over Earth. From his hiding place,\nhis son reached out with his left hand;\nwith his right he gripped the huge, long, jagged sickle\nand swiftly sliced off his own father’s genitals,\nflinging them behind him.\n\nBut they did not leave his hand without a result.\nEarth caught every drop of blood that scattered,\nand as the years rolled round, she gave birth\nto the powerful Erinyes, spirits of vengeance,\nand the great Giants, gleaming in armor,\nlong spears in their hands,\nand the Meliae, ash-tree spirits,\nwhom people across the boundless earth call by that name.",
+      "summary": "Cronus cuts off his father Sky’s genitals. The blood falls on Earth, who later gives birth to spirits of vengeance, Giants, and ash-tree spirits.",
+      "cards": [
+        {
+          "id": "p014-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, imagined as a goddess.",
+          "here": "She hides Cronus, gives him the weapon, and receives Sky’s blood."
+        },
+        {
+          "id": "p014-cronus",
+          "label": "Cronus",
+          "general": "A divine son of Earth and Sky.",
+          "here": "He attacks his father from a hiding place."
+        },
+        {
+          "id": "p014-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, imagined as a god; his Greek name is Ouranos.",
+          "here": "He spreads over Earth and is attacked by his son."
+        },
+        {
+          "id": "p014-sickle",
+          "label": "Sickle",
+          "general": "A curved blade usually used to cut crops.",
+          "here": "Cronus uses a huge version with a jagged cutting edge."
+        },
+        {
+          "id": "p014-genitals",
+          "label": "Genitals",
+          "general": "The external sexual organs.",
+          "here": "Cronus cuts off his father’s genitals and throws them behind him."
+        },
+        {
+          "id": "p014-erinyes",
+          "label": "Erinyes",
+          "general": "Goddesses of vengeance, also called the Furies.",
+          "here": "Earth gives birth to them after receiving Sky’s blood."
+        },
+        {
+          "id": "p014-giants",
+          "label": "Giants",
+          "general": "A race of powerful beings born from Earth.",
+          "here": "They appear as warriors with shining armor and long spears."
+        },
+        {
+          "id": "p014-meliae",
+          "label": "Meliae",
+          "general": "Nymphs, or female nature spirits, associated with ash trees.",
+          "here": "They too are born from Earth after Sky’s blood falls on her."
+        }
+      ]
+    },
+    {
+      "id": "p015",
+      "start": 188,
+      "end": 206,
+      "heading": "Aphrodite from the foam",
+      "translation": "Once Cronus had cut off the genitals\nwith adamant—a substance nothing could break—\nand thrown them from the land into the surging sea,\nthey drifted over the water for a long time.\nWhite foam rose around the immortal flesh,\nand in that foam a girl grew.\n\nFirst she drew near holy Cythera, an island;\nthen she reached Cyprus, surrounded by the sea.\nOut stepped a beautiful goddess, worthy of reverence,\nand grass grew beneath her slender feet.\n\nGods and humans call her Aphrodite, the goddess of love,\nbecause she grew in foam—the Greek word is aphros.\nThey call her Cytherea because she came to Cythera,\nand Cyprus-born because she was born on wave-washed Cyprus,\nand “Genital-loving” because she appeared from genitals.\n\nEros, the god Love, went with her,\nand beautiful Himeros, the god Desire, followed,\nfrom the moment of her birth\nas she went to join the company of gods.\n\nFrom the beginning, this has been her honor,\nthe share assigned to her among humans and immortal gods:\nyoung women’s intimate whispers, smiles and deceptions,\nsweet pleasure, lovemaking, and tenderness.",
+      "summary": "Aphrodite grows in sea foam around Sky’s severed genitals. Love and Desire accompany her, and she receives power over attraction, pleasure, and lovemaking.",
+      "cards": [
+        {
+          "id": "p015-adamant",
+          "label": "Adamant",
+          "general": "A legendary substance imagined as extraordinarily hard.",
+          "here": "It is the material of Cronus’s cutting blade."
+        },
+        {
+          "id": "p015-aphrodite",
+          "label": "Aphrodite",
+          "general": "The goddess of love, sexual attraction, and pleasure.",
+          "here": "She grows in sea foam and steps ashore on Cyprus."
+        },
+        {
+          "id": "p015-aphros",
+          "label": "Aphros",
+          "general": "The Greek word for foam.",
+          "here": "Hesiod uses its sound to explain Aphrodite’s name."
+        },
+        {
+          "id": "p015-cythera",
+          "label": "Cythera / Cytherea",
+          "general": "Cythera is an island south of mainland Greece; Cytherea means “goddess of Cythera.”",
+          "here": "Aphrodite approaches this holy island before reaching Cyprus."
+        },
+        {
+          "id": "p015-cyprus",
+          "label": "Cyprus / Cyprus-born",
+          "general": "Cyprus is an island in the eastern Mediterranean.",
+          "here": "Hesiod connects Aphrodite’s title “Cyprus-born” with her birth and arrival there."
+        },
+        {
+          "id": "p015-genital-loving",
+          "label": "Genital-loving",
+          "general": "A startling divine nickname built around a Greek word for genitals.",
+          "here": "Hesiod connects the nickname with the body parts from which Aphrodite appeared."
+        },
+        {
+          "id": "p015-eros",
+          "label": "Eros",
+          "general": "Love, especially sexual attraction, imagined as a god.",
+          "here": "He accompanies Aphrodite from her birth."
+        },
+        {
+          "id": "p015-himeros",
+          "label": "Himeros",
+          "general": "Longing or desire, imagined as a god.",
+          "here": "He follows Aphrodite as she joins the gods."
+        }
+      ]
+    },
+    {
+      "id": "p016",
+      "start": 207,
+      "end": 210,
+      "heading": "The Titans get their name",
+      "translation": "Their father, mighty Sky, called the children\nhe himself had fathered “Titans,” in reproach.\nHe said they had strained too far in their recklessness,\ncommitting a terrible deed—\nand that punishment for it would come later.",
+      "summary": "Sky calls his children Titans, blaming their reckless act and warning that they will pay for it.",
+      "cards": [
+        {
+          "id": "p016-titans",
+          "label": "Titans",
+          "general": "A generation of gods born from Earth and Sky, including Cronus.",
+          "here": "Sky uses the name as an accusation. Hesiod links its sound with Greek words for straining and punishment."
+        },
+        {
+          "id": "p016-reproach",
+          "label": "Reproach",
+          "general": "Words expressing blame or strong disapproval.",
+          "here": "Sky gives his children their name while condemning what they have done."
+        }
+      ]
+    },
+    {
+      "id": "p017",
+      "start": 211,
+      "end": 225,
+      "heading": "Night’s many children",
+      "translation": "Night gave birth to hateful Moros, the doom awaiting us,\nto black Ker, a spirit of death, and to Thanatos, Death himself.\nShe bore Hypnos, Sleep, and the whole tribe of Dreams.\nThe dark goddess Night bore them without sleeping with anyone.\n\nThen she bore Momus, Blame, and Oizys, painful Misery,\nand the Hesperides, maidens who tend the beautiful golden apples\nand the trees that bear them,\nbeyond famous Oceanus, the river circling the world.\n\nShe also bore the Fates and the Keres, merciless avengers—\nClotho, Lachesis, and Atropos,\nwho give mortals their share of good and bad at birth.\nThey pursue the wrongdoing of humans and gods,\nand these goddesses never let their terrible anger rest\nuntil they make whoever has done wrong pay dearly.\n\nDeadly Night also bore Nemesis, the goddess of payback,\na source of suffering for mortals.\nAfter her she bore Apate, Deceit, and Philotes, Intimacy,\nand destructive Old Age,\nand Eris, fierce-hearted Strife.",
+      "summary": "Night gives birth on her own to many divine beings, including Death, Sleep, Dreams, the Fates, and Strife.",
+      "cards": [
+        {
+          "id": "p017-night",
+          "label": "Night",
+          "general": "Night herself, imagined as a goddess; her Greek name is Nyx.",
+          "here": "She produces these children without a sexual partner."
+        },
+        {
+          "id": "p017-moros",
+          "label": "Moros",
+          "general": "Doom or an unavoidable fate, imagined as a divine being.",
+          "here": "He is Night’s first child named in this list."
+        },
+        {
+          "id": "p017-ker-keres",
+          "label": "Ker / Keres",
+          "general": "Ker is a spirit of death or fatal doom; Keres is the plural.",
+          "here": "A single black Ker appears first; later the Keres appear as merciless avengers."
+        },
+        {
+          "id": "p017-thanatos",
+          "label": "Thanatos",
+          "general": "Death himself, imagined as a god.",
+          "here": "He is a child of Night and a brother of Sleep."
+        },
+        {
+          "id": "p017-hypnos",
+          "label": "Hypnos",
+          "general": "Sleep himself, imagined as a god.",
+          "here": "Night bears him alongside Death and the Dreams."
+        },
+        {
+          "id": "p017-dreams",
+          "label": "Dreams",
+          "general": "Dreams imagined as a family of divine beings.",
+          "here": "Night gives birth to their whole tribe."
+        },
+        {
+          "id": "p017-momus",
+          "label": "Momus",
+          "general": "Blame or fault-finding, imagined as a god.",
+          "here": "He is one of Night’s children."
+        },
+        {
+          "id": "p017-oizys",
+          "label": "Oizys",
+          "general": "Misery or distress, imagined as a goddess.",
+          "here": "Hesiod describes her as painful."
+        },
+        {
+          "id": "p017-hesperides",
+          "label": "Hesperides",
+          "general": "Divine maidens associated with the evening and the far west.",
+          "here": "They tend golden apples and the trees that grow them."
+        },
+        {
+          "id": "p017-oceanus",
+          "label": "Oceanus",
+          "general": "The great river believed to circle the world, also imagined as a god.",
+          "here": "The Hesperides care for their trees beyond it."
+        },
+        {
+          "id": "p017-fates",
+          "label": "Fates",
+          "general": "Goddesses who assign each person’s lot in life; their Greek name is Moirai.",
+          "here": "They give people good and bad at birth and appear alongside powers that punish wrongdoing."
+        },
+        {
+          "id": "p017-clotho",
+          "label": "Clotho",
+          "general": "One of the three named Fates; her name means “Spinner.”",
+          "here": "She is named with Lachesis and Atropos among those who assign people their lot."
+        },
+        {
+          "id": "p017-lachesis",
+          "label": "Lachesis",
+          "general": "One of the three named Fates; her name means “Allotter.”",
+          "here": "She helps assign the good and bad people receive in life."
+        },
+        {
+          "id": "p017-atropos",
+          "label": "Atropos",
+          "general": "One of the three named Fates; her name means “Unturning” or “Unchangeable.”",
+          "here": "She appears with Clotho and Lachesis."
+        },
+        {
+          "id": "p017-nemesis",
+          "label": "Nemesis",
+          "general": "A goddess of resentment and deserved payback for wrongdoing.",
+          "here": "Night bears her as a source of suffering for mortals."
+        },
+        {
+          "id": "p017-apate",
+          "label": "Apate",
+          "general": "Deceit imagined as a goddess.",
+          "here": "She is born after Nemesis."
+        },
+        {
+          "id": "p017-philotes",
+          "label": "Philotes",
+          "general": "Affection or intimacy, including sexual intimacy, imagined as a goddess.",
+          "here": "She is another child of Night."
+        },
+        {
+          "id": "p017-old-age",
+          "label": "Old Age",
+          "general": "Old age imagined as a divine being, called Geras in Greek.",
+          "here": "Hesiod calls it destructive."
+        },
+        {
+          "id": "p017-eris",
+          "label": "Eris",
+          "general": "Strife or conflict imagined as a goddess.",
+          "here": "She is Night’s fierce-hearted child."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "At line 200, “Genital-loving” follows the supplied Greek spelling and its explicit explanation. The nickname also echoes Aphrodite’s familiar title “smile-loving”; the exact relationship between the two forms is debated.",
+    "In lines 217–222, the wording blends the Fates and the Keres. Clotho, Lachesis, and Atropos are the Fates, but it is unclear exactly which group each following description is meant to cover."
+  ]
+}

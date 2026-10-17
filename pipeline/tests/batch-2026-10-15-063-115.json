@@ -1,0 +1,257 @@
+{
+  "sections": [
+    {
+      "id": "p006",
+      "start": 63,
+      "end": 79,
+      "heading": "The Muses sing on Olympus",
+      "translation": "There the Muses, the goddesses of song, have shining dancing grounds and beautiful homes. Beside them live the Graces, goddesses of beauty and charm, and Himeros, the god of desire, surrounded by celebration. Lovely voices flow from the Muses’ mouths as they sing of all the immortal gods’ laws and praise their noble ways.\n\nThen they went toward Olympus, the mountain home of the gods, delighting in their beautiful voices, their divine song. The dark earth rang around them as they sang, and a lovely beat rose beneath their feet as they walked toward their father. He is Zeus, king of heaven, who holds the thunder and the smoking lightning bolt. By his strength he defeated his father Cronus, then set everything in good order for the immortal gods and assigned each their honors.\n\nThese things the Muses sang, whose homes are on Olympus: nine daughters born to mighty Zeus—Clio, Euterpe, Thalia, Melpomene, Terpsichore, Erato, Polyhymnia, Urania, and Calliope, the foremost of them all.",
+      "summary": "The nine Muses sing about the gods and their father Zeus as they go to Olympus.",
+      "cards": [
+        {
+          "id": "p006-muses",
+          "label": "Muses",
+          "general": "Nine goddesses who inspire song and poetry.",
+          "here": "They sing, dance, and praise the gods."
+        },
+        {
+          "id": "p006-graces",
+          "label": "Graces",
+          "general": "Goddesses of beauty, charm, and delight.",
+          "here": "They live beside the Muses."
+        },
+        {
+          "id": "p006-himeros",
+          "label": "Himeros",
+          "general": "The god who represents desire and longing.",
+          "here": "He lives near the Muses and the Graces."
+        },
+        {
+          "id": "p006-olympus",
+          "label": "Olympus",
+          "general": "The mountain where the gods have their homes.",
+          "here": "The Muses travel there to their father."
+        },
+        {
+          "id": "p006-zeus",
+          "label": "Zeus",
+          "general": "King of the gods and god of thunder and lightning.",
+          "here": "The Muses’ father, who assigns the gods their honors."
+        },
+        {
+          "id": "p006-cronus",
+          "label": "Cronus",
+          "general": "Zeus’s father, who ruled before him.",
+          "here": "Zeus defeats him by force."
+        },
+        {
+          "id": "p006-clio",
+          "label": "Clio",
+          "general": "One of the nine Muses.",
+          "here": "The first Muse named in the list."
+        },
+        {
+          "id": "p006-euterpe",
+          "label": "Euterpe",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-thalia",
+          "label": "Thalia",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-melpomene",
+          "label": "Melpomene",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-terpsichore",
+          "label": "Terpsichore",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-erato",
+          "label": "Erato",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-polyhymnia",
+          "label": "Polyhymnia",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-urania",
+          "label": "Urania",
+          "general": "One of the nine Muses.",
+          "here": "She joins her sisters in their song."
+        },
+        {
+          "id": "p006-calliope",
+          "label": "Calliope",
+          "general": "One of the nine Muses.",
+          "here": "Hesiod calls her the foremost of the sisters."
+        },
+        {
+          "id": "p006-immortal",
+          "label": "Immortal",
+          "general": "Living forever, unable to die.",
+          "here": "A description of the gods."
+        },
+        {
+          "id": "p006-honors",
+          "label": "Honors",
+          "general": "Recognized status, privileges, and responsibilities.",
+          "here": "Each god receives a particular place and role from Zeus."
+        }
+      ]
+    },
+    {
+      "id": "p007",
+      "start": 80,
+      "end": 93,
+      "heading": "The gift of wise speech",
+      "translation": "For Calliope also walks beside respected kings. When the Muses, mighty Zeus’s daughters, choose to honor a king sustained by Zeus and watch over him at birth, they pour sweet dew onto his tongue, and gentle words flow from his mouth. All the people look to him as he settles disputes with fair judgments. Speaking with confidence and skill, he can quickly end even a bitter quarrel.\n\nThis is why kings are wise: when people have been wronged, they can easily set matters right in the public assembly, winning people over with gentle words. As such a king walks through the gathering, people greet him like a god, with warm respect, and he stands out among the crowd. Such is the Muses’ sacred gift to human beings.",
+      "summary": "The Muses give chosen kings the words to judge fairly and settle quarrels.",
+      "cards": [
+        {
+          "id": "p007-calliope",
+          "label": "Calliope",
+          "general": "The foremost of the nine Muses.",
+          "here": "She accompanies respected kings."
+        },
+        {
+          "id": "p007-muses",
+          "label": "Muses",
+          "general": "Goddesses who inspire song and poetry.",
+          "here": "They also give kings persuasive speech."
+        },
+        {
+          "id": "p007-zeus",
+          "label": "Zeus",
+          "general": "King of the gods and father of the Muses.",
+          "here": "He supports the kings described in the poem."
+        },
+        {
+          "id": "p007-dew",
+          "label": "Sweet dew",
+          "general": "Dew is the moisture that gathers in tiny drops.",
+          "here": "The Muses pour it onto a king’s tongue as an image of their gift of pleasing speech."
+        },
+        {
+          "id": "p007-assembly",
+          "label": "Public assembly",
+          "general": "A gathering where a community discusses public matters.",
+          "here": "The king settles disputes before the people."
+        }
+      ]
+    },
+    {
+      "id": "p008",
+      "start": 94,
+      "end": 103,
+      "heading": "A song that eases grief",
+      "translation": "For it is from the Muses and Apollo—the god of music whose arrows fly far—that singers and players of the lyre, a stringed instrument, come among people on earth; and kings come from Zeus. Happy is anyone the Muses love: a sweet voice flows from their mouth.\n\nSomeone may be grieving, their heart aching and wasting away with a fresh loss. But when a singer, a servant of the Muses, sings of the glorious deeds of people long ago and the blessed gods who live on Olympus, that person soon forgets their sorrow and no longer remembers their cares. So quickly do the goddesses’ gifts turn their thoughts away.",
+      "summary": "The Muses give singers their skill, and songs can help people forget their grief.",
+      "cards": [
+        {
+          "id": "p008-muses",
+          "label": "Muses",
+          "general": "Nine goddesses who inspire song and poetry.",
+          "here": "Their gift of song brings relief from sorrow."
+        },
+        {
+          "id": "p008-apollo",
+          "label": "Apollo",
+          "general": "A god associated with music and archery.",
+          "here": "Along with the Muses, he gives singers and musicians their skill."
+        },
+        {
+          "id": "p008-lyre",
+          "label": "Lyre",
+          "general": "An ancient stringed instrument played by plucking.",
+          "here": "Its players receive their musical gifts from the gods."
+        },
+        {
+          "id": "p008-zeus",
+          "label": "Zeus",
+          "general": "King of the gods.",
+          "here": "Kings owe their position to him."
+        },
+        {
+          "id": "p008-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "The singer celebrates the gods who live there."
+        }
+      ]
+    },
+    {
+      "id": "p009",
+      "start": 104,
+      "end": 115,
+      "heading": "Tell me how it all began",
+      "translation": "Greetings, daughters of Zeus! Give me a song that stirs longing. Celebrate the sacred family of the gods who live forever: those born of Gaia, the Earth, and starry Uranus, the Sky; those born of dark Night; and those whom Pontus, the salty Sea, brought up.\n\nTell how, in the beginning, the gods and the earth came into being, and the rivers and the boundless sea, surging with waves, and the shining stars and the wide sky above—[and the gods born from these, the givers of good things]. Tell how the gods divided their riches and shared out their honors, and how they first took possession of Olympus with its many ridges.\n\nTell me these things, Muses whose homes are on Olympus, from the beginning. Tell me which of them came into being first.",
+      "summary": "Hesiod asks the Muses how the world and the gods began, and what came first.",
+      "cards": [
+        {
+          "id": "p009-zeus",
+          "label": "Zeus",
+          "general": "King of the gods.",
+          "here": "The father of the Muses whom Hesiod addresses."
+        },
+        {
+          "id": "p009-muses",
+          "label": "Muses",
+          "general": "Nine goddesses who inspire song and poetry.",
+          "here": "Hesiod asks them to tell him how everything began."
+        },
+        {
+          "id": "p009-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "An ancestor of the gods."
+        },
+        {
+          "id": "p009-uranus",
+          "label": "Uranus",
+          "general": "The Sky, understood as a god.",
+          "here": "The starry Sky from whom gods were born."
+        },
+        {
+          "id": "p009-night",
+          "label": "Night",
+          "general": "Night herself, understood as a goddess, also called Nyx.",
+          "here": "Another ancestor of the gods."
+        },
+        {
+          "id": "p009-pontus",
+          "label": "Pontus",
+          "general": "The Sea, understood as a god.",
+          "here": "He brings up some of the gods."
+        },
+        {
+          "id": "p009-honors",
+          "label": "Honors",
+          "general": "Status, privileges, and responsibilities.",
+          "here": "The gods share these out among themselves."
+        },
+        {
+          "id": "p009-olympus",
+          "label": "Olympus",
+          "general": "The mountain home of the gods.",
+          "here": "Hesiod asks how the gods first came to possess it."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 111 is marked for deletion in the supplied Greek. Its translation appears in square brackets so that its disputed status remains visible."
+  ]
+}

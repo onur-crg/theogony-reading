@@ -1,0 +1,134 @@
+Translate each numbered Greek verse into one English line for a 16-year-old who does not know Greek myth. Use clear, natural English with some of Hesiod's rhythm. Keep his meaning and images. Do not invent or omit facts. A sentence may continue across lines. When a new section begins, name the person or place instead of starting with a confusing pronoun; you may repeat a name from an adjacent verse to make the line clear. Prefer familiar punctuation and avoid em dashes.
+
+Return exactly one JSON item for every assigned verse number, in order. Its "text" is the English line, with no number inside it. Keep facts close to their Greek verse, but natural English word order matters more than copying Greek word order. Put genuine doubts in "uncertainties". Use the earlier English draft only for style and terminology; the Greek is the source.
+
+EARLIER ENGLISH DRAFT
+p001 (1–8): Let us begin our song with the Muses, goddesses of song,
+who live on Helicon, the great and sacred mountain.
+On soft feet they dance around the violet-dark spring
+and the altar of mighty Zeus, the son of Cronus.
+After washing their tender skin in the river Permessus,
+or the Horse’s Spring, or the sacred river Olmeius,
+they form lovely, graceful dances high on Helicon,
+their feet moving with force.
+
+p002 (9–21): From there they set out, wrapped in thick mist,
+walking through the night, their beautiful voices rising.
+They sing of Zeus, who carries the aegis, his shield of power;
+of majestic Hera of Argos, walking in golden sandals;
+of bright-eyed Athena, daughter of aegis-bearing Zeus;
+of shining Apollo and Artemis, who showers arrows;
+of Poseidon, who holds the earth and shakes it;
+of honored Themis, goddess of justice, and Aphrodite,
+goddess of love, with her curling lashes;
+of Hebe, goddess of youth, crowned in gold, and beautiful Dione;
+of Leto, Apollo and Artemis’s mother, and the Titan Iapetus;
+of Cronus with his crafty plans;
+of Eos the Dawn, great Helios the Sun, and bright Selene the Moon;
+of Gaia the Earth, great Oceanus, the river around the world,
+and black Night, and the sacred family
+of all the other gods who live forever.
+
+p003 (22–34): These were the goddesses who once taught Hesiod beautiful song
+while he tended lambs below sacred Helicon.
+This is what they said to me first—
+the Muses of Olympus, daughters of Zeus who carries the aegis:
+“Shepherds who live out in the fields, shameful creatures, nothing but bellies!
+We know how to tell many lies that sound like the truth;
+and we know, when we choose, how to speak the truth.”
+So spoke great Zeus’s daughters, their words clear and sure.
+They plucked a branch from a flourishing laurel tree
+and gave it to me as a staff—a wonderful sight.
+Then they breathed a divine voice into me,
+so I could sing of things to come and things long past.
+They told me to praise the family of blessed gods who live forever,
+and always to sing of the Muses themselves, first and last.
+
+p004 (35–52): But why am I talking like this about oak or rock?
+Come, let us begin with the Muses.
+Inside Olympus, the mountain home of the gods,
+their songs delight the great mind of Zeus their father.
+Their voices join as they tell of what is,
+what will be, and what was before.
+Sweet song flows tirelessly from their mouths.
+Their father Zeus’s halls laugh with joy—
+Zeus whose thunder booms—as the goddesses’ lily-delicate voices spread.
+The peak of snowy Olympus echoes,
+and so do the homes of the immortal gods.
+Sending out their deathless voices,
+they first sing in praise of the gods’ honored family from the beginning:
+those born to Gaia the Earth and wide Uranus the Sky,
+and the gods descended from them, the givers of good things.
+Next they sing of Zeus, father of gods and humans,
+at both the beginning and the end of their song:
+how far he surpasses the gods, how greatest he is in power.
+Then they sing of humankind and the mighty Giants,
+those powerful beings of the ancient divine world.
+So the Muses of Olympus, daughters of aegis-bearing Zeus,
+delight their father’s mind inside Olympus.
+
+GREEK CONTEXT BEFORE (do not translate)
+(none)
+
+>>> TRANSLATE THESE GREEK VERSES: 1-52 <<<
+1: Μουσάων Ἑλικωνιάδων ἀρχώμεθʼ ἀείδειν,
+2: αἵθʼ Ἑλικῶνος ἔχουσιν ὄρος μέγα τε ζάθεόν τε
+3: καί τε περὶ κρήνην ἰοειδέα πόσσʼ ἁπαλοῖσιν
+4: ὀρχεῦνται καὶ βωμὸν ἐρισθενέος Κρονίωνος.
+5: καί τε λοεσσάμεναι τέρενα χρόα Περμησσοῖο
+6: ἢ Ἵππου κρήνης ἢ Ὀλμειοῦ ζαθέοιο
+7: ἀκροτάτῳ Ἑλικῶνι χοροὺς ἐνεποιήσαντο
+8: καλούς, ἱμερόεντας· ἐπερρώσαντο δὲ ποσσίν.
+9: ἔνθεν ἀπορνύμεναι, κεκαλυμμέναι ἠέρι πολλῇ,
+10: ἐννύχιαι στεῖχον περικαλλέα ὄσσαν ἱεῖσαι,
+11: ὑμνεῦσαι Δία τʼ αἰγίοχον καὶ πότνιαν Ἥρην
+12: Ἀργεΐην, χρυσέοισι πεδίλοις ἐμβεβαυῖαν,
+13: κούρην τʼ αἰγιόχοιο Διὸς γλαυκῶπιν Ἀθήνην
+14: Φοῖβόν τʼ Ἀπόλλωνα καὶ Ἄρτεμιν ἰοχέαιραν
+15: ἠδὲ Ποσειδάωνα γεήοχον, ἐννοσίγαιον,
+16: καὶ Θέμιν αἰδοίην ἑλικοβλέφαρόν τʼ Ἀφροδίτην
+17: Ἥβην τε χρυσοστέφανον καλήν τε Διώνην
+18: Λητώ τʼ Ἰαπετόν τε ἰδὲ Κρόνον ἀγκυλομήτην
+19: Ἠῶ τʼ Ἠέλιόν τε μέγαν λαμπράν τε Σελήνην
+20: Γαῖάν τʼ Ὠκεανόν τε μέγαν καὶ Νύκτα μέλαιναν
+21: ἄλλων τʼ ἀθανάτων ἱερὸν γένος αἰὲν ἐόντων.
+22: αἵ νύ ποθʼ Ἡσίοδον καλὴν ἐδίδαξαν ἀοιδήν,
+23: ἄρνας ποιμαίνονθʼ Ἑλικῶνος ὕπο ζαθέοιο.
+24: τόνδε δέ με πρώτιστα θεαὶ πρὸς μῦθον ἔειπον,
+25: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο·
+26: ποιμένες ἄγραυλοι, κάκʼ ἐλέγχεα, γαστέρες οἶον,
+27: ἴδμεν ψεύδεα πολλὰ λέγειν ἐτύμοισιν ὁμοῖα,
+28: ἴδμεν δʼ, εὖτʼ ἐθέλωμεν, ἀληθέα γηρύσασθαι.
+29: ὣς ἔφασαν κοῦραι μεγάλου Διὸς ἀρτιέπειαι·
+30: καί μοι σκῆπτρον ἔδον δάφνης ἐριθηλέος ὄζον
+31: δρέψασαι, θηητόν· ἐνέπνευσαν δέ μοι αὐδὴν
+32: θέσπιν, ἵνα κλείοιμι τά τʼ ἐσσόμενα πρό τʼ ἐόντα.
+33: καί μʼ ἐκέλονθʼ ὑμνεῖν μακάρων γένος αἰὲν ἐόντων,
+34: σφᾶς δʼ αὐτὰς πρῶτόν τε καὶ ὕστατον αἰὲν ἀείδειν.
+35: ἀλλὰ τί ἦ μοι ταῦτα περὶ δρῦν ἢ περὶ πέτρην;
+36: τύνη, Μουσάων ἀρχώμεθα, ταὶ Διὶ πατρὶ
+37: ὑμνεῦσαι τέρπουσι μέγαν νόον ἐντὸς Ὀλύμπου,
+38: εἰρεῦσαι τά τʼ ἐόντα τά τʼ ἐσσόμενα πρό τʼ ἐόντα,
+39: φωνῇ ὁμηρεῦσαι· τῶν δʼ ἀκάματος ῥέει αὐδὴ
+40: ἐκ στομάτων ἡδεῖα· γελᾷ δέ τε δώματα πατρὸς
+41: Ζηνὸς ἐριγδούποιο θεᾶν ὀπὶ λειριοέσσῃ
+42: σκιδναμένῃ· ἠχεῖ δὲ κάρη νιφόεντος Ὀλύμπου
+43: δώματά τʼ ἀθανάτων. αἳ δʼ ἄμβροτον ὄσσαν ἱεῖσαι
+44: θεῶν γένος αἰδοῖον πρῶτον κλείουσιν ἀοιδῇ
+45: ἐξ ἀρχῆς, οὓς Γαῖα καὶ Οὐρανὸς εὐρὺς ἔτικτεν,
+46: οἵ τʼ ἐκ τῶν ἐγένοντο θεοί, δωτῆρες ἐάων.
+47: δεύτερον αὖτε Ζῆνα, θεῶν πατέρʼ ἠδὲ καὶ ἀνδρῶν,
+48: ἀρχόμεναί θʼ ὑμνεῦσι καὶ ἐκλήγουσαι ἀοιδῆς,
+49: ὅσσον φέρτατός ἐστι θεῶν κράτεί τε μέγιστος.
+50: αὖτις δʼ ἀνθρώπων τε γένος κρατερῶν τε Γιγάντων
+51: ὑμνεῦσαι τέρπουσι Διὸς νόον ἐντὸς Ὀλύμπου
+52: Μοῦσαι Ὀλυμπιάδες, κοῦραι Διὸς αἰγιόχοιο.
+>>> END <<<
+
+GREEK CONTEXT AFTER (do not translate)
+53: τὰς ἐν Πιερίῃ Κρονίδῃ τέκε πατρὶ μιγεῖσα
+54: Μνημοσύνη, γουνοῖσιν Ἐλευθῆρος μεδέουσα,
+55: λησμοσύνην τε κακῶν ἄμπαυμά τε μερμηράων.
+56: ἐννέα γάρ οἱ νυκτὸς ἐμίσγετο μητίετα Ζεὺς
+57: νόσφιν ἀπʼ ἀθανάτων ἱερὸν λέχος εἰσαναβαίνων·
+58: ἀλλʼ ὅτε δή ῥʼ ἐνιαυτὸς ἔην, περὶ δʼ ἔτραπον ὧραι

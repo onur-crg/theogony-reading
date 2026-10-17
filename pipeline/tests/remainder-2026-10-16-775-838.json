@@ -1,0 +1,189 @@
+{
+  "sections": [
+    {
+      "id": "p051",
+      "start": 775,
+      "end": 806,
+      "heading": "The oath by Styx",
+      "translation": "There lives a goddess hated by the immortals:\ndread Styx, eldest daughter of Oceanus,\nthe river that flows back on itself.\nFar from the other gods she lives in a splendid house,\nwith towering rocks above it and silver pillars\nsupporting it on every side, reaching toward the sky.\n\nRarely does swift-footed Iris, daughter of Thaumas,\ncome across the sea’s broad back with a message.\nBut whenever quarrels and strife break out among the immortals,\nand one of the gods who live on Olympus tells a lie,\nZeus sends Iris far away to bring back, in a golden jug,\nthe famous cold water by which the gods swear their great oath.\nIt trickles down from a high, sheer rock.\n\nFar beneath the earth with its broad roads,\na branch of the sacred river Oceanus\nflows through black night.\nOne tenth of his water has been set apart:\nnine parts wind around the earth and the sea’s broad back\nin silver swirls, then pour into the sea.\nThe one remaining part flows from the rock—\na great source of suffering for the gods.\n\nIf any immortal who lives on snowy Olympus\npours out this water and swears a false oath over it,\nthat god lies breathless for a full year.\nThey never come near ambrosia or nectar to eat or drink,\nbut lie without breath or speech on a bed spread for them,\nwrapped in a dreadful coma.\n\nWhen that sickness has lasted a full year,\nanother, harsher ordeal follows.\nFor nine years the god is cut off from the gods who live forever,\nnever joining their councils or their feasts\nfor all those nine years.\nIn the tenth, they join once more\nthe gatherings of the immortals who live on Olympus.\n\nSuch is the oath the gods established:\nthe ancient, unfailing water of Styx,\nwhich flows through a harsh and rocky place.",
+      "summary": "The gods swear their strongest oath by the water of Styx. A god who breaks it lies helpless for a year, then spends nine years apart from the other gods.",
+      "cards": [
+        {
+          "id": "p051-styx",
+          "label": "Styx",
+          "general": "A goddess and an underworld river. Her water makes the gods’ most binding oath.",
+          "here": "She lives apart from the other gods, who face severe punishment if they swear falsely by her water."
+        },
+        {
+          "id": "p051-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river imagined as flowing around the world.",
+          "here": "He is Styx’s father, and her stream receives one tenth of his water."
+        },
+        {
+          "id": "p051-iris",
+          "label": "Iris",
+          "general": "A swift messenger of the gods, associated with the rainbow.",
+          "here": "Zeus sends her to fetch the water of Styx in a golden jug."
+        },
+        {
+          "id": "p051-thaumas",
+          "label": "Thaumas",
+          "general": "A sea god and the father of Iris.",
+          "here": "Hesiod identifies Iris by naming her father."
+        },
+        {
+          "id": "p051-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, whose weapon is the thunderbolt.",
+          "here": "He sends for the water when a dispute involves a god’s lie."
+        },
+        {
+          "id": "p051-olympus",
+          "label": "Olympus",
+          "general": "The mountain where Zeus and the other ruling gods have their homes.",
+          "here": "A punished god is excluded from their councils and feasts."
+        },
+        {
+          "id": "p051-ambrosia-nectar",
+          "label": "Ambrosia and nectar",
+          "general": "The gods’ food and drink.",
+          "here": "A god who swears falsely cannot eat or drink them during the year of helplessness."
+        },
+        {
+          "id": "p051-coma",
+          "label": "Coma",
+          "general": "A deep state of unconsciousness in which someone cannot wake or respond.",
+          "here": "The offending god lies unable to breathe or speak for a full year."
+        }
+      ]
+    },
+    {
+      "id": "p052",
+      "start": 807,
+      "end": 819,
+      "heading": "At the world’s limits",
+      "translation": "There, side by side, are the sources and the limits\nof dark earth, misty Tartarus,\nthe barren sea and the starry sky:\ngrim, moldy places that even the gods hate.\n\nThere stand marble gates and a bronze threshold,\nunshakable, fixed on roots that stretch unbroken below,\ngrown there of itself.\nBeyond the gates, apart from all the other gods,\nthe Titans live on the far side of gloomy Chaos.\n\nBut Cottus and Gyes, the famous allies\nof loudly thundering Zeus,\nlive in homes at the foundations of Oceanus.\nAs for noble Briareus, the Earth-shaker Poseidon,\nwhose crashes thunder deep,\nmade him his son-in-law:\nhe gave him his daughter Cymopolea to marry.",
+      "summary": "At the world’s dark limits stand great gates. The Titans live beyond them, while Zeus’s allies have homes near Oceanus. Briareus marries Poseidon’s daughter.",
+      "cards": [
+        {
+          "id": "p052-tartarus",
+          "label": "Tartarus",
+          "general": "A vast, dark region far beneath the earth.",
+          "here": "Its sources and limits lie beside those of earth, sea and sky."
+        },
+        {
+          "id": "p052-chaos",
+          "label": "Chaos",
+          "general": "The primordial gap or chasm; the name does not simply mean disorder.",
+          "here": "The Titans live on the far side of this gloomy gulf."
+        },
+        {
+          "id": "p052-titans",
+          "label": "Titans",
+          "general": "An older generation of gods defeated by Zeus and his allies.",
+          "here": "They live confined beyond the gates, apart from the other gods."
+        },
+        {
+          "id": "p052-threshold",
+          "label": "Threshold",
+          "general": "The sill across the bottom of a doorway.",
+          "here": "This bronze threshold is firmly rooted in the depths."
+        },
+        {
+          "id": "p052-cottus-gyes",
+          "label": "Cottus and Gyes",
+          "general": "Two of three giant brothers, each with a hundred hands and fifty heads.",
+          "here": "They helped Zeus defeat the Titans and now live at Oceanus’s foundations."
+        },
+        {
+          "id": "p052-briareus",
+          "label": "Briareus",
+          "general": "The third of the hundred-handed brothers who helped Zeus.",
+          "here": "Poseidon makes him his son-in-law by giving him Cymopolea in marriage."
+        },
+        {
+          "id": "p052-poseidon",
+          "label": "Poseidon, the Earth-shaker",
+          "general": "The god of the sea and earthquakes. “Earth-shaker” is one of his titles.",
+          "here": "The Greek names him by his title; he is Cymopolea’s father."
+        },
+        {
+          "id": "p052-cymopolea",
+          "label": "Cymopolea",
+          "general": "A divine daughter of Poseidon.",
+          "here": "She becomes Briareus’s wife."
+        },
+        {
+          "id": "p052-oceanus",
+          "label": "Oceanus",
+          "general": "The divine river that circles the world.",
+          "here": "Cottus and Gyes have their homes at his foundations."
+        },
+        {
+          "id": "p052-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, associated with thunder and lightning.",
+          "here": "Cottus, Gyes and Briareus were his allies against the Titans."
+        }
+      ]
+    },
+    {
+      "id": "p053",
+      "start": 820,
+      "end": 838,
+      "heading": "Earth gives birth to Typhoeus",
+      "translation": "After Zeus had driven the Titans out of heaven,\nvast Gaia gave birth to her youngest child, Typhoeus,\njoining in love with Tartarus through golden Aphrodite.\n\nThis powerful god had hands strong enough for mighty deeds,\nand feet that never tired.\nFrom his shoulders grew a hundred snake heads,\nthe heads of a terrifying serpent,\nflicking their dark tongues.\nFire flashed beneath the brows\nof the eyes in those monstrous heads;\nfrom every head fire blazed as he stared.\n\nVoices sounded in all his fearsome heads,\nsending out every kind of incredible cry.\nSometimes they spoke so that the gods could understand;\nsometimes they sounded like a proud, bellowing bull\nwhose force could not be held back;\nsometimes like a lion with a ruthless heart;\nsometimes like puppies—a wonder to hear.\nAt other times he hissed,\nand the tall mountains echoed.\n\nThat day something beyond all help would have happened:\nTyphoeus would have ruled over mortals and immortals,\nif Zeus, the father of gods and humans,\nhad not been quick to notice.",
+      "summary": "Gaia and Tartarus have a terrifying child, Typhoeus. With a hundred fiery snake heads and many strange voices, he nearly becomes ruler of gods and humans.",
+      "cards": [
+        {
+          "id": "p053-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "She gives birth to Typhoeus, her youngest child."
+        },
+        {
+          "id": "p053-tartarus",
+          "label": "Tartarus",
+          "general": "Both the deep region beneath the earth and a divine being.",
+          "here": "He is Typhoeus’s father."
+        },
+        {
+          "id": "p053-typhoeus",
+          "label": "Typhoeus",
+          "general": "A monstrous divine being who challenges Zeus for rule.",
+          "here": "He has a hundred snake heads, blazing eyes and voices that imitate many creatures."
+        },
+        {
+          "id": "p053-aphrodite",
+          "label": "Aphrodite",
+          "general": "The goddess of love and sexual desire, often called “golden.”",
+          "here": "Her power brings Gaia and Tartarus together."
+        },
+        {
+          "id": "p053-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, called the father of gods and humans.",
+          "here": "He notices the threat before Typhoeus can take control."
+        },
+        {
+          "id": "p053-titans",
+          "label": "Titans",
+          "general": "The older gods whom Zeus defeated in a war for power.",
+          "here": "Their defeat comes before Typhoeus’s birth."
+        },
+        {
+          "id": "p053-mortals-immortals",
+          "label": "Mortals and immortals",
+          "general": "Humans, who die, and gods, who live forever.",
+          "here": "Typhoeus nearly gains power over both."
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Line 774 is marked for deletion in the preceding context. It is omitted and falls outside the assigned sections.",
+    "In line 811, the word translated “marble” can also suggest shining or gleaming gates.",
+    "The wording about Typhoeus’s hands in line 823 is difficult. “Hands strong enough for mighty deeds” gives its likely sense."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "663659a8-fbda-4a15-ac9b-4f4d4065b0da",
+  "created_at_utc": "2026-10-15T22:21:37.437528+00:00",
+  "prompt_version": "reader-16-v3.1+variant-929-v2",
+  "prompt_template": "agent-prompt.txt",
+  "prompt_template_sha256": "5594b3d6818dbccec5e0dcfcf914cfbccb6ec488468fd96de24d8819866b13d5",
+  "prompt_file": "variant-929a-929t-2026-10-16-v2.prompt.txt",
+  "prompt_sha256": "ed3b6308978692f36603fac4fe4642daefd1e488fde3c111e2433b8a31bef643",
+  "runner_sha256": "9fb211aedadc9803be96482a4952b085f6a3259205a9b7ef9eee2d1c75be5ef1",
+  "schema_sha256": "f24a12df133aa33f41789f1568265c75f43f6ce386b41160a5d521356fdc2686",
+  "source_sha256": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
+  "source_line_ids": [
+    "929a",
+    "929b",
+    "929c",
+    "929d",
+    "929e",
+    "929f",
+    "929g",
+    "929h",
+    "929i",
+    "929j",
+    "929k",
+    "929l",
+    "929m",
+    "929n",
+    "929o",
+    "929p",
+    "929q",
+    "929r",
+    "929s",
+    "929t"
+  ],
+  "source_line_text_sha256": "ea8f53d89a7f8db4a5db707d0d3ad60aa346da1c6ed6b4f4dfa5f7a32a3b6f35",
+  "codex_cli_version": "codex-cli 0.162.1",
+  "range": [
+    "929a",
+    "929t"
+  ],
+  "model": "gpt-6.1-sol",
+  "effort": "medium",
+  "seconds": 54.38,
+  "prompt_characters": 3195,
+  "cli_exit": 0,
+  "tool_event_count": 0,
+  "item_types": [
+    "agent_message"
+  ],
+  "usage_events": [
+    {
+      "type": "turn.completed",
+      "usage": {
+        "input_tokens": 10762,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2063,
+        "reasoning_output_tokens": 888
+      }
+    }
+  ],
+  "error_events": [],
+  "output_sha256": "d33e1c936edb58f18faa803fe8c2fb62a600d14506c5282a79280745686c0e56"
+}
