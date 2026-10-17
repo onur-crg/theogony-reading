@@ -193,7 +193,7 @@ def render_section(item, headings, verse_runs=None, variant_run=None, variant=Fa
     title_tag = "h3" if variant else "h2"
     classes = "passage variant" if variant else "passage"
     article_id = 'variant-929' if variant else sid
-    result = [f'<article class="{classes}" data-range="{start}–{end}" id="{article_id}" aria-labelledby="title-{sid}">',
+    result = [f'<section class="{classes}" data-range="{start}–{end}" id="{article_id}" aria-labelledby="title-{sid}">',
               '<header class="passage-head">',
               f'<{title_tag} id="title-{sid}"><a class="title-link" href="#summary-{sid}" data-summary="summary-{sid}" aria-label="Read summary of {esc(heading)}">{esc(heading)}</a></{title_tag}>',
               '</header>']
@@ -208,7 +208,7 @@ def render_section(item, headings, verse_runs=None, variant_run=None, variant=Fa
     if not variant and verse_runs is not None and any(str(n) in DELETED_LABELS for n in range(start, end + 1)):
         result.append('<details class="textual-note"><summary>About the † mark</summary><p>The Greek edition marks these lines for deletion. They are included here with † so you can recognise the edition’s textual judgement. This concerns the Greek source, rather than a reported translation error. <a href="translation.html">About the text and translation</a></p></details>')
     result.append(f'<aside class="summary-fallback" id="summary-{sid}" aria-label="Summary"><p>{esc(section["summary"])}</p><a href="#{article_id}">Back to passage</a></aside>')
-    result.append('</article>')
+    result.append('</section>')
     return ''.join(result)
 
 
@@ -407,7 +407,7 @@ STYLE = r"""
 .toc-button{display:inline-flex;align-items:center}.toc-button[aria-expanded="true"]{color:var(--green);text-decoration:underline;text-underline-offset:.25em}.sidebar[hidden],.toc-scrim[hidden]{display:none}.layout.toc-collapsed{grid-template-columns:minmax(0,1fr)}.toc-collapsed .reader{width:100%;margin-inline:auto}.sidebar-heading{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin-bottom:1rem}.sidebar-heading .sidebar-title{margin:0}.sidebar-close{width:2rem;height:2rem;flex:none;border:0;background:transparent;color:var(--green);font:400 1.4rem/1 system-ui,sans-serif;cursor:pointer}.toc-scrim{display:none}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem)}
 @media(max-width:850px){.topbar{height:4.4rem;min-height:4.4rem;padding:.75rem 1rem}.sidebar{top:4.4rem;height:calc(100dvh - 4.4rem);background:var(--paper);border-right:1px solid #b6c3d2;box-shadow:.7rem 0 2rem #1b2c4820}.toc-scrim{display:block;position:fixed;z-index:10;inset:4.4rem 0 0;border:0;border-radius:0;background:#172d4b45}.toc-list a{color:var(--ink)}.toc-list a:hover,.toc-list a[aria-current="location"]{background:#075fce12;color:var(--green)}}
 
-.reader>.passage{padding-block:2.25rem}.reader>.passage:first-of-type{padding-top:2.7rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.settings-label-short{display:none}
+.poem-content>.passage{padding-block:2.25rem}.poem-content>.passage:first-of-type{padding-top:2.7rem}.passage-head{margin-bottom:1.5rem}.passage h2,.passage h3{margin-top:0}.reader-title-accessible{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.settings-label-short{display:none}
 @media(max-width:650px){.settings-label-long{display:none}.settings-label-short{display:inline}}
 
 
@@ -509,12 +509,13 @@ def main():
         parts.append(f'<li><a href="#{sid}"><span class="verse">{section["start"]}–{section["end"]}</span><span>{esc(headings[sid][2])}</span></a></li>')
         if sid == "p058":
             parts.append('<li><a class="variant-link" href="#variant-929"><span class="verse">929a–t</span><span>Additional lines · variant</span></a></li>')
-    parts += ['</ol></nav><main class="reader" id="reading"><h1 class="reader-title-accessible">Hesiod · Theogony</h1>']
+    parts += ['</ol></nav><main class="reader" id="reading"><article class="poem-content" id="poem" aria-labelledby="poem-title"><h1 class="reader-title-accessible" id="poem-title">Hesiod · Theogony</h1>']
     for item in numbered:
         section = item[0]
         parts.append(render_section(item, headings, verse_runs=verse_runs))
         if section["id"] == "p058":
             parts.append(render_section(variant, headings, variant_run=variant_run, variant=True))
+    parts.append('</article>')
     parts.append(render_notes(all_items))
     parts.append('<footer class="footer"><nav aria-label="Site information"><a href="index.html">Home</a> · <a href="translation.html">Translation and sources</a> · <a href="imprint.html">Imprint / Impressum</a> · <a href="privacy.html">Privacy</a> · <a href="reuse.html">Reuse and licence</a><a href="https://github.com/onur-crg/theogony-reading">Source on GitHub</a><a href="https://www.noto-labs.com/">A project by Noto Labs</a><button type="button" class="preferences-footer-link" data-preferences-open>Privacy settings</button></nav><p>AI-assisted reading draft.</p></footer></main></div>' + preferences_notice(reader=True))
     parts.append('<dialog id="note-dialog" aria-labelledby="note-title"><button class="close" id="dialog-close" type="button" aria-label="Close explanation">×</button><h2 id="note-title"></h2><p id="note-general"></p><p class="here"><strong>Here:</strong> <span id="note-here"></span></p></dialog>')
