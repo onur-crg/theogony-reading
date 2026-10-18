@@ -29,3 +29,5 @@ dialog.consent-notice{top:auto;right:auto;margin:0;max-height:calc(100dvh - 2rem
 .text-size-control .consent-button:disabled{opacity:.4;cursor:default}
 .preferences-footer-link{border:0;background:transparent;color:#075fce;padding:0;font:inherit;cursor:pointer;text-decoration:underline;text-underline-offset:.2em}
 @media(max-width:480px){dialog.consent-notice{max-height:calc(100dvh - 1rem)}}
+
+.preference-choice + .preference-choice{margin-top:.8rem}

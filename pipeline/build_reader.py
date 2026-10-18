@@ -477,6 +477,7 @@ STYLE = r"""
 @media(max-width:650px){.settings-label-long{display:none}.settings-label-short{display:inline}}
 
 
+.term.explanation-off,.term.explanation-off:hover{color:inherit;text-decoration:none;background:transparent;cursor:text}
 """
 
 
@@ -505,8 +506,28 @@ tocScrim.addEventListener('click',()=>setToc(false));
 sidebar.addEventListener('click',event=>{if(tocMedia.matches&&event.target.closest('a'))setToc(false)});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!sidebar.hidden&&!document.querySelector('dialog[open]')){setToc(false,true,true);tocButton.focus({preventScroll:true})}});
 tocMedia.addEventListener('change',()=>setToc(tocMedia.matches?false:desktopTocOpen));
+// Reading aids are independent of permission to remember them on this device.
+const explanationKey='theogonyExplanationPreferencesV1';
+const explanationChoices={figures:true,words:true};
+if(rememberEnabled)try{
+  const saved=JSON.parse(localStorage.getItem(explanationKey)||'null');
+  for(const category of Object.keys(explanationChoices))if(typeof saved?.[category]==='boolean')explanationChoices[category]=saved[category];
+}catch(_){}
+const explanationLinks=[...document.querySelectorAll('a[data-note]')].map(link=>({link,href:link.getAttribute('href'),label:link.getAttribute('aria-label'),category:link.dataset.entity?'figures':'words'}));
+function saveExplanations(){if(rememberEnabled)try{localStorage.setItem(explanationKey,JSON.stringify(explanationChoices))}catch(_){}}
+function applyExplanations(){
+  for(const {link,href,label,category} of explanationLinks){
+    const enabled=explanationChoices[category];
+    link.classList.toggle('explanation-off',!enabled);
+    if(enabled){link.setAttribute('href',href);if(label)link.setAttribute('aria-label',label);link.removeAttribute('aria-disabled')}
+    else{link.removeAttribute('href');link.removeAttribute('aria-label');link.setAttribute('aria-disabled','true')}
+  }
+  for(const category of Object.keys(explanationChoices))document.getElementById('explanations-'+category).checked=explanationChoices[category];
+}
+for(const category of Object.keys(explanationChoices))document.getElementById('explanations-'+category).addEventListener('change',event=>{explanationChoices[category]=event.target.checked;applyExplanations();saveExplanations()});
+applyExplanations();
 const noteDialog=document.getElementById('note-dialog');let previousFocus=null;
-document.addEventListener('click',e=>{const link=e.target.closest('a[data-note]');if(!link||!noteDialog.showModal)return;const note=document.getElementById(link.dataset.note);if(!note)return;e.preventDefault();previousFocus=link;document.getElementById('note-title').textContent=note.dataset.label;document.getElementById('note-general').textContent=note.dataset.general;document.getElementById('note-here').textContent=note.dataset.here;document.getElementById('note-here-label').hidden=note.dataset.here.startsWith('Here ');noteDialog.showModal();});
+document.addEventListener('click',e=>{const link=e.target.closest('a[data-note]');if(!link||link.classList.contains('explanation-off')||!noteDialog.showModal)return;const note=document.getElementById(link.dataset.note);if(!note)return;e.preventDefault();previousFocus=link;document.getElementById('note-title').textContent=note.dataset.label;document.getElementById('note-general').textContent=note.dataset.general;document.getElementById('note-here').textContent=note.dataset.here;document.getElementById('note-here-label').hidden=note.dataset.here.startsWith('Here ');noteDialog.showModal();});
 noteDialog.addEventListener('close',()=>previousFocus?.focus());document.getElementById('dialog-close').addEventListener('click',()=>noteDialog.close());noteDialog.addEventListener('click',e=>{if(e.target===noteDialog)noteDialog.close()});
 const summaryDialog=document.getElementById('summary-dialog');let previousSummaryFocus=null;
 document.addEventListener('click',e=>{const link=e.target.closest('a[data-summary]');if(!link||!summaryDialog.showModal)return;const summary=document.getElementById(link.dataset.summary);if(!summary)return;e.preventDefault();previousSummaryFocus=link;document.getElementById('summary-title').textContent=document.getElementById(link.dataset.titleId)?.textContent||link.textContent;document.getElementById('summary-text').textContent=summary.querySelector('p').textContent;summaryDialog.showModal()});
@@ -547,6 +568,7 @@ function updateReadingMemory(state){
   rememberEnabled=state.memory;rememberChoice=state.memory?'enabled':'disabled';
   if(rememberEnabled&&!wasEnabled){
     try{localStorage.setItem('theogonyReadingSize',size);localStorage.setItem(tocPreferenceKey,desktopTocOpen?'shown':'hidden')}catch(_){}
+    saveExplanations();
     savePosition();
   }
 }

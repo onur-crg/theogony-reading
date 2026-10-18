@@ -3,7 +3,7 @@
   'use strict';
   const memoryKey = 'theogonyRememberPreferencesV1';
   const analyticsKey = 'theogonyAnalyticsConsentV1';
-  const readingData = ['theogonyReadingPositionV1', 'theogonyReadingSize', 'theogonyDesktopContentsV1'];
+  const readingData = ['theogonyReadingPositionV1', 'theogonyReadingSize', 'theogonyDesktopContentsV1', 'theogonyExplanationPreferencesV1'];
   const privacySignal = navigator.globalPrivacyControl === true || navigator.doNotTrack === '1';
   const dialog = document.getElementById('site-preferences');
   if (!dialog) return;
