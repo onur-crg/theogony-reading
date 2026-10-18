@@ -1,0 +1,1287 @@
+{
+  "sections": [
+    {
+      "id": "p001",
+      "issues": []
+    },
+    {
+      "id": "p002",
+      "issues": [
+        {
+          "label": "Muses",
+          "greek_name": "Μοῦσαι",
+          "verse": "9–11: ἀπορνύμεναι … στεῖχον … ὑμνεῦσαι",
+          "reason": "The continuing subject, explicitly called Muses in the English, has no card in this section.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p003",
+      "issues": []
+    },
+    {
+      "id": "p004",
+      "issues": []
+    },
+    {
+      "id": "p005",
+      "issues": []
+    },
+    {
+      "id": "p006",
+      "issues": []
+    },
+    {
+      "id": "p007",
+      "issues": []
+    },
+    {
+      "id": "p008",
+      "issues": []
+    },
+    {
+      "id": "p009",
+      "issues": []
+    },
+    {
+      "id": "p010",
+      "issues": [
+        {
+          "label": "Chaos",
+          "greek_name": "Χάος",
+          "verse": "116: πρώτιστα Χάος γένετʼ; 123: ἐκ Χάεος",
+          "reason": "The opening explains the word rather than identifying the primordial gap that first comes into being and produces Erebus and Night. Put that identity first.",
+          "action": "clarify"
+        },
+        {
+          "label": "Tartarus",
+          "greek_name": "Τάρταρα",
+          "verse": "119: Τάρταρά τʼ ἠερόεντα μυχῷ χθονὸς εὐρυοδείης",
+          "reason": "Identify Tartarus in the first sentence as the primordial depth listed among the earliest entities, retaining its identity as a region beneath earth.",
+          "action": "clarify"
+        },
+        {
+          "label": "Aether",
+          "greek_name": "Αἰθήρ",
+          "verse": "124–125: Αἰθήρ τε καὶ Ἡμέρη ἐξεγένοντο … Ἐρέβει φιλότητι μιγεῖσα",
+          "reason": "The opening defines atmospheric air. Identify Aether first as the divine upper air, a child of Night and Erebus.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p011",
+      "issues": [
+        {
+          "label": "Gaia",
+          "greek_name": "Γαῖα",
+          "verse": "126: Γαῖα … ἐγείνατο",
+          "reason": "The goddess Earth, who bears the beings in this passage, has no card.",
+          "action": "add"
+        },
+        {
+          "label": "Mountains",
+          "greek_name": "Οὔρεα",
+          "verse": "129: γείνατο δʼ Οὔρεα μακρά",
+          "reason": "The Mountains are presented as offspring of Gaia, not merely geographical scenery. Identify these primordial offspring without supplying individual mountain names.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p012",
+      "issues": [
+        {
+          "label": "Earth and Sky",
+          "greek_name": "Γαῖα καὶ Οὐρανός",
+          "verse": "147: Γαίης τε καὶ Οὐρανοῦ ἐξεγένοντο",
+          "reason": "Neither divine parent has an explanation here. A grouped card can identify Gaia as goddess Earth and Uranus as god Sky.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p013",
+      "issues": []
+    },
+    {
+      "id": "p014",
+      "issues": []
+    },
+    {
+      "id": "p015",
+      "issues": [
+        {
+          "label": "Cronus",
+          "greek_name": "Κρόνος",
+          "verse": "188: ἀποτμήξας ἀδάμαντι",
+          "reason": "Cronus, the continuing agent supplied by name in the English, has no card. Identify the Titan son of Gaia and Uranus who performs the cutting.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p016",
+      "issues": [
+        {
+          "label": "Uranus",
+          "greek_name": "Οὐρανός",
+          "verse": "208: μέγας Οὐρανός",
+          "reason": "The divine Sky, father of the Titans and speaker of the rebuke, has no card.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p017",
+      "issues": []
+    },
+    {
+      "id": "p018",
+      "issues": [
+        {
+          "label": "Toil",
+          "greek_name": "Πόνος",
+          "verse": "226: Ἔρις … τέκε μὲν Πόνον ἀλγινόεντα",
+          "reason": "The opening defines ordinary work. Identify Ponos first as Strife’s divine personification of painful toil.",
+          "action": "clarify"
+        },
+        {
+          "label": "Forgetfulness",
+          "greek_name": "Λήθη",
+          "verse": "227: Λήθην",
+          "reason": "Missing identification of Lethe, the personification of forgetfulness born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "Hunger",
+          "greek_name": "Λιμός",
+          "verse": "227: Λιμόν",
+          "reason": "Missing identification of Limos, the personification of hunger born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "Sorrows",
+          "greek_name": "Ἄλγεα",
+          "verse": "227: Ἄλγεα δακρυόεντα",
+          "reason": "Missing identification of the Algea, personified pains or sorrows among Strife’s children.",
+          "action": "add"
+        },
+        {
+          "label": "Clashes",
+          "greek_name": "Ὑσμῖναι",
+          "verse": "228: Ὑσμίνας",
+          "reason": "Missing identification of the Hysminai, personified clashes born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "Battles",
+          "greek_name": "Μάχαι",
+          "verse": "228: Μάχας",
+          "reason": "Missing identification of the Machai, personified battles born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "Murders",
+          "greek_name": "Φόνοι",
+          "verse": "228: Φόνους",
+          "reason": "Missing identification of the Phonoi, personified murders born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "Slaughter",
+          "greek_name": "Ἀνδροκτασίαι",
+          "verse": "228: Ἀνδροκτασίας",
+          "reason": "Missing identification of the Androktasiai, personified slaughters of people among Strife’s children.",
+          "action": "add"
+        },
+        {
+          "label": "Quarrels",
+          "greek_name": "Νείκεα",
+          "verse": "229: Νείκεά",
+          "reason": "Missing identification of the Neikea, personified quarrels born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "lying Words",
+          "greek_name": "Λόγοι",
+          "verse": "229: ψευδέας τε Λόγους",
+          "reason": "The local source names Logoi qualified as lying. Identify these personified lying Words as one catalog entry; do not replace the phrase with a separately named Pseudea. Correct the grouped card’s reference to Lies accordingly.",
+          "action": "add"
+        },
+        {
+          "label": "Arguments",
+          "greek_name": "Ἀμφιλλογίαι",
+          "verse": "229: Ἀμφιλλογίας",
+          "reason": "Missing identification of the Amphillogiai, personified arguments or disputes born to Strife.",
+          "action": "add"
+        },
+        {
+          "label": "Lawlessness",
+          "greek_name": "Δυσνομία",
+          "verse": "230: Δυσνομίην",
+          "reason": "The opening defines conduct. Identify Dysnomia first as Strife’s divine personification of lawlessness.",
+          "action": "clarify"
+        },
+        {
+          "label": "Ruin",
+          "greek_name": "Ἄτη",
+          "verse": "230: Ἄτην … συνήθεας ἀλλήλῃσιν",
+          "reason": "Identify Ate first as Strife’s divine personification of ruin or disastrous blindness, companion of Dysnomia. Recklessness is explanatory language, not another named child.",
+          "action": "clarify"
+        },
+        {
+          "label": "Oath",
+          "greek_name": "Ὅρκος",
+          "verse": "231–232: Ὅρκον … πημαίνει, ὅτε κέν τις ἑκὼν ἐπίορκον ὀμόσσῃ",
+          "reason": "The opening defines an ordinary oath. Identify Horkos first as Strife’s divine child who afflicts deliberate false swearers.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p019",
+      "issues": []
+    },
+    {
+      "id": "p020",
+      "issues": [
+        {
+          "label": "daughters",
+          "greek_name": "Νηρῆος κοῦραι",
+          "verse": "240–242: Νηρῆος … τέκνα θεάων … Δωρίδος; 263–264: Νηρῆος … κοῦραι",
+          "reason": "Provide an occurrence-based entry point to the existing Nereids card, whose label does not occur in the translation.",
+          "action": "link"
+        },
+        {
+          "label": "Doris",
+          "greek_name": "Δωρίς",
+          "verse": "241–242: Δωρίδος … κούρης Ὠκεανοῖο",
+          "reason": "Bind this occurrence to the mother card: the Oceanid partner of Nereus, distinct from their daughter of the same name.",
+          "action": "link"
+        },
+        {
+          "label": "Doris",
+          "greek_name": "Δωρίς",
+          "verse": "250: Δωρὶς",
+          "reason": "Bind this catalog occurrence to the daughter card, identifying the Nereid rather than her Oceanid mother.",
+          "action": "link"
+        },
+        {
+          "label": "Ploto",
+          "greek_name": "Πλωτώ",
+          "verse": "243: Πλωτώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Eucrante",
+          "greek_name": "Εὐκράντη",
+          "verse": "243: Εὐκράντη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Sao",
+          "greek_name": "Σαώ",
+          "verse": "243: Σαώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Eudora",
+          "greek_name": "Εὐδώρη",
+          "verse": "244: Εὐδώρη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Galene",
+          "greek_name": "Γαλήνη",
+          "verse": "244: Γαλήνη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Glauce",
+          "greek_name": "Γλαύκη",
+          "verse": "244: Γλαύκη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Cymothoe",
+          "greek_name": "Κυμοθόη",
+          "verse": "245: Κυμοθόη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Speio",
+          "greek_name": "Σπειώ",
+          "verse": "245: Σπειώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Thoe",
+          "greek_name": "Θόη",
+          "verse": "245: Θόη",
+          "reason": "Missing individual identification as a Nereid. This local Θόη must be distinguished from the Oceanid Φόη in p025.",
+          "action": "add"
+        },
+        {
+          "label": "Halia",
+          "greek_name": "Ἁλίη",
+          "verse": "245: Ἀλίη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Pasithea",
+          "greek_name": "Πασιθέη",
+          "verse": "246: Πασιθέη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Erato",
+          "greek_name": "Ἐρατώ",
+          "verse": "246: Ἐρατώ",
+          "reason": "Missing individual identification as a Nereid; distinguish her from the Muse of the same name.",
+          "action": "add"
+        },
+        {
+          "label": "Eunice",
+          "greek_name": "Εὐνίκη",
+          "verse": "246: Εὐνίκη ῥοδόπηχυς",
+          "reason": "The Rosy arms card explains an epithet, not Eunice’s identity as a Nereid daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Melite",
+          "greek_name": "Μελίτη",
+          "verse": "247: Μελίτη χαρίεσσα",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Eulimene",
+          "greek_name": "Εὐλιμένη",
+          "verse": "247: Εὐλιμένη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Agave",
+          "greek_name": "Ἀγαυή",
+          "verse": "247: Ἀγαυὴ",
+          "reason": "Missing individual identification as a Nereid; distinguish her from Cadmus and Harmonia’s daughter.",
+          "action": "add"
+        },
+        {
+          "label": "Doto",
+          "greek_name": "Δωτώ",
+          "verse": "248: Δωτώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Proto",
+          "greek_name": "Πρωτώ",
+          "verse": "248: Πρωτώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Pherusa",
+          "greek_name": "Φέρουσα",
+          "verse": "248: Φέρουσά",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Dynamene",
+          "greek_name": "Δυναμένη",
+          "verse": "248: Δυναμένη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Nesaea",
+          "greek_name": "Νησαίη",
+          "verse": "249: Νησαίη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Actaea",
+          "greek_name": "Ἀκταίη",
+          "verse": "249: Ἀκταίη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Protomedea",
+          "greek_name": "Πρωτομέδεια",
+          "verse": "249: Πρωτομέδεια",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Panopea",
+          "greek_name": "Πανόπεια",
+          "verse": "250: Πανόπεια",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Hippothoe",
+          "greek_name": "Ἱπποθόη",
+          "verse": "251: Ἱπποθόη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Hipponoe",
+          "greek_name": "Ἱππονόη",
+          "verse": "251: Ἱππονόη ῥοδόπηχυς",
+          "reason": "The Rosy arms card explains an epithet, not Hipponoe’s identity as a Nereid daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Cymo",
+          "greek_name": "Κυμώ",
+          "verse": "255: Κυμώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Eione",
+          "greek_name": "Ἠιόνη",
+          "verse": "255: Ἠιόνη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Halimede",
+          "greek_name": "Ἁλιμήδη",
+          "verse": "255: Ἁλιμήδη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Glauconome",
+          "greek_name": "Γλαυκονόμη",
+          "verse": "256: Γλαυκονόμη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Pontoporea",
+          "greek_name": "Ποντοπόρεια",
+          "verse": "256: Ποντοπόρεια",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Leagora",
+          "greek_name": "Ληαγόρη",
+          "verse": "257: Ληαγόρη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Euagora",
+          "greek_name": "Εὐαγόρη",
+          "verse": "257: Εὐαγόρη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Laomedea",
+          "greek_name": "Λαομέδεια",
+          "verse": "257: Λαομέδεια",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Polynoe",
+          "greek_name": "Πουλυνόη",
+          "verse": "258: Πουλυνόη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Autonoe",
+          "greek_name": "Αὐτονόη",
+          "verse": "258: Αὐτονόη",
+          "reason": "Missing individual identification as a Nereid; distinguish her from Cadmus and Harmonia’s daughter.",
+          "action": "add"
+        },
+        {
+          "label": "Lysianassa",
+          "greek_name": "Λυσιάνασσα",
+          "verse": "258: Λυσιάνασσα",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Euarne",
+          "greek_name": "Εὐάρνη",
+          "verse": "259: Εὐάρνη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Psamathe",
+          "greek_name": "Ψαμάθη",
+          "verse": "260: Ψαμάθη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Menippe",
+          "greek_name": "Μενίππη",
+          "verse": "260: Μενίππη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Neso",
+          "greek_name": "Νησώ",
+          "verse": "261: Νησώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Eupompe",
+          "greek_name": "Εὐπόμπη",
+          "verse": "261: Εὐπόμπη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Themisto",
+          "greek_name": "Θεμιστώ",
+          "verse": "261: Θεμιστώ",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        },
+        {
+          "label": "Pronoe",
+          "greek_name": "Προνόη",
+          "verse": "261: Προνόη",
+          "reason": "Missing individual identification as a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p021",
+      "issues": [
+        {
+          "label": "Graiae",
+          "greek_name": "Γραῖαι",
+          "verse": "270–273: Κητὼ Γραίας τέκε … ἐκ γενετῆς πολιάς … Πεμφρηδώ … Ἐνυώ",
+          "reason": "The first sentence only translates the name. Identify the Graiae first as the gray-haired-from-birth supernatural daughters of Ceto and Phorcys, Pemphredo and Enyo.",
+          "action": "clarify"
+        },
+        {
+          "label": "Chrysaor",
+          "greek_name": "Χρυσάωρ",
+          "verse": "278–283: τῇ δὲ μιῇ παρελέξατο Κυανοχαίτης … ἔκθορε Χρυσαωρ … ἄορ χρύσειον ἔχων",
+          "reason": "The opening gives only an etymology. Identify him first as Medusa and Poseidon’s son, who emerges holding a golden sword; do not invent a bodily form.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p022",
+      "issues": [
+        {
+          "label": "Chrysaor",
+          "greek_name": "Χρυσάωρ",
+          "verse": "287–288: Χρυσάωρ δʼ ἔτεκεν τρικέφαλον Γηρυονῆα … Καλλιρόῃ",
+          "reason": "A mythical figure plus a name meaning leaves the opening vague. Identify him first as Medusa’s son and Geryon’s father by Callirhoe, using the preceding birth account.",
+          "action": "clarify"
+        },
+        {
+          "label": "Ceto",
+          "greek_name": "Κητώ",
+          "verse": "295–297: ἣ δʼ ἔτεκʼ ἄλλο πέλωρον … Ἔχιδναν",
+          "reason": "The English explicitly identifies the continuing mother as Ceto, but this sea goddess has no card here.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p023",
+      "issues": [
+        {
+          "label": "Echidna",
+          "greek_name": "Ἔχιδνα",
+          "verse": "306–308: τῇ … μιγήμεναι … ἑλικώπιδι κούρῃ … τέκετο",
+          "reason": "The continuing mother, named Echidna in the English, has no card. Identify the immortal half-nymph, half-serpent monster introduced immediately before.",
+          "action": "add"
+        },
+        {
+          "label": "Geryon",
+          "greek_name": "Γηρυονεύς",
+          "verse": "309: κύνα γείνατο Γηρυονῆι",
+          "reason": "The three-headed cattle owner for whom Orthus is born has no identification here.",
+          "action": "add"
+        },
+        {
+          "label": "Hydra",
+          "greek_name": "Ὕδρη",
+          "verse": "313–314: Ὕδρην … Λερναίην",
+          "reason": "Connect the actual occurrence Hydra to the existing Hydra of Lerna card; that combined label is not an English occurrence.",
+          "action": "link"
+        },
+        {
+          "label": "lion of Nemea",
+          "greek_name": "Νεμειαῖος λέων",
+          "verse": "327: Νεμειαῖόν τε λέοντα",
+          "reason": "Connect this occurrence to the existing Nemean lion card so its monster identification is reachable.",
+          "action": "link"
+        },
+        {
+          "label": "a dreadful snake",
+          "greek_name": "δεινὸς ὄφις",
+          "verse": "333–335: Κητὼ … Φόρκυι … γείνατο δεινὸν ὄφιν … παγχρύσεα μῆλα φυλάσσει",
+          "reason": "The unnamed monstrous child of Ceto and Phorcys lacks its own identification. Explain the apple-guarding serpent without assigning a name absent from this source.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p024",
+      "issues": [
+        {
+          "label": "Rivers",
+          "greek_name": "Ποταμοί",
+          "verse": "337: Τηθὺς δʼ Ὠκεανῷ Ποταμοὺς τέκε",
+          "reason": "The opening gives a general possibility about Greek rivers. Identify this group directly as the river-god sons of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Nile",
+          "greek_name": "Νεῖλος",
+          "verse": "338: Νεῖλόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Alpheus",
+          "greek_name": "Ἀλφειός",
+          "verse": "338: Ἀλφειόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Eridanus",
+          "greek_name": "Ἠριδανός",
+          "verse": "338: Ἠριδανὸν βαθυδίνην; 337: Ποταμοὺς τέκε",
+          "reason": "The opening describes a mythical river’s location. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Strymon",
+          "greek_name": "Στρυμών",
+          "verse": "339: Στρυμόνα; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Maeander",
+          "greek_name": "Μαίανδρος",
+          "verse": "339: Μαίανδρόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Ister",
+          "greek_name": "Ἴστρος",
+          "verse": "339: Ἴστρον καλλιρέεθρον; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only a geographical name equivalence. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Phasis",
+          "greek_name": "Φᾶσις",
+          "verse": "340: Φᾶσίν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Rhesus",
+          "greek_name": "Ῥῆσος",
+          "verse": "340: Ῥῆσόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only a river name and region. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Nessus",
+          "greek_name": "Νέσσος",
+          "verse": "341: Νέσσον; 337: Ποταμοὺς τέκε",
+          "reason": "Calling him a river name does not identify the divine son. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Rhodius",
+          "greek_name": "Ῥόδιος",
+          "verse": "341: Ῥοδίον; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Haliacmon",
+          "greek_name": "Ἁλιάκμων",
+          "verse": "341: Ἁλιάκμονά; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Heptaporus",
+          "greek_name": "Ἑπτάπορος",
+          "verse": "341: Ἑπτάπορόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Grenicus",
+          "greek_name": "Γρήνικος",
+          "verse": "342: Γρήνικόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening discusses geographical identification. Identify him first as a river-god, son of Tethys and Ocean, preserving the local name.",
+          "action": "clarify"
+        },
+        {
+          "label": "Aesepus",
+          "greek_name": "Αἴσηπος",
+          "verse": "342: Αἴσηπον; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Simois",
+          "greek_name": "Σιμόεις",
+          "verse": "342: θεῖόν τε Σιμοῦντα; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography despite his explicit divine characterization. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Peneus",
+          "greek_name": "Πηνειός",
+          "verse": "343: Πηνειόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Hermus",
+          "greek_name": "Ἕρμος",
+          "verse": "343: Ἕρμον; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Caicus",
+          "greek_name": "Κάικος",
+          "verse": "343: ἐυρρείτην τε Κάικον; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Sangarius",
+          "greek_name": "Σαγγάριος",
+          "verse": "344: Σαγγάριόν τε μέγαν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Ladon",
+          "greek_name": "Λάδων",
+          "verse": "344: Λάδωνά; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify this Ladon first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Parthenius",
+          "greek_name": "Παρθένιος",
+          "verse": "344: Παρθένιόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Evenus",
+          "greek_name": "Εὔηνος",
+          "verse": "345: Εὔηνόν; 337: Ποταμοὺς τέκε",
+          "reason": "The opening gives only geography. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        },
+        {
+          "label": "Ardescus",
+          "greek_name": "Ἄρδησκος",
+          "verse": "345: Ἄρδησκον; 337: Ποταμοὺς τέκε",
+          "reason": "Calling him a river name does not identify the divine son. Identify him first as a river-god, son of Tethys and Ocean.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p025",
+      "issues": [
+        {
+          "label": "Tethys",
+          "greek_name": "Τηθύς",
+          "verse": "362: Ὠκεανοῦ καὶ Τηθύος; 368: πότνια Τηθύς",
+          "reason": "The Titan goddess who mothers the Oceanids and river-gods has no card in this section.",
+          "action": "add"
+        },
+        {
+          "label": "Ocean",
+          "greek_name": "Ὠκεανός",
+          "verse": "362: Ὠκεανοῦ; 368: υἱέες Ὠκεανοῦ",
+          "reason": "The translated divine name lacks a card. Identify Ocean as Oceanus, the world-encircling river-god and father of these daughters and Rivers.",
+          "action": "add"
+        },
+        {
+          "label": "Rivers",
+          "greek_name": "Ποταμοί",
+          "verse": "348: Ποταμοῖς; 367–368: ποταμοὶ … υἱέες Ὠκεανοῦ",
+          "reason": "The river-god sons of Ocean and Tethys, who help nurture the young, lack a grouped identification.",
+          "action": "add"
+        },
+        {
+          "label": "Peitho",
+          "greek_name": "Πειθώ",
+          "verse": "349: Πειθώ; 362: Ὠκεανοῦ καὶ Τηθύος ἐξεγένοντο",
+          "reason": "The opening starts with a name meaning and vague association. Identify Peitho first as an Oceanid goddess personifying persuasion.",
+          "action": "clarify"
+        },
+        {
+          "label": "Dione",
+          "greek_name": "Διώνη",
+          "verse": "353: ἐρατή τε Διώνη; 362: Ὠκεανοῦ καὶ Τηθύος",
+          "reason": "The opening discusses other traditions rather than this figure’s Theogony identity. Identify her first as an Oceanid goddess, daughter of Ocean and Tethys.",
+          "action": "clarify"
+        },
+        {
+          "label": "Phoe",
+          "greek_name": "Φόη",
+          "verse": "354: Φόη",
+          "reason": "The corresponding card is labeled Thoe, but the controlling Greek has Φόη and the English has Phoe. Retitle and bind that Oceanid card to Phoe without changing the source.",
+          "action": "link"
+        },
+        {
+          "label": "Calypso",
+          "greek_name": "Καλυψώ",
+          "verse": "359: Καλυψὼ; 362: Ὠκεανοῦ καὶ Τηθύος ἐξεγένοντο",
+          "reason": "The opening discusses differing parentage across poems. State this passage’s identity first: an Oceanid goddess, daughter of Ocean and Tethys.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p026",
+      "issues": []
+    },
+    {
+      "id": "p027",
+      "issues": [
+        {
+          "label": "Eosphorus",
+          "greek_name": "Ἑωσφόρος",
+          "verse": "381: ἀστέρα τίκτεν Ἑωσφόρον Ἠριγένεια",
+          "reason": "The opening identifies only the astronomical object. Identify Eosphorus first as the divine Morning Star born to Eos and Astraeus.",
+          "action": "clarify"
+        },
+        {
+          "label": "gleaming stars",
+          "greek_name": "ἄστρα",
+          "verse": "381–382: τίκτεν … ἄστρα τε λαμπετόωντα",
+          "reason": "These stars are explicitly born as Eos’s offspring in the divine genealogy. A grouped card should explain that identity alongside their celestial nature.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p028",
+      "issues": []
+    },
+    {
+      "id": "p029",
+      "issues": []
+    },
+    {
+      "id": "p030",
+      "issues": []
+    },
+    {
+      "id": "p031",
+      "issues": [
+        {
+          "label": "Cronus",
+          "greek_name": "Κρόνος",
+          "verse": "450: Κρονίδης",
+          "reason": "Cronus is named through the translated patronymic but has no identification. Explain that he is Zeus’s Titan father and predecessor.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p032",
+      "issues": []
+    },
+    {
+      "id": "p033",
+      "issues": []
+    },
+    {
+      "id": "p034",
+      "issues": [
+        {
+          "label": "his father's brothers",
+          "greek_name": "πατροκασίγνητοι",
+          "verse": "501–505: πατροκασιγνήτους … Οὐρανίδας … δῶκαν δὲ βροντὴν",
+          "reason": "Bind this exact phrase to the existing Cyclopes explanation, labeled Zeus’s father’s brothers, so the otherwise unnamed divine craftsmen are reachable.",
+          "action": "link"
+        }
+      ]
+    },
+    {
+      "id": "p035",
+      "issues": []
+    },
+    {
+      "id": "p036",
+      "issues": [
+        {
+          "label": "Zeus",
+          "greek_name": "Ζεύς",
+          "verse": "529: Ζηνὸς Ὀλυμπίου ὑψιμέδοντος; 534: Κρονίωνι",
+          "reason": "Connect Zeus to the existing explanation under The son of Cronus, whose full label does not occur. Its opening should directly identify Zeus as the ruling god.",
+          "action": "link"
+        },
+        {
+          "label": "Iapetus",
+          "greek_name": "Ἰαπετός",
+          "verse": "528: Ἰαπετιονίδῃ",
+          "reason": "The translated patronymic names Prometheus’s father, but no card identifies Iapetus as a Titan.",
+          "action": "add"
+        },
+        {
+          "label": "Cronus",
+          "greek_name": "Κρόνος",
+          "verse": "534: Κρονίωνι",
+          "reason": "The patronymic card identifies Zeus, not Cronus himself. Explain Cronus as Zeus’s Titan father and predecessor.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p037",
+      "issues": []
+    },
+    {
+      "id": "p038",
+      "issues": [
+        {
+          "label": "Iapetus",
+          "greek_name": "Ἰαπετός",
+          "verse": "559: Ἰαπετιονίδη; 565: πάις Ἰαπετοῖο",
+          "reason": "Prometheus’s father is named repeatedly but has no identification as a Titan.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p039",
+      "issues": []
+    },
+    {
+      "id": "p040",
+      "issues": []
+    },
+    {
+      "id": "p041",
+      "issues": []
+    },
+    {
+      "id": "p042",
+      "issues": []
+    },
+    {
+      "id": "p043",
+      "issues": [
+        {
+          "label": "three brothers",
+          "greek_name": "Γαίης τε καὶ Οὐρανοῦ ἀγλαὰ τέκνα",
+          "verse": "639: κείνοισι; 644: Γαίης τε καὶ Οὐρανοῦ ἀγλαὰ τέκνα; 649: χεῖρας ἀάπτους",
+          "reason": "The recipients of Zeus’s speech lack a reachable group explanation. Identify them as the Hundred-Handers Cottus, Briareus, and Gyges, divine sons of Earth and Sky.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p044",
+      "issues": []
+    },
+    {
+      "id": "p045",
+      "issues": [
+        {
+          "label": "These giants",
+          "greek_name": "Ἑκατόγχειρες",
+          "verse": "671–674: ἑκατὸν μὲν χεῖρες … κεφαλαὶ δὲ ἑκάστῳ πεντήκοντα … οἳ τότε Τιτήνεσσι",
+          "reason": "Bind this phrase and the earlier Cottus occurrence to the existing Hundred-handed giants card. These are the Hundred-Handers, distinct from the Giants born from Uranus’s blood.",
+          "action": "link"
+        }
+      ]
+    },
+    {
+      "id": "p046",
+      "issues": []
+    },
+    {
+      "id": "p047",
+      "issues": [
+        {
+          "label": "Night",
+          "greek_name": "Νύξ",
+          "verse": "726–727: νὺξ τριστοιχεὶ κέχυται περὶ δειρήν",
+          "reason": "The capitalized translated name lacks an explanation. Identify personified Night, Nyx, while explaining the immediate image of darkness wrapped around Tartarus.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p048",
+      "issues": [
+        {
+          "label": "Titan gods",
+          "greek_name": "θεοὶ Τιτῆνες",
+          "verse": "729: θεοὶ Τιτῆνες",
+          "reason": "The imprisoned older generation of gods has no card in this section.",
+          "action": "add"
+        },
+        {
+          "label": "Gyges",
+          "greek_name": "Γύης",
+          "verse": "734–735: Γύης … φύλακες πιστοὶ Διὸς",
+          "reason": "Missing identification as one of the three Hundred-Handers, now guarding the imprisoned Titans.",
+          "action": "add"
+        },
+        {
+          "label": "Cottus",
+          "greek_name": "Κόττος",
+          "verse": "734–735: Κόττος … φύλακες πιστοὶ Διὸς",
+          "reason": "Missing identification as one of the three Hundred-Handers, now guarding the imprisoned Titans.",
+          "action": "add"
+        },
+        {
+          "label": "Obriareus",
+          "greek_name": "Ὀβριάρεως",
+          "verse": "734–735: Ὀβριάρεως μεγάθυμος … φύλακες πιστοὶ Διὸς",
+          "reason": "The first sentence gives only a name equivalence. Identify him first as Briareus, one of the three Hundred-Handers and a guard of the Titans.",
+          "action": "clarify"
+        },
+        {
+          "label": "Tartarus",
+          "greek_name": "Τάρταρος",
+          "verse": "736: Ταρτάρου ἠερόεντος",
+          "reason": "This named primordial depth lacks an explanation. Identify the region beneath earth associated with the Titans’ imprisonment; the use here is spatial.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p049",
+      "issues": [
+        {
+          "label": "Night",
+          "greek_name": "Νύξ",
+          "verse": "748: Νύξ τε καὶ Ἡμέρη; 757–759: Νὺξ … Νυκτὸς παῖδες … Ὕπνος καὶ Θάνατος",
+          "reason": "The goddess Nyx has no card despite sharing the house with Day and mothering Sleep and Death.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p050",
+      "issues": [
+        {
+          "label": "fearsome dog",
+          "greek_name": "δεινὸς κύων",
+          "verse": "769: δεινὸς δὲ κύων προπάροιθε φυλάσσει",
+          "reason": "Bind this actual occurrence to the existing The guard dog card, which identifies the unnamed dog as Cerberus.",
+          "action": "link"
+        }
+      ]
+    },
+    {
+      "id": "p051",
+      "issues": []
+    },
+    {
+      "id": "p052",
+      "issues": []
+    },
+    {
+      "id": "p053",
+      "issues": []
+    },
+    {
+      "id": "p054",
+      "issues": []
+    },
+    {
+      "id": "p055",
+      "issues": [
+        {
+          "label": "Zeus",
+          "greek_name": "Ζεύς",
+          "verse": "883–885: βασιλευέμεν ἠδὲ ἀνάσσειν … Ὀλύμπιον εὐρύοπα Ζῆν",
+          "reason": "Connect the actual Zeus occurrences to the existing Olympian Zeus card; its combined label does not occur in the English.",
+          "action": "link"
+        }
+      ]
+    },
+    {
+      "id": "p056",
+      "issues": []
+    },
+    {
+      "id": "p057",
+      "issues": []
+    },
+    {
+      "id": "p058",
+      "issues": [
+        {
+          "label": "Zeus",
+          "greek_name": "Ζεύς",
+          "verse": "920: αἰγιόχοιο Διὸς; 924: αὐτὸς δʼ ἐκ κεφαλῆς",
+          "reason": "The ruling god, father of Leto’s children and bearer of Athena from his head, has no card.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p059",
+      "issues": [
+        {
+          "label": "Zeus",
+          "greek_name": "Ζεύς",
+          "verse": "938: Ζηνὶ; 944: Διὸς νεφεληγερέταο",
+          "reason": "The father of Hermes, Dionysus, and Heracles lacks an identification as ruler of the gods.",
+          "action": "add"
+        },
+        {
+          "label": "Graces",
+          "greek_name": "Χάριτες",
+          "verse": "946: ὁπλοτάτην Χαρίτων",
+          "reason": "The grouped marriage card identifies Aglaia as a Grace but does not explain what the Graces are. Identify the divine group of beauty, charm, and delight.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "p060",
+      "issues": [
+        {
+          "label": "Medea",
+          "greek_name": "Μήδεια",
+          "verse": "961–962: Μήδειαν … γείναθʼ; 965–968: θεάων φῦλον … ἀθάναται; 1000–1001: Μήδειον τέκε παῖδα",
+          "reason": "The opening identifies only a woman famous for magic in Greek myth. Identify Aeetes and Idyia’s daughter first and acknowledge her divine classification in this poem’s following catalogue of goddesses with mortal partners.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p061",
+      "issues": []
+    },
+    {
+      "id": "p062",
+      "issues": [
+        {
+          "label": "Semele",
+          "greek_name": "Σεμέλη",
+          "verse": "976: Σεμέλην; 940–942: Σεμέλη … ἀθάνατον θνητή· νῦν δʼ ἀμφότεροι θεοί εἰσιν",
+          "reason": "The card gives her genealogy but omits the divine status explicitly established earlier in this poem. Identify her as Dionysus’s mortal-born mother who is now a goddess.",
+          "action": "clarify"
+        },
+        {
+          "label": "Phaethon",
+          "greek_name": "Φαέθων",
+          "verse": "986–987: ὑπαὶ Κεφάλῳ … Φαέθοντα, θεοῖς ἐπιείκελον ἄνδρα",
+          "reason": "The opening gives an etymology and unspecified myth variants. Identify this Phaethon first as Eos and Cephalus’s son, the godlike man whose transformation follows in 988–991.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p063",
+      "issues": [
+        {
+          "label": "divine spirit",
+          "greek_name": "δαίμων δῖος",
+          "verse": "990–991: καί μιν … νηοπόλον νύχιον ποιήσατο, δαίμονα δῖον",
+          "reason": "The opening defines a generic supernatural being. Identify the particular transformed figure first: Phaethon, made Aphrodite’s divine temple attendant.",
+          "action": "clarify"
+        },
+        {
+          "label": "Phaethon",
+          "greek_name": "Φαέθων",
+          "verse": "988–991: τόν … παῖδʼ … Ἀφροδίτη … δαίμονα δῖον",
+          "reason": "Make the revised divine-spirit explanation reachable from Phaethon, the continuing subject named in the English. Identify him as Eos and Cephalus’s son using 986–987.",
+          "action": "link"
+        },
+        {
+          "label": "Medea",
+          "greek_name": "Μήδεια",
+          "verse": "992: κούρην … Αἰήταο; 1000–1001: ἥ γε … Μήδειον τέκε; 965–968: θεάων φῦλον … ἀθάναται",
+          "reason": "The opening substitutes general magical reputation for her identity in this poem. Identify Aeetes’s daughter and Jason’s divine partner within the catalogue of goddesses bearing children to mortal men.",
+          "action": "clarify"
+        }
+      ]
+    },
+    {
+      "id": "p064",
+      "issues": []
+    },
+    {
+      "id": "p065",
+      "issues": [
+        {
+          "label": "Zeus",
+          "greek_name": "Ζεύς",
+          "verse": "1022: κοῦραι Διὸς αἰγιόχοιο",
+          "reason": "The Muses’ father is named but has no identification as ruler of the gods; the aegis card explains his equipment.",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "id": "v929",
+      "issues": [
+        {
+          "label": "Oceanus",
+          "greek_name": "Ὠκεανός",
+          "verse": "929e–929g: Ὠκεανοῦ καὶ Τηθύος … κούρῃ … ἐξαπαφὼν Μῆτιν",
+          "reason": "The grouped Oceanus and Tethys card leaves their daughter apparently Metis. The local syntax identifies Metis as that daughter; state the relationship directly.",
+          "action": "clarify"
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Every listed section was checked. An empty issues array indicates no issue found; a nonempty array indicates issues found.",
+    "No occurrence-to-card link map was supplied. Link actions specify required bindings where existing labels differ from the relevant occurrences; unmatched labels alone were not treated as proof of failure.",
+    "The p057 grouped cards already explain all individual Horae, Moirai, and Charites. They need no additional identity text provided those group cards remain reachable.",
+    "Night at 726–727 combines personification with a spatial darkness image; its explanation should preserve both rather than assert a separate physical action by an Olympian goddess.",
+    "Literal earth, sky, sun, seasons, desire, quarrels, and upper air were not automatically treated as additional divine names. Triton in v929 is explicitly a river, distinct from the sea god in p059."
+  ]
+}

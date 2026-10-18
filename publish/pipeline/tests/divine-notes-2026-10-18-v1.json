@@ -1,0 +1,3652 @@
+{
+  "sections": [
+    {
+      "id": "p002",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p002-muses",
+          "label": "Muses",
+          "general": "Goddesses of song and poetry, daughters of Zeus and Mnemosyne.",
+          "here": "They travel through the night singing the gods’ names.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p002-eos",
+          "label": "Eos",
+          "general": "Dawn imagined as a goddess.",
+          "here": "She is named alongside the Sun and Moon.",
+          "aliases": [
+            "Dawn"
+          ],
+          "verse_labels": [
+            "19"
+          ]
+        },
+        {
+          "id": "p002-helios",
+          "label": "Helios",
+          "general": "The Sun imagined as a god.",
+          "here": "Hesiod calls him great.",
+          "aliases": [
+            "Sun"
+          ],
+          "verse_labels": [
+            "19"
+          ]
+        },
+        {
+          "id": "p002-selene",
+          "label": "Selene",
+          "general": "The Moon imagined as a goddess.",
+          "here": "She is described as bright.",
+          "aliases": [
+            "Moon"
+          ],
+          "verse_labels": [
+            "19"
+          ]
+        },
+        {
+          "id": "p002-gaia",
+          "label": "Gaia",
+          "general": "The Earth imagined as a goddess.",
+          "here": "She is included among the eternal gods.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "20"
+          ]
+        },
+        {
+          "id": "p002-night",
+          "label": "Night",
+          "general": "Night imagined as a goddess, called Nyx in Greek.",
+          "here": "She is described as black.",
+          "aliases": [],
+          "verse_labels": [
+            "20"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p002-muses",
+          "verse": "9",
+          "greek": "ἀπορνύμεναι",
+          "reason": "The continuing subject is the Muses, explicitly named in this English verse."
+        },
+        {
+          "card_id": "p002-eos",
+          "verse": "19",
+          "greek": "Ἠῶ",
+          "reason": "Dawn translates Eos’s divine name."
+        },
+        {
+          "card_id": "p002-helios",
+          "verse": "19",
+          "greek": "Ἠέλιόν",
+          "reason": "Sun identifies Helios."
+        },
+        {
+          "card_id": "p002-selene",
+          "verse": "19",
+          "greek": "Σελήνην",
+          "reason": "Moon identifies Selene."
+        },
+        {
+          "card_id": "p002-gaia",
+          "verse": "20",
+          "greek": "Γαῖάν",
+          "reason": "Earth identifies Gaia here; the scope excludes Poseidon’s ordinary earth in verse 15."
+        },
+        {
+          "card_id": "p002-night",
+          "verse": "20",
+          "greek": "Νύκτα μέλαιναν",
+          "reason": "This is the goddess; the scope excludes travelling through the night in verse 10."
+        }
+      ]
+    },
+    {
+      "id": "p004",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p004-gaia",
+          "label": "Gaia",
+          "general": "The Earth imagined as a goddess.",
+          "here": "She and Uranus are parents of an early generation of gods.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "45"
+          ]
+        },
+        {
+          "id": "p004-uranus",
+          "label": "Uranus",
+          "general": "The Sky imagined as a god.",
+          "here": "With Gaia, he fathers the gods whose family history the Muses sing.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "45"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p004-gaia",
+          "verse": "45",
+          "greek": "Γαῖα",
+          "reason": "Earth is the translated name of the divine mother."
+        },
+        {
+          "card_id": "p004-uranus",
+          "verse": "45",
+          "greek": "Οὐρανὸς",
+          "reason": "Sky is the translated name of the divine father."
+        }
+      ]
+    },
+    {
+      "id": "p006",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p006-himeros",
+          "label": "Himeros",
+          "general": "The god who represents desire and longing.",
+          "here": "He lives near the Muses and the Graces.",
+          "aliases": [
+            "Desire"
+          ],
+          "verse_labels": [
+            "64"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p006-himeros",
+          "verse": "64",
+          "greek": "Ἵμερος",
+          "reason": "Desire translates Himeros’s name."
+        }
+      ]
+    },
+    {
+      "id": "p009",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p009-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "An ancestor of the gods.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "106"
+          ]
+        },
+        {
+          "id": "p009-uranus",
+          "label": "Uranus",
+          "general": "The Sky, understood as a god.",
+          "here": "The starry Sky from whom gods were born.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "106"
+          ]
+        },
+        {
+          "id": "p009-pontus",
+          "label": "Pontus",
+          "general": "The Sea, understood as a god.",
+          "here": "He brings up some of the gods.",
+          "aliases": [
+            "Sea"
+          ],
+          "verse_labels": [
+            "107"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p009-gaia",
+          "verse": "106",
+          "greek": "Γῆς",
+          "reason": "Earth names the divine ancestor; the scope excludes other descriptions of earth."
+        },
+        {
+          "card_id": "p009-uranus",
+          "verse": "106",
+          "greek": "Οὐρανοῦ ἀστερόεντος",
+          "reason": "Sky identifies the divine ancestor here."
+        },
+        {
+          "card_id": "p009-pontus",
+          "verse": "107",
+          "greek": "ἁλμυρὸς ἔτρεφε Πόντος",
+          "reason": "Sea identifies Pontus, who brings up divine offspring."
+        }
+      ]
+    },
+    {
+      "id": "p010",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p010-chaos",
+          "label": "Chaos",
+          "general": "Chaos is the primordial gap that first comes into being.",
+          "here": "Erebus and Night are born from Chaos. The name means a gap or chasm.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p010-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, imagined as a goddess.",
+          "here": "Her broad body provides a firm seat for everything.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "117",
+            "119"
+          ]
+        },
+        {
+          "id": "p010-tartarus",
+          "label": "Tartarus",
+          "general": "Tartarus is the primordial depth, a dark region beneath earth.",
+          "here": "It appears among the earliest entities to come into being.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p010-eros",
+          "label": "Eros",
+          "general": "The divine power of love and sexual desire.",
+          "here": "His power weakens limbs and overwhelms clear thinking in gods and humans alike.",
+          "aliases": [
+            "Desire"
+          ],
+          "verse_labels": [
+            "120"
+          ]
+        },
+        {
+          "id": "p010-erebus",
+          "label": "Erebus",
+          "general": "Darkness imagined as a divine being.",
+          "here": "He comes from Chaos and fathers Aether and Day with Night.",
+          "aliases": [
+            "Darkness"
+          ],
+          "verse_labels": [
+            "123",
+            "125"
+          ]
+        },
+        {
+          "id": "p010-aether",
+          "label": "Aether",
+          "general": "Aether is the divine bright upper air, a child of Night and Erebus.",
+          "here": "He is born alongside Day after his parents join in love.",
+          "aliases": [
+            "the bright upper air"
+          ],
+          "verse_labels": [
+            "124"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p010-chaos",
+          "verse": "116",
+          "greek": "πρώτιστα Χάος γένετʼ",
+          "reason": "Identifies the primordial gap before explaining the name."
+        },
+        {
+          "card_id": "p010-gaia",
+          "verse": "117",
+          "greek": "Γαῖʼ εὐρύστερνος",
+          "reason": "Earth is Gaia’s translated divine name."
+        },
+        {
+          "card_id": "p010-tartarus",
+          "verse": "119",
+          "greek": "Τάρταρά τʼ ἠερόεντα",
+          "reason": "Identifies the primordial depth while retaining its spatial nature."
+        },
+        {
+          "card_id": "p010-eros",
+          "verse": "120",
+          "greek": "Ἔρος",
+          "reason": "Desire names Eros."
+        },
+        {
+          "card_id": "p010-erebus",
+          "verse": "123",
+          "greek": "Ἔρεβός",
+          "reason": "Darkness translates Erebus’s divine name."
+        },
+        {
+          "card_id": "p010-aether",
+          "verse": "124",
+          "greek": "Νυκτὸς δʼ αὖτʼ Αἰθήρ",
+          "reason": "Identifies Aether as divine offspring rather than defining atmospheric air alone."
+        }
+      ]
+    },
+    {
+      "id": "p011",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p011-gaia",
+          "label": "Gaia",
+          "general": "Gaia is the primordial goddess Earth.",
+          "here": "She bears Sky, the Mountains, and Pontus without a partner, then bears the Titans with Sky.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "126"
+          ]
+        },
+        {
+          "id": "p011-mountains",
+          "label": "Mountains",
+          "general": "The Mountains are primordial offspring of Gaia.",
+          "here": "They are born as homes for the mountain Nymphs; no individual mountains are named.",
+          "aliases": [],
+          "verse_labels": [
+            "129"
+          ]
+        },
+        {
+          "id": "p011-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, imagined as a god.",
+          "here": "Earth bears him and later has children with him.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "127",
+            "133"
+          ]
+        },
+        {
+          "id": "p011-pontus",
+          "label": "Pontus",
+          "general": "The Sea itself, imagined as a god.",
+          "here": "Earth gives birth to him without a partner.",
+          "aliases": [
+            "sea"
+          ],
+          "verse_labels": [
+            "131",
+            "132"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p011-gaia",
+          "verse": "126",
+          "greek": "Γαῖα δέ τοι πρῶτον μὲν ἐγείνατο",
+          "reason": "Identifies the divine mother who bears the beings in this passage."
+        },
+        {
+          "card_id": "p011-mountains",
+          "verse": "129",
+          "greek": "γείνατο δʼ Οὔρεα μακρά",
+          "reason": "The Mountains are born from Gaia, rather than appearing only as scenery."
+        },
+        {
+          "card_id": "p011-uranus",
+          "verse": "133",
+          "greek": "Οὐρανῷ εὐνηθεῖσα",
+          "reason": "The English Sky names Gaia’s divine partner."
+        },
+        {
+          "card_id": "p011-pontus",
+          "verse": "131",
+          "greek": "ἀτρύγετον πέλαγος τέκεν",
+          "reason": "The sea being born is Pontus, named in the following verse."
+        }
+      ]
+    },
+    {
+      "id": "p012",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p012-earth-sky",
+          "label": "Earth and Sky",
+          "general": "Gaia is the goddess Earth, and Uranus is the god Sky.",
+          "here": "They are the parents of the Cyclopes and the three Hundred-Handers described here.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p012-earth-sky",
+          "verse": "147",
+          "greek": "Γαίης τε καὶ Οὐρανοῦ ἐξεγένοντο",
+          "reason": "Identifies both divine parents; the simple grouped label supplies links from Earth and Sky."
+        }
+      ]
+    },
+    {
+      "id": "p014",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p014-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, imagined as a goddess.",
+          "here": "She hides Cronus, gives him the weapon, and receives Sky’s blood.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "174",
+            "176",
+            "184"
+          ]
+        },
+        {
+          "id": "p014-uranus",
+          "label": "Uranus",
+          "general": "Sky himself, imagined as a god; his Greek name is Ouranos.",
+          "here": "He spreads over Earth and is attacked by his son.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "176"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p014-gaia",
+          "verse": "184",
+          "greek": "πάσας δέξατο Γαῖα",
+          "reason": "Earth is the goddess receiving the blood; the scope excludes the ordinary earth in verse 187."
+        },
+        {
+          "card_id": "p014-uranus",
+          "verse": "176",
+          "greek": "μέγας Οὐρανός",
+          "reason": "Sky names Uranus."
+        }
+      ]
+    },
+    {
+      "id": "p015",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p015-cronus",
+          "label": "Cronus",
+          "general": "Cronus is a Titan son of Gaia and Uranus.",
+          "here": "He cuts off his father’s genitals and throws them into the sea, continuing the action of the preceding passage.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p015-aphrodite",
+          "label": "Aphrodite",
+          "general": "The goddess of love, sexual attraction, and pleasure.",
+          "here": "She grows in sea foam and steps ashore on Cyprus.",
+          "aliases": [
+            "the foam-born goddess"
+          ],
+          "verse_labels": [
+            "195",
+            "196",
+            "203"
+          ]
+        },
+        {
+          "id": "p015-eros",
+          "label": "Eros",
+          "general": "Love, especially sexual attraction, imagined as a god.",
+          "here": "He accompanies Aphrodite from her birth.",
+          "aliases": [
+            "Love"
+          ],
+          "verse_labels": [
+            "201"
+          ]
+        },
+        {
+          "id": "p015-himeros",
+          "label": "Himeros",
+          "general": "Longing or desire, imagined as a god.",
+          "here": "He follows Aphrodite as she joins the gods.",
+          "aliases": [
+            "Desire"
+          ],
+          "verse_labels": [
+            "201"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p015-cronus",
+          "verse": "188",
+          "greek": "ἀποτμήξας ἀδάμαντι",
+          "reason": "Cronus is the continuing cutter, explicitly named in the English."
+        },
+        {
+          "card_id": "p015-aphrodite",
+          "verse": "196",
+          "greek": "ἀφρογενέα τε θεὰν",
+          "reason": "The foam-born goddess is Aphrodite."
+        },
+        {
+          "card_id": "p015-eros",
+          "verse": "201",
+          "greek": "Ἔρος ὡμάρτησε",
+          "reason": "Love translates Eros’s divine name."
+        },
+        {
+          "card_id": "p015-himeros",
+          "verse": "201",
+          "greek": "Ἵμερος ἕσπετο",
+          "reason": "Desire translates Himeros’s divine name."
+        }
+      ]
+    },
+    {
+      "id": "p016",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p016-uranus",
+          "label": "Uranus",
+          "general": "Uranus is the primordial god Sky, father of the Titans by Gaia.",
+          "here": "He rebukes his children and connects their name with their deed and the punishment to come.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "208"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p016-uranus",
+          "verse": "208",
+          "greek": "μέγας Οὐρανός",
+          "reason": "Identifies the divine father speaking the rebuke and links his translated name."
+        }
+      ]
+    },
+    {
+      "id": "p017",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p017-moros",
+          "label": "Moros",
+          "general": "Doom or an unavoidable fate, imagined as a divine being.",
+          "here": "He is Night’s first child named in this list.",
+          "aliases": [
+            "Doom"
+          ],
+          "verse_labels": [
+            "211"
+          ]
+        },
+        {
+          "id": "p017-thanatos",
+          "label": "Thanatos",
+          "general": "Death himself, imagined as a god.",
+          "here": "He is a child of Night and a brother of Sleep.",
+          "aliases": [
+            "Death"
+          ],
+          "verse_labels": [
+            "212"
+          ]
+        },
+        {
+          "id": "p017-hypnos",
+          "label": "Hypnos",
+          "general": "Sleep himself, imagined as a god.",
+          "here": "Night bears him alongside Death and the Dreams.",
+          "aliases": [
+            "Sleep"
+          ],
+          "verse_labels": [
+            "212"
+          ]
+        },
+        {
+          "id": "p017-momus",
+          "label": "Momus",
+          "general": "Blame or fault-finding, imagined as a god.",
+          "here": "He is one of Night’s children.",
+          "aliases": [
+            "Blame"
+          ],
+          "verse_labels": [
+            "214"
+          ]
+        },
+        {
+          "id": "p017-oizys",
+          "label": "Oizys",
+          "general": "Misery or distress, imagined as a goddess.",
+          "here": "Hesiod describes her as painful.",
+          "aliases": [
+            "Misery"
+          ],
+          "verse_labels": [
+            "214"
+          ]
+        },
+        {
+          "id": "p017-nemesis",
+          "label": "Nemesis",
+          "general": "A goddess of resentment and deserved payback for wrongdoing.",
+          "here": "Night bears her as a source of suffering for mortals.",
+          "aliases": [
+            "Payback"
+          ],
+          "verse_labels": [
+            "223",
+            "224"
+          ]
+        },
+        {
+          "id": "p017-apate",
+          "label": "Apate",
+          "general": "Deceit imagined as a goddess.",
+          "here": "She is born after Nemesis.",
+          "aliases": [
+            "Deceit"
+          ],
+          "verse_labels": [
+            "224"
+          ]
+        },
+        {
+          "id": "p017-philotes",
+          "label": "Philotes",
+          "general": "Affection or intimacy, including sexual intimacy, imagined as a goddess.",
+          "here": "She is another child of Night.",
+          "aliases": [
+            "Intimacy"
+          ],
+          "verse_labels": [
+            "224"
+          ]
+        },
+        {
+          "id": "p017-eris",
+          "label": "Eris",
+          "general": "Strife or conflict imagined as a goddess.",
+          "here": "She is Night’s fierce-hearted child.",
+          "aliases": [
+            "Strife"
+          ],
+          "verse_labels": [
+            "225"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p017-moros",
+          "verse": "211",
+          "greek": "Μόρον",
+          "reason": "Doom translates Moros; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-thanatos",
+          "verse": "212",
+          "greek": "Θάνατον",
+          "reason": "Death translates Thanatos; the scope excludes Ker’s description in verse 211."
+        },
+        {
+          "card_id": "p017-hypnos",
+          "verse": "212",
+          "greek": "Ὕπνον",
+          "reason": "Sleep translates Hypnos; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-momus",
+          "verse": "214",
+          "greek": "Μῶμον",
+          "reason": "Blame translates Momus; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-oizys",
+          "verse": "214",
+          "greek": "Ὀιζὺν ἀλγινόεσσαν",
+          "reason": "Misery translates Oizys; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-nemesis",
+          "verse": "223",
+          "greek": "Νέμεσιν",
+          "reason": "Payback identifies Nemesis; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-apate",
+          "verse": "224",
+          "greek": "Ἀπάτην",
+          "reason": "Deceit translates Apate; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-philotes",
+          "verse": "224",
+          "greek": "Φιλότητα",
+          "reason": "Intimacy translates Philotes; existing prose is preserved."
+        },
+        {
+          "card_id": "p017-eris",
+          "verse": "225",
+          "greek": "Ἔριν",
+          "reason": "Strife translates Eris; existing prose is preserved."
+        }
+      ]
+    },
+    {
+      "id": "p018",
+      "remove_ids": [
+        "p018-personification"
+      ],
+      "cards": [
+        {
+          "id": "p018-toil",
+          "label": "Toil",
+          "general": "Ponos is Strife’s divine personification of painful toil.",
+          "here": "He begins the list of her fourteen children.",
+          "aliases": [],
+          "verse_labels": [
+            "226"
+          ]
+        },
+        {
+          "id": "p018-forgetfulness",
+          "label": "Forgetfulness",
+          "general": "Lethe is the divine personification of forgetfulness, a child of Strife.",
+          "here": "She is named alongside Hunger and Sorrows.",
+          "aliases": [],
+          "verse_labels": [
+            "227"
+          ]
+        },
+        {
+          "id": "p018-hunger",
+          "label": "Hunger",
+          "general": "Limos is the divine personification of hunger, a child of Strife.",
+          "here": "He is named alongside Forgetfulness and Sorrows.",
+          "aliases": [],
+          "verse_labels": [
+            "227"
+          ]
+        },
+        {
+          "id": "p018-sorrows",
+          "label": "Sorrows",
+          "general": "The Algea are divine personifications of pains or sorrows, children of Strife.",
+          "here": "They are described as bringing tears.",
+          "aliases": [],
+          "verse_labels": [
+            "227"
+          ]
+        },
+        {
+          "id": "p018-clashes",
+          "label": "Clashes",
+          "general": "The Hysminai are divine personifications of clashes, children of Strife.",
+          "here": "They appear alongside Battles, Murders, and Slaughter.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-battles",
+          "label": "Battles",
+          "general": "The Machai are divine personifications of battles, children of Strife.",
+          "here": "They appear among her children connected with violence.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-murders",
+          "label": "Murders",
+          "general": "The Phonoi are divine personifications of murders, children of Strife.",
+          "here": "They appear alongside Clashes, Battles, and Slaughter.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-slaughter",
+          "label": "Slaughter",
+          "general": "The Androktasiai are divine personifications of slaughters of people, children of Strife.",
+          "here": "The English collective word represents a plural group in the Greek.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-quarrels",
+          "label": "Quarrels",
+          "general": "The Neikea are divine personifications of quarrels, children of Strife.",
+          "here": "They are named with lying Words and Arguments.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
+        },
+        {
+          "id": "p018-lying-words",
+          "label": "lying Words",
+          "general": "The Logoi here are personified lying Words, children of Strife.",
+          "here": "The Greek qualifies Words as lying, making this one entry among Strife’s fourteen children.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
+        },
+        {
+          "id": "p018-arguments",
+          "label": "Arguments",
+          "general": "The Amphillogiai are divine personifications of arguments or disputes, children of Strife.",
+          "here": "They are named with Quarrels and lying Words.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
+        },
+        {
+          "id": "p018-lawlessness",
+          "label": "Lawlessness",
+          "general": "Dysnomia is Strife’s divine personification of lawlessness.",
+          "here": "She and Ruin are close companions.",
+          "aliases": [],
+          "verse_labels": [
+            "230"
+          ]
+        },
+        {
+          "id": "p018-ruin",
+          "label": "Ruin",
+          "general": "Ate is Strife’s divine personification of ruin or disastrous blindness.",
+          "here": "She stays close to Lawlessness. Recklessness explains this destructive blindness; it is not another child.",
+          "aliases": [],
+          "verse_labels": [
+            "230"
+          ]
+        },
+        {
+          "id": "p018-oath",
+          "label": "Oath",
+          "general": "Horkos is Strife’s divine child who punishes deliberate false swearing.",
+          "here": "He brings severe suffering to people who knowingly swear falsely.",
+          "aliases": [],
+          "verse_labels": [
+            "231"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p018-toil",
+          "verse": "226",
+          "greek": "Πόνον ἀλγινόεντα",
+          "reason": "Identifies Ponos as divine offspring rather than ordinary work."
+        },
+        {
+          "card_id": "p018-forgetfulness",
+          "verse": "227",
+          "greek": "Λήθην",
+          "reason": "Names Lethe, Strife’s personified Forgetfulness."
+        },
+        {
+          "card_id": "p018-hunger",
+          "verse": "227",
+          "greek": "Λιμόν",
+          "reason": "Names Limos, Strife’s personified Hunger."
+        },
+        {
+          "card_id": "p018-sorrows",
+          "verse": "227",
+          "greek": "Ἄλγεα δακρυόεντα",
+          "reason": "Identifies the plural Algea and their tear-bringing description."
+        },
+        {
+          "card_id": "p018-clashes",
+          "verse": "228",
+          "greek": "Ὑσμίνας",
+          "reason": "Identifies the Hysminai as a plural personified group."
+        },
+        {
+          "card_id": "p018-battles",
+          "verse": "228",
+          "greek": "Μάχας",
+          "reason": "Identifies the Machai as a plural personified group."
+        },
+        {
+          "card_id": "p018-murders",
+          "verse": "228",
+          "greek": "Φόνους",
+          "reason": "Identifies the Phonoi as a plural personified group."
+        },
+        {
+          "card_id": "p018-slaughter",
+          "verse": "228",
+          "greek": "Ἀνδροκτασίας",
+          "reason": "Preserves the Greek plural group behind the English Slaughter."
+        },
+        {
+          "card_id": "p018-quarrels",
+          "verse": "229",
+          "greek": "Νείκεά",
+          "reason": "Identifies the Neikea as a plural personified group."
+        },
+        {
+          "card_id": "p018-lying-words",
+          "verse": "229",
+          "greek": "ψευδέας τε Λόγους",
+          "reason": "The local text has lying Logoi, not a separately named Pseudea."
+        },
+        {
+          "card_id": "p018-arguments",
+          "verse": "229",
+          "greek": "Ἀμφιλλογίας",
+          "reason": "Identifies the Amphillogiai as a plural personified group."
+        },
+        {
+          "card_id": "p018-lawlessness",
+          "verse": "230",
+          "greek": "Δυσνομίην",
+          "reason": "Identifies Dysnomia before describing the conduct she personifies."
+        },
+        {
+          "card_id": "p018-ruin",
+          "verse": "230",
+          "greek": "Ἄτην τε, συνήθεας ἀλλήλῃσιν",
+          "reason": "Identifies Ate and her companionship with Dysnomia without adding another being."
+        },
+        {
+          "card_id": "p018-oath",
+          "verse": "231",
+          "greek": "Ὅρκον",
+          "reason": "Identifies Horkos; the scope excludes the ordinary false oath in verse 232."
+        }
+      ]
+    },
+    {
+      "id": "p019",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p019-pontus",
+          "label": "Pontus",
+          "general": "The Sea imagined as a god.",
+          "here": "He fathers Nereus and, with Gaia, four more children.",
+          "aliases": [
+            "Sea"
+          ],
+          "verse_labels": [
+            "233",
+            "237"
+          ]
+        },
+        {
+          "id": "p019-nereus",
+          "label": "Nereus",
+          "general": "A gentle, truthful sea god, often called the Old Man of the Sea.",
+          "here": "He is Pontus’s eldest child and always respects what is right.",
+          "aliases": [
+            "Old Man"
+          ],
+          "verse_labels": [
+            "233",
+            "234"
+          ]
+        },
+        {
+          "id": "p019-gaia",
+          "label": "Gaia",
+          "general": "The Earth imagined as a goddess.",
+          "here": "She and Pontus are the parents of Thaumas, Phorcys, Ceto and Eurybia.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "238"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p019-pontus",
+          "verse": "233",
+          "greek": "γείνατο Πόντος",
+          "reason": "Sea identifies the divine father Pontus."
+        },
+        {
+          "card_id": "p019-nereus",
+          "verse": "234",
+          "greek": "καλέουσι γέροντα",
+          "reason": "Old Man is Nereus’s translated title."
+        },
+        {
+          "card_id": "p019-gaia",
+          "verse": "238",
+          "greek": "Γαίῃ μισγόμενος",
+          "reason": "Earth names Gaia, Pontus’s divine partner."
+        }
+      ]
+    },
+    {
+      "id": "p020",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p020-nereids",
+          "label": "Nereids",
+          "general": "The fifty sea-goddess daughters of Nereus and Doris.",
+          "here": "The poem names all fifty and praises their beauty and skill.",
+          "aliases": [
+            "daughters"
+          ],
+          "verse_labels": [
+            "240",
+            "263"
+          ]
+        },
+        {
+          "id": "p020-doris-mother",
+          "label": "Doris, the mother",
+          "general": "A goddess who is a daughter of Oceanus.",
+          "here": "She and Nereus are the parents of the fifty sea goddesses.",
+          "aliases": [
+            "Doris"
+          ],
+          "verse_labels": [
+            "241"
+          ]
+        },
+        {
+          "id": "p020-doris-daughter",
+          "label": "Doris, the daughter",
+          "general": "One of the fifty sea goddesses.",
+          "here": "She shares her name with her mother.",
+          "aliases": [
+            "Doris"
+          ],
+          "verse_labels": [
+            "250"
+          ]
+        },
+        {
+          "id": "p020-ploto",
+          "label": "Ploto",
+          "general": "Ploto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She is the first daughter named in the catalog.",
+          "aliases": [],
+          "verse_labels": [
+            "243"
+          ]
+        },
+        {
+          "id": "p020-eucrante",
+          "label": "Eucrante",
+          "general": "Eucrante is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "243"
+          ]
+        },
+        {
+          "id": "p020-sao",
+          "label": "Sao",
+          "general": "Sao is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "243"
+          ]
+        },
+        {
+          "id": "p020-eudora",
+          "label": "Eudora",
+          "general": "Eudora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "244"
+          ]
+        },
+        {
+          "id": "p020-galene",
+          "label": "Galene",
+          "general": "Galene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "244"
+          ]
+        },
+        {
+          "id": "p020-glauce",
+          "label": "Glauce",
+          "general": "Glauce is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "244"
+          ]
+        },
+        {
+          "id": "p020-cymothoe",
+          "label": "Cymothoe",
+          "general": "Cymothoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-speio",
+          "label": "Speio",
+          "general": "Speio is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-thoe",
+          "label": "Thoe",
+          "general": "Thoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "Her Greek name is Θόη, distinct from the Oceanid Phoe named later.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-halia",
+          "label": "Halia",
+          "general": "Halia is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her lovely.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-pasithea",
+          "label": "Pasithea",
+          "general": "Pasithea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "246"
+          ]
+        },
+        {
+          "id": "p020-erato",
+          "label": "Erato",
+          "general": "This Erato is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She belongs to this sea-goddess family, distinct from the Muse with the same name.",
+          "aliases": [],
+          "verse_labels": [
+            "246"
+          ]
+        },
+        {
+          "id": "p020-eunice",
+          "label": "Eunice",
+          "general": "Eunice is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her rosy arms.",
+          "aliases": [],
+          "verse_labels": [
+            "246"
+          ]
+        },
+        {
+          "id": "p020-melite",
+          "label": "Melite",
+          "general": "Melite is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her graceful.",
+          "aliases": [],
+          "verse_labels": [
+            "247"
+          ]
+        },
+        {
+          "id": "p020-eulimene",
+          "label": "Eulimene",
+          "general": "Eulimene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "247"
+          ]
+        },
+        {
+          "id": "p020-agave",
+          "label": "Agave",
+          "general": "This Agave is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She belongs to this sea-goddess family, distinct from Cadmus and Harmonia’s daughter.",
+          "aliases": [],
+          "verse_labels": [
+            "247"
+          ]
+        },
+        {
+          "id": "p020-doto",
+          "label": "Doto",
+          "general": "Doto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-proto",
+          "label": "Proto",
+          "general": "Proto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-pherusa",
+          "label": "Pherusa",
+          "general": "Pherusa is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-dynamene",
+          "label": "Dynamene",
+          "general": "Dynamene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-nesaea",
+          "label": "Nesaea",
+          "general": "Nesaea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "249"
+          ]
+        },
+        {
+          "id": "p020-actaea",
+          "label": "Actaea",
+          "general": "Actaea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "249"
+          ]
+        },
+        {
+          "id": "p020-protomedea",
+          "label": "Protomedea",
+          "general": "Protomedea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "249"
+          ]
+        },
+        {
+          "id": "p020-panopea",
+          "label": "Panopea",
+          "general": "Panopea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "250"
+          ]
+        },
+        {
+          "id": "p020-hippothoe",
+          "label": "Hippothoe",
+          "general": "Hippothoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her lovely.",
+          "aliases": [],
+          "verse_labels": [
+            "251"
+          ]
+        },
+        {
+          "id": "p020-hipponoe",
+          "label": "Hipponoe",
+          "general": "Hipponoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her rosy arms.",
+          "aliases": [],
+          "verse_labels": [
+            "251"
+          ]
+        },
+        {
+          "id": "p020-cymo",
+          "label": "Cymo",
+          "general": "Cymo is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "255"
+          ]
+        },
+        {
+          "id": "p020-eione",
+          "label": "Eione",
+          "general": "Eione is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "255"
+          ]
+        },
+        {
+          "id": "p020-halimede",
+          "label": "Halimede",
+          "general": "Halimede is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her lovely crown.",
+          "aliases": [],
+          "verse_labels": [
+            "255"
+          ]
+        },
+        {
+          "id": "p020-glauconome",
+          "label": "Glauconome",
+          "general": "Glauconome is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem describes her as loving to smile.",
+          "aliases": [],
+          "verse_labels": [
+            "256"
+          ]
+        },
+        {
+          "id": "p020-pontoporea",
+          "label": "Pontoporea",
+          "general": "Pontoporea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "256"
+          ]
+        },
+        {
+          "id": "p020-leagora",
+          "label": "Leagora",
+          "general": "Leagora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "257"
+          ]
+        },
+        {
+          "id": "p020-euagora",
+          "label": "Euagora",
+          "general": "Euagora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "257"
+          ]
+        },
+        {
+          "id": "p020-laomedea",
+          "label": "Laomedea",
+          "general": "Laomedea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "257"
+          ]
+        },
+        {
+          "id": "p020-polynoe",
+          "label": "Polynoe",
+          "general": "Polynoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "258"
+          ]
+        },
+        {
+          "id": "p020-autonoe",
+          "label": "Autonoe",
+          "general": "This Autonoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She belongs to this sea-goddess family, distinct from Cadmus and Harmonia’s daughter.",
+          "aliases": [],
+          "verse_labels": [
+            "258"
+          ]
+        },
+        {
+          "id": "p020-lysianassa",
+          "label": "Lysianassa",
+          "general": "Lysianassa is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "258"
+          ]
+        },
+        {
+          "id": "p020-euarne",
+          "label": "Euarne",
+          "general": "Euarne is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her figure and looks.",
+          "aliases": [],
+          "verse_labels": [
+            "259"
+          ]
+        },
+        {
+          "id": "p020-psamathe",
+          "label": "Psamathe",
+          "general": "Psamathe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her graceful body.",
+          "aliases": [],
+          "verse_labels": [
+            "260"
+          ]
+        },
+        {
+          "id": "p020-menippe",
+          "label": "Menippe",
+          "general": "Menippe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her glorious.",
+          "aliases": [],
+          "verse_labels": [
+            "260"
+          ]
+        },
+        {
+          "id": "p020-neso",
+          "label": "Neso",
+          "general": "Neso is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        },
+        {
+          "id": "p020-eupompe",
+          "label": "Eupompe",
+          "general": "Eupompe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        },
+        {
+          "id": "p020-themisto",
+          "label": "Themisto",
+          "general": "Themisto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        },
+        {
+          "id": "p020-pronoe",
+          "label": "Pronoe",
+          "general": "Pronoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p020-nereids",
+          "verse": "240",
+          "greek": "Νηρῆος δʼ ἐγένοντο μεγήρατα τέκνα θεάων",
+          "reason": "Provides links from daughters at the opening and closing of the catalog."
+        },
+        {
+          "card_id": "p020-doris-mother",
+          "verse": "241",
+          "greek": "Δωρίδος ἠυκόμοιο",
+          "reason": "This Doris is the mother, identified next as Oceanus’s daughter."
+        },
+        {
+          "card_id": "p020-doris-daughter",
+          "verse": "250",
+          "greek": "Δωρὶς",
+          "reason": "This catalog occurrence is the Nereid daughter."
+        },
+        {
+          "card_id": "p020-ploto",
+          "verse": "243",
+          "greek": "Πλωτώ",
+          "reason": "Names Ploto among Nereus and Doris’s sea-goddess daughters."
+        },
+        {
+          "card_id": "p020-eucrante",
+          "verse": "243",
+          "greek": "Εὐκράντη",
+          "reason": "Names Eucrante among the Nereids."
+        },
+        {
+          "card_id": "p020-sao",
+          "verse": "243",
+          "greek": "Σαώ",
+          "reason": "Names Sao among the Nereids."
+        },
+        {
+          "card_id": "p020-eudora",
+          "verse": "244",
+          "greek": "Εὐδώρη",
+          "reason": "Names Eudora among the Nereids."
+        },
+        {
+          "card_id": "p020-galene",
+          "verse": "244",
+          "greek": "Γαλήνη",
+          "reason": "Names Galene among the Nereids."
+        },
+        {
+          "card_id": "p020-glauce",
+          "verse": "244",
+          "greek": "Γλαύκη",
+          "reason": "Names Glauce among the Nereids."
+        },
+        {
+          "card_id": "p020-cymothoe",
+          "verse": "245",
+          "greek": "Κυμοθόη",
+          "reason": "Names Cymothoe among the Nereids."
+        },
+        {
+          "card_id": "p020-speio",
+          "verse": "245",
+          "greek": "Σπειώ",
+          "reason": "Names Speio among the Nereids."
+        },
+        {
+          "card_id": "p020-thoe",
+          "verse": "245",
+          "greek": "Θόη",
+          "reason": "The local Nereid is Thoe, distinct from p025’s Φόη."
+        },
+        {
+          "card_id": "p020-halia",
+          "verse": "245",
+          "greek": "Ἀλίη τʼ ἐρόεσσα",
+          "reason": "Names Halia and calls her lovely."
+        },
+        {
+          "card_id": "p020-pasithea",
+          "verse": "246",
+          "greek": "Πασιθέη",
+          "reason": "Names Pasithea among the Nereids."
+        },
+        {
+          "card_id": "p020-erato",
+          "verse": "246",
+          "greek": "Ἐρατώ",
+          "reason": "This catalog identifies a Nereid rather than the Muse."
+        },
+        {
+          "card_id": "p020-eunice",
+          "verse": "246",
+          "greek": "Εὐνίκη ῥοδόπηχυς",
+          "reason": "Identifies Eunice herself as well as her epithet."
+        },
+        {
+          "card_id": "p020-melite",
+          "verse": "247",
+          "greek": "Μελίτη χαρίεσσα",
+          "reason": "Names Melite and calls her graceful."
+        },
+        {
+          "card_id": "p020-eulimene",
+          "verse": "247",
+          "greek": "Εὐλιμένη",
+          "reason": "Names Eulimene among the Nereids."
+        },
+        {
+          "card_id": "p020-agave",
+          "verse": "247",
+          "greek": "Ἀγαυὴ",
+          "reason": "This Agave belongs to Nereus and Doris’s family."
+        },
+        {
+          "card_id": "p020-doto",
+          "verse": "248",
+          "greek": "Δωτώ",
+          "reason": "Names Doto among the Nereids."
+        },
+        {
+          "card_id": "p020-proto",
+          "verse": "248",
+          "greek": "Πρωτώ",
+          "reason": "Names Proto among the Nereids."
+        },
+        {
+          "card_id": "p020-pherusa",
+          "verse": "248",
+          "greek": "Φέρουσά",
+          "reason": "Names Pherusa among the Nereids."
+        },
+        {
+          "card_id": "p020-dynamene",
+          "verse": "248",
+          "greek": "Δυναμένη",
+          "reason": "Names Dynamene among the Nereids."
+        },
+        {
+          "card_id": "p020-nesaea",
+          "verse": "249",
+          "greek": "Νησαίη",
+          "reason": "Names Nesaea among the Nereids."
+        },
+        {
+          "card_id": "p020-actaea",
+          "verse": "249",
+          "greek": "Ἀκταίη",
+          "reason": "Names Actaea among the Nereids."
+        },
+        {
+          "card_id": "p020-protomedea",
+          "verse": "249",
+          "greek": "Πρωτομέδεια",
+          "reason": "Names Protomedea among the Nereids."
+        },
+        {
+          "card_id": "p020-panopea",
+          "verse": "250",
+          "greek": "Πανόπεια",
+          "reason": "Names Panopea among the Nereids."
+        },
+        {
+          "card_id": "p020-hippothoe",
+          "verse": "251",
+          "greek": "Ἱπποθόη τʼ ἐρόεσσα",
+          "reason": "Names Hippothoe and calls her lovely."
+        },
+        {
+          "card_id": "p020-hipponoe",
+          "verse": "251",
+          "greek": "Ἱππονόη ῥοδόπηχυς",
+          "reason": "Identifies Hipponoe herself as well as her epithet."
+        },
+        {
+          "card_id": "p020-cymo",
+          "verse": "255",
+          "greek": "Κυμώ",
+          "reason": "Names Cymo among the Nereids."
+        },
+        {
+          "card_id": "p020-eione",
+          "verse": "255",
+          "greek": "Ἠιόνη",
+          "reason": "Names Eione among the Nereids."
+        },
+        {
+          "card_id": "p020-halimede",
+          "verse": "255",
+          "greek": "ἐυστέφανός θʼ Ἁλιμήδη",
+          "reason": "Names Halimede and praises her crown."
+        },
+        {
+          "card_id": "p020-glauconome",
+          "verse": "256",
+          "greek": "Γλαυκονόμη τε φιλομμειδὴς",
+          "reason": "Names Glauconome and gives her smile-loving description."
+        },
+        {
+          "card_id": "p020-pontoporea",
+          "verse": "256",
+          "greek": "Ποντοπόρεια",
+          "reason": "Names Pontoporea among the Nereids."
+        },
+        {
+          "card_id": "p020-leagora",
+          "verse": "257",
+          "greek": "Ληαγόρη",
+          "reason": "Names Leagora among the Nereids."
+        },
+        {
+          "card_id": "p020-euagora",
+          "verse": "257",
+          "greek": "Εὐαγόρη",
+          "reason": "Names Euagora among the Nereids."
+        },
+        {
+          "card_id": "p020-laomedea",
+          "verse": "257",
+          "greek": "Λαομέδεια",
+          "reason": "Names Laomedea among the Nereids."
+        },
+        {
+          "card_id": "p020-polynoe",
+          "verse": "258",
+          "greek": "Πουλυνόη",
+          "reason": "Names Polynoe among the Nereids."
+        },
+        {
+          "card_id": "p020-autonoe",
+          "verse": "258",
+          "greek": "Αὐτονόη",
+          "reason": "This Autonoe belongs to Nereus and Doris’s family."
+        },
+        {
+          "card_id": "p020-lysianassa",
+          "verse": "258",
+          "greek": "Λυσιάνασσα",
+          "reason": "Names Lysianassa among the Nereids."
+        },
+        {
+          "card_id": "p020-euarne",
+          "verse": "259",
+          "greek": "Εὐάρνη τε φυήν τʼ ἐρατὴ",
+          "reason": "Names Euarne and praises her figure."
+        },
+        {
+          "card_id": "p020-psamathe",
+          "verse": "260",
+          "greek": "Ψαμάθη χαρίεσσα δέμας",
+          "reason": "Names Psamathe and praises her body."
+        },
+        {
+          "card_id": "p020-menippe",
+          "verse": "260",
+          "greek": "δίη τε Μενίππη",
+          "reason": "Names Menippe with the description glorious."
+        },
+        {
+          "card_id": "p020-neso",
+          "verse": "261",
+          "greek": "Νησώ",
+          "reason": "Names Neso among the Nereids."
+        },
+        {
+          "card_id": "p020-eupompe",
+          "verse": "261",
+          "greek": "Εὐπόμπη",
+          "reason": "Names Eupompe among the Nereids."
+        },
+        {
+          "card_id": "p020-themisto",
+          "verse": "261",
+          "greek": "Θεμιστώ",
+          "reason": "Names Themisto among the Nereids."
+        },
+        {
+          "card_id": "p020-pronoe",
+          "verse": "261",
+          "greek": "Προνόη",
+          "reason": "Names Pronoe among the Nereids."
+        }
+      ]
+    },
+    {
+      "id": "p021",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "graiae",
+          "label": "Graiae",
+          "general": "The Graiae are Ceto and Phorcys’s supernatural daughters Pemphredo and Enyo, gray-haired from birth.",
+          "here": "Their name means Old Women, which Hesiod explains through their hair.",
+          "aliases": [
+            "Old Women"
+          ],
+          "verse_labels": [
+            "270",
+            "271"
+          ]
+        },
+        {
+          "id": "chrysaor",
+          "label": "Chrysaor",
+          "general": "Chrysaor is Medusa and Poseidon’s son, who emerges holding a golden sword.",
+          "here": "He springs out when Perseus cuts off Medusa’s head. His sword explains his name.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "poseidon",
+          "label": "Poseidon",
+          "general": "The god of the sea, often called “the Dark-haired One.”",
+          "here": "He sleeps with Medusa in a meadow.",
+          "aliases": [
+            "Dark-haired"
+          ],
+          "verse_labels": [
+            "278"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "graiae",
+          "verse": "270",
+          "greek": "Φόρκυϊ δʼ αὖ Κητὼ Γραίας τέκε",
+          "reason": "Identifies the daughters through their parents before explaining their name."
+        },
+        {
+          "card_id": "chrysaor",
+          "verse": "283",
+          "greek": "ἄορ χρύσειον ἔχων",
+          "reason": "Identifies the son introduced in the birth account without inventing a bodily form."
+        },
+        {
+          "card_id": "poseidon",
+          "verse": "278",
+          "greek": "Κυανοχαίτης",
+          "reason": "Dark-haired translates the title naming Poseidon."
+        }
+      ]
+    },
+    {
+      "id": "p022",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p022-chrysaor",
+          "label": "Chrysaor",
+          "general": "Chrysaor is Medusa and Poseidon’s son and Geryon’s father by Callirhoe.",
+          "here": "His union with Oceanus’s daughter produces three-headed Geryon.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p022-ceto",
+          "label": "Ceto",
+          "general": "Ceto is a sea goddess, daughter of Gaia and Pontus.",
+          "here": "The English names her as the continuing mother who bears Echidna.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p022-chrysaor",
+          "verse": "287",
+          "greek": "Χρυσάωρ δʼ ἔτεκεν τρικέφαλον Γηρυονῆα",
+          "reason": "Identifies Geryon’s father using the preceding account of Chrysaor’s birth."
+        },
+        {
+          "card_id": "p022-ceto",
+          "verse": "295",
+          "greek": "ἣ δʼ ἔτεκʼ ἄλλο πέλωρον",
+          "reason": "The English explicitly supplies Ceto as the continuing mother."
+        }
+      ]
+    },
+    {
+      "id": "p023",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p023-echidna",
+          "label": "Echidna",
+          "general": "Echidna is an immortal monster, half nymph and half serpent.",
+          "here": "She bears monstrous children with Typhaon and later with Orthus.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p023-geryon",
+          "label": "Geryon",
+          "general": "Geryon is the three-headed cattle owner, son of Chrysaor and Callirhoe.",
+          "here": "Orthus is born as a dog for him.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p023-hydra",
+          "label": "Hydra of Lerna",
+          "general": "A dangerous water monster associated with Lerna in Greece.",
+          "here": "Hera raises her, and Heracles kills her with help.",
+          "aliases": [
+            "Hydra"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p023-nemean-lion",
+          "label": "Nemean lion",
+          "general": "A monstrous lion associated with Nemea in Greece.",
+          "here": "He terrorizes the surrounding area until Heracles defeats him.",
+          "aliases": [
+            "lion of Nemea"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p023-apple-guarding-serpent",
+          "label": "a dreadful snake",
+          "general": "This snake is an unnamed monstrous child of Ceto and Phorcys.",
+          "here": "It guards the golden apples at the earth’s far limits.",
+          "aliases": [],
+          "verse_labels": [
+            "334"
+          ]
+        },
+        {
+          "id": "p023-heracles",
+          "label": "Heracles",
+          "general": "A famously strong hero, born to Zeus and a human mother.",
+          "here": "He defeats the Hydra and the Nemean lion.",
+          "aliases": [
+            "Zeus's son",
+            "Zeus’s son",
+            "Amphitryon's son",
+            "Amphitryon’s son"
+          ],
+          "verse_labels": [
+            "315",
+            "316",
+            "317",
+            "318",
+            "332"
+          ]
+        },
+        {
+          "id": "p023-athena",
+          "label": "Athena",
+          "general": "A goddess of wisdom, skilled action, and warfare.",
+          "here": "Her guidance helps Heracles defeat the Hydra.",
+          "aliases": [
+            "bringer of spoils"
+          ],
+          "verse_labels": [
+            "318"
+          ]
+        },
+        {
+          "id": "p023-tretus-nemea-apesas",
+          "label": "Tretus, Nemea, and Apesas",
+          "general": "Neighboring places in Greece: a mountain pass, a valley, and a mountain.",
+          "here": "They mark the territory dominated by the lion.",
+          "aliases": [
+            "Tretus",
+            "Nemea",
+            "Apesas"
+          ],
+          "verse_labels": [
+            "331"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p023-echidna",
+          "verse": "306",
+          "greek": "τῇ δὲ Τυφάονά φασι μιγήμεναι",
+          "reason": "Identifies the continuing mother introduced in the preceding passage."
+        },
+        {
+          "card_id": "p023-geryon",
+          "verse": "309",
+          "greek": "κύνα γείνατο Γηρυονῆι",
+          "reason": "Identifies the owner for whom Orthus is born."
+        },
+        {
+          "card_id": "p023-hydra",
+          "verse": "313",
+          "greek": "Ὕδρην",
+          "reason": "Connects the actual Hydra occurrence to the existing monster explanation."
+        },
+        {
+          "card_id": "p023-nemean-lion",
+          "verse": "327",
+          "greek": "Νεμειαῖόν τε λέοντα",
+          "reason": "Connects lion of Nemea to the existing monster explanation."
+        },
+        {
+          "card_id": "p023-apple-guarding-serpent",
+          "verse": "334",
+          "greek": "γείνατο δεινὸν ὄφιν",
+          "reason": "Identifies the unnamed serpent without assigning a name absent from this source."
+        },
+        {
+          "card_id": "p023-heracles",
+          "verse": "317",
+          "greek": "Ἀμφιτρυωνιάδης",
+          "reason": "Links the translated patronymic to Heracles, with apostrophe variants."
+        },
+        {
+          "card_id": "p023-athena",
+          "verse": "318",
+          "greek": "Ἀθηναίης ἀγελείης",
+          "reason": "The translated title bringer of spoils identifies Athena."
+        },
+        {
+          "card_id": "p023-tretus-nemea-apesas",
+          "verse": "331",
+          "greek": "Τρητοῖο Νεμείης ἠδʼ Ἀπέσαντος",
+          "reason": "Explicit aliases make each name in the comma-list card reachable."
+        }
+      ]
+    },
+    {
+      "id": "p024",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p024-rivers",
+          "label": "Rivers",
+          "general": "The Rivers are the river-god sons of Tethys and Ocean.",
+          "here": "The poem names twenty-five of them.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-nile",
+          "label": "Nile",
+          "general": "Nile is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-alpheus",
+          "label": "Alpheus",
+          "general": "Alpheus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-eridanus",
+          "label": "Eridanus",
+          "general": "Eridanus is a river god, son of Tethys and Ocean.",
+          "here": "His waters form deep whirlpools.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-strymon",
+          "label": "Strymon",
+          "general": "Strymon is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-maeander",
+          "label": "Maeander",
+          "general": "Maeander is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-ister",
+          "label": "Ister",
+          "general": "Ister is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod praises his lovely streams.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-phasis",
+          "label": "Phasis",
+          "general": "Phasis is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-rhesus",
+          "label": "Rhesus",
+          "general": "Rhesus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-achelous",
+          "label": "Achelous",
+          "general": "Achelous is a river god, son of Tethys and Ocean.",
+          "here": "His swirling waters gleam like silver.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-nessus",
+          "label": "Nessus",
+          "general": "Nessus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-rhodius",
+          "label": "Rhodius",
+          "general": "Rhodius is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-haliacmon",
+          "label": "Haliacmon",
+          "general": "Haliacmon is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-heptaporus",
+          "label": "Heptaporus",
+          "general": "Heptaporus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-grenicus",
+          "label": "Grenicus",
+          "general": "Grenicus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-aesepus",
+          "label": "Aesepus",
+          "general": "Aesepus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-simois",
+          "label": "Simois",
+          "general": "Simois is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod calls him sacred.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-peneus",
+          "label": "Peneus",
+          "general": "Peneus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-hermus",
+          "label": "Hermus",
+          "general": "Hermus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-caicus",
+          "label": "Caicus",
+          "general": "Caicus is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod praises his flowing waters.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-sangarius",
+          "label": "Sangarius",
+          "general": "Sangarius is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod calls him great.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-ladon",
+          "label": "Ladon",
+          "general": "This Ladon is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-parthenius",
+          "label": "Parthenius",
+          "general": "Parthenius is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-evenus",
+          "label": "Evenus",
+          "general": "Evenus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-ardescus",
+          "label": "Ardescus",
+          "general": "Ardescus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p024-scamander",
+          "label": "Scamander",
+          "general": "Scamander is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod calls him sacred.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p024-rivers",
+          "verse": "337",
+          "greek": "Τηθὺς δʼ Ὠκεανῷ Ποταμοὺς τέκε",
+          "reason": "Directly identifies the river-god family."
+        },
+        {
+          "card_id": "p024-nile",
+          "verse": "338",
+          "greek": "Νεῖλόν",
+          "reason": "Names Nile in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-alpheus",
+          "verse": "338",
+          "greek": "Ἀλφειόν",
+          "reason": "Names Alpheus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-eridanus",
+          "verse": "338",
+          "greek": "Ἠριδανὸν βαθυδίνην",
+          "reason": "Names Eridanus and describes his deep whirlpools."
+        },
+        {
+          "card_id": "p024-strymon",
+          "verse": "339",
+          "greek": "Στρυμόνα",
+          "reason": "Names Strymon in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-maeander",
+          "verse": "339",
+          "greek": "Μαίανδρόν",
+          "reason": "Names Maeander in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-ister",
+          "verse": "339",
+          "greek": "Ἴστρον καλλιρέεθρον",
+          "reason": "Names Ister and praises his streams."
+        },
+        {
+          "card_id": "p024-phasis",
+          "verse": "340",
+          "greek": "Φᾶσίν",
+          "reason": "Names Phasis in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-rhesus",
+          "verse": "340",
+          "greek": "Ῥῆσόν",
+          "reason": "Names Rhesus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-achelous",
+          "verse": "340",
+          "greek": "Ἀχελώιόν τʼ ἀργυροδίνην",
+          "reason": "Puts Achelous’s river-god identity first and retains the local description."
+        },
+        {
+          "card_id": "p024-nessus",
+          "verse": "341",
+          "greek": "Νέσσον",
+          "reason": "Names Nessus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-rhodius",
+          "verse": "341",
+          "greek": "Ῥοδίον",
+          "reason": "Names Rhodius in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-haliacmon",
+          "verse": "341",
+          "greek": "Ἁλιάκμονά",
+          "reason": "Names Haliacmon in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-heptaporus",
+          "verse": "341",
+          "greek": "Ἑπτάπορόν",
+          "reason": "Names Heptaporus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-grenicus",
+          "verse": "342",
+          "greek": "Γρήνικόν",
+          "reason": "Identifies the river god while preserving the local name Grenicus."
+        },
+        {
+          "card_id": "p024-aesepus",
+          "verse": "342",
+          "greek": "Αἴσηπον",
+          "reason": "Names Aesepus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-simois",
+          "verse": "342",
+          "greek": "θεῖόν τε Σιμοῦντα",
+          "reason": "Explicitly describes Simois as divine."
+        },
+        {
+          "card_id": "p024-peneus",
+          "verse": "343",
+          "greek": "Πηνειόν",
+          "reason": "Names Peneus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-hermus",
+          "verse": "343",
+          "greek": "Ἕρμον",
+          "reason": "Names Hermus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-caicus",
+          "verse": "343",
+          "greek": "ἐυρρείτην τε Κάικον",
+          "reason": "Names Caicus and praises his flowing water."
+        },
+        {
+          "card_id": "p024-sangarius",
+          "verse": "344",
+          "greek": "Σαγγάριόν τε μέγαν",
+          "reason": "Names Sangarius and calls him great."
+        },
+        {
+          "card_id": "p024-ladon",
+          "verse": "344",
+          "greek": "Λάδωνά",
+          "reason": "Identifies this Ladon as one of the river gods."
+        },
+        {
+          "card_id": "p024-parthenius",
+          "verse": "344",
+          "greek": "Παρθένιόν",
+          "reason": "Names Parthenius in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-evenus",
+          "verse": "345",
+          "greek": "Εὔηνόν",
+          "reason": "Names Evenus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-ardescus",
+          "verse": "345",
+          "greek": "Ἄρδησκον",
+          "reason": "Names Ardescus in the river-god genealogy."
+        },
+        {
+          "card_id": "p024-scamander",
+          "verse": "345",
+          "greek": "θεῖόν τε Σκάμανδρον",
+          "reason": "Puts Scamander’s river-god identity first and retains his divine description."
+        }
+      ]
+    },
+    {
+      "id": "p025",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p025-tethys",
+          "label": "Tethys",
+          "general": "Tethys is a Titan goddess, mother of the Oceanids and river gods by Ocean.",
+          "here": "She bears the daughters and Rivers who help nurture the young.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p025-ocean",
+          "label": "Ocean",
+          "general": "Ocean is Oceanus, the world-encircling river god.",
+          "here": "He and Tethys are the parents of the Oceanid daughters and the Rivers.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p025-rivers",
+          "label": "Rivers",
+          "general": "The Rivers are the river-god sons of Ocean and Tethys.",
+          "here": "They help Apollo and their sisters nurture the young, and number three thousand.",
+          "aliases": [],
+          "verse_labels": [
+            "348",
+            "367"
+          ]
+        },
+        {
+          "id": "p025-peitho",
+          "label": "Peitho",
+          "general": "Peitho is an Oceanid goddess who personifies persuasion.",
+          "here": "She is named among Ocean and Tethys’s eldest daughters.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p025-dione",
+          "label": "Dione",
+          "general": "Dione is an Oceanid goddess, a daughter of Ocean and Tethys.",
+          "here": "She is named among their eldest daughters and called lovely.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p025-thoe",
+          "label": "Phoe",
+          "general": "One of the Oceanids, the water goddesses.",
+          "here": "One of the eldest daughters.",
+          "aliases": [],
+          "verse_labels": [
+            "354"
+          ]
+        },
+        {
+          "id": "p025-calypso",
+          "label": "Calypso",
+          "general": "Calypso is an Oceanid goddess, a daughter of Ocean and Tethys.",
+          "here": "She is named among their eldest daughters and called enchanting.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p025-tethys",
+          "verse": "368",
+          "greek": "τοὺς γείνατο πότνια Τηθύς",
+          "reason": "Identifies the divine mother of the Rivers and Oceanids."
+        },
+        {
+          "card_id": "p025-ocean",
+          "verse": "362",
+          "greek": "Ὠκεανοῦ καὶ Τηθύος",
+          "reason": "Identifies the translated divine name Ocean and the daughters’ parents."
+        },
+        {
+          "card_id": "p025-rivers",
+          "verse": "368",
+          "greek": "υἱέες Ὠκεανοῦ",
+          "reason": "Identifies the group as divine sons rather than ordinary rivers alone."
+        },
+        {
+          "card_id": "p025-peitho",
+          "verse": "349",
+          "greek": "Πειθώ",
+          "reason": "States Peitho’s Oceanid and personification identity before the name meaning."
+        },
+        {
+          "card_id": "p025-dione",
+          "verse": "353",
+          "greek": "ἐρατή τε Διώνη",
+          "reason": "States Dione’s identity in this genealogy without importing other traditions."
+        },
+        {
+          "card_id": "p025-thoe",
+          "verse": "354",
+          "greek": "Φόη",
+          "reason": "Corrects the label to Phoe while preserving the existing ID and prose."
+        },
+        {
+          "card_id": "p025-calypso",
+          "verse": "359",
+          "greek": "ἱμερόεσσα Καλυψὼ",
+          "reason": "States Calypso’s identity in this genealogy and retains her local description."
+        }
+      ]
+    },
+    {
+      "id": "p026",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p026-helios",
+          "label": "Helios",
+          "general": "The Sun as a god.",
+          "here": "Theia and Hyperion’s son.",
+          "aliases": [
+            "Sun"
+          ],
+          "verse_labels": [
+            "371"
+          ]
+        },
+        {
+          "id": "p026-selene",
+          "label": "Selene",
+          "general": "The Moon as a goddess.",
+          "here": "Theia and Hyperion’s bright daughter.",
+          "aliases": [
+            "Moon"
+          ],
+          "verse_labels": [
+            "371"
+          ]
+        },
+        {
+          "id": "p026-eos",
+          "label": "Eos",
+          "general": "The goddess of dawn, the first light of morning.",
+          "here": "She brings light to people and gods.",
+          "aliases": [
+            "Dawn"
+          ],
+          "verse_labels": [
+            "372"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p026-helios",
+          "verse": "371",
+          "greek": "Ἠέλιόν",
+          "reason": "Sun translates Helios’s divine name."
+        },
+        {
+          "card_id": "p026-selene",
+          "verse": "371",
+          "greek": "Σελήνην",
+          "reason": "Moon translates Selene’s divine name."
+        },
+        {
+          "card_id": "p026-eos",
+          "verse": "372",
+          "greek": "Ἠῶ",
+          "reason": "Dawn translates Eos’s divine name."
+        }
+      ]
+    },
+    {
+      "id": "p027",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p027-eosphorus",
+          "label": "Eosphorus",
+          "general": "Eosphorus is the divine Morning Star, a child of Eos and Astraeus.",
+          "here": "Eos bears him after the Winds. He is Venus as seen before sunrise.",
+          "aliases": [
+            "Morning Star"
+          ],
+          "verse_labels": [
+            "381"
+          ]
+        },
+        {
+          "id": "p027-gleaming-stars",
+          "label": "gleaming stars",
+          "general": "These stars are divine offspring of Eos and Astraeus as well as lights in the sky.",
+          "here": "Eos bears them after the Winds, and they crown the sky.",
+          "aliases": [],
+          "verse_labels": [
+            "382"
+          ]
+        },
+        {
+          "id": "p027-eos",
+          "label": "Eos",
+          "general": "The goddess of dawn.",
+          "here": "She is the mother of the Winds and stars; “born at daybreak” is a poetic title for her.",
+          "aliases": [
+            "born at daybreak"
+          ],
+          "verse_labels": [
+            "378",
+            "381"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p027-eosphorus",
+          "verse": "381",
+          "greek": "ἀστέρα τίκτεν Ἑωσφόρον",
+          "reason": "Identifies the divine child before explaining the astronomical object."
+        },
+        {
+          "card_id": "p027-gleaming-stars",
+          "verse": "382",
+          "greek": "ἄστρα τε λαμπετόωντα",
+          "reason": "The stars continue the objects of Eos’s giving birth."
+        },
+        {
+          "card_id": "p027-eos",
+          "verse": "381",
+          "greek": "Ἠριγένεια",
+          "reason": "Born at daybreak translates Eos’s title."
+        }
+      ]
+    },
+    {
+      "id": "p028",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p028-zelos",
+          "label": "Zelos",
+          "general": "Zelos is the divine personification of rivalry and the drive to excel.",
+          "here": "One of Styx’s children, always beside Zeus.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p028-kratos",
+          "label": "Kratos",
+          "general": "Kratos is the divine personification of power and might.",
+          "here": "One of Styx’s children, always beside Zeus.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p028-bia",
+          "label": "Bia",
+          "general": "Bia is the divine personification of force.",
+          "here": "One of Styx’s children, always beside Zeus.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p028-zelos",
+          "verse": "384",
+          "greek": "Ζῆλον",
+          "reason": "Makes Zelos’s divine personification identity explicit."
+        },
+        {
+          "card_id": "p028-kratos",
+          "verse": "385",
+          "greek": "Κράτος",
+          "reason": "Makes Kratos’s divine personification identity explicit."
+        },
+        {
+          "card_id": "p028-bia",
+          "verse": "385",
+          "greek": "Βίην",
+          "reason": "Makes Bia’s divine personification identity explicit."
+        }
+      ]
+    },
+    {
+      "id": "p031",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p031-cronus",
+          "label": "Cronus",
+          "general": "Cronus is Zeus’s Titan father and predecessor as ruler of the gods.",
+          "here": "His name identifies Zeus through the title son of Cronus.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p031-earth-shaker",
+          "label": "Earth-shaker",
+          "general": "A name for Poseidon, god of the sea and earthquakes.",
+          "here": "People fishing at sea pray to him along with Hecate.",
+          "aliases": [
+            "Poseidon"
+          ],
+          "verse_labels": [
+            "441"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p031-cronus",
+          "verse": "450",
+          "greek": "Κρονίδης",
+          "reason": "The translated patronymic names Zeus’s father, who needs his own identification."
+        },
+        {
+          "card_id": "p031-earth-shaker",
+          "verse": "441",
+          "greek": "Ἐννοσιγαίῳ",
+          "reason": "Both Poseidon and Earth-shaker should reach the existing explanation."
+        }
+      ]
+    },
+    {
+      "id": "p032",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p032-poseidon",
+          "label": "Poseidon",
+          "general": "The god of the sea and earthquakes, also called Earth-shaker.",
+          "here": "He is one of Rhea and Cronus's sons.",
+          "aliases": [
+            "Earth-shaker"
+          ],
+          "verse_labels": [
+            "456"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p032-poseidon",
+          "verse": "456",
+          "greek": "Ἐννοσίγαιον",
+          "reason": "Earth-shaker translates the divine title identifying Poseidon."
+        }
+      ]
+    },
+    {
+      "id": "p034",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p034-cyclopes",
+          "label": "Zeus’s father’s brothers",
+          "general": "The Cyclopes, divine craftsmen with one eye each, are sons of Ouranos and Gaia.",
+          "here": "These are the uncles who repay Zeus with thunder, the thunderbolt, and lightning.",
+          "aliases": [
+            "his father's brothers",
+            "his father’s brothers"
+          ],
+          "verse_labels": [
+            "501"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p034-cyclopes",
+          "verse": "501",
+          "greek": "πατροκασιγνήτους",
+          "reason": "Links the actual translated phrase to the existing Cyclopes explanation, preserving its prose."
+        }
+      ]
+    },
+    {
+      "id": "p036",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p036-son-of-cronus",
+          "label": "The son of Cronus",
+          "general": "Zeus is the ruling god and a son of the Titan Cronus.",
+          "here": "He punishes Prometheus but consents to Heracles ending the eagle’s attack, honoring his son.",
+          "aliases": [
+            "Zeus",
+            "son of Cronus"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p036-iapetus",
+          "label": "Iapetus",
+          "general": "Iapetus is a Titan, one of the older generation of gods.",
+          "here": "He is Prometheus’s father, named in the translated patronymic.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p036-cronus",
+          "label": "Cronus",
+          "general": "Cronus is Zeus’s Titan father and predecessor as ruler of the gods.",
+          "here": "His name identifies Zeus as the god whose plans Prometheus challenged.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p036-son-of-cronus",
+          "verse": "529",
+          "greek": "Ζηνὸς Ὀλυμπίου ὑψιμέδοντος",
+          "reason": "Identifies Zeus directly and makes his actual name reach the existing card."
+        },
+        {
+          "card_id": "p036-iapetus",
+          "verse": "528",
+          "greek": "Ἰαπετιονίδῃ",
+          "reason": "Identifies the Titan father named by Prometheus’s translated patronymic."
+        },
+        {
+          "card_id": "p036-cronus",
+          "verse": "534",
+          "greek": "Κρονίωνι",
+          "reason": "Distinguishes the father Cronus from the patronymic’s referent Zeus."
+        }
+      ]
+    },
+    {
+      "id": "p037",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p037-zeus",
+          "label": "Zeus",
+          "general": "The ruler of the gods, associated with the sky and thunder.",
+          "here": "Called the father of gods and humans, he recognizes Prometheus’s trick.",
+          "aliases": [
+            "father of gods and humans"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p037-zeus",
+          "verse": "542",
+          "greek": "πατὴρ ἀνδρῶν τε θεῶν τε",
+          "reason": "The title identifies Zeus in a verse where his personal name is absent."
+        }
+      ]
+    },
+    {
+      "id": "p038",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p038-iapetus",
+          "label": "Iapetus",
+          "general": "Iapetus is a Titan, one of the older generation of gods.",
+          "here": "His name identifies Prometheus as his son in Zeus’s speech and the account of the fire theft.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p038-iapetus",
+          "verse": "565",
+          "greek": "πάις Ἰαπετοῖο",
+          "reason": "Identifies the repeatedly named father as a Titan."
+        }
+      ]
+    },
+    {
+      "id": "p042",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p042-titans",
+          "label": "Titans",
+          "general": "An older generation of gods, born to Gaia and Uranus.",
+          "here": "The Titans fighting from Mount Othrys oppose Zeus and the other children of Cronus.",
+          "aliases": [
+            "Titan gods"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p042-titans",
+          "verse": "630",
+          "greek": "Τιτῆνές τε θεοὶ",
+          "reason": "Titan gods uses a singular adjective that does not match the label Titans."
+        }
+      ]
+    },
+    {
+      "id": "p043",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p043-three-brothers",
+          "label": "three brothers",
+          "general": "These are the Hundred-Handers Cottus, Briareus, and Gyges, divine sons of Earth and Sky.",
+          "here": "Zeus feeds the freed brothers and asks them to use their strength against the Titans.",
+          "aliases": [],
+          "verse_labels": [
+            "639"
+          ]
+        },
+        {
+          "id": "p043-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "They are the enemies Zeus asks the Hundred-Handers to fight.",
+          "aliases": [
+            "Titan gods"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p043-three-brothers",
+          "verse": "644",
+          "greek": "Γαίης τε καὶ Οὐρανοῦ ἀγλαὰ τέκνα",
+          "reason": "Identifies the brothers addressed by Zeus through their divine parents and preceding account."
+        },
+        {
+          "card_id": "p043-titans",
+          "verse": "648",
+          "greek": "Τιτῆνές τε θεοὶ",
+          "reason": "Makes the translated phrase Titan gods reach the existing explanation."
+        }
+      ]
+    },
+    {
+      "id": "p045",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p045-giants",
+          "label": "Hundred-handed giants",
+          "general": "Cottus, Briareus, and Gyes: three brothers with a hundred hands and fifty heads each.",
+          "here": "They face the Titans with huge rocks in their hands.",
+          "aliases": [
+            "These giants",
+            "Cottus"
+          ],
+          "verse_labels": [
+            "664",
+            "674"
+          ]
+        },
+        {
+          "id": "p045-titans",
+          "label": "Titans",
+          "general": "An older generation of gods.",
+          "here": "They form their ranks against Zeus and his allies.",
+          "aliases": [
+            "Titan gods"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p045-giants",
+          "verse": "672",
+          "greek": "κεφαλαὶ δὲ ἑκάστῳ πεντήκοντα",
+          "reason": "The anatomy identifies the Hundred-Handers, distinct from the Giants born from Uranus’s blood."
+        },
+        {
+          "card_id": "p045-titans",
+          "verse": "668",
+          "greek": "Τιτῆνές τε θεοὶ",
+          "reason": "Makes Titan gods reach the existing Titans card."
+        }
+      ]
+    },
+    {
+      "id": "p046",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p046-gaia",
+          "label": "Gaia",
+          "general": "Earth herself, understood as a goddess.",
+          "here": "The battle sounds as though she were collapsing beneath a falling Sky.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "702",
+            "704"
+          ]
+        },
+        {
+          "id": "p046-ouranos",
+          "label": "Ouranos",
+          "general": "Sky himself, understood as a god.",
+          "here": "Hesiod imagines how it would sound if he crashed down onto Gaia.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "702",
+            "704"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p046-gaia",
+          "verse": "702",
+          "greek": "Γαῖα",
+          "reason": "Earth names Gaia in the comparison; the scope excludes other physical descriptions."
+        },
+        {
+          "card_id": "p046-ouranos",
+          "verse": "702",
+          "greek": "Οὐρανὸς εὐρὺς",
+          "reason": "Sky names Ouranos in the comparison and its continuation."
+        }
+      ]
+    },
+    {
+      "id": "p047",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p047-cottus",
+          "label": "Cottus, Briareus, and Gyges",
+          "general": "Three giant brothers, each with a hundred hands.",
+          "here": "Their many hands let them throw three hundred rocks at once.",
+          "aliases": [
+            "Cottus",
+            "Briareus",
+            "Gyges"
+          ],
+          "verse_labels": [
+            "713"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p047-cottus",
+          "verse": "714",
+          "greek": "Κόττος τε Βριάρεώς τε Γύης",
+          "reason": "Explicit aliases make all three names in the comma-list card reachable."
+        }
+      ]
+    },
+    {
+      "id": "p048",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p048-titans",
+          "label": "Titan gods",
+          "general": "The Titans are the older generation of gods defeated by Zeus and his allies.",
+          "here": "They are imprisoned in misty darkness behind bronze doors.",
+          "aliases": [],
+          "verse_labels": [
+            "729"
+          ]
+        },
+        {
+          "id": "p048-gyges",
+          "label": "Gyges",
+          "general": "Gyges is one of the three Hundred-Handers, divine sons of Gaia and Uranus.",
+          "here": "He guards the imprisoned Titans with Cottus and Obriareus.",
+          "aliases": [],
+          "verse_labels": [
+            "734"
+          ]
+        },
+        {
+          "id": "p048-cottus",
+          "label": "Cottus",
+          "general": "Cottus is one of the three Hundred-Handers, divine sons of Gaia and Uranus.",
+          "here": "He guards the imprisoned Titans with Gyges and Obriareus.",
+          "aliases": [],
+          "verse_labels": [
+            "734"
+          ]
+        },
+        {
+          "id": "p048-obriareus",
+          "label": "Obriareus",
+          "general": "Obriareus is Briareus, one of the three Hundred-Handers and a guard of the Titans.",
+          "here": "He lives with Gyges and Cottus as a faithful guard serving Zeus.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p048-tartarus",
+          "label": "Tartarus",
+          "general": "Tartarus is the primordial depth and dark region beneath earth.",
+          "here": "The name is used for a place associated with the Titans’ imprisonment, whose sources and boundaries lie beside those of earth, sea, and sky.",
+          "aliases": [],
+          "verse_labels": [
+            "736"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p048-titans",
+          "verse": "729",
+          "greek": "θεοὶ Τιτῆνες",
+          "reason": "Identifies the imprisoned older gods."
+        },
+        {
+          "card_id": "p048-gyges",
+          "verse": "734",
+          "greek": "Γύης",
+          "reason": "Identifies Gyges as a Hundred-Hander now serving as a guard."
+        },
+        {
+          "card_id": "p048-cottus",
+          "verse": "734",
+          "greek": "Κόττος",
+          "reason": "Identifies Cottus as a Hundred-Hander now serving as a guard."
+        },
+        {
+          "card_id": "p048-obriareus",
+          "verse": "734",
+          "greek": "Ὀβριάρεως μεγάθυμος",
+          "reason": "Puts the Hundred-Hander’s identity before the alternate name."
+        },
+        {
+          "card_id": "p048-tartarus",
+          "verse": "736",
+          "greek": "Ταρτάρου ἠερόεντος",
+          "reason": "Identifies the primordial depth while explaining the spatial use here."
+        }
+      ]
+    },
+    {
+      "id": "p049",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p049-night",
+          "label": "Night",
+          "general": "Night is the goddess Nyx, mother of Sleep and Death.",
+          "here": "She and Day take turns leaving their shared house, and she carries Sleep in her hands.",
+          "aliases": [],
+          "verse_labels": [
+            "748",
+            "756",
+            "757",
+            "758"
+          ]
+        },
+        {
+          "id": "p049-helios",
+          "label": "Helios",
+          "general": "The Sun, imagined as a god travelling across the sky.",
+          "here": "His rays never reach Sleep and Death.",
+          "aliases": [
+            "Sun"
+          ],
+          "verse_labels": [
+            "760"
+          ]
+        },
+        {
+          "id": "p049-iapetus",
+          "label": "Iapetus’s son",
+          "general": "Atlas, a son of the Titan Iapetus.",
+          "here": "He holds up the sky with his head and hands.",
+          "aliases": [
+            "Iapetus's son"
+          ],
+          "verse_labels": [
+            "746"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p049-night",
+          "verse": "748",
+          "greek": "Νύξ τε καὶ Ἡμέρη",
+          "reason": "Identifies the goddess sharing the house with Day."
+        },
+        {
+          "card_id": "p049-helios",
+          "verse": "760",
+          "greek": "Ἠέλιος φαέθων",
+          "reason": "Sun identifies Helios."
+        },
+        {
+          "card_id": "p049-iapetus",
+          "verse": "746",
+          "greek": "Ἰαπετοῖο πάις",
+          "reason": "Adds the exact ASCII-apostrophe occurrence to the existing Atlas explanation."
+        }
+      ]
+    },
+    {
+      "id": "p050",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p050-dog",
+          "label": "The guard dog",
+          "general": "Cerberus, the dog guarding the world of the dead.",
+          "here": "Hesiod does not name him in these lines. His friendly welcome hides a deadly trap.",
+          "aliases": [
+            "fearsome dog"
+          ],
+          "verse_labels": [
+            "769"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p050-dog",
+          "verse": "769",
+          "greek": "δεινὸς δὲ κύων",
+          "reason": "Connects the actual phrase to the existing Cerberus explanation without altering its prose."
+        }
+      ]
+    },
+    {
+      "id": "p052",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p052-poseidon",
+          "label": "Poseidon, the Earth-shaker",
+          "general": "The god of the sea and earthquakes. “Earth-shaker” is one of his titles.",
+          "here": "The Greek names him by his title; he is Cymopolea’s father.",
+          "aliases": [
+            "Poseidon",
+            "Earth-shaker"
+          ],
+          "verse_labels": [
+            "818"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p052-poseidon",
+          "verse": "818",
+          "greek": "βαρύκτυπος Ἐννοσίγαιος",
+          "reason": "The comma label needs explicit aliases for the name and translated title."
+        }
+      ]
+    },
+    {
+      "id": "p055",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p055-zeus",
+          "label": "Olympian Zeus",
+          "general": "Zeus is the god of thunder. “Olympian” connects him with Mount Olympus, the gods’ home.",
+          "here": "The gods choose him to rule them.",
+          "aliases": [
+            "Zeus"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p055-zeus",
+          "verse": "884",
+          "greek": "Ὀλύμπιον εὐρύοπα Ζῆν",
+          "reason": "Makes the actual Zeus occurrences reach the existing explanation, preserving its prose."
+        }
+      ]
+    },
+    {
+      "id": "p057",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p057-seasons",
+          "label": "The Seasons",
+          "general": "The Horae: goddesses who oversee the seasons and orderly life.",
+          "here": "Eunomia means Good Order, Dike means Justice, and Eirene means Peace. They watch over human work.",
+          "aliases": [
+            "Eunomia",
+            "Dike",
+            "Eirene"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p057-fates",
+          "label": "The Fates",
+          "general": "Goddesses who determine people's allotted lives.",
+          "here": "Clotho, Lachesis, and Atropos give people their share of good and bad. Their names suggest spinning, allotting, and what cannot be turned back.",
+          "aliases": [
+            "Clotho",
+            "Lachesis",
+            "Atropos"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p057-graces",
+          "label": "The Graces",
+          "general": "Goddesses of beauty, charm, and delight.",
+          "here": "Aglaia, Euphrosyne, and Thalia have names suggesting splendor, good cheer, and flourishing.",
+          "aliases": [
+            "Aglaia",
+            "Euphrosyne",
+            "Thalia"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p057-seasons",
+          "verse": "902",
+          "greek": "Εὐνομίην τε Δίκην τε καὶ Εἰρήνην",
+          "reason": "Attaches all three individual names to the Seasons card with prose copied verbatim."
+        },
+        {
+          "card_id": "p057-fates",
+          "verse": "905",
+          "greek": "Κλωθώ τε Λάχεσίν τε καὶ Ἄτροπον",
+          "reason": "Attaches all three individual names to the Fates card with prose copied verbatim."
+        },
+        {
+          "card_id": "p057-graces",
+          "verse": "909",
+          "greek": "Ἀγλαΐην τε καὶ Εὐφροσύνην Θαλίην",
+          "reason": "Attaches all three individual names to the Graces card with prose copied verbatim."
+        }
+      ]
+    },
+    {
+      "id": "p058",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p058-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods, son of Cronus and Rhea.",
+          "here": "He fathers Leto’s children and Hera’s named children, and brings Athena forth from his own head.",
+          "aliases": [
+            "king of gods and humans"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p058-athena",
+          "label": "Athena / Tritogeneia",
+          "general": "Athena is a goddess of wisdom, warfare, and skilled work. Tritogeneia is one of her traditional titles.",
+          "here": "She emerges from Zeus's head as a fearsome leader in battle. Atrytone, another title in the Greek, is translated as “tireless.”",
+          "aliases": [
+            "tireless"
+          ],
+          "verse_labels": [
+            "924",
+            "925",
+            "926"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p058-zeus",
+          "verse": "920",
+          "greek": "αἰγιόχοιο Διὸς",
+          "reason": "Identifies the ruling god named throughout the birth accounts."
+        },
+        {
+          "card_id": "p058-athena",
+          "verse": "925",
+          "greek": "Ἀτρυτώνην",
+          "reason": "Links the translated title tireless to Athena’s existing explanation."
+        }
+      ]
+    },
+    {
+      "id": "p059",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p059-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods, son of Cronus and Rhea.",
+          "here": "He fathers Hermes with Maia, Dionysus with Semele, and Heracles with Alcmene.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p059-graces",
+          "label": "Graces",
+          "general": "The Graces are goddesses of beauty, charm, and delight, daughters of Zeus and Eurynome.",
+          "here": "Aglaia, their youngest member, becomes Hephaestus’s wife.",
+          "aliases": [],
+          "verse_labels": [
+            "946"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p059-zeus",
+          "verse": "938",
+          "greek": "Ζηνὶ δʼ ἄρʼ Ἀτλαντὶς Μαίη τέκε κύδιμον Ἑρμῆν",
+          "reason": "Identifies the ruling god who fathers the children listed here."
+        },
+        {
+          "card_id": "p059-graces",
+          "verse": "946",
+          "greek": "ὁπλοτάτην Χαρίτων",
+          "reason": "Explains the divine group to which Aglaia belongs."
+        }
+      ]
+    },
+    {
+      "id": "p060",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p060-medea",
+          "label": "Medea",
+          "general": "Medea is the daughter of Aeetes and Idyia, included later among this poem’s goddesses with mortal partners.",
+          "here": "Idyia bears her to Aeetes through Aphrodite’s power, introducing her family before her union with Jason.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p060-zeus-cronus",
+          "label": "Zeus / son of Cronus",
+          "general": "Zeus is king of the gods. Cronus is his father.",
+          "here": "“Son of Cronus” translates the title Cronion. Zeus makes Ariadne immortal.",
+          "aliases": [
+            "Zeus",
+            "son of Cronus",
+            "Cronus"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p060-medea",
+          "verse": "961",
+          "greek": "Μήδειαν ἐύσφυρον",
+          "reason": "Puts Medea’s parentage first and acknowledges her classification in the following divine-mother catalog."
+        },
+        {
+          "card_id": "p060-zeus-cronus",
+          "verse": "949",
+          "greek": "θῆκε Κρονίων",
+          "reason": "Explicit aliases repair the mixed-case grouped label while preserving its prose."
+        }
+      ]
+    },
+    {
+      "id": "p062",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p062-semele",
+          "label": "Semele",
+          "general": "Semele is Dionysus’s mortal-born mother, now a goddess, and a daughter of Cadmus and Harmonia.",
+          "here": "She appears among their children born at Thebes.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p062-phaethon",
+          "label": "Phaethon",
+          "general": "Phaethon is Eos and Cephalus’s son, described as a godlike man.",
+          "here": "His birth leads into the next passage, where Aphrodite makes him her divine temple attendant.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p062-semele",
+          "verse": "976",
+          "greek": "Σεμέλην",
+          "reason": "Retains her local genealogy and includes the divine status established in verses 940–942."
+        },
+        {
+          "card_id": "p062-phaethon",
+          "verse": "987",
+          "greek": "Φαέθοντα, θεοῖς ἐπιείκελον ἄνδρα",
+          "reason": "Identifies this son of Eos and Cephalus before the transformation that follows."
+        }
+      ]
+    },
+    {
+      "id": "p063",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p063-divine-spirit",
+          "label": "Divine spirit",
+          "general": "This divine spirit is Phaethon, Eos and Cephalus’s son, made Aphrodite’s divine temple attendant.",
+          "here": "Aphrodite takes him away while he is young and makes him serve her temples by night.",
+          "aliases": [
+            "Phaethon"
+          ],
+          "verse_labels": [
+            "988",
+            "991"
+          ]
+        },
+        {
+          "id": "p063-medea",
+          "label": "Medea",
+          "general": "Medea is Aeetes and Idyia’s daughter and Jason’s divine partner in this catalog of goddesses with mortal men.",
+          "here": "She leaves Aeetes with Jason, becomes Jason’s wife, and bears Medeius, whom Chiron raises.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p063-divine-spirit",
+          "verse": "991",
+          "greek": "νηοπόλον νύχιον ποιήσατο, δαίμονα δῖον",
+          "reason": "Identifies the transformed Phaethon and makes the explanation reachable from his English name."
+        },
+        {
+          "card_id": "p063-medea",
+          "verse": "992",
+          "greek": "κούρην δʼ Αἰήταο",
+          "reason": "Puts Medea’s parentage and role in the divine-mother catalog before general reputation."
+        }
+      ]
+    },
+    {
+      "id": "p064",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p064-nereus",
+          "label": "Nereus",
+          "general": "An ancient sea god, often called the old man of the sea.",
+          "here": "Father of Psamathe and Thetis.",
+          "aliases": [
+            "old man of the sea"
+          ],
+          "verse_labels": [
+            "1003"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p064-nereus",
+          "verse": "1003",
+          "greek": "Νηρῆος κοῦραι,· ἁλίοιο γέροντος",
+          "reason": "The translated title old man of the sea identifies Nereus."
+        }
+      ]
+    },
+    {
+      "id": "p065",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p065-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods and father of the Muses by Mnemosyne.",
+          "here": "The closing invocation identifies the Muses as his daughters and names his aegis.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p065-zeus",
+          "verse": "1022",
+          "greek": "κοῦραι Διὸς αἰγιόχοιο",
+          "reason": "Identifies the Muses’ divine father separately from the card explaining his equipment."
+        }
+      ]
+    }
+  ],
+  "uncertainties": []
+}

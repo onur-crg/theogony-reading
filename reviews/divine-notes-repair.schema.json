@@ -1,0 +1,115 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "remove_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "cards": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "label": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "general": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "here": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "aliases": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "verse_labels": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+                  },
+                  "description": "If nonempty, link this note only in these verses to distinguish namesakes and literal uses."
+                }
+              },
+              "required": [
+                "id",
+                "label",
+                "general",
+                "here",
+                "aliases",
+                "verse_labels"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "card_id": {
+                  "type": "string"
+                },
+                "verse": {
+                  "type": "string"
+                },
+                "greek": {
+                  "type": "string"
+                },
+                "reason": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "card_id",
+                "verse",
+                "greek",
+                "reason"
+              ]
+            }
+          }
+        },
+        "required": [
+          "id",
+          "remove_ids",
+          "cards",
+          "evidence"
+        ]
+      }
+    },
+    "uncertainties": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "sections",
+    "uncertainties"
+  ]
+}

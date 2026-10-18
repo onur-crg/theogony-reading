@@ -58,7 +58,10 @@ for exported, (section,path,metrics) in zip(data['passages']+data['variants'], n
         assert exported['title'] == headings[section['id']][2]
         assert exported['verse_range'] == {'start':str(section['start']),'end':str(section['end'])}
     assert exported['provenance']['summary_and_notes'] == metrics['run_id']
-    for run_id in exported['provenance'].values():
+    if section.get('_note_updates'):
+        assert exported['provenance']['note_updates'] == [m['run_id'] for _,m in section['_note_updates']]
+    run_ids = [exported['provenance']['reading_text'], exported['provenance']['summary_and_notes']] + exported['provenance'].get('note_updates', [])
+    for run_id in run_ids:
         run = data['records'][run_id]
         assert digest(ROOT/run['output_file']) == run['output_sha256']
         assert digest(ROOT/run['prompt_file']) == run['prompt_sha256']
@@ -91,5 +94,10 @@ exported_verses = {v['label']:v['text'] for v in main_verses+extra_verses}
 assert rendered.verses == exported_verses, 'Export differs from the published reading text'
 for v in main_verses+extra_verses:
     assert v['marked_for_deletion'] == (v['label'] in build_reader.DELETED_LABELS)
-assert sum(len(p['notes']) for p in data['passages']+data['variants']) == 678
-print('Validated central JSON Schema and exact equality of all 1,042 rendered verses, 66 summaries, 65 section titles and 678 name notes.')
+note_count = sum(len(p['notes']) for p in data['passages']+data['variants'])
+assert note_count == sum(len(s['cards']) for s,_,_ in numbered+[variant])
+print(f'Validated central JSON Schema and exact equality of all 1,042 rendered verses, 66 summaries, 65 section titles and {note_count} name notes.')
+
+if (ROOT/'pipeline/note_revisions.json').exists():
+    from check_name_notes import main as check_name_notes
+    check_name_notes()

@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "id": "p058",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p058-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods, son of Cronus and Rhea.",
+          "here": "He fathers Apollo and Artemis with Leto, and Hebe, Ares, and Eileithyia with Hera. He brings Athena forth from his own head.",
+          "aliases": [
+            "king of gods and humans"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p058-zeus",
+          "verse": "927",
+          "greek": "Ἥρη δʼ Ἥφαιστον κλυτὸν οὐ φιλότητι μιγεῖσα",
+          "reason": "Hera bears Hephaestus without union, so he is excluded from the children Zeus fathers here."
+        }
+      ]
+    }
+  ],
+  "uncertainties": []
+}

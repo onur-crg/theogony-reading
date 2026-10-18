@@ -204,6 +204,23 @@
         "here": {
           "type": "string",
           "minLength": 1
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "verse_labels": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*(?:[a-t])?$"
+          },
+          "uniqueItems": true,
+          "description": "If nonempty, link this note only in these verses to distinguish namesakes and literal uses."
         }
       },
       "required": [
@@ -274,6 +291,15 @@
             "summary_and_notes": {
               "type": "string",
               "minLength": 1
+            },
+            "note_updates": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 1,
+              "description": "Ordered note-only revision run IDs, applied over summary_and_notes. Original summaries and reading text keep their original runs."
             }
           },
           "required": [
@@ -355,6 +381,15 @@
             "summary_and_notes": {
               "type": "string",
               "minLength": 1
+            },
+            "note_updates": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 1,
+              "description": "Ordered note-only revision run IDs, applied over summary_and_notes. Original summaries and reading text keep their original runs."
             }
           },
           "required": [

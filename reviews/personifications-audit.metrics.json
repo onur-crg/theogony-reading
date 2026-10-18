@@ -1,0 +1,38 @@
+{
+  "run_id": "066acf14-08e8-4107-b22c-33adc59de2fc",
+  "created_at_utc": "2026-10-18T13:17:40.611344+00:00",
+  "prompt_version": "divine-notes-audit-18-v1",
+  "prompt_file": "personifications-audit.prompt.txt",
+  "prompt_sha256": "44743ef611401f4d908e404884a753a703add53e0fc9a4d20133d4b14324f551",
+  "source_sha256": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
+  "section_boundaries_sha256": "d1b93ac7a74dad24183bea4bf67ff2ae758feec7a110d3148b4750daa82b10a4",
+  "schema_sha256": "06ff4a9d4b3373d9f40f8b82ee07f4c73e3c9f455bccd716f9ae94166d2bfe0f",
+  "runner_sha256": "f31cc2d37bac85c5de57aea2f4cab0cbee538581ca6b0f26a6796d470f74b875",
+  "codex_cli_version": "codex-cli 0.162.1",
+  "model": "gpt-6.1-sol",
+  "effort": "high",
+  "range": [
+    1,
+    1022
+  ],
+  "seconds": 303.99,
+  "cli_exit": 0,
+  "tool_event_count": 0,
+  "item_types": [
+    "agent_message"
+  ],
+  "usage_events": [
+    {
+      "type": "turn.completed",
+      "usage": {
+        "input_tokens": 105117,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 21789,
+        "reasoning_output_tokens": 8286
+      }
+    }
+  ],
+  "error_events": [],
+  "output_sha256": "b6fa6f8f58536f438072d1a0d92b89492a9b563504f9b5597fee5ff5de2604f6"
+}

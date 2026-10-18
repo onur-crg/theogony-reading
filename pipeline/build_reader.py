@@ -59,9 +59,14 @@ def outline() -> dict[str, tuple[int, int, str]]:
     return result
 
 
-def aliases(section: dict) -> dict[str, int]:
-    found = {card["label"]: i for i, card in enumerate(section["cards"])}
-    for i, card in enumerate(section["cards"]):
+def aliases(section: dict, verse_label=None) -> dict[str, int]:
+    eligible = [(i, card) for i, card in enumerate(section["cards"])
+                if not card.get("verse_labels") or verse_label is None
+                or str(verse_label) in card["verse_labels"]]
+    found = {card["label"]: i for i, card in eligible}
+    for i, card in eligible:
+        for alias in card.get("aliases", []):
+            found.setdefault(alias, i)
         label = card["label"]
         if label.startswith("The ") and label[4:5].isupper():
             found.setdefault(label[4:], i)
@@ -71,20 +76,30 @@ def aliases(section: dict) -> dict[str, int]:
             parts = label.split(" and ")
         else:
             parts = []
-        if parts and all(part[:1].isupper() and part.replace("-", "").isalpha()
-                         for part in parts):
+        if " / " in label:
+            # A recorded slash explicitly separates names or titles, including
+            # phrases such as "son of Cronus".
             for part in parts:
                 found.setdefault(part, i)
+        elif parts:
+            names = [name.strip() for part in parts for name in part.split(",") if name.strip()]
+            if all(name[:1].isupper() and name.replace("-", "").isalpha() for name in names):
+                for name in names:
+                    found.setdefault(name, i)
         if ", the " in label:
             first = label.split(", the ", 1)[0]
             if first[:1].isupper() and first.isalpha():
                 found.setdefault(first, i)
+    # Typographic apostrophes must not make a recorded name unreachable.
+    for alias, index in list(found.items()):
+        found.setdefault(alias.replace("’", "'"), index)
+        found.setdefault(alias.replace("'", "’"), index)
     return found
 
 
-def linked_text(text: str, section: dict) -> str:
+def linked_text(text: str, section: dict, verse_label=None) -> str:
     """Escape agent text, adding links only around matching card labels."""
-    mapping = aliases(section)
+    mapping = aliases(section, verse_label)
     keys = sorted(mapping, key=len, reverse=True)
     pattern = re.compile(r"(?<!\w)(?:" + "|".join(re.escape(k) for k in keys) + r")(?!\w)", re.I) if keys else None
     pieces = []
@@ -136,7 +151,7 @@ def linked_verses(section: dict, verse_runs: dict) -> str:
         klass = 'verse-unit disputed' if disputed else 'verse-unit'
         marker = '<span class="dagger" aria-hidden="true">†</span>' if disputed else ''
         label = f'Verse {n}, marked for deletion in the Greek source' if disputed else f'Verse {n}'
-        lines.append(f'<span class="{klass}" id="v{n}"><sup class="verse-number" aria-label="{label}">{n}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section)}</span></span>')
+        lines.append(f'<span class="{klass}" id="v{n}"><sup class="verse-number" aria-label="{label}">{n}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section,n)}</span></span>')
     return '<p class="verse-flow">'+' '.join(lines)+'</p>'
 
 
@@ -158,7 +173,7 @@ def linked_variant_verses(section: dict, variant_run) -> str:
         klass = 'verse-unit disputed' if disputed else 'verse-unit'
         marker = '<span class="dagger" aria-hidden="true">†</span>' if disputed else ''
         aria = f'Verse {label}, marked for deletion in the Greek source' if disputed else f'Verse {label}'
-        group.append(f'<span class="{klass}" id="v{label}"><sup class="verse-number" aria-label="{aria}">{label}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section)}</span></span>')
+        group.append(f'<span class="{klass}" id="v{label}"><sup class="verse-number" aria-label="{aria}">{label}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section,label)}</span></span>')
         if label == '929f':
             output.append('<p class="verse-flow">'+' '.join(group)+'</p>')
             output.append('<p class="variant-gap">Gap in the Greek source after 929f</p>')
@@ -175,6 +190,25 @@ def load_sections():
         metrics = json.loads(path.with_suffix(".metrics.json").read_text())
         for section in data["sections"]:
             selected[section["id"]] = (section, path, metrics)
+    revisions = ROOT / "pipeline" / "note_revisions.json"
+    for filename in json.loads(revisions.read_text()) if revisions.exists() else []:
+        path = TESTS / filename
+        updates = json.loads(path.read_text())
+        metrics = json.loads(path.with_suffix(".metrics.json").read_text())
+        for revision in updates["sections"]:
+            sid = revision["id"]
+            section, base_path, base_metrics = selected[sid]
+            section = dict(section)
+            old = {card["id"]: card for card in section["cards"]}
+            removed = set(revision["remove_ids"])
+            assert removed <= old.keys(), (sid, removed - old.keys())
+            revised = {card["id"]: card for card in revision["cards"]}
+            assert len(revised) == len(revision["cards"]), sid
+            assert not removed & revised.keys(), sid
+            section["cards"] = [revised.pop(card["id"], card) for card in section["cards"]
+                                if card["id"] not in removed] + list(revised.values())
+            section["_note_updates"] = section.get("_note_updates", []) + [(path, metrics)]
+            selected[sid] = (section, base_path, base_metrics)
     expected = outline()
     assert set(selected) == set(expected) | {"v929"}, (set(selected) ^ (set(expected) | {"v929"}))
     numbered = [selected[f"p{i:03d}"] for i in range(1, 66)]
@@ -232,6 +266,13 @@ def render_information(numbered, variant, headings, verse_runs, variant_run):
         else:
             _, verse_path, verse_metrics = verse_runs[start]
             assert all(verse_runs[n][1] == verse_path for n in range(start, end + 1))
+        revision_documents = ''
+        if section.get('_note_updates'):
+            revision_documents = '<h3>Revised name notes</h3>' + ''.join(
+                f'<p class="record-model">{esc(update_metrics["prompt_version"])}</p>'
+                '<nav class="record-documents" aria-label="Revised name notes documents">'
+                + run_documents(update_path, 'Revised name notes') + '</nav>'
+                for update_path, update_metrics in section['_note_updates'])
         rows.append(
             f'<li class="passage-record" id="info-{sid}"><header class="record-heading"><span class="range">{esc(range_text)}</span>'
             f'<a class="record-title" href="theogony-reader.html#{article_id}">{esc(heading)}</a></header>'
@@ -240,7 +281,7 @@ def render_information(numbered, variant, headings, verse_runs, variant_run):
             f'<nav class="record-documents" aria-label="Reading text documents for {esc(heading)}">{run_documents(verse_path, "Reading text")}</nav></section>'
             '<section class="record-group" aria-label="Summary and notes provenance"><h3>Summary &amp; notes</h3>'
             f'<p class="record-model">{esc(metrics["model"])} · {esc(metrics["prompt_version"])}</p>'
-            f'<nav class="record-documents" aria-label="Summary and notes documents for {esc(heading)}">{run_documents(path, "Summary and notes")}</nav></section></div></li>'
+            f'<nav class="record-documents" aria-label="Summary and notes documents for {esc(heading)}">{run_documents(path, "Summary and notes")}</nav>{revision_documents}</section></div></li>'
         )
     info_style = """
     :root{--paper:#dedede;--ink:#1b2c48;--green:#075fce;--muted:#61748d;--line:#cbd5e2}

@@ -12,7 +12,7 @@ You do not need to combine the historical generation files yourself.
 
 - 65 passages covering numbered verses 1–1022, in reading order.
 - One separate variant with 20 extra lines, 929a–929t.
-- 66 summaries and 678 passage-specific name/word notes.
+- 66 summaries and passage-specific name/word notes.
 - Licence, attribution, Greek source and links to exact generation records.
 
 All strings are plain Unicode text, not HTML. No HTML links, superscript verse
@@ -43,8 +43,8 @@ Each passage has:
 | `reader_url` | Direct link to the passage on the official website. |
 | `summary` | Short passage summary. |
 | `verses` | Ordered objects with `label`, `text` and `marked_for_deletion`. |
-| `notes` | Ordered objects with `id`, `label`, `general` and `here`. `general` explains the term; `here` explains its role in this passage. |
-| `provenance` | Run IDs for `reading_text` and `summary_and_notes`, resolved in `records`. |
+| `notes` | Ordered objects with `id`, `label`, `general` and `here`. `general` identifies the figure or term; `here` explains its role in this passage. Optional `aliases` match other spellings or English names. A nonempty `verse_labels` list limits links to those verses, for example to distinguish two figures named Doris. |
+| `provenance` | Run IDs for `reading_text` and the original `summary_and_notes`, resolved in `records`. Optional `note_updates` lists later note-only revision run IDs in application order. |
 
 The separate variant additionally has `after_verse: "929"` and
 `source_gaps_after: ["929f"]`. The gap is a statement about the Greek source;
@@ -114,3 +114,14 @@ provenance; normal reuse starts here. Main URLs track the current edition. For
 reproducible research, pin a Git commit or release and keep the JSON checksum.
 A change to the data shape will change `schema_version`; a content correction
 alone need not. Future applications should explicitly check supported versions.
+
+### Note-only revisions
+
+Accepted revisions are selected in `pipeline/note_revisions.json`. Each raw run
+contains passage IDs, complete replacement/additional cards, removed card IDs,
+and Greek verse evidence. The build replaces cards by stable ID, appends new IDs,
+and removes only explicitly listed IDs. It never rewrites generated prose.
+Unchanged cards and all summaries retain their original `summary_and_notes`
+record; changed/new cards come verbatim from the latest applicable `note_updates` run. Reading verses
+retain their separate `reading_text` record. These optional provenance and
+matching fields extend the version 1 format without changing existing fields.

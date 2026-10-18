@@ -28,6 +28,11 @@ def make_edition():
             assert records[run_id] == record, run_id
         records[run_id] = record
         return run_id
+    def note_provenance(section, path, metrics):
+        result = {'summary_and_notes': reference(path, metrics)}
+        if section.get('_note_updates'):
+            result['note_updates'] = [reference(p, m) for p, m in section['_note_updates']]
+        return result
     passages = []
     for section, note_path, note_metrics in numbered:
         start, end = section['start'], section['end']
@@ -43,7 +48,7 @@ def make_edition():
                        for n in range(start,end+1)],
             'notes': section['cards'],
             'provenance': {'reading_text': reference(reading_path,reading_metrics),
-                           'summary_and_notes': reference(note_path,note_metrics)},
+                           **note_provenance(section,note_path,note_metrics)},
         })
     section, note_path, note_metrics = variant
     extra = {
@@ -57,7 +62,7 @@ def make_edition():
                    for label,text in variant_verses.items()],
         'notes': section['cards'],
         'provenance': {'reading_text': reference(variant_path,variant_metrics),
-                       'summary_and_notes': reference(note_path,note_metrics)},
+                       **note_provenance(section,note_path,note_metrics)},
     }
     return {
         '$schema': SITE_URL+'/data/theogony.schema.json',

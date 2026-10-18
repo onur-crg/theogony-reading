@@ -305,25 +305,49 @@
           "id": "p002-eos",
           "label": "Eos",
           "general": "Dawn imagined as a goddess.",
-          "here": "She is named alongside the Sun and Moon."
+          "here": "She is named alongside the Sun and Moon.",
+          "aliases": [
+            "Dawn"
+          ],
+          "verse_labels": [
+            "19"
+          ]
         },
         {
           "id": "p002-helios",
           "label": "Helios",
           "general": "The Sun imagined as a god.",
-          "here": "Hesiod calls him great."
+          "here": "Hesiod calls him great.",
+          "aliases": [
+            "Sun"
+          ],
+          "verse_labels": [
+            "19"
+          ]
         },
         {
           "id": "p002-selene",
           "label": "Selene",
           "general": "The Moon imagined as a goddess.",
-          "here": "She is described as bright."
+          "here": "She is described as bright.",
+          "aliases": [
+            "Moon"
+          ],
+          "verse_labels": [
+            "19"
+          ]
         },
         {
           "id": "p002-gaia",
           "label": "Gaia",
           "general": "The Earth imagined as a goddess.",
-          "here": "She is included among the eternal gods."
+          "here": "She is included among the eternal gods.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "20"
+          ]
         },
         {
           "id": "p002-oceanus",
@@ -335,18 +359,33 @@
           "id": "p002-night",
           "label": "Night",
           "general": "Night imagined as a goddess, called Nyx in Greek.",
-          "here": "She is described as black."
+          "here": "She is described as black.",
+          "aliases": [],
+          "verse_labels": [
+            "20"
+          ]
         },
         {
           "id": "p002-immortal",
           "label": "Immortal",
           "general": "Able to live forever.",
           "here": "The song praises the whole family of everlasting gods."
+        },
+        {
+          "id": "p002-muses",
+          "label": "Muses",
+          "general": "Goddesses of song and poetry, daughters of Zeus and Mnemosyne.",
+          "here": "They travel through the night singing the gods’ names.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "2abf9473-e0d6-4d32-9689-f2d1a1b9f5ab",
-        "summary_and_notes": "66c4a25f-a020-4a7d-b11a-62ac434f9f4f"
+        "summary_and_notes": "66c4a25f-a020-4a7d-b11a-62ac434f9f4f",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -616,13 +655,25 @@
           "id": "p004-gaia",
           "label": "Gaia",
           "general": "The Earth imagined as a goddess.",
-          "here": "She and Uranus are parents of an early generation of gods."
+          "here": "She and Uranus are parents of an early generation of gods.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "45"
+          ]
         },
         {
           "id": "p004-uranus",
           "label": "Uranus",
           "general": "The Sky imagined as a god.",
-          "here": "With Gaia, he fathers the gods whose family history the Muses sing."
+          "here": "With Gaia, he fathers the gods whose family history the Muses sing.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "45"
+          ]
         },
         {
           "id": "p004-giants",
@@ -639,7 +690,10 @@
       ],
       "provenance": {
         "reading_text": "2abf9473-e0d6-4d32-9689-f2d1a1b9f5ab",
-        "summary_and_notes": "66c4a25f-a020-4a7d-b11a-62ac434f9f4f"
+        "summary_and_notes": "66c4a25f-a020-4a7d-b11a-62ac434f9f4f",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -865,7 +919,13 @@
           "id": "p006-himeros",
           "label": "Himeros",
           "general": "The god who represents desire and longing.",
-          "here": "He lives near the Muses and the Graces."
+          "here": "He lives near the Muses and the Graces.",
+          "aliases": [
+            "Desire"
+          ],
+          "verse_labels": [
+            "64"
+          ]
         },
         {
           "id": "p006-olympus",
@@ -954,7 +1014,10 @@
       ],
       "provenance": {
         "reading_text": "69a959ed-7d1a-48df-a2ab-34b7540bfc04",
-        "summary_and_notes": "217fb189-aea6-44a6-a497-d6189aecff4c"
+        "summary_and_notes": "217fb189-aea6-44a6-a497-d6189aecff4c",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -1267,13 +1330,25 @@
           "id": "p009-gaia",
           "label": "Gaia",
           "general": "Earth herself, understood as a goddess.",
-          "here": "An ancestor of the gods."
+          "here": "An ancestor of the gods.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "106"
+          ]
         },
         {
           "id": "p009-uranus",
           "label": "Uranus",
           "general": "The Sky, understood as a god.",
-          "here": "The starry Sky from whom gods were born."
+          "here": "The starry Sky from whom gods were born.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "106"
+          ]
         },
         {
           "id": "p009-night",
@@ -1285,7 +1360,13 @@
           "id": "p009-pontus",
           "label": "Pontus",
           "general": "The Sea, understood as a god.",
-          "here": "He brings up some of the gods."
+          "here": "He brings up some of the gods.",
+          "aliases": [
+            "Sea"
+          ],
+          "verse_labels": [
+            "107"
+          ]
         },
         {
           "id": "p009-honors",
@@ -1302,7 +1383,10 @@
       ],
       "provenance": {
         "reading_text": "69a959ed-7d1a-48df-a2ab-34b7540bfc04",
-        "summary_and_notes": "217fb189-aea6-44a6-a497-d6189aecff4c"
+        "summary_and_notes": "217fb189-aea6-44a6-a497-d6189aecff4c",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -1370,32 +1454,56 @@
         {
           "id": "p010-chaos",
           "label": "Chaos",
-          "general": "The name means a gap or chasm, rather than everyday disorder.",
-          "here": "Chaos is the first being to appear and the source of Darkness and Night."
+          "general": "Chaos is the primordial gap that first comes into being.",
+          "here": "Erebus and Night are born from Chaos. The name means a gap or chasm.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p010-gaia",
           "label": "Gaia",
           "general": "Earth herself, imagined as a goddess.",
-          "here": "Her broad body provides a firm seat for everything."
+          "here": "Her broad body provides a firm seat for everything.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "117",
+            "119"
+          ]
         },
         {
           "id": "p010-tartarus",
           "label": "Tartarus",
-          "general": "A deep, dark region far below the earth.",
-          "here": "It appears among the earliest beings, in the earth’s depths."
+          "general": "Tartarus is the primordial depth, a dark region beneath earth.",
+          "here": "It appears among the earliest entities to come into being.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p010-eros",
           "label": "Eros",
           "general": "The divine power of love and sexual desire.",
-          "here": "His power weakens limbs and overwhelms clear thinking in gods and humans alike."
+          "here": "His power weakens limbs and overwhelms clear thinking in gods and humans alike.",
+          "aliases": [
+            "Desire"
+          ],
+          "verse_labels": [
+            "120"
+          ]
         },
         {
           "id": "p010-erebus",
           "label": "Erebus",
           "general": "Darkness imagined as a divine being.",
-          "here": "He comes from Chaos and fathers Aether and Day with Night."
+          "here": "He comes from Chaos and fathers Aether and Day with Night.",
+          "aliases": [
+            "Darkness"
+          ],
+          "verse_labels": [
+            "123",
+            "125"
+          ]
         },
         {
           "id": "p010-night",
@@ -1406,8 +1514,14 @@
         {
           "id": "p010-aether",
           "label": "Aether",
-          "general": "The bright, clear upper air above the lower atmosphere.",
-          "here": "Aether is a child of Night and Erebus."
+          "general": "Aether is the divine bright upper air, a child of Night and Erebus.",
+          "here": "He is born alongside Day after his parents join in love.",
+          "aliases": [
+            "the bright upper air"
+          ],
+          "verse_labels": [
+            "124"
+          ]
         },
         {
           "id": "p010-day",
@@ -1424,7 +1538,10 @@
       ],
       "provenance": {
         "reading_text": "c27ba3e8-9a04-472e-8ab1-40e5540c41da",
-        "summary_and_notes": "7b29699f-8232-496f-bdba-5f6a9e5b7f8f"
+        "summary_and_notes": "7b29699f-8232-496f-bdba-5f6a9e5b7f8f",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -1508,7 +1625,14 @@
           "id": "p011-uranus",
           "label": "Uranus",
           "general": "Sky himself, imagined as a god.",
-          "here": "Earth bears him and later has children with him."
+          "here": "Earth bears him and later has children with him.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "127",
+            "133"
+          ]
         },
         {
           "id": "p011-nymphs",
@@ -1520,7 +1644,14 @@
           "id": "p011-pontus",
           "label": "Pontus",
           "general": "The Sea itself, imagined as a god.",
-          "here": "Earth gives birth to him without a partner."
+          "here": "Earth gives birth to him without a partner.",
+          "aliases": [
+            "sea"
+          ],
+          "verse_labels": [
+            "131",
+            "132"
+          ]
         },
         {
           "id": "p011-barren",
@@ -1599,11 +1730,36 @@
           "label": "Cronus",
           "general": "The youngest Titan, a son of Earth and Sky.",
           "here": "He is fearsome, skilled in crooked schemes, and hostile to his father."
+        },
+        {
+          "id": "p011-gaia",
+          "label": "Gaia",
+          "general": "Gaia is the primordial goddess Earth.",
+          "here": "She bears Sky, the Mountains, and Pontus without a partner, then bears the Titans with Sky.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "126"
+          ]
+        },
+        {
+          "id": "p011-mountains",
+          "label": "Mountains",
+          "general": "The Mountains are primordial offspring of Gaia.",
+          "here": "They are born as homes for the mountain Nymphs; no individual mountains are named.",
+          "aliases": [],
+          "verse_labels": [
+            "129"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "c27ba3e8-9a04-472e-8ab1-40e5540c41da",
-        "summary_and_notes": "7b29699f-8232-496f-bdba-5f6a9e5b7f8f"
+        "summary_and_notes": "7b29699f-8232-496f-bdba-5f6a9e5b7f8f",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -1752,11 +1908,22 @@
           "label": "Gyges",
           "general": "One of the three Hundred-Handers, sons of Earth and Sky.",
           "here": "He shares his brothers’ huge size and boundless strength."
+        },
+        {
+          "id": "p012-earth-sky",
+          "label": "Earth and Sky",
+          "general": "Gaia is the goddess Earth, and Uranus is the god Sky.",
+          "here": "They are the parents of the Cyclopes and the three Hundred-Handers described here.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "c27ba3e8-9a04-472e-8ab1-40e5540c41da",
-        "summary_and_notes": "7b29699f-8232-496f-bdba-5f6a9e5b7f8f"
+        "summary_and_notes": "7b29699f-8232-496f-bdba-5f6a9e5b7f8f",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -1993,7 +2160,15 @@
           "id": "p014-gaia",
           "label": "Gaia",
           "general": "Earth herself, imagined as a goddess.",
-          "here": "She hides Cronus, gives him the weapon, and receives Sky’s blood."
+          "here": "She hides Cronus, gives him the weapon, and receives Sky’s blood.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "174",
+            "176",
+            "184"
+          ]
         },
         {
           "id": "p014-cronus",
@@ -2005,7 +2180,13 @@
           "id": "p014-uranus",
           "label": "Uranus",
           "general": "Sky himself, imagined as a god; his Greek name is Ouranos.",
-          "here": "He spreads over Earth and is attacked by his son."
+          "here": "He spreads over Earth and is attacked by his son.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "176"
+          ]
         },
         {
           "id": "p014-sickle",
@@ -2040,7 +2221,10 @@
       ],
       "provenance": {
         "reading_text": "931a3395-edbf-4184-ad57-f6b9ed0d17d8",
-        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8"
+        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -2160,7 +2344,15 @@
           "id": "p015-aphrodite",
           "label": "Aphrodite",
           "general": "The goddess of love, sexual attraction, and pleasure.",
-          "here": "She grows in sea foam and steps ashore on Cyprus."
+          "here": "She grows in sea foam and steps ashore on Cyprus.",
+          "aliases": [
+            "the foam-born goddess"
+          ],
+          "verse_labels": [
+            "195",
+            "196",
+            "203"
+          ]
         },
         {
           "id": "p015-aphros",
@@ -2190,18 +2382,41 @@
           "id": "p015-eros",
           "label": "Eros",
           "general": "Love, especially sexual attraction, imagined as a god.",
-          "here": "He accompanies Aphrodite from her birth."
+          "here": "He accompanies Aphrodite from her birth.",
+          "aliases": [
+            "Love"
+          ],
+          "verse_labels": [
+            "201"
+          ]
         },
         {
           "id": "p015-himeros",
           "label": "Himeros",
           "general": "Longing or desire, imagined as a god.",
-          "here": "He follows Aphrodite as she joins the gods."
+          "here": "He follows Aphrodite as she joins the gods.",
+          "aliases": [
+            "Desire"
+          ],
+          "verse_labels": [
+            "201"
+          ]
+        },
+        {
+          "id": "p015-cronus",
+          "label": "Cronus",
+          "general": "Cronus is a Titan son of Gaia and Uranus.",
+          "here": "He cuts off his father’s genitals and throws them into the sea, continuing the action of the preceding passage.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "931a3395-edbf-4184-ad57-f6b9ed0d17d8",
-        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8"
+        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -2247,11 +2462,26 @@
           "label": "Reproach",
           "general": "Words expressing blame or strong disapproval.",
           "here": "Sky gives his children their name while condemning what they have done."
+        },
+        {
+          "id": "p016-uranus",
+          "label": "Uranus",
+          "general": "Uranus is the primordial god Sky, father of the Titans by Gaia.",
+          "here": "He rebukes his children and connects their name with their deed and the punishment to come.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "208"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "931a3395-edbf-4184-ad57-f6b9ed0d17d8",
-        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8"
+        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -2351,7 +2581,13 @@
           "id": "p017-moros",
           "label": "Moros",
           "general": "Doom or an unavoidable fate, imagined as a divine being.",
-          "here": "He is Night’s first child named in this list."
+          "here": "He is Night’s first child named in this list.",
+          "aliases": [
+            "Doom"
+          ],
+          "verse_labels": [
+            "211"
+          ]
         },
         {
           "id": "p017-ker-keres",
@@ -2363,13 +2599,25 @@
           "id": "p017-thanatos",
           "label": "Thanatos",
           "general": "Death himself, imagined as a god.",
-          "here": "He is a child of Night and a brother of Sleep."
+          "here": "He is a child of Night and a brother of Sleep.",
+          "aliases": [
+            "Death"
+          ],
+          "verse_labels": [
+            "212"
+          ]
         },
         {
           "id": "p017-hypnos",
           "label": "Hypnos",
           "general": "Sleep himself, imagined as a god.",
-          "here": "Night bears him alongside Death and the Dreams."
+          "here": "Night bears him alongside Death and the Dreams.",
+          "aliases": [
+            "Sleep"
+          ],
+          "verse_labels": [
+            "212"
+          ]
         },
         {
           "id": "p017-dreams",
@@ -2381,13 +2629,25 @@
           "id": "p017-momus",
           "label": "Momus",
           "general": "Blame or fault-finding, imagined as a god.",
-          "here": "He is one of Night’s children."
+          "here": "He is one of Night’s children.",
+          "aliases": [
+            "Blame"
+          ],
+          "verse_labels": [
+            "214"
+          ]
         },
         {
           "id": "p017-oizys",
           "label": "Oizys",
           "general": "Misery or distress, imagined as a goddess.",
-          "here": "Hesiod describes her as painful."
+          "here": "Hesiod describes her as painful.",
+          "aliases": [
+            "Misery"
+          ],
+          "verse_labels": [
+            "214"
+          ]
         },
         {
           "id": "p017-hesperides",
@@ -2429,19 +2689,38 @@
           "id": "p017-nemesis",
           "label": "Nemesis",
           "general": "A goddess of resentment and deserved payback for wrongdoing.",
-          "here": "Night bears her as a source of suffering for mortals."
+          "here": "Night bears her as a source of suffering for mortals.",
+          "aliases": [
+            "Payback"
+          ],
+          "verse_labels": [
+            "223",
+            "224"
+          ]
         },
         {
           "id": "p017-apate",
           "label": "Apate",
           "general": "Deceit imagined as a goddess.",
-          "here": "She is born after Nemesis."
+          "here": "She is born after Nemesis.",
+          "aliases": [
+            "Deceit"
+          ],
+          "verse_labels": [
+            "224"
+          ]
         },
         {
           "id": "p017-philotes",
           "label": "Philotes",
           "general": "Affection or intimacy, including sexual intimacy, imagined as a goddess.",
-          "here": "She is another child of Night."
+          "here": "She is another child of Night.",
+          "aliases": [
+            "Intimacy"
+          ],
+          "verse_labels": [
+            "224"
+          ]
         },
         {
           "id": "p017-old-age",
@@ -2453,12 +2732,21 @@
           "id": "p017-eris",
           "label": "Eris",
           "general": "Strife or conflict imagined as a goddess.",
-          "here": "She is Night’s fierce-hearted child."
+          "here": "She is Night’s fierce-hearted child.",
+          "aliases": [
+            "Strife"
+          ],
+          "verse_labels": [
+            "225"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "931a3395-edbf-4184-ad57-f6b9ed0d17d8",
-        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8"
+        "summary_and_notes": "71577e19-50b4-463e-839d-4ca4b0d125f8",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -2517,37 +2805,151 @@
         {
           "id": "p018-toil",
           "label": "Toil",
-          "general": "Hard, exhausting work.",
-          "here": "Painful Toil is one of Strife’s children."
-        },
-        {
-          "id": "p018-personification",
-          "label": "Troubles as children",
-          "general": "A poem can turn an idea or experience into a living being.",
-          "here": "Hunger, Lies and the other troubles become members of a divine family."
+          "general": "Ponos is Strife’s divine personification of painful toil.",
+          "here": "He begins the list of her fourteen children.",
+          "aliases": [],
+          "verse_labels": [
+            "226"
+          ]
         },
         {
           "id": "p018-lawlessness",
           "label": "Lawlessness",
-          "general": "Disregard for laws and proper behavior.",
-          "here": "Lawlessness and Ruin are close companions."
+          "general": "Dysnomia is Strife’s divine personification of lawlessness.",
+          "here": "She and Ruin are close companions.",
+          "aliases": [],
+          "verse_labels": [
+            "230"
+          ]
         },
         {
           "id": "p018-ruin",
           "label": "Ruin",
-          "general": "Disaster, including the reckless blindness that can lead to it.",
-          "here": "Strife’s daughter Ruin stays close to Lawlessness."
+          "general": "Ate is a divine personification of destructive blindness and ruin, a child of Strife.",
+          "here": "Here she and Lawlessness are close companions.",
+          "aliases": [],
+          "verse_labels": [
+            "230"
+          ]
         },
         {
           "id": "p018-oath",
           "label": "Oath",
-          "general": "A solemn promise or claim, made with divine powers as witnesses.",
-          "here": "Oath becomes a divine being who punishes deliberate false swearing."
+          "general": "Horkos is Strife’s divine child who punishes deliberate false swearing.",
+          "here": "He brings severe suffering to people who knowingly swear falsely.",
+          "aliases": [],
+          "verse_labels": [
+            "231"
+          ]
+        },
+        {
+          "id": "p018-forgetfulness",
+          "label": "Forgetfulness",
+          "general": "Lethe is the divine personification of forgetfulness, a child of Strife.",
+          "here": "She is named alongside Hunger and Sorrows.",
+          "aliases": [],
+          "verse_labels": [
+            "227"
+          ]
+        },
+        {
+          "id": "p018-hunger",
+          "label": "Hunger",
+          "general": "Limos is the divine personification of hunger, a child of Strife.",
+          "here": "He is named alongside Forgetfulness and Sorrows.",
+          "aliases": [],
+          "verse_labels": [
+            "227"
+          ]
+        },
+        {
+          "id": "p018-sorrows",
+          "label": "Sorrows",
+          "general": "The Algea are divine personifications of pains or sorrows, children of Strife.",
+          "here": "They are described as bringing tears.",
+          "aliases": [],
+          "verse_labels": [
+            "227"
+          ]
+        },
+        {
+          "id": "p018-clashes",
+          "label": "Clashes",
+          "general": "The Hysminai are divine personifications of clashes, children of Strife.",
+          "here": "They appear alongside Battles, Murders, and Slaughter.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-battles",
+          "label": "Battles",
+          "general": "The Machai are divine personifications of battles, children of Strife.",
+          "here": "They appear among her children connected with violence.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-murders",
+          "label": "Murders",
+          "general": "The Phonoi are divine personifications of murders, children of Strife.",
+          "here": "They appear alongside Clashes, Battles, and Slaughter.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-slaughter",
+          "label": "Slaughter",
+          "general": "The Androktasiai are divine personifications of killing people, children of Strife.",
+          "here": "Here they appear alongside Clashes, Battles, and Murders.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-quarrels",
+          "label": "Quarrels",
+          "general": "The Neikea are divine personifications of quarrels, children of Strife.",
+          "here": "They are named with lying Words and Arguments.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
+        },
+        {
+          "id": "p018-lying-words",
+          "label": "lying Words",
+          "general": "The Logoi are personified deceitful speech, children of Strife.",
+          "here": "Here they appear between Quarrels and Arguments.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
+        },
+        {
+          "id": "p018-arguments",
+          "label": "Arguments",
+          "general": "The Amphillogiai are divine personifications of arguments or disputes, children of Strife.",
+          "here": "They are named with Quarrels and lying Words.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "a357d6ea-6ab8-44ef-a955-02699fc403d5",
-        "summary_and_notes": "a15add59-043c-4a92-a89b-1ce09ba54dfa"
+        "summary_and_notes": "a15add59-043c-4a92-a89b-1ce09ba54dfa",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf",
+          "35fb8501-7c85-40f0-bf6b-8c7113058afd"
+        ]
       }
     },
     {
@@ -2601,19 +3003,39 @@
           "id": "p019-pontus",
           "label": "Pontus",
           "general": "The Sea imagined as a god.",
-          "here": "He fathers Nereus and, with Gaia, four more children."
+          "here": "He fathers Nereus and, with Gaia, four more children.",
+          "aliases": [
+            "Sea"
+          ],
+          "verse_labels": [
+            "233",
+            "237"
+          ]
         },
         {
           "id": "p019-nereus",
           "label": "Nereus",
           "general": "A gentle, truthful sea god, often called the Old Man of the Sea.",
-          "here": "He is Pontus’s eldest child and always respects what is right."
+          "here": "He is Pontus’s eldest child and always respects what is right.",
+          "aliases": [
+            "Old Man"
+          ],
+          "verse_labels": [
+            "233",
+            "234"
+          ]
         },
         {
           "id": "p019-gaia",
           "label": "Gaia",
           "general": "The Earth imagined as a goddess.",
-          "here": "She and Pontus are the parents of Thaumas, Phorcys, Ceto and Eurybia."
+          "here": "She and Pontus are the parents of Thaumas, Phorcys, Ceto and Eurybia.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "238"
+          ]
         },
         {
           "id": "p019-thaumas",
@@ -2642,7 +3064,10 @@
       ],
       "provenance": {
         "reading_text": "a357d6ea-6ab8-44ef-a955-02699fc403d5",
-        "summary_and_notes": "a15add59-043c-4a92-a89b-1ce09ba54dfa"
+        "summary_and_notes": "a15add59-043c-4a92-a89b-1ce09ba54dfa",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -2786,7 +3211,14 @@
           "id": "p020-nereids",
           "label": "Nereids",
           "general": "The fifty sea-goddess daughters of Nereus and Doris.",
-          "here": "The poem names all fifty and praises their beauty and skill."
+          "here": "The poem names all fifty and praises their beauty and skill.",
+          "aliases": [
+            "daughters"
+          ],
+          "verse_labels": [
+            "240",
+            "263"
+          ]
         },
         {
           "id": "p020-nereus",
@@ -2798,7 +3230,13 @@
           "id": "p020-doris-mother",
           "label": "Doris, the mother",
           "general": "A goddess who is a daughter of Oceanus.",
-          "here": "She and Nereus are the parents of the fifty sea goddesses."
+          "here": "She and Nereus are the parents of the fifty sea goddesses.",
+          "aliases": [
+            "Doris"
+          ],
+          "verse_labels": [
+            "241"
+          ]
         },
         {
           "id": "p020-oceanus",
@@ -2828,7 +3266,13 @@
           "id": "p020-doris-daughter",
           "label": "Doris, the daughter",
           "general": "One of the fifty sea goddesses.",
-          "here": "She shares her name with her mother."
+          "here": "She shares her name with her mother.",
+          "aliases": [
+            "Doris"
+          ],
+          "verse_labels": [
+            "250"
+          ]
         },
         {
           "id": "p020-galatea",
@@ -2859,11 +3303,454 @@
           "label": "Nemertes",
           "general": "One of the fifty sea goddesses.",
           "here": "She shares the mind of her truthful father, Nereus."
+        },
+        {
+          "id": "p020-ploto",
+          "label": "Ploto",
+          "general": "Ploto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She is the first daughter named in the catalog.",
+          "aliases": [],
+          "verse_labels": [
+            "243"
+          ]
+        },
+        {
+          "id": "p020-eucrante",
+          "label": "Eucrante",
+          "general": "Eucrante is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "243"
+          ]
+        },
+        {
+          "id": "p020-sao",
+          "label": "Sao",
+          "general": "Sao is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "243"
+          ]
+        },
+        {
+          "id": "p020-eudora",
+          "label": "Eudora",
+          "general": "Eudora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "244"
+          ]
+        },
+        {
+          "id": "p020-galene",
+          "label": "Galene",
+          "general": "Galene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "244"
+          ]
+        },
+        {
+          "id": "p020-glauce",
+          "label": "Glauce",
+          "general": "Glauce is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "244"
+          ]
+        },
+        {
+          "id": "p020-cymothoe",
+          "label": "Cymothoe",
+          "general": "Cymothoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-speio",
+          "label": "Speio",
+          "general": "Speio is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-thoe",
+          "label": "Thoe",
+          "general": "Thoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "Her Greek name is Θόη, distinct from the Oceanid Phoe named later.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-halia",
+          "label": "Halia",
+          "general": "Halia is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her lovely.",
+          "aliases": [],
+          "verse_labels": [
+            "245"
+          ]
+        },
+        {
+          "id": "p020-pasithea",
+          "label": "Pasithea",
+          "general": "Pasithea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "246"
+          ]
+        },
+        {
+          "id": "p020-erato",
+          "label": "Erato",
+          "general": "This Erato is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She belongs to this sea-goddess family, distinct from the Muse with the same name.",
+          "aliases": [],
+          "verse_labels": [
+            "246"
+          ]
+        },
+        {
+          "id": "p020-eunice",
+          "label": "Eunice",
+          "general": "Eunice is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her rosy arms.",
+          "aliases": [],
+          "verse_labels": [
+            "246"
+          ]
+        },
+        {
+          "id": "p020-melite",
+          "label": "Melite",
+          "general": "Melite is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her graceful.",
+          "aliases": [],
+          "verse_labels": [
+            "247"
+          ]
+        },
+        {
+          "id": "p020-eulimene",
+          "label": "Eulimene",
+          "general": "Eulimene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "247"
+          ]
+        },
+        {
+          "id": "p020-agave",
+          "label": "Agave",
+          "general": "This Agave is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She belongs to this sea-goddess family, distinct from Cadmus and Harmonia’s daughter.",
+          "aliases": [],
+          "verse_labels": [
+            "247"
+          ]
+        },
+        {
+          "id": "p020-doto",
+          "label": "Doto",
+          "general": "Doto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-proto",
+          "label": "Proto",
+          "general": "Proto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-pherusa",
+          "label": "Pherusa",
+          "general": "Pherusa is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-dynamene",
+          "label": "Dynamene",
+          "general": "Dynamene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "248"
+          ]
+        },
+        {
+          "id": "p020-nesaea",
+          "label": "Nesaea",
+          "general": "Nesaea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "249"
+          ]
+        },
+        {
+          "id": "p020-actaea",
+          "label": "Actaea",
+          "general": "Actaea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "249"
+          ]
+        },
+        {
+          "id": "p020-protomedea",
+          "label": "Protomedea",
+          "general": "Protomedea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "249"
+          ]
+        },
+        {
+          "id": "p020-panopea",
+          "label": "Panopea",
+          "general": "Panopea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "250"
+          ]
+        },
+        {
+          "id": "p020-hippothoe",
+          "label": "Hippothoe",
+          "general": "Hippothoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her lovely.",
+          "aliases": [],
+          "verse_labels": [
+            "251"
+          ]
+        },
+        {
+          "id": "p020-hipponoe",
+          "label": "Hipponoe",
+          "general": "Hipponoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her rosy arms.",
+          "aliases": [],
+          "verse_labels": [
+            "251"
+          ]
+        },
+        {
+          "id": "p020-cymo",
+          "label": "Cymo",
+          "general": "Cymo is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "255"
+          ]
+        },
+        {
+          "id": "p020-eione",
+          "label": "Eione",
+          "general": "Eione is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "255"
+          ]
+        },
+        {
+          "id": "p020-halimede",
+          "label": "Halimede",
+          "general": "Halimede is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her lovely crown.",
+          "aliases": [],
+          "verse_labels": [
+            "255"
+          ]
+        },
+        {
+          "id": "p020-glauconome",
+          "label": "Glauconome",
+          "general": "Glauconome is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem describes her as loving to smile.",
+          "aliases": [],
+          "verse_labels": [
+            "256"
+          ]
+        },
+        {
+          "id": "p020-pontoporea",
+          "label": "Pontoporea",
+          "general": "Pontoporea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "256"
+          ]
+        },
+        {
+          "id": "p020-leagora",
+          "label": "Leagora",
+          "general": "Leagora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "257"
+          ]
+        },
+        {
+          "id": "p020-euagora",
+          "label": "Euagora",
+          "general": "Euagora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "257"
+          ]
+        },
+        {
+          "id": "p020-laomedea",
+          "label": "Laomedea",
+          "general": "Laomedea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "257"
+          ]
+        },
+        {
+          "id": "p020-polynoe",
+          "label": "Polynoe",
+          "general": "Polynoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "258"
+          ]
+        },
+        {
+          "id": "p020-autonoe",
+          "label": "Autonoe",
+          "general": "This Autonoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She belongs to this sea-goddess family, distinct from Cadmus and Harmonia’s daughter.",
+          "aliases": [],
+          "verse_labels": [
+            "258"
+          ]
+        },
+        {
+          "id": "p020-lysianassa",
+          "label": "Lysianassa",
+          "general": "Lysianassa is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "258"
+          ]
+        },
+        {
+          "id": "p020-euarne",
+          "label": "Euarne",
+          "general": "Euarne is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her figure and looks.",
+          "aliases": [],
+          "verse_labels": [
+            "259"
+          ]
+        },
+        {
+          "id": "p020-psamathe",
+          "label": "Psamathe",
+          "general": "Psamathe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem praises her graceful body.",
+          "aliases": [],
+          "verse_labels": [
+            "260"
+          ]
+        },
+        {
+          "id": "p020-menippe",
+          "label": "Menippe",
+          "general": "Menippe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "The poem calls her glorious.",
+          "aliases": [],
+          "verse_labels": [
+            "260"
+          ]
+        },
+        {
+          "id": "p020-neso",
+          "label": "Neso",
+          "general": "Neso is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        },
+        {
+          "id": "p020-eupompe",
+          "label": "Eupompe",
+          "general": "Eupompe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        },
+        {
+          "id": "p020-themisto",
+          "label": "Themisto",
+          "general": "Themisto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
+        },
+        {
+          "id": "p020-pronoe",
+          "label": "Pronoe",
+          "general": "Pronoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+          "here": "She appears among the fifty daughters named here.",
+          "aliases": [],
+          "verse_labels": [
+            "261"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "a357d6ea-6ab8-44ef-a955-02699fc403d5",
-        "summary_and_notes": "a15add59-043c-4a92-a89b-1ce09ba54dfa"
+        "summary_and_notes": "a15add59-043c-4a92-a89b-1ce09ba54dfa",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -3045,8 +3932,15 @@
         {
           "id": "graiae",
           "label": "Graiae",
-          "general": "Their Greek name means “Old Women.”",
-          "here": "Hesiod explains their name through their gray hair, which they had from birth."
+          "general": "The Graiae are Ceto and Phorcys’s supernatural daughters Pemphredo and Enyo, gray-haired from birth.",
+          "here": "Their name means Old Women, which Hesiod explains through their hair.",
+          "aliases": [
+            "Old Women"
+          ],
+          "verse_labels": [
+            "270",
+            "271"
+          ]
         },
         {
           "id": "pemphredo",
@@ -3106,7 +4000,13 @@
           "id": "poseidon",
           "label": "Poseidon",
           "general": "The god of the sea, often called “the Dark-haired One.”",
-          "here": "He sleeps with Medusa in a meadow."
+          "here": "He sleeps with Medusa in a meadow.",
+          "aliases": [
+            "Dark-haired"
+          ],
+          "verse_labels": [
+            "278"
+          ]
         },
         {
           "id": "perseus",
@@ -3117,8 +4017,10 @@
         {
           "id": "chrysaor",
           "label": "Chrysaor",
-          "general": "His name means “Golden Sword.”",
-          "here": "He emerges from Medusa holding a golden sword, which explains his name."
+          "general": "Chrysaor is Medusa and Poseidon’s son, who emerges holding a golden sword.",
+          "here": "He springs out when Perseus cuts off Medusa’s head. His sword explains his name.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "pegasus",
@@ -3135,7 +4037,10 @@
       ],
       "provenance": {
         "reading_text": "a4265a45-e81f-46a7-90c4-3dd8d4d52ada",
-        "summary_and_notes": "8ea63681-2718-4ca8-a96d-5717faec0d82"
+        "summary_and_notes": "8ea63681-2718-4ca8-a96d-5717faec0d82",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -3248,8 +4153,10 @@
         {
           "id": "p022-chrysaor",
           "label": "Chrysaor",
-          "general": "A mythical figure whose name means “Golden Sword.”",
-          "here": "He fathers Geryon with Callirhoe."
+          "general": "Chrysaor is Medusa and Poseidon’s son and Geryon’s father by Callirhoe.",
+          "here": "His union with Oceanus’s daughter produces three-headed Geryon.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p022-geryon",
@@ -3316,11 +4223,23 @@
           "label": "Arimoi",
           "general": "A people or region whose location is uncertain.",
           "here": "Echidna’s underground home is in their land."
+        },
+        {
+          "id": "p022-ceto",
+          "label": "Ceto",
+          "general": "Ceto is a sea goddess, daughter of Gaia and Pontus.",
+          "here": "Here she bears Echidna, a divine creature half nymph and half snake.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "5a9efa21-fab2-412a-929c-76d4cd100c90",
-        "summary_and_notes": "396d0fe8-0f7c-4d99-aeb9-9e0600a4c814"
+        "summary_and_notes": "396d0fe8-0f7c-4d99-aeb9-9e0600a4c814",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf",
+          "35fb8501-7c85-40f0-bf6b-8c7113058afd"
+        ]
       }
     },
     {
@@ -3518,7 +4437,11 @@
           "id": "p023-hydra",
           "label": "Hydra of Lerna",
           "general": "A dangerous water monster associated with Lerna in Greece.",
-          "here": "Hera raises her, and Heracles kills her with help."
+          "here": "Hera raises her, and Heracles kills her with help.",
+          "aliases": [
+            "Hydra"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p023-hera",
@@ -3530,7 +4453,20 @@
           "id": "p023-heracles",
           "label": "Heracles",
           "general": "A famously strong hero, born to Zeus and a human mother.",
-          "here": "He defeats the Hydra and the Nemean lion."
+          "here": "He defeats the Hydra and the Nemean lion.",
+          "aliases": [
+            "Zeus's son",
+            "Zeus’s son",
+            "Amphitryon's son",
+            "Amphitryon’s son"
+          ],
+          "verse_labels": [
+            "315",
+            "316",
+            "317",
+            "318",
+            "332"
+          ]
         },
         {
           "id": "p023-zeus",
@@ -3554,7 +4490,13 @@
           "id": "p023-athena",
           "label": "Athena",
           "general": "A goddess of wisdom, skilled action, and warfare.",
-          "here": "Her guidance helps Heracles defeat the Hydra."
+          "here": "Her guidance helps Heracles defeat the Hydra.",
+          "aliases": [
+            "bringer of spoils"
+          ],
+          "verse_labels": [
+            "318"
+          ]
         },
         {
           "id": "p023-bronze",
@@ -3584,13 +4526,25 @@
           "id": "p023-nemean-lion",
           "label": "Nemean lion",
           "general": "A monstrous lion associated with Nemea in Greece.",
-          "here": "He terrorizes the surrounding area until Heracles defeats him."
+          "here": "He terrorizes the surrounding area until Heracles defeats him.",
+          "aliases": [
+            "lion of Nemea"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p023-tretus-nemea-apesas",
           "label": "Tretus, Nemea, and Apesas",
           "general": "Neighboring places in Greece: a mountain pass, a valley, and a mountain.",
-          "here": "They mark the territory dominated by the lion."
+          "here": "They mark the territory dominated by the lion.",
+          "aliases": [
+            "Tretus",
+            "Nemea",
+            "Apesas"
+          ],
+          "verse_labels": [
+            "331"
+          ]
         },
         {
           "id": "p023-ceto-phorcys",
@@ -3603,11 +4557,40 @@
           "label": "Golden apples",
           "general": "Precious mythical fruit kept at the far edge of the world.",
           "here": "A dreadful snake guards them; this passage gives the snake no name."
+        },
+        {
+          "id": "p023-echidna",
+          "label": "Echidna",
+          "general": "Echidna is an immortal monster, half nymph and half serpent.",
+          "here": "She bears monstrous children with Typhaon and later with Orthus.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p023-geryon",
+          "label": "Geryon",
+          "general": "Geryon is the three-headed cattle owner, son of Chrysaor and Callirhoe.",
+          "here": "Orthus is born as a dog for him.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p023-apple-guarding-serpent",
+          "label": "a dreadful snake",
+          "general": "This snake is an unnamed monstrous child of Ceto and Phorcys.",
+          "here": "It guards the golden apples at the earth’s far limits.",
+          "aliases": [],
+          "verse_labels": [
+            "334"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "5a9efa21-fab2-412a-929c-76d4cd100c90",
-        "summary_and_notes": "396d0fe8-0f7c-4d99-aeb9-9e0600a4c814"
+        "summary_and_notes": "396d0fe8-0f7c-4d99-aeb9-9e0600a4c814",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -3682,163 +4665,218 @@
         {
           "id": "p024-rivers",
           "label": "Rivers",
-          "general": "For the Greeks, a river could also be a god.",
-          "here": "The named rivers are children of Tethys and Ocean."
+          "general": "The Rivers are the river-god sons of Tethys and Ocean.",
+          "here": "The poem names twenty-five of them.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-nile",
           "label": "Nile",
-          "general": "The great river of Egypt.",
-          "here": "One of the river sons."
+          "general": "Nile is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-alpheus",
           "label": "Alpheus",
-          "general": "A river in southern Greece, flowing past Olympia.",
-          "here": "One of the river sons."
+          "general": "Alpheus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-eridanus",
           "label": "Eridanus",
-          "general": "A mythical river whose location was understood differently by different ancient writers.",
-          "here": "His waters form deep whirlpools."
+          "general": "Eridanus is a river god, son of Tethys and Ocean.",
+          "here": "His waters form deep whirlpools.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-strymon",
           "label": "Strymon",
-          "general": "A river flowing into the northern Aegean Sea.",
-          "here": "One of the river sons."
+          "general": "Strymon is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-maeander",
           "label": "Maeander",
-          "general": "A famously winding river in what is now western Turkey.",
-          "here": "One of the river sons."
+          "general": "Maeander is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-ister",
           "label": "Ister",
-          "general": "The ancient Greek name for the Danube.",
-          "here": "Hesiod praises his lovely streams."
+          "general": "Ister is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod praises his lovely streams.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-phasis",
           "label": "Phasis",
-          "general": "A river at the eastern end of the Black Sea, in what is now Georgia.",
-          "here": "One of the river sons."
+          "general": "Phasis is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-rhesus",
           "label": "Rhesus",
-          "general": "A river name associated with the region around Troy.",
-          "here": "One of the river sons."
+          "general": "Rhesus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-achelous",
           "label": "Achelous",
-          "general": "A major river in western Greece and its god.",
-          "here": "His swirling waters gleam like silver."
+          "general": "Achelous is a river god, son of Tethys and Ocean.",
+          "here": "His swirling waters gleam like silver.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-nessus",
           "label": "Nessus",
-          "general": "A river name in Hesiod’s list.",
-          "here": "One of the river sons."
+          "general": "Nessus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-rhodius",
           "label": "Rhodius",
-          "general": "A river in the region around Troy.",
-          "here": "One of the river sons."
+          "general": "Rhodius is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-haliacmon",
           "label": "Haliacmon",
-          "general": "A river in northern Greece.",
-          "here": "One of the river sons."
+          "general": "Haliacmon is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-heptaporus",
           "label": "Heptaporus",
-          "general": "A river associated with the region around Troy.",
-          "here": "One of the river sons."
+          "general": "Heptaporus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-grenicus",
           "label": "Grenicus",
-          "general": "A river name usually identified with the Granicus in what is now northwestern Turkey.",
-          "here": "One of the river sons."
+          "general": "Grenicus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-aesepus",
           "label": "Aesepus",
-          "general": "A river in what is now northwestern Turkey.",
-          "here": "One of the river sons."
+          "general": "Aesepus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-simois",
           "label": "Simois",
-          "general": "A river near Troy.",
-          "here": "Hesiod calls him sacred."
+          "general": "Simois is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod calls him sacred.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-peneus",
           "label": "Peneus",
-          "general": "A major river in Thessaly, in Greece.",
-          "here": "One of the river sons."
+          "general": "Peneus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-hermus",
           "label": "Hermus",
-          "general": "A river in what is now western Turkey.",
-          "here": "One of the river sons."
+          "general": "Hermus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-caicus",
           "label": "Caicus",
-          "general": "A river in what is now western Turkey.",
-          "here": "Hesiod praises his flowing waters."
+          "general": "Caicus is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod praises his flowing waters.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-sangarius",
           "label": "Sangarius",
-          "general": "A large river in what is now Turkey.",
-          "here": "Hesiod calls him great."
+          "general": "Sangarius is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod calls him great.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-ladon",
           "label": "Ladon",
-          "general": "A river in Arcadia, in southern Greece.",
-          "here": "One of the river sons."
+          "general": "This Ladon is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-parthenius",
           "label": "Parthenius",
-          "general": "A river flowing into the Black Sea in what is now northern Turkey.",
-          "here": "One of the river sons."
+          "general": "Parthenius is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-evenus",
           "label": "Evenus",
-          "general": "A river in western Greece.",
-          "here": "One of the river sons."
+          "general": "Evenus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-ardescus",
           "label": "Ardescus",
-          "general": "A river name in Hesiod’s list.",
-          "here": "One of the river sons."
+          "general": "Ardescus is a river god, son of Tethys and Ocean.",
+          "here": "One of the river sons.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p024-scamander",
           "label": "Scamander",
-          "general": "A river near Troy, also worshipped as a god.",
-          "here": "Hesiod calls him sacred."
+          "general": "Scamander is a river god, son of Tethys and Ocean.",
+          "here": "Hesiod calls him sacred.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "2fecde9e-fb52-4275-95ca-0c34a130a6b4",
-        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431"
+        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -3999,8 +5037,10 @@
         {
           "id": "p025-peitho",
           "label": "Peitho",
-          "general": "Her name means persuasion; she is also associated with its divine power.",
-          "here": "One of Ocean and Tethys’s eldest daughters."
+          "general": "Peitho is an Oceanid goddess who personifies persuasion.",
+          "here": "She is named among Ocean and Tethys’s eldest daughters.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p025-admete",
@@ -4101,8 +5141,10 @@
         {
           "id": "p025-dione",
           "label": "Dione",
-          "general": "A goddess whose family connections vary across Greek traditions.",
-          "here": "Hesiod lists her among Ocean’s daughters and calls her lovely."
+          "general": "Dione is an Oceanid goddess, a daughter of Ocean and Tethys.",
+          "here": "She is named among their eldest daughters and called lovely.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p025-melobosis",
@@ -4112,9 +5154,13 @@
         },
         {
           "id": "p025-thoe",
-          "label": "Thoe",
+          "label": "Phoe",
           "general": "One of the Oceanids, the water goddesses.",
-          "here": "One of the eldest daughters."
+          "here": "One of the eldest daughters.",
+          "aliases": [],
+          "verse_labels": [
+            "354"
+          ]
         },
         {
           "id": "p025-polydora",
@@ -4215,8 +5261,10 @@
         {
           "id": "p025-calypso",
           "label": "Calypso",
-          "general": "A goddess whose parentage differs across Greek poems.",
-          "here": "Hesiod makes her Ocean and Tethys’s daughter and calls her enchanting."
+          "general": "Calypso is an Oceanid goddess, a daughter of Ocean and Tethys.",
+          "here": "She is named among their eldest daughters and called enchanting.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p025-eudora",
@@ -4253,11 +5301,41 @@
           "label": "Mortal",
           "general": "Someone who will eventually die, especially a human.",
           "here": "A human could hardly name every river."
+        },
+        {
+          "id": "p025-tethys",
+          "label": "Tethys",
+          "general": "Tethys is a Titan goddess, mother of the Oceanids and river gods by Ocean.",
+          "here": "She bears the daughters and Rivers who help nurture the young.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p025-ocean",
+          "label": "Ocean",
+          "general": "Ocean is Oceanus, the world-encircling river god.",
+          "here": "He and Tethys are the parents of the Oceanid daughters and the Rivers.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p025-rivers",
+          "label": "Rivers",
+          "general": "The Rivers are the river-god sons of Ocean and Tethys.",
+          "here": "They help Apollo and their sisters nurture the young, and number three thousand.",
+          "aliases": [],
+          "verse_labels": [
+            "348",
+            "367"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "2fecde9e-fb52-4275-95ca-0c34a130a6b4",
-        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431"
+        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -4308,19 +5386,37 @@
           "id": "p026-helios",
           "label": "Helios",
           "general": "The Sun as a god.",
-          "here": "Theia and Hyperion’s son."
+          "here": "Theia and Hyperion’s son.",
+          "aliases": [
+            "Sun"
+          ],
+          "verse_labels": [
+            "371"
+          ]
         },
         {
           "id": "p026-selene",
           "label": "Selene",
           "general": "The Moon as a goddess.",
-          "here": "Theia and Hyperion’s bright daughter."
+          "here": "Theia and Hyperion’s bright daughter.",
+          "aliases": [
+            "Moon"
+          ],
+          "verse_labels": [
+            "371"
+          ]
         },
         {
           "id": "p026-eos",
           "label": "Eos",
           "general": "The goddess of dawn, the first light of morning.",
-          "here": "She brings light to people and gods."
+          "here": "She brings light to people and gods.",
+          "aliases": [
+            "Dawn"
+          ],
+          "verse_labels": [
+            "372"
+          ]
         },
         {
           "id": "p026-immortal",
@@ -4331,7 +5427,10 @@
       ],
       "provenance": {
         "reading_text": "2fecde9e-fb52-4275-95ca-0c34a130a6b4",
-        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431"
+        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -4420,7 +5519,14 @@
           "id": "p027-eos",
           "label": "Eos",
           "general": "The goddess of dawn.",
-          "here": "She is the mother of the Winds and stars; “born at daybreak” is a poetic title for her."
+          "here": "She is the mother of the Winds and stars; “born at daybreak” is a poetic title for her.",
+          "aliases": [
+            "born at daybreak"
+          ],
+          "verse_labels": [
+            "378",
+            "381"
+          ]
         },
         {
           "id": "p027-winds",
@@ -4449,13 +5555,32 @@
         {
           "id": "p027-eosphorus",
           "label": "Eosphorus",
-          "general": "The Morning Star: the planet Venus when it appears before sunrise.",
-          "here": "A divine child of Eos and Astraeus."
+          "general": "Eosphorus is the divine Morning Star, a child of Eos and Astraeus.",
+          "here": "Eos bears him after the Winds. He is Venus as seen before sunrise.",
+          "aliases": [
+            "Morning Star"
+          ],
+          "verse_labels": [
+            "381"
+          ]
+        },
+        {
+          "id": "p027-gleaming-stars",
+          "label": "gleaming stars",
+          "general": "These stars are divine offspring of Eos and Astraeus as well as lights in the sky.",
+          "here": "Eos bears them after the Winds, and they crown the sky.",
+          "aliases": [],
+          "verse_labels": [
+            "382"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "2fecde9e-fb52-4275-95ca-0c34a130a6b4",
-        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431"
+        "summary_and_notes": "7b3fff30-ae39-4b53-8292-55b069dea431",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -4596,8 +5721,10 @@
         {
           "id": "p028-zelos",
           "label": "Zelos",
-          "general": "The spirit of rivalry and the drive to excel.",
-          "here": "One of Styx’s children, always beside Zeus."
+          "general": "Zelos is the divine personification of rivalry and the drive to excel.",
+          "here": "One of Styx’s children, always beside Zeus.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p028-nike",
@@ -4608,14 +5735,18 @@
         {
           "id": "p028-kratos",
           "label": "Kratos",
-          "general": "The spirit of power and might.",
-          "here": "One of Styx’s children, always beside Zeus."
+          "general": "Kratos is the divine personification of power and might.",
+          "here": "One of Styx’s children, always beside Zeus.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p028-bia",
           "label": "Bia",
-          "general": "The spirit of force.",
-          "here": "One of Styx’s children, always beside Zeus."
+          "general": "Bia is the divine personification of force.",
+          "here": "One of Styx’s children, always beside Zeus.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p028-zeus",
@@ -4656,7 +5787,10 @@
       ],
       "provenance": {
         "reading_text": "1e2dd26c-513d-402d-8a30-e0e3830c0088",
-        "summary_and_notes": "e08dcd27-c84f-4572-89fb-80eb32283b84"
+        "summary_and_notes": "e08dcd27-c84f-4572-89fb-80eb32283b84",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -5082,7 +6216,13 @@
           "id": "p031-earth-shaker",
           "label": "Earth-shaker",
           "general": "A name for Poseidon, god of the sea and earthquakes.",
-          "here": "People fishing at sea pray to him along with Hecate."
+          "here": "People fishing at sea pray to him along with Hecate.",
+          "aliases": [
+            "Poseidon"
+          ],
+          "verse_labels": [
+            "441"
+          ]
         },
         {
           "id": "p031-hermes",
@@ -5101,11 +6241,22 @@
           "label": "Dawn",
           "general": "Eos, the goddess who brings the morning light.",
           "here": "Seeing Dawn's light means coming into the world alive."
+        },
+        {
+          "id": "p031-cronus",
+          "label": "Cronus",
+          "general": "Cronus is Zeus’s Titan father and predecessor as ruler of the gods.",
+          "here": "His name identifies Zeus through the title son of Cronus.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "d1321612-e2f7-4fda-9907-2ceedec73376",
-        "summary_and_notes": "a9394919-e2d3-4576-adf9-488ea7123491"
+        "summary_and_notes": "a9394919-e2d3-4576-adf9-488ea7123491",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -5235,7 +6386,13 @@
           "id": "p032-poseidon",
           "label": "Poseidon",
           "general": "The god of the sea and earthquakes, also called Earth-shaker.",
-          "here": "He is one of Rhea and Cronus's sons."
+          "here": "He is one of Rhea and Cronus's sons.",
+          "aliases": [
+            "Earth-shaker"
+          ],
+          "verse_labels": [
+            "456"
+          ]
         },
         {
           "id": "p032-zeus",
@@ -5258,7 +6415,10 @@
       ],
       "provenance": {
         "reading_text": "d1321612-e2f7-4fda-9907-2ceedec73376",
-        "summary_and_notes": "a9394919-e2d3-4576-adf9-488ea7123491"
+        "summary_and_notes": "a9394919-e2d3-4576-adf9-488ea7123491",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -5568,7 +6728,14 @@
           "id": "p034-cyclopes",
           "label": "Zeus’s father’s brothers",
           "general": "The Cyclopes, divine craftsmen with one eye each, are sons of Ouranos and Gaia.",
-          "here": "These are the uncles who repay Zeus with thunder, the thunderbolt, and lightning."
+          "here": "These are the uncles who repay Zeus with thunder, the thunderbolt, and lightning.",
+          "aliases": [
+            "his father's brothers",
+            "his father’s brothers"
+          ],
+          "verse_labels": [
+            "501"
+          ]
         },
         {
           "id": "p034-thunderbolt",
@@ -5579,7 +6746,10 @@
       ],
       "provenance": {
         "reading_text": "e6975ff5-fbd7-48ac-a8a9-6148998ca175",
-        "summary_and_notes": "13695502-29d7-41b7-9cf5-d2a03c486adf"
+        "summary_and_notes": "13695502-29d7-41b7-9cf5-d2a03c486adf",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -5850,14 +7020,38 @@
         },
         {
           "id": "p036-son-of-cronus",
-          "label": "The son of Cronus",
-          "general": "Another way of naming Zeus through his father.",
-          "here": "Zeus is the mighty god whose plans Prometheus challenged."
+          "label": "Zeus",
+          "general": "Zeus is the ruling god and a son of the Titan Cronus.",
+          "here": "He punishes Prometheus but consents to Heracles ending the eagle’s attack, honoring his son.",
+          "aliases": [
+            "Zeus"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p036-iapetus",
+          "label": "Iapetus",
+          "general": "Iapetus is a Titan, one of the older generation of gods.",
+          "here": "He is Prometheus’s father, named in the translated patronymic.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p036-cronus",
+          "label": "Cronus",
+          "general": "Cronus is Zeus’s Titan father and predecessor as ruler of the gods.",
+          "here": "His name identifies Zeus as the god whose plans Prometheus challenged.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "e6975ff5-fbd7-48ac-a8a9-6148998ca175",
-        "summary_and_notes": "13695502-29d7-41b7-9cf5-d2a03c486adf"
+        "summary_and_notes": "13695502-29d7-41b7-9cf5-d2a03c486adf",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf",
+          "35fb8501-7c85-40f0-bf6b-8c7113058afd"
+        ]
       }
     },
     {
@@ -5997,7 +7191,11 @@
           "id": "p037-zeus",
           "label": "Zeus",
           "general": "The ruler of the gods, associated with the sky and thunder.",
-          "here": "Called the father of gods and humans, he recognizes Prometheus’s trick."
+          "here": "Called the father of gods and humans, he recognizes Prometheus’s trick.",
+          "aliases": [
+            "father of gods and humans"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p037-iapetus",
@@ -6020,7 +7218,10 @@
       ],
       "provenance": {
         "reading_text": "c3cbc99d-125c-46c1-b9c1-151da1c996cf",
-        "summary_and_notes": "93c62819-a94b-4650-9637-d0b86eae12d6"
+        "summary_and_notes": "93c62819-a94b-4650-9637-d0b86eae12d6",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -6118,11 +7319,22 @@
           "label": "Fennel stalk",
           "general": "Giant fennel has a stalk whose inner material can carry a slowly burning ember.",
           "here": "Prometheus uses a hollow stalk to carry the stolen fire."
+        },
+        {
+          "id": "p038-iapetus",
+          "label": "Iapetus",
+          "general": "Iapetus is a Titan, one of the older generation of gods.",
+          "here": "His name identifies Prometheus as his son in Zeus’s speech and the account of the fire theft.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "c3cbc99d-125c-46c1-b9c1-151da1c996cf",
-        "summary_and_notes": "93c62819-a94b-4650-9637-d0b86eae12d6"
+        "summary_and_notes": "93c62819-a94b-4650-9637-d0b86eae12d6",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -6648,7 +7860,11 @@
           "id": "p042-titans",
           "label": "Titans",
           "general": "An older generation of gods, born to Gaia and Uranus.",
-          "here": "The Titans fighting from Mount Othrys oppose Zeus and the other children of Cronus."
+          "here": "The Titans fighting from Mount Othrys oppose Zeus and the other children of Cronus.",
+          "aliases": [
+            "Titan gods"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p042-cronus",
@@ -6677,7 +7893,10 @@
       ],
       "provenance": {
         "reading_text": "057bfe9f-e369-4f7c-a64a-120c6d67f0f0",
-        "summary_and_notes": "ac3a368f-52c8-443a-b341-114208cce934"
+        "summary_and_notes": "ac3a368f-52c8-443a-b341-114208cce934",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -6807,12 +8026,29 @@
           "id": "p043-titans",
           "label": "Titans",
           "general": "An older generation of gods.",
-          "here": "They are the enemies Zeus asks the Hundred-Handers to fight."
+          "here": "They are the enemies Zeus asks the Hundred-Handers to fight.",
+          "aliases": [
+            "Titan gods"
+          ],
+          "verse_labels": []
+        },
+        {
+          "id": "p043-three-brothers",
+          "label": "three brothers",
+          "general": "These are the Hundred-Handers Cottus, Briareus, and Gyges, divine sons of Earth and Sky.",
+          "here": "Zeus feeds the freed brothers and asks them to use their strength against the Titans.",
+          "aliases": [],
+          "verse_labels": [
+            "639"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "057bfe9f-e369-4f7c-a64a-120c6d67f0f0",
-        "summary_and_notes": "ac3a368f-52c8-443a-b341-114208cce934"
+        "summary_and_notes": "ac3a368f-52c8-443a-b341-114208cce934",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -7044,7 +8280,11 @@
           "id": "p045-titans",
           "label": "Titans",
           "general": "An older generation of gods.",
-          "here": "They form their ranks against Zeus and his allies."
+          "here": "They form their ranks against Zeus and his allies.",
+          "aliases": [
+            "Titan gods"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p045-cronus",
@@ -7068,7 +8308,15 @@
           "id": "p045-giants",
           "label": "Hundred-handed giants",
           "general": "Cottus, Briareus, and Gyes: three brothers with a hundred hands and fifty heads each.",
-          "here": "They face the Titans with huge rocks in their hands."
+          "here": "They face the Titans with huge rocks in their hands.",
+          "aliases": [
+            "These giants",
+            "Cottus"
+          ],
+          "verse_labels": [
+            "664",
+            "674"
+          ]
         },
         {
           "id": "p045-olympus",
@@ -7085,7 +8333,10 @@
       ],
       "provenance": {
         "reading_text": "136ec02d-5c42-489b-8682-b92713d3a363",
-        "summary_and_notes": "bf3e8ffc-4963-4650-b939-b83b78f01437"
+        "summary_and_notes": "bf3e8ffc-4963-4650-b939-b83b78f01437",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -7266,18 +8517,35 @@
           "id": "p046-gaia",
           "label": "Gaia",
           "general": "Earth herself, understood as a goddess.",
-          "here": "The battle sounds as though she were collapsing beneath a falling Sky."
+          "here": "The battle sounds as though she were collapsing beneath a falling Sky.",
+          "aliases": [
+            "Earth"
+          ],
+          "verse_labels": [
+            "702",
+            "704"
+          ]
         },
         {
           "id": "p046-ouranos",
           "label": "Ouranos",
           "general": "Sky himself, understood as a god.",
-          "here": "Hesiod imagines how it would sound if he crashed down onto Gaia."
+          "here": "Hesiod imagines how it would sound if he crashed down onto Gaia.",
+          "aliases": [
+            "Sky"
+          ],
+          "verse_labels": [
+            "702",
+            "704"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "136ec02d-5c42-489b-8682-b92713d3a363",
-        "summary_and_notes": "bf3e8ffc-4963-4650-b939-b83b78f01437"
+        "summary_and_notes": "bf3e8ffc-4963-4650-b939-b83b78f01437",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -7386,7 +8654,15 @@
           "id": "p047-cottus",
           "label": "Cottus, Briareus, and Gyges",
           "general": "Three giant brothers, each with a hundred hands.",
-          "here": "Their many hands let them throw three hundred rocks at once."
+          "here": "Their many hands let them throw three hundred rocks at once.",
+          "aliases": [
+            "Cottus",
+            "Briareus",
+            "Gyges"
+          ],
+          "verse_labels": [
+            "713"
+          ]
         },
         {
           "id": "p047-titans",
@@ -7421,7 +8697,10 @@
       ],
       "provenance": {
         "reading_text": "2dbf68ff-9f47-42e0-87e0-42ace2c97c85",
-        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d"
+        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -7531,8 +8810,10 @@
         {
           "id": "p048-obriareus",
           "label": "Obriareus",
-          "general": "Another form of the name Briareus.",
-          "here": "He guards the Titans with his brothers Gyges and Cottus."
+          "general": "Obriareus is Briareus, one of the three Hundred-Handers and a guard of the Titans.",
+          "here": "He lives with Gyges and Cottus as a faithful guard serving Zeus.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p048-aegis",
@@ -7557,11 +8838,54 @@
           "label": "Night",
           "general": "Night is a goddess as well as the darkness that comes each evening.",
           "here": "Her house stands near these terrifying depths."
+        },
+        {
+          "id": "p048-titans",
+          "label": "Titan gods",
+          "general": "The Titans are the older generation of gods defeated by Zeus and his allies.",
+          "here": "They are imprisoned in misty darkness behind bronze doors.",
+          "aliases": [],
+          "verse_labels": [
+            "729"
+          ]
+        },
+        {
+          "id": "p048-gyges",
+          "label": "Gyges",
+          "general": "Gyges is one of the three Hundred-Handers, divine sons of Gaia and Uranus.",
+          "here": "He guards the imprisoned Titans with Cottus and Obriareus.",
+          "aliases": [],
+          "verse_labels": [
+            "734"
+          ]
+        },
+        {
+          "id": "p048-cottus",
+          "label": "Cottus",
+          "general": "Cottus is one of the three Hundred-Handers, divine sons of Gaia and Uranus.",
+          "here": "He guards the imprisoned Titans with Gyges and Obriareus.",
+          "aliases": [],
+          "verse_labels": [
+            "734"
+          ]
+        },
+        {
+          "id": "p048-tartarus",
+          "label": "Tartarus",
+          "general": "Tartarus is the primordial depth and dark region beneath earth.",
+          "here": "The name is used for a place associated with the Titans’ imprisonment, whose sources and boundaries lie beside those of earth, sea, and sky.",
+          "aliases": [],
+          "verse_labels": [
+            "736"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "2dbf68ff-9f47-42e0-87e0-42ace2c97c85",
-        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d"
+        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -7690,7 +9014,13 @@
           "id": "p049-iapetus",
           "label": "Iapetus’s son",
           "general": "Atlas, a son of the Titan Iapetus.",
-          "here": "He holds up the sky with his head and hands."
+          "here": "He holds up the sky with his head and hands.",
+          "aliases": [
+            "Iapetus's son"
+          ],
+          "verse_labels": [
+            "746"
+          ]
         },
         {
           "id": "p049-day",
@@ -7720,18 +9050,40 @@
           "id": "p049-helios",
           "label": "Helios",
           "general": "The Sun, imagined as a god travelling across the sky.",
-          "here": "His rays never reach Sleep and Death."
+          "here": "His rays never reach Sleep and Death.",
+          "aliases": [
+            "Sun"
+          ],
+          "verse_labels": [
+            "760"
+          ]
         },
         {
           "id": "p049-immortal",
           "label": "Immortal",
           "general": "Unable to die.",
           "here": "Even gods who cannot die hate Death."
+        },
+        {
+          "id": "p049-night",
+          "label": "Night",
+          "general": "Night is the goddess Nyx, mother of Sleep and Death.",
+          "here": "She and Day take turns leaving their shared house, and she carries Sleep in her hands.",
+          "aliases": [],
+          "verse_labels": [
+            "748",
+            "756",
+            "757",
+            "758"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "2dbf68ff-9f47-42e0-87e0-42ace2c97c85",
-        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d"
+        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -7802,12 +9154,21 @@
           "id": "p050-dog",
           "label": "The guard dog",
           "general": "Cerberus, the dog guarding the world of the dead.",
-          "here": "Hesiod does not name him in these lines. His friendly welcome hides a deadly trap."
+          "here": "Hesiod does not name him in these lines. His friendly welcome hides a deadly trap.",
+          "aliases": [
+            "fearsome dog"
+          ],
+          "verse_labels": [
+            "769"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "2dbf68ff-9f47-42e0-87e0-42ace2c97c85",
-        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d"
+        "summary_and_notes": "05a7c23e-f895-43c5-89ed-1f2f81c4c54d",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -8153,7 +9514,14 @@
           "id": "p052-poseidon",
           "label": "Poseidon, the Earth-shaker",
           "general": "The god of the sea and earthquakes. “Earth-shaker” is one of his titles.",
-          "here": "The Greek names him by his title; he is Cymopolea’s father."
+          "here": "The Greek names him by his title; he is Cymopolea’s father.",
+          "aliases": [
+            "Poseidon",
+            "Earth-shaker"
+          ],
+          "verse_labels": [
+            "818"
+          ]
         },
         {
           "id": "p052-cymopolea",
@@ -8176,7 +9544,10 @@
       ],
       "provenance": {
         "reading_text": "dc3bc0ac-3cdf-4cf2-8a99-8a94fc12014c",
-        "summary_and_notes": "0650398c-fad0-469d-8ee5-8f8239ad5939"
+        "summary_and_notes": "0650398c-fad0-469d-8ee5-8f8239ad5939",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -8693,7 +10064,11 @@
           "id": "p055-zeus",
           "label": "Olympian Zeus",
           "general": "Zeus is the god of thunder. “Olympian” connects him with Mount Olympus, the gods’ home.",
-          "here": "The gods choose him to rule them."
+          "here": "The gods choose him to rule them.",
+          "aliases": [
+            "Zeus"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p055-honors",
@@ -8704,7 +10079,10 @@
       ],
       "provenance": {
         "reading_text": "37b55cc8-a601-4160-ac18-90e48b932555",
-        "summary_and_notes": "4b5b3a03-0eb6-4ea3-ab0d-bcb25c45871a"
+        "summary_and_notes": "4b5b3a03-0eb6-4ea3-ab0d-bcb25c45871a",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -8943,13 +10321,25 @@
           "id": "p057-seasons",
           "label": "The Seasons",
           "general": "The Horae: goddesses who oversee the seasons and orderly life.",
-          "here": "Eunomia means Good Order, Dike means Justice, and Eirene means Peace. They watch over human work."
+          "here": "Eunomia means Good Order, Dike means Justice, and Eirene means Peace. They watch over human work.",
+          "aliases": [
+            "Eunomia",
+            "Dike",
+            "Eirene"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p057-fates",
           "label": "The Fates",
           "general": "Goddesses who determine people's allotted lives.",
-          "here": "Clotho, Lachesis, and Atropos give people their share of good and bad. Their names suggest spinning, allotting, and what cannot be turned back."
+          "here": "Clotho, Lachesis, and Atropos give people their share of good and bad. Their names suggest spinning, allotting, and what cannot be turned back.",
+          "aliases": [
+            "Clotho",
+            "Lachesis",
+            "Atropos"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p057-eurynome",
@@ -8967,7 +10357,13 @@
           "id": "p057-graces",
           "label": "The Graces",
           "general": "Goddesses of beauty, charm, and delight.",
-          "here": "Aglaia, Euphrosyne, and Thalia have names suggesting splendor, good cheer, and flourishing."
+          "here": "Aglaia, Euphrosyne, and Thalia have names suggesting splendor, good cheer, and flourishing.",
+          "aliases": [
+            "Aglaia",
+            "Euphrosyne",
+            "Thalia"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p057-demeter",
@@ -9002,7 +10398,10 @@
       ],
       "provenance": {
         "reading_text": "0b582077-d86c-4cdc-a536-6684983db931",
-        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd"
+        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -9129,18 +10528,40 @@
           "id": "p058-athena",
           "label": "Athena / Tritogeneia",
           "general": "Athena is a goddess of wisdom, warfare, and skilled work. Tritogeneia is one of her traditional titles.",
-          "here": "She emerges from Zeus's head as a fearsome leader in battle. Atrytone, another title in the Greek, is translated as “tireless.”"
+          "here": "She emerges from Zeus's head as a fearsome leader in battle. Atrytone, another title in the Greek, is translated as “tireless.”",
+          "aliases": [
+            "tireless"
+          ],
+          "verse_labels": [
+            "924",
+            "925",
+            "926"
+          ]
         },
         {
           "id": "p058-hephaestus",
           "label": "Hephaestus",
           "general": "The god of fire and craftsmanship, especially metalworking.",
           "here": "Hera bears him on her own. His skill exceeds that of every other god."
+        },
+        {
+          "id": "p058-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods, son of Cronus and Rhea.",
+          "here": "He fathers Apollo and Artemis with Leto, and Hebe, Ares, and Eileithyia with Hera. He brings Athena forth from his own head.",
+          "aliases": [
+            "king of gods and humans"
+          ],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "0b582077-d86c-4cdc-a536-6684983db931",
-        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd"
+        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf",
+          "8ed5b80f-0947-44f5-a1ec-459446df6601"
+        ]
       }
     },
     {
@@ -9323,11 +10744,32 @@
           "label": "Hephaestus and Aglaia",
           "general": "Hephaestus is the god of craftsmanship. Aglaia is one of the three Graces.",
           "here": "He marries Aglaia, the youngest Grace."
+        },
+        {
+          "id": "p059-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods, son of Cronus and Rhea.",
+          "here": "He fathers Hermes with Maia, Dionysus with Semele, and Heracles with Alcmene.",
+          "aliases": [],
+          "verse_labels": []
+        },
+        {
+          "id": "p059-graces",
+          "label": "Graces",
+          "general": "The Graces are goddesses of beauty, charm, and delight, daughters of Zeus and Eurynome.",
+          "here": "Aglaia, their youngest member, becomes Hephaestus’s wife.",
+          "aliases": [],
+          "verse_labels": [
+            "946"
+          ]
         }
       ],
       "provenance": {
         "reading_text": "0b582077-d86c-4cdc-a536-6684983db931",
-        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd"
+        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -9438,7 +10880,13 @@
           "id": "p060-zeus-cronus",
           "label": "Zeus / son of Cronus",
           "general": "Zeus is king of the gods. Cronus is his father.",
-          "here": "“Son of Cronus” translates the title Cronion. Zeus makes Ariadne immortal."
+          "here": "“Son of Cronus” translates the title Cronion. Zeus makes Ariadne immortal.",
+          "aliases": [
+            "Zeus",
+            "son of Cronus",
+            "Cronus"
+          ],
+          "verse_labels": []
         },
         {
           "id": "p060-heracles-alcmene",
@@ -9497,8 +10945,10 @@
         {
           "id": "p060-medea",
           "label": "Medea",
-          "general": "A woman famous in Greek myth for her magical knowledge.",
-          "here": "The daughter of Aeetes and Idyia."
+          "general": "Medea is the daughter of Aeetes and Idyia, included later among this poem’s goddesses with mortal partners.",
+          "here": "Idyia bears her to Aeetes through Aphrodite’s power, introducing her family before her union with Jason.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p060-aphrodite",
@@ -9509,7 +10959,10 @@
       ],
       "provenance": {
         "reading_text": "0b582077-d86c-4cdc-a536-6684983db931",
-        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd"
+        "summary_and_notes": "15443351-45fa-4402-987a-7dae8e184edd",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -9754,8 +11207,10 @@
         {
           "id": "p062-semele",
           "label": "Semele",
-          "general": "A daughter of Cadmus and Harmonia, and mother of the god Dionysus.",
-          "here": "She appears among the children born at Thebes."
+          "general": "Semele is Dionysus’s mortal-born mother, now a goddess, and a daughter of Cadmus and Harmonia.",
+          "here": "She appears among their children born at Thebes.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p062-agave",
@@ -9856,13 +11311,18 @@
         {
           "id": "p062-phaethon",
           "label": "Phaethon",
-          "general": "His name means “shining.” Different myths use this name for different figures.",
-          "here": "This Phaethon is the son of Eos and Cephalus, not the familiar son of the Sun who drives its chariot."
+          "general": "Phaethon is Eos and Cephalus’s son, described as a godlike man.",
+          "here": "His birth leads into the next passage, where Aphrodite makes him her divine temple attendant.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "24e1088f-28f5-4e5b-9156-eda9c7d440f6",
-        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571"
+        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -9967,8 +11427,15 @@
         {
           "id": "p063-divine-spirit",
           "label": "Divine spirit",
-          "general": "A supernatural being or divine power.",
-          "here": "Phaethon receives divine status after Aphrodite takes him away."
+          "general": "This divine spirit is Phaethon, Eos and Cephalus’s son, made Aphrodite’s divine temple attendant.",
+          "here": "Aphrodite takes him away while he is young and makes him serve her temples by night.",
+          "aliases": [
+            "Phaethon"
+          ],
+          "verse_labels": [
+            "988",
+            "991"
+          ]
         },
         {
           "id": "p063-jason",
@@ -9985,8 +11452,10 @@
         {
           "id": "p063-medea",
           "label": "Medea",
-          "general": "Aeetes’s daughter, known for her knowledge of magic.",
-          "here": "She leaves her father with Jason and becomes his wife."
+          "general": "Medea is Aeetes and Idyia’s daughter and Jason’s divine partner in this catalog of goddesses with mortal men.",
+          "here": "She leaves Aeetes with Jason, becomes Jason’s wife, and bears Medeius, whom Chiron raises.",
+          "aliases": [],
+          "verse_labels": []
         },
         {
           "id": "p063-aeetes",
@@ -10039,7 +11508,10 @@
       ],
       "provenance": {
         "reading_text": "24e1088f-28f5-4e5b-9156-eda9c7d440f6",
-        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571"
+        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -10138,7 +11610,13 @@
           "id": "p064-nereus",
           "label": "Nereus",
           "general": "An ancient sea god, often called the old man of the sea.",
-          "here": "Father of Psamathe and Thetis."
+          "here": "Father of Psamathe and Thetis.",
+          "aliases": [
+            "old man of the sea"
+          ],
+          "verse_labels": [
+            "1003"
+          ]
         },
         {
           "id": "p064-psamathe",
@@ -10263,7 +11741,10 @@
       ],
       "provenance": {
         "reading_text": "24e1088f-28f5-4e5b-9156-eda9c7d440f6",
-        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571"
+        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     },
     {
@@ -10309,11 +11790,22 @@
           "label": "Aegis",
           "general": "A divine shield or protective covering associated with Zeus.",
           "here": "The closing line repeats Zeus’s title from the opening of this passage."
+        },
+        {
+          "id": "p065-zeus",
+          "label": "Zeus",
+          "general": "Zeus is the ruler of the gods and father of the Muses by Mnemosyne.",
+          "here": "The closing invocation identifies the Muses as his daughters and names his aegis.",
+          "aliases": [],
+          "verse_labels": []
         }
       ],
       "provenance": {
         "reading_text": "24e1088f-28f5-4e5b-9156-eda9c7d440f6",
-        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571"
+        "summary_and_notes": "eb87fda3-4cb6-4546-a07d-f21709f56571",
+        "note_updates": [
+          "c764e8c3-dfdd-48ef-9e43-66d94136d3bf"
+        ]
       }
     }
   ],
@@ -10522,6 +12014,16 @@
       "output_sha256": "b3490237481dc3617cb272aeb2166ca45ce357128f16c3fca26b544ad34d652e",
       "prompt_sha256": "bceb92310cb6a175a377db1f3db9b93619e5226f7a485fb871ca2cd5015c1c15"
     },
+    "c764e8c3-dfdd-48ef-9e43-66d94136d3bf": {
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "prompt_version": "divine-notes-18-v1",
+      "output_file": "pipeline/tests/divine-notes-2026-10-18-v1.json",
+      "prompt_file": "pipeline/tests/divine-notes-2026-10-18-v1.prompt.txt",
+      "record_file": "pipeline/tests/divine-notes-2026-10-18-v1.metrics.json",
+      "output_sha256": "3fafb55812c649ff715dbe526f7e4e5213dd7434e240455213759cd4d63cc418",
+      "prompt_sha256": "e188493386791521a216caf4f5d5b5a68a5876789002c525537b03f996b5b4b3"
+    },
     "ef99ae46-8745-4f21-a507-bd01b56f539d": {
       "model": "gpt-6.1-sol",
       "reasoning_effort": "medium",
@@ -10631,6 +12133,16 @@
       "record_file": "pipeline/tests/batch-2026-10-15-226-286.metrics.json",
       "output_sha256": "0b69b60d59c98fc8954e77739e3b0765c203220d9fe06970c02e08ecc085f815",
       "prompt_sha256": "2e0ebfcdf98e6400fb6db5e416fb270bae150d3f268f732bbf84429a95070815"
+    },
+    "35fb8501-7c85-40f0-bf6b-8c7113058afd": {
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "prompt_version": "divine-notes-18-v2",
+      "output_file": "pipeline/tests/divine-notes-2026-10-18-v2.json",
+      "prompt_file": "pipeline/tests/divine-notes-2026-10-18-v2.prompt.txt",
+      "record_file": "pipeline/tests/divine-notes-2026-10-18-v2.metrics.json",
+      "output_sha256": "e13087fc5067583dbe8dfbc8854031c45034bd505bc12b38c56de2d18659457d",
+      "prompt_sha256": "962f25a3db96e83d3a7866d52d26984cd7798fe781e17f73ceae0320637d74cc"
     },
     "a4265a45-e81f-46a7-90c4-3dd8d4d52ada": {
       "model": "gpt-6.1-sol",
@@ -10891,6 +12403,16 @@
       "record_file": "pipeline/tests/remainder-2026-10-16-901-962.metrics.json",
       "output_sha256": "0e758a85157328543139452e853fe52ac9fc350027d8ce26ee7942d6263133b4",
       "prompt_sha256": "b5860da60a9911cbfe5ba85fd1d00fd62918eb21ece0baefe1492b70a0b2b770"
+    },
+    "8ed5b80f-0947-44f5-a1ec-459446df6601": {
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "prompt_version": "divine-notes-18-v3",
+      "output_file": "pipeline/tests/divine-notes-2026-10-18-v3.json",
+      "prompt_file": "pipeline/tests/divine-notes-2026-10-18-v3.prompt.txt",
+      "record_file": "pipeline/tests/divine-notes-2026-10-18-v3.metrics.json",
+      "output_sha256": "a94a8d32dfad841cc951333f7fe6ff80011122827e7bf8e4b38652369a1b038c",
+      "prompt_sha256": "2fb3ce8c058b2881ad72df79b289d5f83613690db2658d66c06fe8efc9d8416f"
     },
     "24e1088f-28f5-4e5b-9156-eda9c7d440f6": {
       "model": "gpt-6.1-sol",

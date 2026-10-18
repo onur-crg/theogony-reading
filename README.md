@@ -88,7 +88,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for editorial and code contributions.
 
 The running English verses and the summaries/name notes were generated in
 separate recorded runs. On the website, each passage links to the model, exact
-prompt and run record for both layers. This repository preserves all selected
+prompt and run record for both layers. Later name-note revisions are recorded
+separately with Greek verse evidence, preserving the original verses and summaries. This repository preserves all selected
 run inputs required to rebuild the current edition, including earlier inputs
 that are partly superseded. It does not include discarded design experiments,
 private agent sessions, account state or the surrounding personal workspace.

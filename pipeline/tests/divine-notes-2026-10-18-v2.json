@@ -1,0 +1,107 @@
+{
+  "sections": [
+    {
+      "id": "p018",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p018-slaughter",
+          "label": "Slaughter",
+          "general": "The Androktasiai are divine personifications of killing people, children of Strife.",
+          "here": "Here they appear alongside Clashes, Battles, and Murders.",
+          "aliases": [],
+          "verse_labels": [
+            "228"
+          ]
+        },
+        {
+          "id": "p018-lying-words",
+          "label": "lying Words",
+          "general": "The Logoi are personified deceitful speech, children of Strife.",
+          "here": "Here they appear between Quarrels and Arguments.",
+          "aliases": [],
+          "verse_labels": [
+            "229"
+          ]
+        },
+        {
+          "id": "p018-ruin",
+          "label": "Ruin",
+          "general": "Ate is a divine personification of destructive blindness and ruin, a child of Strife.",
+          "here": "Here she and Lawlessness are close companions.",
+          "aliases": [],
+          "verse_labels": [
+            "230"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p018-slaughter",
+          "verse": "228",
+          "greek": "Ὑσμίνας τε Μάχας τε Φόνους τʼ Ἀνδροκτασίας τε",
+          "reason": "Ἀνδροκτασίας names the personifications of killing people alongside Clashes, Battles, and Murders."
+        },
+        {
+          "card_id": "p018-lying-words",
+          "verse": "229",
+          "greek": "Νείκεά τε ψευδέας τε Λόγους Ἀμφιλλογίας τε",
+          "reason": "ψευδέας Λόγους identifies deceitful speech among Strife’s offspring, between Quarrels and Arguments."
+        },
+        {
+          "card_id": "p018-ruin",
+          "verse": "230",
+          "greek": "Δυσνομίην τʼ Ἄτην τε, συνήθεας ἀλλήλῃσιν,",
+          "reason": "Ἄτην names Ate, and συνήθεας ἀλλήλῃσιν describes her close companionship with Lawlessness."
+        }
+      ]
+    },
+    {
+      "id": "p022",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p022-ceto",
+          "label": "Ceto",
+          "general": "Ceto is a sea goddess, daughter of Gaia and Pontus.",
+          "here": "Here she bears Echidna, a divine creature half nymph and half snake.",
+          "aliases": [],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p022-ceto",
+          "verse": "295",
+          "greek": "ἣ δʼ ἔτεκʼ ἄλλο πέλωρον ἀμήχανον, οὐδὲν ἐοικὸς",
+          "reason": "In this reading, ἣ refers to Ceto as the mother bearing the monster subsequently named Echidna."
+        }
+      ]
+    },
+    {
+      "id": "p036",
+      "remove_ids": [],
+      "cards": [
+        {
+          "id": "p036-son-of-cronus",
+          "label": "Zeus",
+          "general": "Zeus is the ruling god and a son of the Titan Cronus.",
+          "here": "He punishes Prometheus but consents to Heracles ending the eagle’s attack, honoring his son.",
+          "aliases": [
+            "Zeus"
+          ],
+          "verse_labels": []
+        }
+      ],
+      "evidence": [
+        {
+          "card_id": "p036-son-of-cronus",
+          "verse": "529",
+          "greek": "οὐκ ἀέκητι Ζηνὸς Ὀλυμπίου ὑψιμέδοντος,",
+          "reason": "Ζηνὸς names Zeus, described as ruling on high from Olympus and consenting to Heracles’ intervention."
+        }
+      ]
+    }
+  ],
+  "uncertainties": []
+}
