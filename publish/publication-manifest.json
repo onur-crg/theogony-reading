@@ -169,11 +169,11 @@
     "sitemap.xml": "019bc66f80de3d5a0b42def0b1184a9cd10d2ba1f886fdd58dd7f55aac1f0513",
     "sources/perseus-license.md": "ccf0e8ce183761bf82700126cc45a4e907b2cede024e65e3fef5c2338b9b7063",
     "sources/tlg0020.tlg001.perseus-grc2.xml": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
-    "theogony-reader.html": "ce67c168aa8466377280ae48c71458bb0b60b318d0ae5803ae233b7da5a74d7c",
+    "theogony-reader.html": "7538bde1909e33c3480ea9e1b7b393c9a39e9196bd1188571fa7553736c8ffae",
     "translation-and-legal.html": "c1d6130de16edd7b50bdd146c60b2e50d979a75b9e031b56788c290ca09a8a39",
     "translation-records.html": "aa37a9e2cef364ebd2eb36421ca0cc40d08181dfc7c3dc77858f3ec5d70c9821",
     "translation.html": "13a3256224028ada5a8fb77f380afb73ca4e785cfec552dfb4526c90bfab5234"
   },
-  "total_bytes": 3611094,
+  "total_bytes": 3611111,
   "note": "Curated static release. Translation outputs and prompts are unchanged tracked records. No CLI credentials, raw session logs, private workspace files or unused previews."
 }

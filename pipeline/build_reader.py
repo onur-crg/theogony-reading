@@ -419,7 +419,8 @@ def render_notes(items):
             target = f"note-{section['id']}-{index}"
             result.append(f'<div class="note" id="{target}" data-label="{esc(card["label"])}" data-general="{esc(card["general"])}" data-here="{esc(card["here"])}">')
             result.append(f'<h3>{esc(card["label"])} <small>Lines {section["start"]}–{section["end"]}</small></h3>')
-            result.append(f'<p>{esc(card["general"])}</p><p><strong>Here:</strong> {esc(card["here"])}</p>')
+            context_label = '' if card['here'].startswith('Here ') else '<strong>Here:</strong> '
+            result.append(f'<p>{esc(card["general"])}</p><p>{context_label}{esc(card["here"])}</p>')
             article_id = 'variant-929' if section['id']=='v929' else section['id']
             result.append(f'<a href="#{article_id}">Back to passage</a></div>')
     result.append('</section>')
@@ -479,7 +480,7 @@ sidebar.addEventListener('click',event=>{if(tocMedia.matches&&event.target.close
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!sidebar.hidden&&!document.querySelector('dialog[open]')){setToc(false,true,true);tocButton.focus({preventScroll:true})}});
 tocMedia.addEventListener('change',()=>setToc(tocMedia.matches?false:desktopTocOpen));
 const noteDialog=document.getElementById('note-dialog');let previousFocus=null;
-document.addEventListener('click',e=>{const link=e.target.closest('a[data-note]');if(!link||!noteDialog.showModal)return;const note=document.getElementById(link.dataset.note);if(!note)return;e.preventDefault();previousFocus=link;document.getElementById('note-title').textContent=note.dataset.label;document.getElementById('note-general').textContent=note.dataset.general;document.getElementById('note-here').textContent=note.dataset.here;noteDialog.showModal();});
+document.addEventListener('click',e=>{const link=e.target.closest('a[data-note]');if(!link||!noteDialog.showModal)return;const note=document.getElementById(link.dataset.note);if(!note)return;e.preventDefault();previousFocus=link;document.getElementById('note-title').textContent=note.dataset.label;document.getElementById('note-general').textContent=note.dataset.general;document.getElementById('note-here').textContent=note.dataset.here;document.getElementById('note-here-label').hidden=note.dataset.here.startsWith('Here ');noteDialog.showModal();});
 noteDialog.addEventListener('close',()=>previousFocus?.focus());document.getElementById('dialog-close').addEventListener('click',()=>noteDialog.close());noteDialog.addEventListener('click',e=>{if(e.target===noteDialog)noteDialog.close()});
 const summaryDialog=document.getElementById('summary-dialog');let previousSummaryFocus=null;
 document.addEventListener('click',e=>{const link=e.target.closest('a[data-summary]');if(!link||!summaryDialog.showModal)return;const summary=document.getElementById(link.dataset.summary);if(!summary)return;e.preventDefault();previousSummaryFocus=link;document.getElementById('summary-title').textContent=document.getElementById(link.dataset.titleId)?.textContent||link.textContent;document.getElementById('summary-text').textContent=summary.querySelector('p').textContent;summaryDialog.showModal()});
@@ -557,7 +558,7 @@ def main():
     parts.append('</article>')
     parts.append(render_notes(all_items))
     parts.append('<footer class="footer"><nav aria-label="Site information"><a href="index.html">Home</a> · <a href="translation.html">Translation and sources</a> · <a href="imprint.html">Imprint / Impressum</a> · <a href="privacy.html">Privacy</a> · <a href="reuse.html">Reuse and licence</a><a href="https://github.com/onur-crg/theogony-reading">Source on GitHub</a><a href="https://www.noto-labs.com/">A project by Noto Labs</a><button type="button" class="preferences-footer-link" data-preferences-open>Privacy settings</button></nav><p>AI-assisted reading draft.</p></footer></main></div>' + preferences_notice(reader=True))
-    parts.append('<dialog id="note-dialog" aria-labelledby="note-title"><button class="close" id="dialog-close" type="button" aria-label="Close explanation">×</button><h2 id="note-title"></h2><p id="note-general"></p><p class="here"><strong>Here:</strong> <span id="note-here"></span></p></dialog>')
+    parts.append('<dialog id="note-dialog" aria-labelledby="note-title"><button class="close" id="dialog-close" type="button" aria-label="Close explanation">×</button><h2 id="note-title"></h2><p id="note-general"></p><p class="here"><strong id="note-here-label">Here:</strong> <span id="note-here"></span></p></dialog>')
     parts.append('<dialog id="summary-dialog" aria-labelledby="summary-title"><button class="close" id="summary-close" type="button" aria-label="Close summary">×</button><h2 id="summary-title"></h2><p id="summary-text"></p></dialog>')
 
     parts.extend(['<script>', SCRIPT, BACK_SCRIPT, '</script></body></html>'])
