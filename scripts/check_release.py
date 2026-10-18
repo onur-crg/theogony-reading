@@ -60,7 +60,7 @@ for exported, (section,path,metrics) in zip(data['passages']+data['variants'], n
     assert exported['provenance']['summary_and_notes'] == metrics['run_id']
     if section.get('_note_updates'):
         assert exported['provenance']['note_updates'] == [m['run_id'] for _,m in section['_note_updates']]
-    run_ids = [exported['provenance']['reading_text'], exported['provenance']['summary_and_notes']] + exported['provenance'].get('note_updates', [])
+    run_ids = [exported['provenance']['reading_text'], exported['provenance']['summary_and_notes']] + exported['provenance'].get('note_updates', []) + exported['provenance'].get('figure_registry', [])
     for run_id in run_ids:
         run = data['records'][run_id]
         assert digest(ROOT/run['output_file']) == run['output_sha256']
@@ -101,3 +101,7 @@ print(f'Validated central JSON Schema and exact equality of all 1,042 rendered v
 if (ROOT/'pipeline/note_revisions.json').exists():
     from check_name_notes import main as check_name_notes
     check_name_notes()
+
+if (ROOT/'pipeline/figure_registry_runs.json').exists():
+    from check_figure_registry import main as check_figure_registry
+    check_figure_registry()

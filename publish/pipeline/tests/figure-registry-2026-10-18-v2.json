@@ -1,0 +1,228 @@
+{
+  "entities": [
+    {
+      "id": "first-woman",
+      "name": "First Woman",
+      "kind": "human figure",
+      "general": "The First Woman is the unnamed human figure from whom this poem traces the race of women.",
+      "evidence": [
+        {
+          "verse": "513",
+          "greek": "Διὸς πλαστὴν ὑπέδεκτο γυναῖκα"
+        },
+        {
+          "verse": "590",
+          "greek": "ἐκ τῆς γὰρ γένος ἐστὶ γυναικῶν θηλυτεράων,"
+        }
+      ],
+      "bindings": [
+        {
+          "section_id": "p035",
+          "card_id": "p035-girl",
+          "aliases": [
+            "The girl Zeus had made"
+          ]
+        },
+        {
+          "section_id": "p039",
+          "card_id": "p039-woman",
+          "aliases": [
+            "The woman"
+          ]
+        },
+        {
+          "section_id": "p040",
+          "card_id": "p040-first-woman",
+          "aliases": [
+            "The first woman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semele",
+      "name": "Semele",
+      "kind": "mortal-born woman",
+      "general": "Semele is a mortal-born daughter of Cadmus and Harmonia.",
+      "evidence": [
+        {
+          "verse": "942",
+          "greek": "ἀθάνατον θνητή"
+        },
+        {
+          "verse": "975",
+          "greek": "Κάδμῳ δʼ Ἁρμονίη, θυγάτηρ χρυσέης Ἀφροδιτης,"
+        },
+        {
+          "verse": "976",
+          "greek": "Ἰνὼ καὶ Σεμέλην καὶ Ἀγαυὴν καλλιπάρῃον"
+        },
+        {
+          "verse": "978",
+          "greek": "γείνατο καὶ Πολύδωρον ἐυστεφάνῳ ἐνὶ Θήβῃ."
+        }
+      ],
+      "bindings": [
+        {
+          "section_id": "p059",
+          "card_id": "p059-semele",
+          "aliases": [
+            "Semele"
+          ]
+        },
+        {
+          "section_id": "p062",
+          "card_id": "p062-semele",
+          "aliases": [
+            "Semele"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ariadne",
+      "name": "Ariadne",
+      "kind": "mortal-born woman",
+      "general": "Ariadne is a mortal-born daughter of Minos.",
+      "evidence": [
+        {
+          "verse": "947",
+          "greek": "ξανθὴν Ἀριάδνην"
+        },
+        {
+          "verse": "948",
+          "greek": "κούρην Μίνωος"
+        },
+        {
+          "verse": "949",
+          "greek": "τὴν δέ οἱ ἀθάνατον καὶ ἀγήρω θῆκε Κρονίων."
+        }
+      ],
+      "bindings": [
+        {
+          "section_id": "p060",
+          "card_id": "p060-ariadne-minos",
+          "aliases": [
+            "Ariadne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medea",
+      "name": "Medea",
+      "kind": "mythic woman",
+      "general": "Medea is the daughter of Aeetes and Idyia, a divine figure in this poem's genealogy.",
+      "evidence": [
+        {
+          "verse": "958",
+          "greek": "Αἰήτης δʼ υἱὸς φαεσιμβρότου Ἠελίοιο"
+        },
+        {
+          "verse": "959",
+          "greek": "κούρην Ὠκεανοῖο τελήεντος ποταμοῖο"
+        },
+        {
+          "verse": "960",
+          "greek": "γῆμε θεῶν βουλῇσιν Ἰδυῖαν καλλιπάρῃον."
+        },
+        {
+          "verse": "961",
+          "greek": "ἣ δέ οἱ Μήδειαν ἐύσφυρον ἐν φιλότητι"
+        },
+        {
+          "verse": "962",
+          "greek": "γείναθʼ ὑποδμηθεῖσα διὰ χρυσέην Ἀφροδίτην."
+        },
+        {
+          "verse": "965",
+          "greek": "νῦν δὲ θεάων φῦλον ἀείσατε, ἡδυέπειαι"
+        },
+        {
+          "verse": "992",
+          "greek": "κούρην δʼ Αἰήταο διοτρεφέος βασιλῆος"
+        }
+      ],
+      "bindings": [
+        {
+          "section_id": "p060",
+          "card_id": "p060-medea",
+          "aliases": [
+            "Medea"
+          ]
+        },
+        {
+          "section_id": "p063",
+          "card_id": "p063-medea",
+          "aliases": [
+            "Medea"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aristaeus",
+      "name": "Aristaeus",
+      "kind": "divine or heroic figure",
+      "general": "Aristaeus is Autonoe's husband; this passage does not clearly classify him as divine or heroic.",
+      "evidence": [
+        {
+          "verse": "977",
+          "greek": "Αὐτονόην θʼ, ἣν γῆμεν Ἀρισταῖος βαθυχαίτης,"
+        }
+      ],
+      "bindings": [
+        {
+          "section_id": "p062",
+          "card_id": "p062-aristaeus",
+          "aliases": [
+            "Aristaeus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phaethon",
+      "name": "Phaethon",
+      "kind": "human and divine figure",
+      "general": "Phaethon is the godlike young son of Eos and Cephalus.",
+      "evidence": [
+        {
+          "verse": "984",
+          "greek": "Ἠὼς τέκε"
+        },
+        {
+          "verse": "986",
+          "greek": "αὐτὰρ ὑπαὶ Κεφάλῳ φιτύσατο φαίδιμον υἱόν,"
+        },
+        {
+          "verse": "987",
+          "greek": "ἴφθιμον Φαέθοντα, θεοῖς ἐπιείκελον ἄνδρα."
+        },
+        {
+          "verse": "988",
+          "greek": "τόν ῥα νέον τέρεν ἄνθος ἔχοντʼ ἐρικυδέος ἥβης"
+        }
+      ],
+      "bindings": [
+        {
+          "section_id": "p062",
+          "card_id": "p062-phaethon",
+          "aliases": [
+            "Phaethon"
+          ]
+        },
+        {
+          "section_id": "p063",
+          "card_id": "p063-divine-spirit",
+          "aliases": [
+            "Divine spirit",
+            "Phaethon"
+          ]
+        }
+      ]
+    }
+  ],
+  "local_cards": [],
+  "uncertainties": []
+}

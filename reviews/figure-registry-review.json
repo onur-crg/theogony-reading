@@ -1,0 +1,15 @@
+{
+  "checked_passages": 66,
+  "shared_figures": 326,
+  "original_verses_summaries_and_here_preserved": true,
+  "policy": "One shared general identity; first figure mention per passage across aliases; exact original local Here text; separate identities for namesakes. Non-figure word and place notes retained. Mixed Cythera/Cytherea and Cyprus/Cyprus-born explanations preserve geographical notes alongside shared Aphrodite identity.",
+  "review": "All 326 short general descriptions read. Six revised in a tracked follow-up to remove cross-poem detail, vague status language, and permanently mortal wording for mortal-born figures. All exact Greek evidence checked in its stated verse; all source cards classified.",
+  "uncertainties_retained": [
+    "Dione identity across initial list and Oceanid catalogue is provisional",
+    "Typhaon and Typhoeus follow the existing edition identity",
+    "The Fates retain two parentages without harmonization",
+    "Ker and Keres distinguish singular and plural",
+    "Monster genealogy pronoun uncertainties remain in local reading",
+    "Triton river stays separate from the sea god"
+  ]
+}

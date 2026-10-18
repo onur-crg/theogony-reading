@@ -23,7 +23,7 @@ class References(HTMLParser):
 def digest(path):return hashlib.sha256(path.read_bytes()).hexdigest()
 
 def package():
-    files=set(PAGES+['LICENSE-CONTENT.md','LICENSE','NOTICE.md','sources/perseus-license.md','robots.txt','sitemap.xml','favicon.ico','assets/theogony-share.jpg','data/theogony.json','data/theogony.schema.json'])
+    files=set(PAGES+['LICENSE-CONTENT.md','LICENSE','NOTICE.md','sources/perseus-license.md','robots.txt','sitemap.xml','favicon.ico','assets/theogony-share.jpg','data/theogony.json','data/theogony.schema.json','data/figures.json'])
     queue=list(PAGES);parsed={}
     while queue:
         relative=queue.pop()

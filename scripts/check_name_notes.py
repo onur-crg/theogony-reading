@@ -24,7 +24,7 @@ def main():
  baseline={}
  for path in reader.INPUTS:
   for section in json.loads(path.read_text())['sections']:baseline[section['id']]=section
- numbered,variant,_=reader.load_sections();current={s['id']:s for s,_,_ in numbered+[variant]}
+ numbered,variant,_=reader.load_sections(resolve_registry=False);current={s['id']:s for s,_,_ in numbered+[variant]}
  verses=reader.load_verse_runs();extra=reader.load_variant_verse_run()[0]
  from xml.etree import ElementTree as ET
  greek={e.get('n'):' '.join(''.join(e.itertext()).split()) for e in ET.parse(reader.GREEK_SOURCE).getroot().iter('{http://www.tei-c.org/ns/1.0}l')}

@@ -93,6 +93,10 @@ separately with Greek verse evidence, preserving the original verses and summari
 run inputs required to rebuild the current edition, including earlier inputs
 that are partly superseded. It does not include discarded design experiments,
 private agent sessions, account state or the surrounding personal workspace.
+Figure identities now come from a shared registry with brief, spoiler-conscious
+introductions. Passage-specific context remains separately recorded. The reader
+links each figure once per passage, including alternative names. See the
+[`figures` data documentation](data/README.md#shared-figure-identities).
 Generation records retain their original model/version labels. This repository
 does not imply that those labels are available through another API or account.
 

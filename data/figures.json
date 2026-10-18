@@ -1,0 +1,4477 @@
+{
+  "schema_version": "1.0.0",
+  "figures": {
+    "muses": {
+      "id": "muses",
+      "name": "Muses",
+      "kind": "divine collective",
+      "general": "Nine goddesses who inspire poetry and song.",
+      "evidence": [
+        {
+          "verse": "1",
+          "greek": "Μουσάων Ἑλικωνιάδων"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "zeus": {
+      "id": "zeus",
+      "name": "Zeus",
+      "kind": "god",
+      "general": "Zeus is the ruler of the gods and god of the sky, thunder, and lightning.",
+      "evidence": [
+        {
+          "verse": "11",
+          "greek": "Δία τʼ αἰγίοχον"
+        },
+        {
+          "verse": "72",
+          "greek": "αὐτὸς ἔχων βροντὴν ἠδʼ αἰθαλόεντα κεραυνόν,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cronus": {
+      "id": "cronus",
+      "name": "Cronus",
+      "kind": "Titan god",
+      "general": "Cronus is a Titan, one of the older gods born to Gaia, Earth, and Uranus, Sky.",
+      "evidence": [
+        {
+          "verse": "18",
+          "greek": "Κρόνον ἀγκυλομήτην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hera": {
+      "id": "hera",
+      "name": "Hera",
+      "kind": "goddess",
+      "general": "Hera is the queen of the gods and a goddess of marriage.",
+      "evidence": [
+        {
+          "verse": "11",
+          "greek": "πότνιαν Ἥρην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "athena": {
+      "id": "athena",
+      "name": "Athena",
+      "kind": "goddess",
+      "general": "Athena is a goddess of wisdom, warfare, and skilled crafts.",
+      "evidence": [
+        {
+          "verse": "13",
+          "greek": "κούρην τʼ αἰγιόχοιο Διὸς γλαυκῶπιν Ἀθήνην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "apollo": {
+      "id": "apollo",
+      "name": "Apollo",
+      "kind": "god",
+      "general": "Apollo is a god of music, archery, and prophecy, who also protects the young.",
+      "evidence": [
+        {
+          "verse": "14",
+          "greek": "Φοῖβόν τʼ Ἀπόλλωνα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "artemis": {
+      "id": "artemis",
+      "name": "Artemis",
+      "kind": "goddess",
+      "general": "Artemis is a goddess of hunting, archery, and wild animals.",
+      "evidence": [
+        {
+          "verse": "14",
+          "greek": "Ἄρτεμιν ἰοχέαιραν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "poseidon": {
+      "id": "poseidon",
+      "name": "Poseidon",
+      "kind": "god",
+      "general": "Poseidon is the god of the sea and earthquakes, also called the Earth-shaker.",
+      "evidence": [
+        {
+          "verse": "15",
+          "greek": "Ποσειδάωνα γεήοχον, ἐννοσίγαιον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "themis": {
+      "id": "themis",
+      "name": "Themis",
+      "kind": "Titan goddess",
+      "general": "Themis is a Titan goddess of justice and rightful order.",
+      "evidence": [
+        {
+          "verse": "16",
+          "greek": "Θέμιν αἰδοίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aphrodite": {
+      "id": "aphrodite",
+      "name": "Aphrodite",
+      "kind": "goddess",
+      "general": "Aphrodite is the goddess of love, sexual attraction, and pleasure.",
+      "evidence": [
+        {
+          "verse": "16",
+          "greek": "ἑλικοβλέφαρόν τʼ Ἀφροδίτην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hebe": {
+      "id": "hebe",
+      "name": "Hebe",
+      "kind": "goddess",
+      "general": "Hebe is the goddess who represents youth.",
+      "evidence": [
+        {
+          "verse": "17",
+          "greek": "Ἥβην τε χρυσοστέφανον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "dione": {
+      "id": "dione",
+      "name": "Dione",
+      "kind": "Oceanid goddess",
+      "general": "Dione is an Oceanid, a water goddess belonging to the family of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "17",
+          "greek": "καλήν τε Διώνην"
+        },
+        {
+          "verse": "353",
+          "greek": "ἐρατή τε Διώνη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "leto": {
+      "id": "leto",
+      "name": "Leto",
+      "kind": "goddess",
+      "general": "Leto is a gentle goddess from the family of the Titans Coeus and Phoebe.",
+      "evidence": [
+        {
+          "verse": "18",
+          "greek": "Λητώ"
+        },
+        {
+          "verse": "406",
+          "greek": "Λητὼ κυανόπεπλον ἐγείνατο, μείλιχον αἰεί,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "iapetus": {
+      "id": "iapetus",
+      "name": "Iapetus",
+      "kind": "Titan god",
+      "general": "Iapetus is a Titan, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "18",
+          "greek": "Ἰαπετόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eos": {
+      "id": "eos",
+      "name": "Eos",
+      "kind": "goddess",
+      "general": "Eos is Dawn imagined as a goddess, bringing the first light of morning.",
+      "evidence": [
+        {
+          "verse": "19",
+          "greek": "Ἠῶ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "helios": {
+      "id": "helios",
+      "name": "Helios",
+      "kind": "god",
+      "general": "Helios is the Sun imagined as a god who travels across the sky.",
+      "evidence": [
+        {
+          "verse": "19",
+          "greek": "Ἠέλιόν τε μέγαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "selene": {
+      "id": "selene",
+      "name": "Selene",
+      "kind": "goddess",
+      "general": "Selene is the Moon imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "19",
+          "greek": "λαμπράν τε Σελήνην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "gaia": {
+      "id": "gaia",
+      "name": "Gaia",
+      "kind": "primordial goddess",
+      "general": "Gaia is Earth herself, imagined as a goddess and one of the world's earliest beings.",
+      "evidence": [
+        {
+          "verse": "20",
+          "greek": "Γαῖάν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "oceanus": {
+      "id": "oceanus",
+      "name": "Oceanus",
+      "kind": "Titan river god",
+      "general": "Oceanus, also called Ocean, is the god and great river imagined as circling the world.",
+      "evidence": [
+        {
+          "verse": "20",
+          "greek": "Ὠκεανόν τε μέγαν"
+        },
+        {
+          "verse": "242",
+          "greek": "Ὠκεανοῖο, τελήεντος ποταμοῖο"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nyx": {
+      "id": "nyx",
+      "name": "Night",
+      "kind": "primordial goddess",
+      "general": "Night, called Nyx in Greek, is the darkness of night imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "20",
+          "greek": "Νύκτα μέλαιναν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hesiod": {
+      "id": "hesiod",
+      "name": "Hesiod",
+      "kind": "mortal poet",
+      "general": "Hesiod is the Greek poet who speaks in this poem.",
+      "evidence": [
+        {
+          "verse": "22",
+          "greek": "Ἡσίοδον καλὴν ἐδίδαξαν ἀοιδήν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "uranus": {
+      "id": "uranus",
+      "name": "Uranus",
+      "kind": "primordial god",
+      "general": "Uranus, also spelled Ouranos, is Sky himself imagined as a god.",
+      "evidence": [
+        {
+          "verse": "45",
+          "greek": "Οὐρανὸς εὐρὺς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "giants": {
+      "id": "giants",
+      "name": "Giants",
+      "kind": "divine collective",
+      "general": "The Giants are a race of powerful mythical beings associated with Earth.",
+      "evidence": [
+        {
+          "verse": "50",
+          "greek": "κρατερῶν τε Γιγάντων"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "mnemosyne": {
+      "id": "mnemosyne",
+      "name": "Mnemosyne",
+      "kind": "Titan goddess",
+      "general": "Mnemosyne is a Titan goddess who represents memory. Her Greek name means Memory.",
+      "evidence": [
+        {
+          "verse": "54",
+          "greek": "Μνημοσύνη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "graces": {
+      "id": "graces",
+      "name": "Graces",
+      "kind": "divine collective",
+      "general": "The Graces, called Charites in Greek, are goddesses of beauty, charm, and delight.",
+      "evidence": [
+        {
+          "verse": "64",
+          "greek": "Χάριτές"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "himeros": {
+      "id": "himeros",
+      "name": "Himeros",
+      "kind": "divine personification",
+      "general": "Himeros is a god who represents desire and longing.",
+      "evidence": [
+        {
+          "verse": "64",
+          "greek": "Ἵμερος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "clio": {
+      "id": "clio",
+      "name": "Clio",
+      "kind": "Muse goddess",
+      "general": "Clio is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "77",
+          "greek": "Κλειώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "euterpe": {
+      "id": "euterpe",
+      "name": "Euterpe",
+      "kind": "Muse goddess",
+      "general": "Euterpe is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "77",
+          "greek": "Εὐτέρπη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "thalia-muse": {
+      "id": "thalia-muse",
+      "name": "Thalia",
+      "kind": "Muse goddess",
+      "general": "Thalia is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "77",
+          "greek": "Θάλειά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "melpomene": {
+      "id": "melpomene",
+      "name": "Melpomene",
+      "kind": "Muse goddess",
+      "general": "Melpomene is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "77",
+          "greek": "Μελπομένη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "terpsichore": {
+      "id": "terpsichore",
+      "name": "Terpsichore",
+      "kind": "Muse goddess",
+      "general": "Terpsichore is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "78",
+          "greek": "Τερψιχόρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "erato-muse": {
+      "id": "erato-muse",
+      "name": "Erato",
+      "kind": "Muse goddess",
+      "general": "Erato is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "78",
+          "greek": "Ἐρατώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "polyhymnia": {
+      "id": "polyhymnia",
+      "name": "Polyhymnia",
+      "kind": "Muse goddess",
+      "general": "Polyhymnia is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "78",
+          "greek": "Πολύμνιά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "urania-muse": {
+      "id": "urania-muse",
+      "name": "Urania",
+      "kind": "Muse goddess",
+      "general": "Urania is one of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "78",
+          "greek": "Οὐρανίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "calliope": {
+      "id": "calliope",
+      "name": "Calliope",
+      "kind": "Muse goddess",
+      "general": "Calliope is the foremost of the nine Muses, goddesses of poetry and song.",
+      "evidence": [
+        {
+          "verse": "79",
+          "greek": "Καλλιόπη θʼ· ἣ δὲ προφερεστάτη ἐστὶν ἁπασέων."
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pontus": {
+      "id": "pontus",
+      "name": "Pontus",
+      "kind": "primordial god",
+      "general": "Pontus is the Sea itself imagined as an early god.",
+      "evidence": [
+        {
+          "verse": "107",
+          "greek": "ἁλμυρὸς ἔτρεφε Πόντος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "chaos": {
+      "id": "chaos",
+      "name": "Chaos",
+      "kind": "primordial gap",
+      "general": "Chaos is the primordial gap or vast opening at the beginning of the world. Its Greek name means a gap or chasm.",
+      "evidence": [
+        {
+          "verse": "116",
+          "greek": "πρώτιστα Χάος γένετʼ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "tartarus": {
+      "id": "tartarus",
+      "name": "Tartarus",
+      "kind": "primordial depth",
+      "general": "Tartarus is the primordial dark depth beneath Earth, presented as both a region and a being in the poem.",
+      "evidence": [
+        {
+          "verse": "119",
+          "greek": "Τάρταρά τʼ ἠερόεντα μυχῷ χθονὸς εὐρυοδείης,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eros": {
+      "id": "eros",
+      "name": "Eros",
+      "kind": "primordial divine power",
+      "general": "Eros is the divine power of love and sexual desire, able to overwhelm clear thought.",
+      "evidence": [
+        {
+          "verse": "120",
+          "greek": "Ἔρος, ὃς κάλλιστος ἐν ἀθανάτοισι θεοῖσι,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "erebus": {
+      "id": "erebus",
+      "name": "Erebus",
+      "kind": "primordial darkness",
+      "general": "Erebus is Darkness imagined as an early divine being. The name also refers to the dark region beneath Earth.",
+      "evidence": [
+        {
+          "verse": "123",
+          "greek": "ἐκ Χάεος δʼ Ἔρεβός τε μέλαινά τε Νὺξ ἐγένοντο·"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aether": {
+      "id": "aether",
+      "name": "Aether",
+      "kind": "primordial divine being",
+      "general": "Aether is the bright upper air imagined as a divine being.",
+      "evidence": [
+        {
+          "verse": "124",
+          "greek": "Αἰθήρ τε καὶ Ἡμέρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hemera": {
+      "id": "hemera",
+      "name": "Day",
+      "kind": "primordial goddess",
+      "general": "Day, called Hemera in Greek, is daylight imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "124",
+          "greek": "Ἡμέρη ἐξεγένοντο"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "mountains": {
+      "id": "mountains",
+      "name": "Mountains",
+      "kind": "primordial collective",
+      "general": "The Mountains, called Ourea in Greek, are the mountains imagined as early beings born from Gaia.",
+      "evidence": [
+        {
+          "verse": "129",
+          "greek": "γείνατο δʼ Οὔρεα μακρά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nymphs": {
+      "id": "nymphs",
+      "name": "Nymphs",
+      "kind": "divine collective",
+      "general": "Nymphs are female divine spirits associated with natural places such as mountains, woods, and springs.",
+      "evidence": [
+        {
+          "verse": "130",
+          "greek": "Νυμφέων, αἳ ναίουσιν ἀνʼ οὔρεα βησσήεντα."
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "coeus": {
+      "id": "coeus",
+      "name": "Coeus",
+      "kind": "Titan god",
+      "general": "Coeus is a Titan, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "134",
+          "greek": "Κοῖόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "crius": {
+      "id": "crius",
+      "name": "Crius",
+      "kind": "Titan god",
+      "general": "Crius is a Titan, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "134",
+          "greek": "Κρῖόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hyperion": {
+      "id": "hyperion",
+      "name": "Hyperion",
+      "kind": "Titan god",
+      "general": "Hyperion is a Titan, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "134",
+          "greek": "Ὑπερίονά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "theia": {
+      "id": "theia",
+      "name": "Theia",
+      "kind": "Titan goddess",
+      "general": "Theia is a Titan goddess, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "135",
+          "greek": "Θείαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "rhea": {
+      "id": "rhea",
+      "name": "Rhea",
+      "kind": "Titan goddess",
+      "general": "Rhea is a Titan goddess, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "135",
+          "greek": "Ῥείαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phoebe": {
+      "id": "phoebe",
+      "name": "Phoebe",
+      "kind": "Titan goddess",
+      "general": "Phoebe is a Titan goddess, one of the older gods born to Gaia and Uranus.",
+      "evidence": [
+        {
+          "verse": "136",
+          "greek": "Φοίβην τε χρυσοστέφανον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "tethys": {
+      "id": "tethys",
+      "name": "Tethys",
+      "kind": "Titan goddess",
+      "general": "Tethys is a Titan goddess associated with the world's waters.",
+      "evidence": [
+        {
+          "verse": "136",
+          "greek": "Τηθύν τʼ ἐρατεινήν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cyclopes": {
+      "id": "cyclopes",
+      "name": "Cyclopes",
+      "kind": "divine collective",
+      "general": "The Cyclopes are three powerful divine craftspeople with one round eye each. Their Greek name means Round-eyes.",
+      "evidence": [
+        {
+          "verse": "139",
+          "greek": "Κύκλωπας"
+        },
+        {
+          "verse": "143",
+          "greek": "μοῦνος δʼ ὀφθαλμὸς μέσσῳ ἐνέκειτο μετώπῳ."
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "brontes": {
+      "id": "brontes",
+      "name": "Brontes",
+      "kind": "Cyclops",
+      "general": "Brontes is one of the three Cyclopes, divine craftspeople with one eye each.",
+      "evidence": [
+        {
+          "verse": "140",
+          "greek": "Βρόντην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "steropes": {
+      "id": "steropes",
+      "name": "Steropes",
+      "kind": "Cyclops",
+      "general": "Steropes is one of the three Cyclopes, divine craftspeople with one eye each.",
+      "evidence": [
+        {
+          "verse": "140",
+          "greek": "Στερόπην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "arges": {
+      "id": "arges",
+      "name": "Arges",
+      "kind": "Cyclops",
+      "general": "Arges is one of the three Cyclopes, divine craftspeople with one eye each.",
+      "evidence": [
+        {
+          "verse": "140",
+          "greek": "Ἄργην ὀβριμόθυμον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hundred-handers": {
+      "id": "hundred-handers",
+      "name": "Hundred-Handers",
+      "kind": "divine collective",
+      "general": "The Hundred-Handers are three enormous divine brothers, each with a hundred hands and fifty heads.",
+      "evidence": [
+        {
+          "verse": "150",
+          "greek": "τῶν ἑκατὸν μὲν χεῖρες ἀπʼ ὤμων ἀίσσοντο,"
+        },
+        {
+          "verse": "151",
+          "greek": "κεφαλαὶ δὲ ἑκάστῳ πεντήκοντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cottus": {
+      "id": "cottus",
+      "name": "Cottus",
+      "kind": "Hundred-Hander",
+      "general": "Cottus is one of the three Hundred-Handers, divine brothers with a hundred hands and fifty heads each.",
+      "evidence": [
+        {
+          "verse": "149",
+          "greek": "Κόττος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "briareus": {
+      "id": "briareus",
+      "name": "Briareus",
+      "kind": "Hundred-Hander",
+      "general": "Briareus, also called Obriareus, is one of the three Hundred-Handers, divine brothers with a hundred hands and fifty heads each.",
+      "evidence": [
+        {
+          "verse": "149",
+          "greek": "Βριάρεώς"
+        },
+        {
+          "verse": "734",
+          "greek": "Ὀβριάρεως μεγάθυμος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "gyges": {
+      "id": "gyges",
+      "name": "Gyges",
+      "kind": "Hundred-Hander",
+      "general": "Gyges, also spelled Gyes, is one of the three Hundred-Handers, divine brothers with a hundred hands and fifty heads each.",
+      "evidence": [
+        {
+          "verse": "149",
+          "greek": "Γύης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "erinyes": {
+      "id": "erinyes",
+      "name": "Erinyes",
+      "kind": "divine collective",
+      "general": "The Erinyes, also called Furies, are goddesses of vengeance who punish wrongdoing.",
+      "evidence": [
+        {
+          "verse": "185",
+          "greek": "Ἐρινῦς τε κρατερὰς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "meliae": {
+      "id": "meliae",
+      "name": "Meliae",
+      "kind": "nymph collective",
+      "general": "The Meliae are nymphs, female divine nature spirits associated with ash trees.",
+      "evidence": [
+        {
+          "verse": "187",
+          "greek": "Νύμφας θʼ ἃς Μελίας καλέουσʼ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "titans": {
+      "id": "titans",
+      "name": "Titans",
+      "kind": "divine collective",
+      "general": "The Titans are an older generation of gods born to Gaia, Earth, and Uranus, Sky.",
+      "evidence": [
+        {
+          "verse": "207",
+          "greek": "τοὺς δὲ πατὴρ Τιτῆνας ἐπίκλησιν καλέεσκε"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "moros": {
+      "id": "moros",
+      "name": "Moros",
+      "kind": "divine personification",
+      "general": "Moros is a divine being who represents doom or unavoidable fate.",
+      "evidence": [
+        {
+          "verse": "211",
+          "greek": "Μόρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ker": {
+      "id": "ker",
+      "name": "Ker",
+      "kind": "death spirit",
+      "general": "Ker is a divine spirit of death or fatal doom.",
+      "evidence": [
+        {
+          "verse": "211",
+          "greek": "Κῆρα μέλαιναν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "keres": {
+      "id": "keres",
+      "name": "Keres",
+      "kind": "divine collective",
+      "general": "The Keres are spirits of death or fatal doom. Keres is the Greek plural of Ker.",
+      "evidence": [
+        {
+          "verse": "217",
+          "greek": "Κῆρας ἐγείνατο νηλεοποίνους"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "thanatos": {
+      "id": "thanatos",
+      "name": "Thanatos",
+      "kind": "divine personification",
+      "general": "Thanatos is Death imagined as a god.",
+      "evidence": [
+        {
+          "verse": "212",
+          "greek": "Θάνατον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hypnos": {
+      "id": "hypnos",
+      "name": "Hypnos",
+      "kind": "divine personification",
+      "general": "Hypnos is Sleep imagined as a god.",
+      "evidence": [
+        {
+          "verse": "212",
+          "greek": "Ὕπνον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "dreams": {
+      "id": "dreams",
+      "name": "Dreams",
+      "kind": "divine collective",
+      "general": "The Dreams, called Oneiroi in Greek, are dreams imagined as a family of divine beings.",
+      "evidence": [
+        {
+          "verse": "212",
+          "greek": "φῦλον Ὀνείρων"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "momus": {
+      "id": "momus",
+      "name": "Momus",
+      "kind": "divine personification",
+      "general": "Momus is a god who represents blame and fault-finding.",
+      "evidence": [
+        {
+          "verse": "214",
+          "greek": "Μῶμον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "oizys": {
+      "id": "oizys",
+      "name": "Oizys",
+      "kind": "divine personification",
+      "general": "Oizys is a goddess who represents misery and distress.",
+      "evidence": [
+        {
+          "verse": "214",
+          "greek": "Ὀιζὺν ἀλγινόεσσαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hesperides": {
+      "id": "hesperides",
+      "name": "Hesperides",
+      "kind": "divine collective",
+      "general": "The Hesperides are divine maidens associated with evening and the far west.",
+      "evidence": [
+        {
+          "verse": "215",
+          "greek": "Ἑσπερίδας"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "fates": {
+      "id": "fates",
+      "name": "Fates",
+      "kind": "divine collective",
+      "general": "The Fates, called Moirai in Greek, are goddesses who assign each person's share of good and bad in life.",
+      "evidence": [
+        {
+          "verse": "217",
+          "greek": "Μοίρας"
+        },
+        {
+          "verse": "219",
+          "greek": "γεινομένοισι διδοῦσιν ἔχειν ἀγαθόν τε κακόν τε,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "clotho": {
+      "id": "clotho",
+      "name": "Clotho",
+      "kind": "Fate goddess",
+      "general": "Clotho is one of the three named Fates, goddesses who assign people's lives. Her Greek name means Spinner.",
+      "evidence": [
+        {
+          "verse": "218",
+          "greek": "Κλωθώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "lachesis": {
+      "id": "lachesis",
+      "name": "Lachesis",
+      "kind": "Fate goddess",
+      "general": "Lachesis is one of the three named Fates, goddesses who assign people's lives. Her Greek name means Allotter.",
+      "evidence": [
+        {
+          "verse": "218",
+          "greek": "Λάχεσίν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "atropos": {
+      "id": "atropos",
+      "name": "Atropos",
+      "kind": "Fate goddess",
+      "general": "Atropos is one of the three named Fates, goddesses who assign people's lives. Her Greek name suggests something that cannot be turned back.",
+      "evidence": [
+        {
+          "verse": "218",
+          "greek": "Ἄτροπον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nemesis": {
+      "id": "nemesis",
+      "name": "Nemesis",
+      "kind": "divine personification",
+      "general": "Nemesis is a goddess who represents resentment and deserved payback for wrongdoing.",
+      "evidence": [
+        {
+          "verse": "223",
+          "greek": "Νέμεσιν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "apate": {
+      "id": "apate",
+      "name": "Apate",
+      "kind": "divine personification",
+      "general": "Apate is Deceit imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "224",
+          "greek": "Ἀπάτην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "philotes": {
+      "id": "philotes",
+      "name": "Philotes",
+      "kind": "divine personification",
+      "general": "Philotes is a goddess who represents affection and intimacy, including sexual intimacy.",
+      "evidence": [
+        {
+          "verse": "224",
+          "greek": "Φιλότητα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "geras": {
+      "id": "geras",
+      "name": "Old Age",
+      "kind": "divine personification",
+      "general": "Old Age, called Geras in Greek, is aging imagined as a divine being.",
+      "evidence": [
+        {
+          "verse": "225",
+          "greek": "Γῆράς τʼ οὐλόμενον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eris": {
+      "id": "eris",
+      "name": "Eris",
+      "kind": "divine personification",
+      "general": "Eris is Strife imagined as a goddess, representing conflict and hostility.",
+      "evidence": [
+        {
+          "verse": "225",
+          "greek": "Ἔριν τέκε καρτερόθυμον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ponos": {
+      "id": "ponos",
+      "name": "Toil",
+      "kind": "divine personification",
+      "general": "Toil, called Ponos in Greek, is a divine being who represents painful work.",
+      "evidence": [
+        {
+          "verse": "226",
+          "greek": "Πόνον ἀλγινόεντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "lethe": {
+      "id": "lethe",
+      "name": "Forgetfulness",
+      "kind": "divine personification",
+      "general": "Forgetfulness, called Lethe in Greek, is forgetting imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "227",
+          "greek": "Λήθην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "limos": {
+      "id": "limos",
+      "name": "Hunger",
+      "kind": "divine personification",
+      "general": "Hunger, called Limos in Greek, is hunger imagined as a divine being.",
+      "evidence": [
+        {
+          "verse": "227",
+          "greek": "Λιμόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "algea": {
+      "id": "algea",
+      "name": "Sorrows",
+      "kind": "personified divine collective",
+      "general": "The Sorrows, called Algea in Greek, are divine beings who represent pain and grief.",
+      "evidence": [
+        {
+          "verse": "227",
+          "greek": "Ἄλγεα δακρυόεντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hysminai": {
+      "id": "hysminai",
+      "name": "Clashes",
+      "kind": "personified divine collective",
+      "general": "The Clashes, called Hysminai in Greek, are divine beings who represent violent clashes.",
+      "evidence": [
+        {
+          "verse": "228",
+          "greek": "Ὑσμίνας"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "machai": {
+      "id": "machai",
+      "name": "Battles",
+      "kind": "personified divine collective",
+      "general": "The Battles, called Machai in Greek, are battles imagined as a group of divine beings.",
+      "evidence": [
+        {
+          "verse": "228",
+          "greek": "Μάχας"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phonoi": {
+      "id": "phonoi",
+      "name": "Murders",
+      "kind": "personified divine collective",
+      "general": "The Murders, called Phonoi in Greek, are murder imagined as a group of divine beings.",
+      "evidence": [
+        {
+          "verse": "228",
+          "greek": "Φόνους"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "androktasiai": {
+      "id": "androktasiai",
+      "name": "Slaughter",
+      "kind": "personified divine collective",
+      "general": "Slaughter, called Androktasiai in Greek, is a group of divine beings who represent the killing of people.",
+      "evidence": [
+        {
+          "verse": "228",
+          "greek": "Ἀνδροκτασίας"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "neikea": {
+      "id": "neikea",
+      "name": "Quarrels",
+      "kind": "personified divine collective",
+      "general": "The Quarrels, called Neikea in Greek, are quarrels imagined as a group of divine beings.",
+      "evidence": [
+        {
+          "verse": "229",
+          "greek": "Νείκεά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "logoi": {
+      "id": "logoi",
+      "name": "Lying Words",
+      "kind": "personified divine collective",
+      "general": "Lying Words, called Logoi in Greek, are deceitful speech imagined as a group of divine beings.",
+      "evidence": [
+        {
+          "verse": "229",
+          "greek": "ψευδέας τε Λόγους"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "amphillogiai": {
+      "id": "amphillogiai",
+      "name": "Arguments",
+      "kind": "personified divine collective",
+      "general": "The Arguments, called Amphillogiai in Greek, are arguments and disputes imagined as a group of divine beings.",
+      "evidence": [
+        {
+          "verse": "229",
+          "greek": "Ἀμφιλλογίας"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "dysnomia": {
+      "id": "dysnomia",
+      "name": "Lawlessness",
+      "kind": "divine personification",
+      "general": "Lawlessness, called Dysnomia in Greek, is disregard for law imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "230",
+          "greek": "Δυσνομίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ate": {
+      "id": "ate",
+      "name": "Ruin",
+      "kind": "divine personification",
+      "general": "Ruin, called Ate in Greek, is a goddess who represents disastrous confusion and destruction.",
+      "evidence": [
+        {
+          "verse": "230",
+          "greek": "Ἄτην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "horkos": {
+      "id": "horkos",
+      "name": "Oath",
+      "kind": "divine personification",
+      "general": "Oath, called Horkos in Greek, is a divine being who punishes deliberate false swearing.",
+      "evidence": [
+        {
+          "verse": "231",
+          "greek": "Ὅρκον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nereus": {
+      "id": "nereus",
+      "name": "Nereus",
+      "kind": "sea god",
+      "general": "Nereus is a gentle, truthful sea god, also called the Old Man of the Sea.",
+      "evidence": [
+        {
+          "verse": "233",
+          "greek": "Νηρέα δʼ ἀψευδέα καὶ ἀληθέα γείνατο Πόντος,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "thaumas": {
+      "id": "thaumas",
+      "name": "Thaumas",
+      "kind": "sea god",
+      "general": "Thaumas is a sea god, a son of Gaia and Pontus.",
+      "evidence": [
+        {
+          "verse": "237",
+          "greek": "Θαύμαντα μέγαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phorcys": {
+      "id": "phorcys",
+      "name": "Phorcys",
+      "kind": "sea god",
+      "general": "Phorcys is a sea god, a son of Gaia and Pontus.",
+      "evidence": [
+        {
+          "verse": "237",
+          "greek": "ἀγήνορα Φόρκυν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ceto": {
+      "id": "ceto",
+      "name": "Ceto",
+      "kind": "sea goddess",
+      "general": "Ceto is a sea goddess, a daughter of Gaia and Pontus.",
+      "evidence": [
+        {
+          "verse": "238",
+          "greek": "Κητὼ καλλιπάρῃον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eurybia": {
+      "id": "eurybia",
+      "name": "Eurybia",
+      "kind": "goddess",
+      "general": "Eurybia is a strong-willed goddess, a daughter of Gaia and Pontus.",
+      "evidence": [
+        {
+          "verse": "239",
+          "greek": "Εὐρυβίην τʼ ἀδάμαντος ἐνὶ φρεσὶ θυμὸν ἔχουσαν."
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nereids": {
+      "id": "nereids",
+      "name": "Nereids",
+      "kind": "divine collective",
+      "general": "The Nereids are the fifty sea-goddess daughters of Nereus and the Oceanid Doris.",
+      "evidence": [
+        {
+          "verse": "240",
+          "greek": "Νηρῆος δʼ ἐγένοντο μεγήρατα τέκνα θεάων"
+        },
+        {
+          "verse": "264",
+          "greek": "κοῦραι πεντήκοντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "doris-oceanid": {
+      "id": "doris-oceanid",
+      "name": "Doris",
+      "kind": "Oceanid goddess",
+      "general": "Doris is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "241",
+          "greek": "Δωρίδος ἠυκόμοιο,"
+        },
+        {
+          "verse": "242",
+          "greek": "κούρης Ὠκεανοῖο"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ploto": {
+      "id": "ploto",
+      "name": "Ploto",
+      "kind": "Nereid goddess",
+      "general": "Ploto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "243",
+          "greek": "Πλωτώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eucrante": {
+      "id": "eucrante",
+      "name": "Eucrante",
+      "kind": "Nereid goddess",
+      "general": "Eucrante is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "243",
+          "greek": "Εὐκράντη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "sao": {
+      "id": "sao",
+      "name": "Sao",
+      "kind": "Nereid goddess",
+      "general": "Sao is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "243",
+          "greek": "Σαώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "amphitrite": {
+      "id": "amphitrite",
+      "name": "Amphitrite",
+      "kind": "Nereid goddess",
+      "general": "Amphitrite is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "243",
+          "greek": "Ἀμφιτρίτη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eudora-nereid": {
+      "id": "eudora-nereid",
+      "name": "Eudora",
+      "kind": "Nereid goddess",
+      "general": "Eudora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "244",
+          "greek": "Εὐδώρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "thetis": {
+      "id": "thetis",
+      "name": "Thetis",
+      "kind": "Nereid goddess",
+      "general": "Thetis is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "244",
+          "greek": "Θέτις"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "galene": {
+      "id": "galene",
+      "name": "Galene",
+      "kind": "Nereid goddess",
+      "general": "Galene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "244",
+          "greek": "Γαλήνη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "glauce": {
+      "id": "glauce",
+      "name": "Glauce",
+      "kind": "Nereid goddess",
+      "general": "Glauce is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "244",
+          "greek": "Γλαύκη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cymothoe": {
+      "id": "cymothoe",
+      "name": "Cymothoe",
+      "kind": "Nereid goddess",
+      "general": "Cymothoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "245",
+          "greek": "Κυμοθόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "speio": {
+      "id": "speio",
+      "name": "Speio",
+      "kind": "Nereid goddess",
+      "general": "Speio is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "245",
+          "greek": "Σπειώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "thoe": {
+      "id": "thoe",
+      "name": "Thoe",
+      "kind": "Nereid goddess",
+      "general": "Thoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "245",
+          "greek": "Θόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "halia": {
+      "id": "halia",
+      "name": "Halia",
+      "kind": "Nereid goddess",
+      "general": "Halia is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "245",
+          "greek": "Ἀλίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pasithea": {
+      "id": "pasithea",
+      "name": "Pasithea",
+      "kind": "Nereid goddess",
+      "general": "Pasithea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "246",
+          "greek": "Πασιθέη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "erato-nereid": {
+      "id": "erato-nereid",
+      "name": "Erato",
+      "kind": "Nereid goddess",
+      "general": "Erato is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "246",
+          "greek": "Ἐρατώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eunice": {
+      "id": "eunice",
+      "name": "Eunice",
+      "kind": "Nereid goddess",
+      "general": "Eunice is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "246",
+          "greek": "Εὐνίκη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "melite": {
+      "id": "melite",
+      "name": "Melite",
+      "kind": "Nereid goddess",
+      "general": "Melite is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "247",
+          "greek": "Μελίτη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eulimene": {
+      "id": "eulimene",
+      "name": "Eulimene",
+      "kind": "Nereid goddess",
+      "general": "Eulimene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "247",
+          "greek": "Εὐλιμένη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "agave-nereid": {
+      "id": "agave-nereid",
+      "name": "Agave",
+      "kind": "Nereid goddess",
+      "general": "Agave is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "247",
+          "greek": "Ἀγαυὴ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "doto": {
+      "id": "doto",
+      "name": "Doto",
+      "kind": "Nereid goddess",
+      "general": "Doto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "248",
+          "greek": "Δωτώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "proto": {
+      "id": "proto",
+      "name": "Proto",
+      "kind": "Nereid goddess",
+      "general": "Proto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "248",
+          "greek": "Πρωτώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pherusa": {
+      "id": "pherusa",
+      "name": "Pherusa",
+      "kind": "Nereid goddess",
+      "general": "Pherusa is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "248",
+          "greek": "Φέρουσά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "dynamene": {
+      "id": "dynamene",
+      "name": "Dynamene",
+      "kind": "Nereid goddess",
+      "general": "Dynamene is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "248",
+          "greek": "Δυναμένη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nesaea": {
+      "id": "nesaea",
+      "name": "Nesaea",
+      "kind": "Nereid goddess",
+      "general": "Nesaea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "249",
+          "greek": "Νησαίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "actaea": {
+      "id": "actaea",
+      "name": "Actaea",
+      "kind": "Nereid goddess",
+      "general": "Actaea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "249",
+          "greek": "Ἀκταίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "protomedea": {
+      "id": "protomedea",
+      "name": "Protomedea",
+      "kind": "Nereid goddess",
+      "general": "Protomedea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "249",
+          "greek": "Πρωτομέδεια"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "doris-nereid": {
+      "id": "doris-nereid",
+      "name": "Doris",
+      "kind": "Nereid goddess",
+      "general": "Doris is a Nereid, a sea-goddess daughter of Nereus and the Oceanid Doris.",
+      "evidence": [
+        {
+          "verse": "250",
+          "greek": "Δωρὶς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "panopea": {
+      "id": "panopea",
+      "name": "Panopea",
+      "kind": "Nereid goddess",
+      "general": "Panopea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "250",
+          "greek": "Πανόπεια"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "galatea": {
+      "id": "galatea",
+      "name": "Galatea",
+      "kind": "Nereid goddess",
+      "general": "Galatea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "250",
+          "greek": "Γαλάτεια"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hippothoe": {
+      "id": "hippothoe",
+      "name": "Hippothoe",
+      "kind": "Nereid goddess",
+      "general": "Hippothoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "251",
+          "greek": "Ἱπποθόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hipponoe": {
+      "id": "hipponoe",
+      "name": "Hipponoe",
+      "kind": "Nereid goddess",
+      "general": "Hipponoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "251",
+          "greek": "Ἱππονόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cymodoce": {
+      "id": "cymodoce",
+      "name": "Cymodoce",
+      "kind": "Nereid goddess",
+      "general": "Cymodoce is a Nereid, a sea-goddess daughter of Nereus and Doris, associated with calming waves.",
+      "evidence": [
+        {
+          "verse": "252",
+          "greek": "Κυμοδόκη θʼ, ἣ κύματʼ ἐν ἠεροειδέι πόντῳ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cymatolege": {
+      "id": "cymatolege",
+      "name": "Cymatolege",
+      "kind": "Nereid goddess",
+      "general": "Cymatolege is a Nereid, a sea-goddess daughter of Nereus and Doris, associated with calming waves.",
+      "evidence": [
+        {
+          "verse": "253",
+          "greek": "σὺν Κυματολήγῃ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cymo": {
+      "id": "cymo",
+      "name": "Cymo",
+      "kind": "Nereid goddess",
+      "general": "Cymo is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "255",
+          "greek": "Κυμώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eione": {
+      "id": "eione",
+      "name": "Eione",
+      "kind": "Nereid goddess",
+      "general": "Eione is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "255",
+          "greek": "Ἠιόνη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "halimede": {
+      "id": "halimede",
+      "name": "Halimede",
+      "kind": "Nereid goddess",
+      "general": "Halimede is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "255",
+          "greek": "Ἁλιμήδη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "glauconome": {
+      "id": "glauconome",
+      "name": "Glauconome",
+      "kind": "Nereid goddess",
+      "general": "Glauconome is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "256",
+          "greek": "Γλαυκονόμη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pontoporea": {
+      "id": "pontoporea",
+      "name": "Pontoporea",
+      "kind": "Nereid goddess",
+      "general": "Pontoporea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "256",
+          "greek": "Ποντοπόρεια"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "leagora": {
+      "id": "leagora",
+      "name": "Leagora",
+      "kind": "Nereid goddess",
+      "general": "Leagora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "257",
+          "greek": "Ληαγόρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "euagora": {
+      "id": "euagora",
+      "name": "Euagora",
+      "kind": "Nereid goddess",
+      "general": "Euagora is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "257",
+          "greek": "Εὐαγόρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "laomedea": {
+      "id": "laomedea",
+      "name": "Laomedea",
+      "kind": "Nereid goddess",
+      "general": "Laomedea is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "257",
+          "greek": "Λαομέδεια"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "polynoe": {
+      "id": "polynoe",
+      "name": "Polynoe",
+      "kind": "Nereid goddess",
+      "general": "Polynoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "258",
+          "greek": "Πουλυνόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "autonoe-nereid": {
+      "id": "autonoe-nereid",
+      "name": "Autonoe",
+      "kind": "Nereid goddess",
+      "general": "Autonoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "258",
+          "greek": "Αὐτονόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "lysianassa": {
+      "id": "lysianassa",
+      "name": "Lysianassa",
+      "kind": "Nereid goddess",
+      "general": "Lysianassa is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "258",
+          "greek": "Λυσιάνασσα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "euarne": {
+      "id": "euarne",
+      "name": "Euarne",
+      "kind": "Nereid goddess",
+      "general": "Euarne is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "259",
+          "greek": "Εὐάρνη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "psamathe": {
+      "id": "psamathe",
+      "name": "Psamathe",
+      "kind": "Nereid goddess",
+      "general": "Psamathe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "260",
+          "greek": "Ψαμάθη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "menippe": {
+      "id": "menippe",
+      "name": "Menippe",
+      "kind": "Nereid goddess",
+      "general": "Menippe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "260",
+          "greek": "Μενίππη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "neso": {
+      "id": "neso",
+      "name": "Neso",
+      "kind": "Nereid goddess",
+      "general": "Neso is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "261",
+          "greek": "Νησώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eupompe": {
+      "id": "eupompe",
+      "name": "Eupompe",
+      "kind": "Nereid goddess",
+      "general": "Eupompe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "261",
+          "greek": "Εὐπόμπη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "themisto": {
+      "id": "themisto",
+      "name": "Themisto",
+      "kind": "Nereid goddess",
+      "general": "Themisto is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "261",
+          "greek": "Θεμιστώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pronoe": {
+      "id": "pronoe",
+      "name": "Pronoe",
+      "kind": "Nereid goddess",
+      "general": "Pronoe is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "261",
+          "greek": "Προνόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nemertes": {
+      "id": "nemertes",
+      "name": "Nemertes",
+      "kind": "Nereid goddess",
+      "general": "Nemertes is a Nereid, a sea-goddess daughter of Nereus and Doris.",
+      "evidence": [
+        {
+          "verse": "262",
+          "greek": "Νημερτής"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "electra": {
+      "id": "electra",
+      "name": "Electra",
+      "kind": "Oceanid goddess",
+      "general": "Electra is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "265",
+          "greek": "Ὠκεανοῖο βαθυρρείταο θύγατρα"
+        },
+        {
+          "verse": "266",
+          "greek": "Ἠλέκτρην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "iris": {
+      "id": "iris",
+      "name": "Iris",
+      "kind": "goddess",
+      "general": "Iris is a swift messenger goddess associated with the rainbow.",
+      "evidence": [
+        {
+          "verse": "266",
+          "greek": "ὠκεῖαν τέκεν Ἶριν"
+        },
+        {
+          "verse": "780",
+          "greek": "πόδας ὠκέα Ἶρις"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "harpies": {
+      "id": "harpies",
+      "name": "Harpies",
+      "kind": "supernatural collective",
+      "general": "The Harpies are swift, winged female beings. Their Greek name suggests snatching things away.",
+      "evidence": [
+        {
+          "verse": "267",
+          "greek": "ἠυκόμους θʼ Ἁρπυίας"
+        },
+        {
+          "verse": "269",
+          "greek": "ὠκείῃς πτερύγεσσι"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aello": {
+      "id": "aello",
+      "name": "Aello",
+      "kind": "Harpy",
+      "general": "Aello is one of the Harpies, swift, winged daughters of Thaumas and Electra.",
+      "evidence": [
+        {
+          "verse": "267",
+          "greek": "Ἀελλώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ocypete": {
+      "id": "ocypete",
+      "name": "Ocypete",
+      "kind": "Harpy",
+      "general": "Ocypete is one of the Harpies, swift, winged daughters of Thaumas and Electra.",
+      "evidence": [
+        {
+          "verse": "267",
+          "greek": "Ὠκυπέτην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "graiae": {
+      "id": "graiae",
+      "name": "Graiae",
+      "kind": "supernatural collective",
+      "general": "The Graiae are supernatural daughters of Ceto and Phorcys, gray-haired from birth. Their Greek name means Old Women.",
+      "evidence": [
+        {
+          "verse": "270",
+          "greek": "Γραίας τέκε καλλιπαρῄους"
+        },
+        {
+          "verse": "271",
+          "greek": "ἐκ γενετῆς πολιάς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pemphredo": {
+      "id": "pemphredo",
+      "name": "Pemphredo",
+      "kind": "Graia",
+      "general": "Pemphredo is one of the Graiae, supernatural daughters of Ceto and Phorcys who are gray-haired from birth.",
+      "evidence": [
+        {
+          "verse": "273",
+          "greek": "Πεμφρηδώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "enyo-graia": {
+      "id": "enyo-graia",
+      "name": "Enyo",
+      "kind": "Graia",
+      "general": "Enyo is one of the Graiae, supernatural daughters of Ceto and Phorcys who are gray-haired from birth.",
+      "evidence": [
+        {
+          "verse": "273",
+          "greek": "Ἐνυώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "gorgons": {
+      "id": "gorgons",
+      "name": "Gorgons",
+      "kind": "monster collective",
+      "general": "The Gorgons are three fearsome sisters from the family of Ceto and Phorcys.",
+      "evidence": [
+        {
+          "verse": "274",
+          "greek": "Γοργούς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "sthenno": {
+      "id": "sthenno",
+      "name": "Sthenno",
+      "kind": "Gorgon",
+      "general": "Sthenno is one of the three Gorgons, fearsome daughters of Ceto and Phorcys.",
+      "evidence": [
+        {
+          "verse": "276",
+          "greek": "Σθεννώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "euryale": {
+      "id": "euryale",
+      "name": "Euryale",
+      "kind": "Gorgon",
+      "general": "Euryale is one of the three Gorgons, fearsome daughters of Ceto and Phorcys.",
+      "evidence": [
+        {
+          "verse": "276",
+          "greek": "Εὐρυάλη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "medusa": {
+      "id": "medusa",
+      "name": "Medusa",
+      "kind": "mortal Gorgon",
+      "general": "Medusa is the only mortal among the three Gorgon sisters.",
+      "evidence": [
+        {
+          "verse": "276",
+          "greek": "Μέδουσά"
+        },
+        {
+          "verse": "277",
+          "greek": "ἣ μὲν ἔην θνητή"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "perseus": {
+      "id": "perseus",
+      "name": "Perseus",
+      "kind": "mortal hero",
+      "general": "Perseus is a Greek hero.",
+      "evidence": [
+        {
+          "verse": "280",
+          "greek": "Περσεὺς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "chrysaor": {
+      "id": "chrysaor",
+      "name": "Chrysaor",
+      "kind": "mythic figure",
+      "general": "Chrysaor is a powerful mythical figure from Medusa and Poseidon's family. His Greek name refers to a golden sword.",
+      "evidence": [
+        {
+          "verse": "281",
+          "greek": "ἔκθορε Χρυσαωρ τε μέγας"
+        },
+        {
+          "verse": "283",
+          "greek": "ἄορ χρύσειον ἔχων"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pegasus": {
+      "id": "pegasus",
+      "name": "Pegasus",
+      "kind": "supernatural horse",
+      "general": "Pegasus is a winged horse from Medusa and Poseidon's family.",
+      "evidence": [
+        {
+          "verse": "281",
+          "greek": "Πήγασος ἵππος"
+        },
+        {
+          "verse": "284",
+          "greek": "ἀποπτάμενος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "geryon": {
+      "id": "geryon",
+      "name": "Geryon",
+      "kind": "mortal monster",
+      "general": "Geryon is a powerful three-headed mortal being who owns cattle.",
+      "evidence": [
+        {
+          "verse": "287",
+          "greek": "τρικέφαλον Γηρυονῆα"
+        },
+        {
+          "verse": "981",
+          "greek": "παῖδα βροτῶν κάρτιστον ἁπάντων,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "callirhoe": {
+      "id": "callirhoe",
+      "name": "Callirhoe",
+      "kind": "Oceanid goddess",
+      "general": "Callirhoe is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "288",
+          "greek": "Καλλιρόῃ κούρῃ κλυτοῦ Ὠκεανοῖο"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "heracles": {
+      "id": "heracles",
+      "name": "Heracles",
+      "kind": "hero",
+      "general": "Heracles, also called Hercules, is a hero famous for his enormous strength.",
+      "evidence": [
+        {
+          "verse": "289",
+          "greek": "βίη Ἡρακληείη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "orthus": {
+      "id": "orthus",
+      "name": "Orthus",
+      "kind": "monstrous dog",
+      "general": "Orthus is a monstrous watchdog associated with Geryon's cattle.",
+      "evidence": [
+        {
+          "verse": "293",
+          "greek": "Ὄρθον"
+        },
+        {
+          "verse": "309",
+          "greek": "Ὄρθον μὲν πρῶτον κύνα γείνατο Γηρυονῆι·"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eurytion": {
+      "id": "eurytion",
+      "name": "Eurytion",
+      "kind": "mortal figure",
+      "general": "Eurytion is the herder who looks after Geryon's cattle.",
+      "evidence": [
+        {
+          "verse": "293",
+          "greek": "βουκόλον Εὐρυτίωνα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "echidna": {
+      "id": "echidna",
+      "name": "Echidna",
+      "kind": "immortal monster",
+      "general": "Echidna is an immortal monster, half a female nature spirit and half a huge snake.",
+      "evidence": [
+        {
+          "verse": "297",
+          "greek": "θείην κρατερόφρονʼ Ἔχιδναν"
+        },
+        {
+          "verse": "305",
+          "greek": "ἀθάνατος νύμφη καὶ ἀγήραος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "typhon": {
+      "id": "typhon",
+      "name": "Typhon",
+      "kind": "monstrous divine being",
+      "general": "Typhon, called Typhaon or Typhoeus in this poem, is a powerful monstrous divine being.",
+      "evidence": [
+        {
+          "verse": "306",
+          "greek": "Τυφάονά"
+        },
+        {
+          "verse": "821",
+          "greek": "Τυφωέα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cerberus": {
+      "id": "cerberus",
+      "name": "Cerberus",
+      "kind": "monstrous dog",
+      "general": "Cerberus is the monstrous dog who guards the world of the dead.",
+      "evidence": [
+        {
+          "verse": "311",
+          "greek": "Κέρβερον ὠμηστήν, Ἀίδεω κύνα χαλκεόφωνον,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hades": {
+      "id": "hades",
+      "name": "Hades",
+      "kind": "god",
+      "general": "Hades, also called Aidoneus, is the god who rules the world of the dead beneath Earth.",
+      "evidence": [
+        {
+          "verse": "311",
+          "greek": "Ἀίδεω"
+        },
+        {
+          "verse": "850",
+          "greek": "Ἀίδης, ἐνέροισι καταφθιμένοισιν ἀνάσσων,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hydra": {
+      "id": "hydra",
+      "name": "Hydra of Lerna",
+      "kind": "monster",
+      "general": "The Hydra of Lerna is a dangerous water-snake monster associated with Lerna in Greece.",
+      "evidence": [
+        {
+          "verse": "313",
+          "greek": "Ὕδρην"
+        },
+        {
+          "verse": "314",
+          "greek": "Λερναίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "amphitryon": {
+      "id": "amphitryon",
+      "name": "Amphitryon",
+      "kind": "mortal figure",
+      "general": "Amphitryon is Heracles's human father figure.",
+      "evidence": [
+        {
+          "verse": "317",
+          "greek": "Ἀμφιτρυωνιάδης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "iolaus": {
+      "id": "iolaus",
+      "name": "Iolaus",
+      "kind": "mortal hero",
+      "general": "Iolaus is a human hero and companion of Heracles.",
+      "evidence": [
+        {
+          "verse": "317",
+          "greek": "ἀρηιφίλῳ Ἰολάῳ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "chimera": {
+      "id": "chimera",
+      "name": "Chimera",
+      "kind": "monster",
+      "general": "The Chimera is a fire-breathing monster combining a lion, a goat, and a snake.",
+      "evidence": [
+        {
+          "verse": "319",
+          "greek": "Χίμαιραν ἔτικτε πνέουσαν ἀμαιμάκετον πῦρ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "bellerophon": {
+      "id": "bellerophon",
+      "name": "Bellerophon",
+      "kind": "mortal hero",
+      "general": "Bellerophon is a human hero associated with the winged horse Pegasus.",
+      "evidence": [
+        {
+          "verse": "325",
+          "greek": "ἐσθλὸς Βελλεροφόντης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "sphinx": {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "kind": "monster",
+      "general": "The Sphinx is a female monster associated with the people of Thebes.",
+      "evidence": [
+        {
+          "verse": "326",
+          "greek": "Φῖκʼ ὀλοὴν τέκε Καδμείοισιν ὄλεθρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nemean-lion": {
+      "id": "nemean-lion",
+      "name": "Nemean Lion",
+      "kind": "monster",
+      "general": "The Nemean Lion is a monstrous lion associated with Nemea in Greece.",
+      "evidence": [
+        {
+          "verse": "327",
+          "greek": "Νεμειαῖόν τε λέοντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "apple-serpent": {
+      "id": "apple-serpent",
+      "name": "Serpent of the Golden Apples",
+      "kind": "monster",
+      "general": "An unnamed monstrous snake from Ceto and Phorcys's family guards the golden apples at the world's far limits.",
+      "evidence": [
+        {
+          "verse": "334",
+          "greek": "γείνατο δεινὸν ὄφιν"
+        },
+        {
+          "verse": "335",
+          "greek": "παγχρύσεα μῆλα φυλάσσει"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "rivers": {
+      "id": "rivers",
+      "name": "Rivers",
+      "kind": "divine collective",
+      "general": "The Rivers are river gods, sons of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "337",
+          "greek": "Τηθὺς δʼ Ὠκεανῷ Ποταμοὺς τέκε δινήεντας,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nile": {
+      "id": "nile",
+      "name": "Nile",
+      "kind": "river god",
+      "general": "Nile is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "338",
+          "greek": "Νεῖλόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "alpheus": {
+      "id": "alpheus",
+      "name": "Alpheus",
+      "kind": "river god",
+      "general": "Alpheus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "338",
+          "greek": "Ἀλφειόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eridanus": {
+      "id": "eridanus",
+      "name": "Eridanus",
+      "kind": "river god",
+      "general": "Eridanus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "338",
+          "greek": "Ἠριδανὸν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "strymon": {
+      "id": "strymon",
+      "name": "Strymon",
+      "kind": "river god",
+      "general": "Strymon is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "339",
+          "greek": "Στρυμόνα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "maeander": {
+      "id": "maeander",
+      "name": "Maeander",
+      "kind": "river god",
+      "general": "Maeander is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "339",
+          "greek": "Μαίανδρόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ister": {
+      "id": "ister",
+      "name": "Ister",
+      "kind": "river god",
+      "general": "Ister is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "339",
+          "greek": "Ἴστρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phasis": {
+      "id": "phasis",
+      "name": "Phasis",
+      "kind": "river god",
+      "general": "Phasis is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "340",
+          "greek": "Φᾶσίν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "rhesus": {
+      "id": "rhesus",
+      "name": "Rhesus",
+      "kind": "river god",
+      "general": "Rhesus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "340",
+          "greek": "Ῥῆσόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "achelous": {
+      "id": "achelous",
+      "name": "Achelous",
+      "kind": "river god",
+      "general": "Achelous is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "340",
+          "greek": "Ἀχελώιόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nessus": {
+      "id": "nessus",
+      "name": "Nessus",
+      "kind": "river god",
+      "general": "Nessus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "341",
+          "greek": "Νέσσον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "rhodius": {
+      "id": "rhodius",
+      "name": "Rhodius",
+      "kind": "river god",
+      "general": "Rhodius is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "341",
+          "greek": "Ῥοδίον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "haliacmon": {
+      "id": "haliacmon",
+      "name": "Haliacmon",
+      "kind": "river god",
+      "general": "Haliacmon is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "341",
+          "greek": "Ἁλιάκμονά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "heptaporus": {
+      "id": "heptaporus",
+      "name": "Heptaporus",
+      "kind": "river god",
+      "general": "Heptaporus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "341",
+          "greek": "Ἑπτάπορόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "grenicus": {
+      "id": "grenicus",
+      "name": "Grenicus",
+      "kind": "river god",
+      "general": "Grenicus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "342",
+          "greek": "Γρήνικόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aesepus": {
+      "id": "aesepus",
+      "name": "Aesepus",
+      "kind": "river god",
+      "general": "Aesepus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "342",
+          "greek": "Αἴσηπον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "simois": {
+      "id": "simois",
+      "name": "Simois",
+      "kind": "river god",
+      "general": "Simois is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "342",
+          "greek": "θεῖόν τε Σιμοῦντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "peneus": {
+      "id": "peneus",
+      "name": "Peneus",
+      "kind": "river god",
+      "general": "Peneus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "343",
+          "greek": "Πηνειόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hermus": {
+      "id": "hermus",
+      "name": "Hermus",
+      "kind": "river god",
+      "general": "Hermus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "343",
+          "greek": "Ἕρμον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "caicus": {
+      "id": "caicus",
+      "name": "Caicus",
+      "kind": "river god",
+      "general": "Caicus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "343",
+          "greek": "Κάικον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "sangarius": {
+      "id": "sangarius",
+      "name": "Sangarius",
+      "kind": "river god",
+      "general": "Sangarius is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "344",
+          "greek": "Σαγγάριόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ladon-river": {
+      "id": "ladon-river",
+      "name": "Ladon",
+      "kind": "river god",
+      "general": "Ladon is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "344",
+          "greek": "Λάδωνά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "parthenius": {
+      "id": "parthenius",
+      "name": "Parthenius",
+      "kind": "river god",
+      "general": "Parthenius is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "344",
+          "greek": "Παρθένιόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "evenus": {
+      "id": "evenus",
+      "name": "Evenus",
+      "kind": "river god",
+      "general": "Evenus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "345",
+          "greek": "Εὔηνόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ardescus": {
+      "id": "ardescus",
+      "name": "Ardescus",
+      "kind": "river god",
+      "general": "Ardescus is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "345",
+          "greek": "Ἄρδησκον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "scamander": {
+      "id": "scamander",
+      "name": "Scamander",
+      "kind": "river god",
+      "general": "Scamander is a river god, a son of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "345",
+          "greek": "θεῖόν τε Σκάμανδρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "oceanids": {
+      "id": "oceanids",
+      "name": "Oceanids",
+      "kind": "divine collective",
+      "general": "The Oceanids are water goddesses, daughters of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "364",
+          "greek": "τρὶς γὰρ χίλιαί εἰσι τανύσφυροι Ὠκεανῖναι,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "peitho": {
+      "id": "peitho",
+      "name": "Peitho",
+      "kind": "Oceanid goddess",
+      "general": "Peitho is an Oceanid goddess who represents persuasion.",
+      "evidence": [
+        {
+          "verse": "349",
+          "greek": "Πειθώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "admete": {
+      "id": "admete",
+      "name": "Admete",
+      "kind": "Oceanid goddess",
+      "general": "Admete is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "349",
+          "greek": "Ἀδμήτη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ianthe": {
+      "id": "ianthe",
+      "name": "Ianthe",
+      "kind": "Oceanid goddess",
+      "general": "Ianthe is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "349",
+          "greek": "Ἰάνθη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "prymno": {
+      "id": "prymno",
+      "name": "Prymno",
+      "kind": "Oceanid goddess",
+      "general": "Prymno is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "350",
+          "greek": "Πρυμνώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "urania-oceanid": {
+      "id": "urania-oceanid",
+      "name": "Urania",
+      "kind": "Oceanid goddess",
+      "general": "Urania is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "350",
+          "greek": "Οὐρανίη θεοειδὴς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hippo": {
+      "id": "hippo",
+      "name": "Hippo",
+      "kind": "Oceanid goddess",
+      "general": "Hippo is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "351",
+          "greek": "Ἱππώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "clymene": {
+      "id": "clymene",
+      "name": "Clymene",
+      "kind": "Oceanid goddess",
+      "general": "Clymene is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "351",
+          "greek": "Κλυμένη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "rhodea": {
+      "id": "rhodea",
+      "name": "Rhodea",
+      "kind": "Oceanid goddess",
+      "general": "Rhodea is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "351",
+          "greek": "Ῥόδειά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "zeuxo": {
+      "id": "zeuxo",
+      "name": "Zeuxo",
+      "kind": "Oceanid goddess",
+      "general": "Zeuxo is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "352",
+          "greek": "Ζευξώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "clytie": {
+      "id": "clytie",
+      "name": "Clytie",
+      "kind": "Oceanid goddess",
+      "general": "Clytie is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "352",
+          "greek": "Κλυτίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "idyia": {
+      "id": "idyia",
+      "name": "Idyia",
+      "kind": "Oceanid goddess",
+      "general": "Idyia is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "352",
+          "greek": "Ἰδυῖά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pasithoe": {
+      "id": "pasithoe",
+      "name": "Pasithoe",
+      "kind": "Oceanid goddess",
+      "general": "Pasithoe is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "352",
+          "greek": "Πασιθόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "plexaura": {
+      "id": "plexaura",
+      "name": "Plexaura",
+      "kind": "Oceanid goddess",
+      "general": "Plexaura is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "353",
+          "greek": "Πληξαύρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "galaxaura": {
+      "id": "galaxaura",
+      "name": "Galaxaura",
+      "kind": "Oceanid goddess",
+      "general": "Galaxaura is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "353",
+          "greek": "Γαλαξαύρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "melobosis": {
+      "id": "melobosis",
+      "name": "Melobosis",
+      "kind": "Oceanid goddess",
+      "general": "Melobosis is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "354",
+          "greek": "Μηλόβοσίς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phoe": {
+      "id": "phoe",
+      "name": "Phoe",
+      "kind": "Oceanid goddess",
+      "general": "Phoe is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "354",
+          "greek": "Φόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "polydora": {
+      "id": "polydora",
+      "name": "Polydora",
+      "kind": "Oceanid goddess",
+      "general": "Polydora is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "354",
+          "greek": "Πολυδώρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cerceis": {
+      "id": "cerceis",
+      "name": "Cerceis",
+      "kind": "Oceanid goddess",
+      "general": "Cerceis is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "355",
+          "greek": "Κερκηίς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pluto-oceanid": {
+      "id": "pluto-oceanid",
+      "name": "Pluto",
+      "kind": "Oceanid goddess",
+      "general": "Pluto is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "355",
+          "greek": "Πλουτώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "perseis": {
+      "id": "perseis",
+      "name": "Perseis",
+      "kind": "Oceanid goddess",
+      "general": "Perseis is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "356",
+          "greek": "Περσηίς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ianeira": {
+      "id": "ianeira",
+      "name": "Ianeira",
+      "kind": "Oceanid goddess",
+      "general": "Ianeira is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "356",
+          "greek": "Ἰάνειρά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "acaste": {
+      "id": "acaste",
+      "name": "Acaste",
+      "kind": "Oceanid goddess",
+      "general": "Acaste is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "356",
+          "greek": "Ἀκάστη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "xanthe": {
+      "id": "xanthe",
+      "name": "Xanthe",
+      "kind": "Oceanid goddess",
+      "general": "Xanthe is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "356",
+          "greek": "Ξάνθη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "petraea": {
+      "id": "petraea",
+      "name": "Petraea",
+      "kind": "Oceanid goddess",
+      "general": "Petraea is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "357",
+          "greek": "Πετραίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "menestho": {
+      "id": "menestho",
+      "name": "Menestho",
+      "kind": "Oceanid goddess",
+      "general": "Menestho is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "357",
+          "greek": "Μενεσθώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "europa-oceanid": {
+      "id": "europa-oceanid",
+      "name": "Europa",
+      "kind": "Oceanid goddess",
+      "general": "Europa is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "357",
+          "greek": "Εὐρώπη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "metis": {
+      "id": "metis",
+      "name": "Metis",
+      "kind": "Oceanid goddess",
+      "general": "Metis is an Oceanid goddess of intelligence and clever planning. Her Greek name means practical wisdom or cunning.",
+      "evidence": [
+        {
+          "verse": "358",
+          "greek": "Μῆτίς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eurynome": {
+      "id": "eurynome",
+      "name": "Eurynome",
+      "kind": "Oceanid goddess",
+      "general": "Eurynome is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "358",
+          "greek": "Εὐρυνόμη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "telesto": {
+      "id": "telesto",
+      "name": "Telesto",
+      "kind": "Oceanid goddess",
+      "general": "Telesto is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "358",
+          "greek": "Τελεστώ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "chryseis-oceanid": {
+      "id": "chryseis-oceanid",
+      "name": "Chryseis",
+      "kind": "Oceanid goddess",
+      "general": "Chryseis is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "359",
+          "greek": "Χρυσηίς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "asia": {
+      "id": "asia",
+      "name": "Asia",
+      "kind": "Oceanid goddess",
+      "general": "Asia is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "359",
+          "greek": "Ἀσίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "calypso": {
+      "id": "calypso",
+      "name": "Calypso",
+      "kind": "Oceanid goddess",
+      "general": "Calypso is an Oceanid, a goddess belonging to the family of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "359",
+          "greek": "ἱμερόεσσα Καλυψὼ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eudora-oceanid": {
+      "id": "eudora-oceanid",
+      "name": "Eudora",
+      "kind": "Oceanid goddess",
+      "general": "Eudora is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "360",
+          "greek": "Εὐδώρη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "tyche": {
+      "id": "tyche",
+      "name": "Tyche",
+      "kind": "Oceanid goddess",
+      "general": "Tyche is an Oceanid goddess who represents fortune and chance.",
+      "evidence": [
+        {
+          "verse": "360",
+          "greek": "Τύχη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "amphiro": {
+      "id": "amphiro",
+      "name": "Amphiro",
+      "kind": "Oceanid goddess",
+      "general": "Amphiro is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "360",
+          "greek": "Ἀμφιρὼ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ocyroe": {
+      "id": "ocyroe",
+      "name": "Ocyroe",
+      "kind": "Oceanid goddess",
+      "general": "Ocyroe is an Oceanid, a water-goddess daughter of Oceanus and Tethys.",
+      "evidence": [
+        {
+          "verse": "360",
+          "greek": "Ὠκυρόη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "styx": {
+      "id": "styx",
+      "name": "Styx",
+      "kind": "Oceanid river goddess",
+      "general": "Styx is a goddess and an underworld river whose water binds the gods' strongest oaths.",
+      "evidence": [
+        {
+          "verse": "361",
+          "greek": "Στύξ"
+        },
+        {
+          "verse": "805",
+          "greek": "θεοὶ Στυγὸς ἄφθιτον ὕδωρ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "astraeus": {
+      "id": "astraeus",
+      "name": "Astraeus",
+      "kind": "god",
+      "general": "Astraeus is a god associated with stars, a son of Crius and Eurybia.",
+      "evidence": [
+        {
+          "verse": "376",
+          "greek": "Ἀστραῖόν τε μέγαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pallas": {
+      "id": "pallas",
+      "name": "Pallas",
+      "kind": "god",
+      "general": "Pallas is a god from the Titan family, a son of Crius and Eurybia.",
+      "evidence": [
+        {
+          "verse": "376",
+          "greek": "Πάλλαντά"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "perses": {
+      "id": "perses",
+      "name": "Perses",
+      "kind": "god",
+      "general": "Perses is a knowledgeable god from the Titan family, a son of Crius and Eurybia.",
+      "evidence": [
+        {
+          "verse": "377",
+          "greek": "Πέρσην θʼ, ὃς καὶ πᾶσι μετέπρεπεν ἰδμοσύνῃσιν."
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "winds": {
+      "id": "winds",
+      "name": "Winds",
+      "kind": "divine collective",
+      "general": "The Winds are winds imagined as gods, belonging to the family of Eos and Astraeus.",
+      "evidence": [
+        {
+          "verse": "378",
+          "greek": "Ἀστραίῳ δʼ Ἠὼς ἀνέμους τέκε καρτεροθύμους,"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "zephyrus": {
+      "id": "zephyrus",
+      "name": "Zephyrus",
+      "kind": "wind god",
+      "general": "Zephyrus is the god of the west wind.",
+      "evidence": [
+        {
+          "verse": "379",
+          "greek": "ἀργέστην Ζέφυρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "boreas": {
+      "id": "boreas",
+      "name": "Boreas",
+      "kind": "wind god",
+      "general": "Boreas is the god of the north wind.",
+      "evidence": [
+        {
+          "verse": "379",
+          "greek": "Βορέην τʼ αἰψηροκέλευθον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "notus": {
+      "id": "notus",
+      "name": "Notus",
+      "kind": "wind god",
+      "general": "Notus is the god of the south wind.",
+      "evidence": [
+        {
+          "verse": "380",
+          "greek": "Νότον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eosphorus": {
+      "id": "eosphorus",
+      "name": "Eosphorus",
+      "kind": "star god",
+      "general": "Eosphorus is the Morning Star imagined as a divine being.",
+      "evidence": [
+        {
+          "verse": "381",
+          "greek": "ἀστέρα τίκτεν Ἑωσφόρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "stars": {
+      "id": "stars",
+      "name": "Gleaming Stars",
+      "kind": "divine collective",
+      "general": "The gleaming stars are lights in the sky imagined as divine offspring of Eos and Astraeus.",
+      "evidence": [
+        {
+          "verse": "382",
+          "greek": "ἄστρα τε λαμπετόωντα, τά τʼ οὐρανὸς ἐστεφάνωται."
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "zelos": {
+      "id": "zelos",
+      "name": "Zelos",
+      "kind": "divine personification",
+      "general": "Zelos is a divine being who represents rivalry and the drive to excel.",
+      "evidence": [
+        {
+          "verse": "384",
+          "greek": "Ζῆλον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nike": {
+      "id": "nike",
+      "name": "Nike",
+      "kind": "divine personification",
+      "general": "Nike is Victory imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "384",
+          "greek": "Νίκην καλλίσφυρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "kratos": {
+      "id": "kratos",
+      "name": "Kratos",
+      "kind": "divine personification",
+      "general": "Kratos is a divine being who represents power and might.",
+      "evidence": [
+        {
+          "verse": "385",
+          "greek": "Κράτος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "bia": {
+      "id": "bia",
+      "name": "Bia",
+      "kind": "divine personification",
+      "general": "Bia is Force imagined as a goddess.",
+      "evidence": [
+        {
+          "verse": "385",
+          "greek": "Βίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "asteria": {
+      "id": "asteria",
+      "name": "Asteria",
+      "kind": "goddess",
+      "general": "Asteria is a goddess from the family of Coeus and Phoebe, and Leto's sister.",
+      "evidence": [
+        {
+          "verse": "409",
+          "greek": "γείνατο δʼ Ἀστερίην ἐυώνυμον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hecate": {
+      "id": "hecate",
+      "name": "Hecate",
+      "kind": "goddess",
+      "general": "Hecate is a goddess whose powers reach across earth, sea, heaven, and many parts of human life.",
+      "evidence": [
+        {
+          "verse": "411",
+          "greek": "Ἑκάτην τέκε"
+        },
+        {
+          "verse": "427",
+          "greek": "ἐν γαίῃ τε καὶ οὐρανῷ ἠδὲ θαλάσσῃ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hermes": {
+      "id": "hermes",
+      "name": "Hermes",
+      "kind": "god",
+      "general": "Hermes is the gods' messenger and a god associated with travel and livestock.",
+      "evidence": [
+        {
+          "verse": "444",
+          "greek": "σὺν Ἑρμῇ ληίδʼ ἀέξειν"
+        },
+        {
+          "verse": "939",
+          "greek": "κήρυκʼ ἀθανάτων"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hestia": {
+      "id": "hestia",
+      "name": "Hestia",
+      "kind": "goddess",
+      "general": "Hestia is the goddess of the hearth, the fire at the center of a home.",
+      "evidence": [
+        {
+          "verse": "454",
+          "greek": "Ἱστίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "demeter": {
+      "id": "demeter",
+      "name": "Demeter",
+      "kind": "goddess",
+      "general": "Demeter is the goddess of grain and farming.",
+      "evidence": [
+        {
+          "verse": "454",
+          "greek": "Δήμητρα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "atlas": {
+      "id": "atlas",
+      "name": "Atlas",
+      "kind": "divine being",
+      "general": "Atlas is a powerful divine son of the Titan Iapetus and the Oceanid Clymene.",
+      "evidence": [
+        {
+          "verse": "509",
+          "greek": "Ἄτλαντα κρατερόφρονα γείνατο παῖδα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "menoetius": {
+      "id": "menoetius",
+      "name": "Menoetius",
+      "kind": "divine being",
+      "general": "Menoetius is a divine son of the Titan Iapetus and the Oceanid Clymene.",
+      "evidence": [
+        {
+          "verse": "510",
+          "greek": "ὑπερκύδαντα Μενοίτιον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "prometheus": {
+      "id": "prometheus",
+      "name": "Prometheus",
+      "kind": "god",
+      "general": "Prometheus is a god known for intelligence, invention, and clever schemes.",
+      "evidence": [
+        {
+          "verse": "510",
+          "greek": "Προμηθέα"
+        },
+        {
+          "verse": "511",
+          "greek": "ποικίλον αἰολόμητιν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "epimetheus": {
+      "id": "epimetheus",
+      "name": "Epimetheus",
+      "kind": "divine being",
+      "general": "Epimetheus is a divine son of Iapetus and Clymene, known for poor judgment.",
+      "evidence": [
+        {
+          "verse": "511",
+          "greek": "ἁμαρτίνοόν τʼ Ἐπιμηθέα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "first-woman": {
+      "id": "first-woman",
+      "name": "First Woman",
+      "kind": "human figure",
+      "general": "The First Woman is the unnamed human figure from whom this poem traces the race of women.",
+      "evidence": [
+        {
+          "verse": "513",
+          "greek": "Διὸς πλαστὴν ὑπέδεκτο γυναῖκα"
+        },
+        {
+          "verse": "590",
+          "greek": "ἐκ τῆς γὰρ γένος ἐστὶ γυναικῶν θηλυτεράων,"
+        }
+      ],
+      "provenance": "21907401-d0f3-4d33-8d16-be2a0fcf9c00"
+    },
+    "alcmene": {
+      "id": "alcmene",
+      "name": "Alcmene",
+      "kind": "mortal woman",
+      "general": "Alcmene is a mortal woman in Heracles's family.",
+      "evidence": [
+        {
+          "verse": "526",
+          "greek": "Ἀλκμήνης καλλισφύρου ἄλκιμος υἱὸς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "hephaestus": {
+      "id": "hephaestus",
+      "name": "Hephaestus",
+      "kind": "god",
+      "general": "Hephaestus is the god of skilled crafts and metalworking. The poem describes him as having disabled legs.",
+      "evidence": [
+        {
+          "verse": "571",
+          "greek": "περικλυτὸς Ἀμφιγυήεις"
+        },
+        {
+          "verse": "927",
+          "greek": "Ἥφαιστον κλυτὸν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "persephone": {
+      "id": "persephone",
+      "name": "Persephone",
+      "kind": "goddess",
+      "general": "Persephone is a goddess who rules the world of the dead alongside Hades.",
+      "evidence": [
+        {
+          "verse": "768",
+          "greek": "ἰφθίμου τʼ Ἀίδεω καὶ ἐπαινῆς Περσεφονείης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cymopolea": {
+      "id": "cymopolea",
+      "name": "Cymopolea",
+      "kind": "goddess",
+      "general": "Cymopolea is a divine daughter of Poseidon.",
+      "evidence": [
+        {
+          "verse": "819",
+          "greek": "Κυμοπόλειαν ὀπυίειν, θυγατέρα ἥν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "horae": {
+      "id": "horae",
+      "name": "Seasons",
+      "kind": "divine collective",
+      "general": "The Seasons, called Horae in Greek, are goddesses who oversee the seasons and orderly human life.",
+      "evidence": [
+        {
+          "verse": "901",
+          "greek": "Ὥρας"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eunomia": {
+      "id": "eunomia",
+      "name": "Eunomia",
+      "kind": "Hora goddess",
+      "general": "Eunomia is one of the Horae, goddesses of seasons and order. She represents Good Order.",
+      "evidence": [
+        {
+          "verse": "902",
+          "greek": "Εὐνομίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "dike": {
+      "id": "dike",
+      "name": "Dike",
+      "kind": "Hora goddess",
+      "general": "Dike is one of the Horae, goddesses of seasons and order. She represents Justice.",
+      "evidence": [
+        {
+          "verse": "902",
+          "greek": "Δίκην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eirene": {
+      "id": "eirene",
+      "name": "Eirene",
+      "kind": "Hora goddess",
+      "general": "Eirene is one of the Horae, goddesses of seasons and order. She represents Peace.",
+      "evidence": [
+        {
+          "verse": "902",
+          "greek": "Εἰρήνην τεθαλυῖαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aglaia": {
+      "id": "aglaia",
+      "name": "Aglaia",
+      "kind": "Grace goddess",
+      "general": "Aglaia is one of the three Graces, goddesses of beauty, charm, and delight. Her Greek name suggests splendor.",
+      "evidence": [
+        {
+          "verse": "909",
+          "greek": "Ἀγλαΐην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "euphrosyne": {
+      "id": "euphrosyne",
+      "name": "Euphrosyne",
+      "kind": "Grace goddess",
+      "general": "Euphrosyne is one of the three Graces, goddesses of beauty, charm, and delight. Her Greek name suggests good cheer.",
+      "evidence": [
+        {
+          "verse": "909",
+          "greek": "Εὐφροσύνην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "thalia-grace": {
+      "id": "thalia-grace",
+      "name": "Thalia",
+      "kind": "Grace goddess",
+      "general": "Thalia is one of the three Graces, goddesses of beauty, charm, and delight. Her Greek name suggests flourishing.",
+      "evidence": [
+        {
+          "verse": "909",
+          "greek": "Θαλίην τʼ ἐρατεινήν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ares": {
+      "id": "ares",
+      "name": "Ares",
+      "kind": "god",
+      "general": "Ares is a god of war and violent battle.",
+      "evidence": [
+        {
+          "verse": "922",
+          "greek": "Ἄρηα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "eileithyia": {
+      "id": "eileithyia",
+      "name": "Eileithyia",
+      "kind": "goddess",
+      "general": "Eileithyia is a goddess who helps women in childbirth.",
+      "evidence": [
+        {
+          "verse": "922",
+          "greek": "Εἰλείθυιαν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "triton-sea": {
+      "id": "triton-sea",
+      "name": "Triton",
+      "kind": "sea god",
+      "general": "Triton is a sea god from the family of Poseidon and Amphitrite.",
+      "evidence": [
+        {
+          "verse": "931",
+          "greek": "Τρίτων εὐρυβίης γένετο μέγας"
+        },
+        {
+          "verse": "933",
+          "greek": "δεινὸς θεός"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phobos": {
+      "id": "phobos",
+      "name": "Phobos",
+      "kind": "divine personification",
+      "general": "Phobos is a divine being who represents panic, especially in battle.",
+      "evidence": [
+        {
+          "verse": "934",
+          "greek": "Φόβον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "deimos": {
+      "id": "deimos",
+      "name": "Deimos",
+      "kind": "divine personification",
+      "general": "Deimos is a divine being who represents terror, especially in battle.",
+      "evidence": [
+        {
+          "verse": "934",
+          "greek": "Δεῖμον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "harmonia": {
+      "id": "harmonia",
+      "name": "Harmonia",
+      "kind": "goddess",
+      "general": "Harmonia is a goddess who represents harmony and agreement.",
+      "evidence": [
+        {
+          "verse": "937",
+          "greek": "Ἁρμονίην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cadmus": {
+      "id": "cadmus",
+      "name": "Cadmus",
+      "kind": "mortal hero",
+      "general": "Cadmus is a legendary human founder of Thebes.",
+      "evidence": [
+        {
+          "verse": "937",
+          "greek": "Κάδμος ὑπέρθυμος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "maia": {
+      "id": "maia",
+      "name": "Maia",
+      "kind": "goddess",
+      "general": "Maia is a goddess, a daughter of Atlas.",
+      "evidence": [
+        {
+          "verse": "938",
+          "greek": "Ἀτλαντὶς Μαίη"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "semele": {
+      "id": "semele",
+      "name": "Semele",
+      "kind": "mortal-born woman",
+      "general": "Semele is a mortal-born daughter of Cadmus and Harmonia.",
+      "evidence": [
+        {
+          "verse": "942",
+          "greek": "ἀθάνατον θνητή"
+        },
+        {
+          "verse": "975",
+          "greek": "Κάδμῳ δʼ Ἁρμονίη, θυγάτηρ χρυσέης Ἀφροδιτης,"
+        },
+        {
+          "verse": "976",
+          "greek": "Ἰνὼ καὶ Σεμέλην καὶ Ἀγαυὴν καλλιπάρῃον"
+        },
+        {
+          "verse": "978",
+          "greek": "γείνατο καὶ Πολύδωρον ἐυστεφάνῳ ἐνὶ Θήβῃ."
+        }
+      ],
+      "provenance": "21907401-d0f3-4d33-8d16-be2a0fcf9c00"
+    },
+    "dionysus": {
+      "id": "dionysus",
+      "name": "Dionysus",
+      "kind": "god",
+      "general": "Dionysus is the god of wine and festive celebration.",
+      "evidence": [
+        {
+          "verse": "941",
+          "greek": "Διώνυσον πολυγηθέα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ariadne": {
+      "id": "ariadne",
+      "name": "Ariadne",
+      "kind": "mortal-born woman",
+      "general": "Ariadne is a mortal-born daughter of Minos.",
+      "evidence": [
+        {
+          "verse": "947",
+          "greek": "ξανθὴν Ἀριάδνην"
+        },
+        {
+          "verse": "948",
+          "greek": "κούρην Μίνωος"
+        },
+        {
+          "verse": "949",
+          "greek": "τὴν δέ οἱ ἀθάνατον καὶ ἀγήρω θῆκε Κρονίων."
+        }
+      ],
+      "provenance": "21907401-d0f3-4d33-8d16-be2a0fcf9c00"
+    },
+    "minos": {
+      "id": "minos",
+      "name": "Minos",
+      "kind": "mortal king",
+      "general": "Minos is a legendary human king of Crete.",
+      "evidence": [
+        {
+          "verse": "948",
+          "greek": "κούρην Μίνωος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "circe": {
+      "id": "circe",
+      "name": "Circe",
+      "kind": "goddess",
+      "general": "Circe is a goddess associated with magic, a daughter of Helios and Perseis.",
+      "evidence": [
+        {
+          "verse": "957",
+          "greek": "Περσηὶς Κίρκην"
+        },
+        {
+          "verse": "1011",
+          "greek": "Κίρκη δʼ, Ἠελίου θυγάτηρ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aeetes": {
+      "id": "aeetes",
+      "name": "Aeetes",
+      "kind": "mythic king",
+      "general": "Aeetes is a mythical king from the family of Helios and Perseis.",
+      "evidence": [
+        {
+          "verse": "957",
+          "greek": "Αἰήτην βασιλῆα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "medea": {
+      "id": "medea",
+      "name": "Medea",
+      "kind": "mythic woman",
+      "general": "Medea is the daughter of Aeetes and Idyia, a divine figure in this poem's genealogy.",
+      "evidence": [
+        {
+          "verse": "958",
+          "greek": "Αἰήτης δʼ υἱὸς φαεσιμβρότου Ἠελίοιο"
+        },
+        {
+          "verse": "959",
+          "greek": "κούρην Ὠκεανοῖο τελήεντος ποταμοῖο"
+        },
+        {
+          "verse": "960",
+          "greek": "γῆμε θεῶν βουλῇσιν Ἰδυῖαν καλλιπάρῃον."
+        },
+        {
+          "verse": "961",
+          "greek": "ἣ δέ οἱ Μήδειαν ἐύσφυρον ἐν φιλότητι"
+        },
+        {
+          "verse": "962",
+          "greek": "γείναθʼ ὑποδμηθεῖσα διὰ χρυσέην Ἀφροδίτην."
+        },
+        {
+          "verse": "965",
+          "greek": "νῦν δὲ θεάων φῦλον ἀείσατε, ἡδυέπειαι"
+        },
+        {
+          "verse": "992",
+          "greek": "κούρην δʼ Αἰήταο διοτρεφέος βασιλῆος"
+        }
+      ],
+      "provenance": "21907401-d0f3-4d33-8d16-be2a0fcf9c00"
+    },
+    "plutus": {
+      "id": "plutus",
+      "name": "Plutus",
+      "kind": "divine personification",
+      "general": "Plutus is the god who represents wealth. His Greek name, Ploutos, means Wealth.",
+      "evidence": [
+        {
+          "verse": "969",
+          "greek": "Πλοῦτον ἐγείνατο"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "iasion": {
+      "id": "iasion",
+      "name": "Iasion",
+      "kind": "mortal hero",
+      "general": "Iasion is a human hero.",
+      "evidence": [
+        {
+          "verse": "970",
+          "greek": "Ἰασίωνʼ ἥρωι"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "ino": {
+      "id": "ino",
+      "name": "Ino",
+      "kind": "mortal woman",
+      "general": "Ino is a mortal woman from the family of Cadmus and Harmonia.",
+      "evidence": [
+        {
+          "verse": "976",
+          "greek": "Ἰνὼ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "agave-mortal": {
+      "id": "agave-mortal",
+      "name": "Agave",
+      "kind": "mortal woman",
+      "general": "Agave is a mortal woman, a daughter of Cadmus and Harmonia.",
+      "evidence": [
+        {
+          "verse": "976",
+          "greek": "Ἀγαυὴν καλλιπάρῃον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "autonoe-mortal": {
+      "id": "autonoe-mortal",
+      "name": "Autonoe",
+      "kind": "mortal woman",
+      "general": "Autonoe is a mortal woman, a daughter of Cadmus and Harmonia.",
+      "evidence": [
+        {
+          "verse": "977",
+          "greek": "Αὐτονόην"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aristaeus": {
+      "id": "aristaeus",
+      "name": "Aristaeus",
+      "kind": "divine or heroic figure",
+      "general": "Aristaeus is Autonoe's husband; this passage does not clearly classify him as divine or heroic.",
+      "evidence": [
+        {
+          "verse": "977",
+          "greek": "Αὐτονόην θʼ, ἣν γῆμεν Ἀρισταῖος βαθυχαίτης,"
+        }
+      ],
+      "provenance": "21907401-d0f3-4d33-8d16-be2a0fcf9c00"
+    },
+    "polydorus": {
+      "id": "polydorus",
+      "name": "Polydorus",
+      "kind": "mortal figure",
+      "general": "Polydorus is a human son of Cadmus and Harmonia.",
+      "evidence": [
+        {
+          "verse": "978",
+          "greek": "γείνατο καὶ Πολύδωρον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "tithonus": {
+      "id": "tithonus",
+      "name": "Tithonus",
+      "kind": "mortal figure",
+      "general": "Tithonus is a human prince associated with Eos, the goddess of dawn.",
+      "evidence": [
+        {
+          "verse": "984",
+          "greek": "Τιθωνῷ δʼ Ἠὼς"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "memnon": {
+      "id": "memnon",
+      "name": "Memnon",
+      "kind": "mortal hero",
+      "general": "Memnon is a warrior king of the Ethiopians, a son of Eos and Tithonus.",
+      "evidence": [
+        {
+          "verse": "984",
+          "greek": "Μέμνονα χαλκοκορυστήν"
+        },
+        {
+          "verse": "985",
+          "greek": "Αἰθιόπων βασιλῆα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "emathion": {
+      "id": "emathion",
+      "name": "Emathion",
+      "kind": "mortal ruler",
+      "general": "Emathion is a human ruler, a son of Eos and Tithonus.",
+      "evidence": [
+        {
+          "verse": "985",
+          "greek": "Ἠμαθίωνα ἄνακτα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "cephalus": {
+      "id": "cephalus",
+      "name": "Cephalus",
+      "kind": "mortal figure",
+      "general": "Cephalus is a human figure associated with Eos, the goddess of dawn.",
+      "evidence": [
+        {
+          "verse": "986",
+          "greek": "ὑπαὶ Κεφάλῳ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phaethon": {
+      "id": "phaethon",
+      "name": "Phaethon",
+      "kind": "human and divine figure",
+      "general": "Phaethon is the godlike young son of Eos and Cephalus.",
+      "evidence": [
+        {
+          "verse": "984",
+          "greek": "Ἠὼς τέκε"
+        },
+        {
+          "verse": "986",
+          "greek": "αὐτὰρ ὑπαὶ Κεφάλῳ φιτύσατο φαίδιμον υἱόν,"
+        },
+        {
+          "verse": "987",
+          "greek": "ἴφθιμον Φαέθοντα, θεοῖς ἐπιείκελον ἄνδρα."
+        },
+        {
+          "verse": "988",
+          "greek": "τόν ῥα νέον τέρεν ἄνθος ἔχοντʼ ἐρικυδέος ἥβης"
+        }
+      ],
+      "provenance": "21907401-d0f3-4d33-8d16-be2a0fcf9c00"
+    },
+    "jason": {
+      "id": "jason",
+      "name": "Jason",
+      "kind": "mortal hero",
+      "general": "Jason is a human hero, a son of Aeson.",
+      "evidence": [
+        {
+          "verse": "993",
+          "greek": "Αἰσονίδης"
+        },
+        {
+          "verse": "1000",
+          "greek": "Ἰήσονι, ποιμένι λαῶν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aeson": {
+      "id": "aeson",
+      "name": "Aeson",
+      "kind": "mortal figure",
+      "general": "Aeson is a human figure identified as Jason's father.",
+      "evidence": [
+        {
+          "verse": "993",
+          "greek": "Αἰσονίδης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "pelias": {
+      "id": "pelias",
+      "name": "Pelias",
+      "kind": "mortal king",
+      "general": "Pelias is a human king associated with Iolcus.",
+      "evidence": [
+        {
+          "verse": "995",
+          "greek": "μέγας βασιλεὺς ὑπερήνωρ"
+        },
+        {
+          "verse": "996",
+          "greek": "Πελίης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "medeius": {
+      "id": "medeius",
+      "name": "Medeius",
+      "kind": "heroic figure",
+      "general": "Medeius is a mythical son of Jason and Medea.",
+      "evidence": [
+        {
+          "verse": "1001",
+          "greek": "Μήδειον τέκε παῖδα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "chiron": {
+      "id": "chiron",
+      "name": "Chiron",
+      "kind": "centaur",
+      "general": "Chiron is a wise centaur, part human and part horse, associated with raising and teaching heroes.",
+      "evidence": [
+        {
+          "verse": "1001",
+          "greek": "οὔρεσιν ἔτρεφε Χείρων"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "philyra": {
+      "id": "philyra",
+      "name": "Philyra",
+      "kind": "female divine figure",
+      "general": "Philyra is a female divine figure identified as Chiron's mother.",
+      "evidence": [
+        {
+          "verse": "1002",
+          "greek": "Φιλυρίδης"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "phocus": {
+      "id": "phocus",
+      "name": "Phocus",
+      "kind": "mortal figure",
+      "general": "Phocus is a human son of the sea goddess Psamathe and Aeacus.",
+      "evidence": [
+        {
+          "verse": "1004",
+          "greek": "Φῶκον Ψαμάθη τέκε"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aeacus": {
+      "id": "aeacus",
+      "name": "Aeacus",
+      "kind": "mortal king",
+      "general": "Aeacus is a legendary human king.",
+      "evidence": [
+        {
+          "verse": "1005",
+          "greek": "Αἰακοῦ ἐν φιλότητι"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "peleus": {
+      "id": "peleus",
+      "name": "Peleus",
+      "kind": "mortal hero",
+      "general": "Peleus is a human hero.",
+      "evidence": [
+        {
+          "verse": "1006",
+          "greek": "Πηλέι"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "achilles": {
+      "id": "achilles",
+      "name": "Achilles",
+      "kind": "mortal hero",
+      "general": "Achilles is a Greek hero known for exceptional courage and strength in battle.",
+      "evidence": [
+        {
+          "verse": "1007",
+          "greek": "Ἀχιλλῆα ῥηξήνορα θυμολέοντα"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "aeneas": {
+      "id": "aeneas",
+      "name": "Aeneas",
+      "kind": "mortal hero",
+      "general": "Aeneas is a Trojan hero, a son of Aphrodite and Anchises.",
+      "evidence": [
+        {
+          "verse": "1008",
+          "greek": "Αἰνείαν δʼ ἄρʼ ἔτικτεν ἐυστέφανος Κυθέρεια"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "anchises": {
+      "id": "anchises",
+      "name": "Anchises",
+      "kind": "mortal hero",
+      "general": "Anchises is a human hero from the region of Troy.",
+      "evidence": [
+        {
+          "verse": "1009",
+          "greek": "Ἀγχίσῃ ἥρωι"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "odysseus": {
+      "id": "odysseus",
+      "name": "Odysseus",
+      "kind": "mortal hero",
+      "general": "Odysseus is a Greek hero known for cleverness and endurance.",
+      "evidence": [
+        {
+          "verse": "1012",
+          "greek": "Ὀδυσσῆος ταλασίφρονος"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "agrius": {
+      "id": "agrius",
+      "name": "Agrius",
+      "kind": "heroic figure",
+      "general": "Agrius is a mythical son of Circe and Odysseus.",
+      "evidence": [
+        {
+          "verse": "1013",
+          "greek": "Ἄγριον"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "latinus": {
+      "id": "latinus",
+      "name": "Latinus",
+      "kind": "heroic ruler",
+      "general": "Latinus is a legendary ruler from the family of Circe and Odysseus.",
+      "evidence": [
+        {
+          "verse": "1013",
+          "greek": "Λατῖνον ἀμύμονά τε κρατερόν τε"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nausithous": {
+      "id": "nausithous",
+      "name": "Nausithous",
+      "kind": "heroic figure",
+      "general": "Nausithous is a mythical son of Calypso and Odysseus.",
+      "evidence": [
+        {
+          "verse": "1017",
+          "greek": "Ναυσίθοον δʼ Ὀδυσῆι Καλυψὼ"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    },
+    "nausinous": {
+      "id": "nausinous",
+      "name": "Nausinous",
+      "kind": "heroic figure",
+      "general": "Nausinous is a mythical son of Calypso and Odysseus.",
+      "evidence": [
+        {
+          "verse": "1018",
+          "greek": "γείνατο Ναυσίνοόν"
+        }
+      ],
+      "provenance": "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2"
+    }
+  },
+  "licence": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Hesiod, Theogony, AI-assisted English reading edition by Onur Cirag. Source: https://theogony-reading.vercel.app/. CC BY 4.0. State any changes.",
+    "scope": "Original edition content to the extent rights are held. No rights are created over public-domain or unprotected AI-generated material. The Greek XML has separate terms."
+  },
+  "source": {
+    "language": "grc",
+    "editor": "Hugh G. Evelyn-White",
+    "edition_year": 1914,
+    "digitisation": "Perseus Project, Tufts University",
+    "greek_xml": "sources/tlg0020.tlg001.perseus-grc2.xml",
+    "greek_xml_sha256": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
+    "licence_notice": "sources/perseus-license.md",
+    "section_titles": "content/leseabsaetze.md"
+  },
+  "records": {
+    "0a440fdc-4df3-46ee-9e46-f0e3f254a3c2": {
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "prompt_version": "figure-registry-18-v1",
+      "output_file": "pipeline/tests/figure-registry-2026-10-18-v1.json",
+      "prompt_file": "pipeline/tests/figure-registry-2026-10-18-v1.prompt.txt",
+      "record_file": "pipeline/tests/figure-registry-2026-10-18-v1.metrics.json",
+      "output_sha256": "c6ff03fb2a9f28c147ce1fc85e7f196308e5e60876a8c61bc6b42cbbbf9963df",
+      "prompt_sha256": "500384cfff982c739b0ff279d2fc054440ea762d5767fd48e128fe191991031f"
+    },
+    "21907401-d0f3-4d33-8d16-be2a0fcf9c00": {
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "prompt_version": "figure-registry-18-v2",
+      "output_file": "pipeline/tests/figure-registry-2026-10-18-v2.json",
+      "prompt_file": "pipeline/tests/figure-registry-2026-10-18-v2.prompt.txt",
+      "record_file": "pipeline/tests/figure-registry-2026-10-18-v2.metrics.json",
+      "output_sha256": "a4a3f9db243065d223e4721794ccf67cb538923d9e507ee04afb7da3e76b51ea",
+      "prompt_sha256": "0943b8c8c5ae6258148ae0ea4005e0665592cd7a5b92c37b1fbd1c44a3435062"
+    }
+  }
+}

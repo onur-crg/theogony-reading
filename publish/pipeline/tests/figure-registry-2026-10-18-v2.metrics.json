@@ -1,0 +1,38 @@
+{
+  "run_id": "21907401-d0f3-4d33-8d16-be2a0fcf9c00",
+  "created_at_utc": "2026-10-18T14:01:28.824809+00:00",
+  "prompt_version": "figure-registry-18-v2",
+  "prompt_file": "figure-registry-2026-10-18-v2.prompt.txt",
+  "prompt_sha256": "0943b8c8c5ae6258148ae0ea4005e0665592cd7a5b92c37b1fbd1c44a3435062",
+  "source_sha256": "550bd27b82d0c1720d7592b9b170c18b6c0bf88d54318ab71a28eb2b17728826",
+  "section_boundaries_sha256": "d1b93ac7a74dad24183bea4bf67ff2ae758feec7a110d3148b4750daa82b10a4",
+  "schema_sha256": "3b5b34c9517fb7a98a95aa1a706e6df5c76df5acfb78474ec10ca9e1327903dc",
+  "runner_sha256": "f31cc2d37bac85c5de57aea2f4cab0cbee538581ca6b0f26a6796d470f74b875",
+  "codex_cli_version": "codex-cli 0.162.1",
+  "model": "gpt-6.1-sol",
+  "effort": "high",
+  "range": [
+    1,
+    1022
+  ],
+  "seconds": 56.58,
+  "cli_exit": 0,
+  "tool_event_count": 0,
+  "item_types": [
+    "agent_message"
+  ],
+  "usage_events": [
+    {
+      "type": "turn.completed",
+      "usage": {
+        "input_tokens": 24791,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2728,
+        "reasoning_output_tokens": 1034
+      }
+    }
+  ],
+  "error_events": [],
+  "output_sha256": "a4a3f9db243065d223e4721794ccf67cb538923d9e507ee04afb7da3e76b51ea"
+}

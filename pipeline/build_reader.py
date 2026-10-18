@@ -97,9 +97,12 @@ def aliases(section: dict, verse_label=None) -> dict[str, int]:
     return found
 
 
-def linked_text(text: str, section: dict, verse_label=None) -> str:
+def linked_text(text: str, section: dict, verse_label=None, seen=None) -> str:
     """Escape agent text, adding links only around matching card labels."""
     mapping = aliases(section, verse_label)
+    if seen is not None:
+        mapping = {alias:index for alias,index in mapping.items()
+                   if section['cards'][index].get('entity_id') not in seen}
     keys = sorted(mapping, key=len, reverse=True)
     pattern = re.compile(r"(?<!\w)(?:" + "|".join(re.escape(k) for k in keys) + r")(?!\w)", re.I) if keys else None
     pieces = []
@@ -108,15 +111,26 @@ def linked_text(text: str, section: dict, verse_label=None) -> str:
         pieces.append(esc(text[cursor:match.start()]))
         label = match.group(0)
         index = next(mapping[key] for key in keys if key.casefold() == label.casefold())
-        target = f"note-{section['id']}-{index}"
-        pieces.append(f'<a class="term" href="#{target}" data-note="{target}" aria-label="Explain {esc(label)}">{esc(label)}</a>')
+        card = section['cards'][index]
+        entity = card.get('entity_id')
+        if entity and seen is not None and entity in seen:
+            # A previously explained title may still contain another figure,
+            # e.g. "son of Cronus" after Zeus has already been linked.
+            pieces.append(linked_text(label, section, verse_label, seen))
+        else:
+            if entity and seen is not None:
+                seen.add(entity)
+            target = f"note-{section['id']}-{index}"
+            entity_attr = f' data-entity="{esc(entity)}"' if entity else ''
+            pieces.append(f'<a class="term" href="#{target}" data-note="{target}"{entity_attr} aria-label="Explain {esc(label)}">{esc(label)}</a>')
         cursor = match.end()
     pieces.append(esc(text[cursor:]))
     return ''.join(pieces)
 
 
 def linked_paragraphs(section: dict) -> str:
-    return ''.join('<p>' + linked_text(paragraph, section).replace('\n','<br>') + '</p>'
+    seen = set()
+    return ''.join('<p>' + linked_text(paragraph, section, seen=seen).replace('\n','<br>') + '</p>'
                    for paragraph in re.split(r"\n\s*\n", section["translation"].strip()))
 
 
@@ -145,13 +159,14 @@ def load_verse_runs():
 
 def linked_verses(section: dict, verse_runs: dict) -> str:
     lines=[]
+    seen=set()
     for n in range(section['start'],section['end']+1):
         text,_,_=verse_runs[n]
         disputed = str(n) in DELETED_LABELS
         klass = 'verse-unit disputed' if disputed else 'verse-unit'
         marker = '<span class="dagger" aria-hidden="true">†</span>' if disputed else ''
         label = f'Verse {n}, marked for deletion in the Greek source' if disputed else f'Verse {n}'
-        lines.append(f'<span class="{klass}" id="v{n}"><sup class="verse-number" aria-label="{label}">{n}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section,n)}</span></span>')
+        lines.append(f'<span class="{klass}" id="v{n}"><sup class="verse-number" aria-label="{label}">{n}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section,n,seen)}</span></span>')
     return '<p class="verse-flow">'+' '.join(lines)+'</p>'
 
 
@@ -166,6 +181,7 @@ def load_variant_verse_run():
 
 def linked_variant_verses(section: dict, variant_run) -> str:
     lines,_,_ = variant_run
+    seen=set()
     output=[]
     group=[]
     for label,text in lines.items():
@@ -173,7 +189,7 @@ def linked_variant_verses(section: dict, variant_run) -> str:
         klass = 'verse-unit disputed' if disputed else 'verse-unit'
         marker = '<span class="dagger" aria-hidden="true">†</span>' if disputed else ''
         aria = f'Verse {label}, marked for deletion in the Greek source' if disputed else f'Verse {label}'
-        group.append(f'<span class="{klass}" id="v{label}"><sup class="verse-number" aria-label="{aria}">{label}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section,label)}</span></span>')
+        group.append(f'<span class="{klass}" id="v{label}"><sup class="verse-number" aria-label="{aria}">{label}{marker}</sup>&nbsp;<span class="verse-text">{linked_text(text,section,label,seen)}</span></span>')
         if label == '929f':
             output.append('<p class="verse-flow">'+' '.join(group)+'</p>')
             output.append('<p class="variant-gap">Gap in the Greek source after 929f</p>')
@@ -183,7 +199,7 @@ def linked_variant_verses(section: dict, variant_run) -> str:
     return ''.join(output)
 
 
-def load_sections():
+def load_sections(resolve_registry=True):
     selected = {}
     for path in INPUTS:
         data = json.loads(path.read_text())
@@ -215,6 +231,10 @@ def load_sections():
     for section, _, _ in numbered:
         start, end, _ = expected[section["id"]]
         assert (section["start"], section["end"]) == (start, end), section["id"]
+    if resolve_registry:
+        from figure_registry import apply_registry
+        resolved = apply_registry(numbered + [selected['v929']])
+        return resolved[:-1], resolved[-1], expected
     return numbered, selected["v929"], expected
 
 
@@ -273,6 +293,12 @@ def render_information(numbered, variant, headings, verse_runs, variant_run):
                 '<nav class="record-documents" aria-label="Revised name notes documents">'
                 + run_documents(update_path, 'Revised name notes') + '</nav>'
                 for update_path, update_metrics in section['_note_updates'])
+        if section.get('_figure_registry_records'):
+            revision_documents += '<h3>Shared figure identities</h3>' + ''.join(
+                f'<p class="record-model">{esc(m["prompt_version"])}</p>'
+                '<nav class="record-documents" aria-label="Shared figure registry documents">'
+                + run_documents(p, 'Shared figure registry') + '</nav>'
+                for p,m in section['_figure_registry_records'])
         rows.append(
             f'<li class="passage-record" id="info-{sid}"><header class="record-heading"><span class="range">{esc(range_text)}</span>'
             f'<a class="record-title" href="theogony-reader.html#{article_id}">{esc(heading)}</a></header>'
@@ -361,7 +387,7 @@ def render_homepage(items):
     god_buttons = []
     for key, name, sid, offset, width in god_specs:
         section = next(section for section, _, _ in items if section['id'] == sid)
-        card = next(card for card in section['cards'] if card['label'] == name)
+        card = next(card for card in section['cards'] if card.get('entity_id') == key or card['label'] == name)
         god_cards[key] = {'name': name, 'general': card['general'], 'here': card['here'], 'passage': sid, 'start': section['start'], 'end': section['end']}
         god_buttons.append(
             f'<button class="god-button" type="button" data-god="{key}" aria-label="About {name}" aria-haspopup="dialog" aria-controls="god-dialog">'

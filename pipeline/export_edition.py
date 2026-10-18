@@ -32,7 +32,15 @@ def make_edition():
         result = {'summary_and_notes': reference(path, metrics)}
         if section.get('_note_updates'):
             result['note_updates'] = [reference(p, m) for p, m in section['_note_updates']]
+        if section.get('_figure_registry_records'):
+            result['figure_registry'] = [reference(p,m) for p,m in section['_figure_registry_records']]
         return result
+    from figure_registry import load_registry
+    registry,_,_ = load_registry()
+    figures = {eid: {'id':eid,'name':entry['name'],'kind':entry['kind'],
+                     'general':entry['general'],'evidence':entry['evidence'],
+                     'provenance':reference(entry['_path'],entry['_metrics'])}
+               for eid,entry in registry.items()}
     passages = []
     for section, note_path, note_metrics in numbered:
         start, end = section['start'], section['end']
@@ -87,13 +95,17 @@ def make_edition():
             'licence_notice': 'sources/perseus-license.md',
             'section_titles': 'content/leseabsaetze.md',
         },
-        'passages': passages, 'variants': [extra], 'records': records,
+        'passages': passages, 'variants': [extra], 'figures': figures, 'records': records,
     }
 
 def main():
     DATA.mkdir(exist_ok=True)
     data = make_edition()
     (DATA/'theogony.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+    figure_records = {entry['provenance'] for entry in data['figures'].values()}
+    shared = {'schema_version':'1.0.0','figures':data['figures'],'licence':data['licence'],'source':data['source'],
+              'records':{key:data['records'][key] for key in sorted(figure_records)}}
+    (DATA/'figures.json').write_text(json.dumps(shared,ensure_ascii=False,indent=2)+'\n')
     print(f'Exported {len(data["passages"])} passages and {len(data["variants"])} separate variant with unchanged text and notes.')
 
 if __name__ == '__main__': main()

@@ -31,6 +31,7 @@ an array index. Each verse has its own explicit `label`.
 | `source` | Greek edition, unchanged XML checksum, source rights notice and passage-title file. File paths are relative to the repository root. |
 | `passages` | The 65 numbered passages, in order. |
 | `variants` | Extra material outside the 1,022 numbered verses. Kept separate to avoid silently inserting a variant into the main text. |
+| `figures` | Shared figure identities indexed by stable ID. Each has one canonical name, kind, short general explanation, Greek evidence and generation provenance. |
 | `records` | Generation records indexed by their original run IDs. Most readers can ignore this field. |
 
 Each passage has:
@@ -43,8 +44,8 @@ Each passage has:
 | `reader_url` | Direct link to the passage on the official website. |
 | `summary` | Short passage summary. |
 | `verses` | Ordered objects with `label`, `text` and `marked_for_deletion`. |
-| `notes` | Ordered objects with `id`, `label`, `general` and `here`. `general` identifies the figure or term; `here` explains its role in this passage. Optional `aliases` match other spellings or English names. A nonempty `verse_labels` list limits links to those verses, for example to distinguish two figures named Doris. |
-| `provenance` | Run IDs for `reading_text` and the original `summary_and_notes`, resolved in `records`. Optional `note_updates` lists later note-only revision run IDs in application order. |
+| `notes` | Ordered objects with `id`, `label`, `general` and `here`. For a figure, `entity_id` points into `figures`; `origin_card_id` identifies its original contextual card. `general` and `label` are resolved copies of the shared entry for compatibility. `here` retains the exact recorded passage explanation. Local word/place notes have no `entity_id`. Optional `aliases` match other spellings or English names. A nonempty `verse_labels` list limits links to those verses, for example to distinguish two figures named Doris. |
+| `provenance` | Run IDs for `reading_text` and the original `summary_and_notes`, resolved in `records`. Optional `note_updates` lists later note-only revision run IDs in application order; `figure_registry` lists the runs providing shared identities. |
 
 The separate variant additionally has `after_verse: "929"` and
 `source_gaps_after: ["929f"]`. The gap is a statement about the Greek source;
@@ -125,3 +126,28 @@ Unchanged cards and all summaries retain their original `summary_and_notes`
 record; changed/new cards come verbatim from the latest applicable `note_updates` run. Reading verses
 retain their separate `reading_text` record. These optional provenance and
 matching fields extend the version 1 format without changing existing fields.
+
+### Shared figure identities
+
+[`figures.json`](figures.json) is a smaller standalone export of the same shared
+registry, with its licence, Greek-source notice and generation records. Greek
+evidence excerpts retain the source’s separate rights notice. It is derived from the same
+source as the full edition, not maintained separately.
+
+`figures[note.entity_id].general` is the authoritative general description.
+The same identity is used for alternate names, such as Uranus/Ouranos/Sky.
+Namesakes remain separate, including the Oceanid and Nereid named Doris.
+A former card discussing several figures resolves to one card per figure,
+each retaining the original contextual `here` text and `origin_card_id`.
+
+The reader links the first mention of each figure per passage, across aliases.
+Later mentions remain ordinary readable text. The next passage starts fresh.
+The data export retains all contextual cards and aliases, so other applications
+can choose their own display policy. Local word definitions keep their existing
+matching policy.
+
+`pipeline/figure_registry.prompt.txt` defines the short, spoiler-conscious
+identity generation task. `make_figure_registry_prompt.py` prepares the exact
+source snapshot; the tool-disabled runner records its output and hashes.
+Selected runs are listed in `pipeline/figure_registry_runs.json`. The build
+resolves shared prose without modifying it or the contextual notes.

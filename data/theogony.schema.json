@@ -145,6 +145,12 @@
       "additionalProperties": {
         "$ref": "#/$defs/record"
       }
+    },
+    "figures": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/figure"
+      }
     }
   },
   "required": [
@@ -221,6 +227,14 @@
           },
           "uniqueItems": true,
           "description": "If nonempty, link this note only in these verses to distinguish namesakes and literal uses."
+        },
+        "entity_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "origin_card_id": {
+          "type": "string",
+          "minLength": 1
         }
       },
       "required": [
@@ -300,6 +314,14 @@
               },
               "minItems": 1,
               "description": "Ordered note-only revision run IDs, applied over summary_and_notes. Original summaries and reading text keep their original runs."
+            },
+            "figure_registry": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 1
             }
           },
           "required": [
@@ -390,6 +412,14 @@
               },
               "minItems": 1,
               "description": "Ordered note-only revision run IDs, applied over summary_and_notes. Original summaries and reading text keep their original runs."
+            },
+            "figure_registry": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 1
             }
           },
           "required": [
@@ -471,6 +501,61 @@
         "prompt_sha256"
       ],
       "additionalProperties": false
+    },
+    "figure": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "type": "string",
+          "minLength": 1
+        },
+        "general": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "verse": {
+                "type": "string",
+                "minLength": 1
+              },
+              "greek": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "verse",
+              "greek"
+            ]
+          }
+        },
+        "provenance": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "kind",
+        "general",
+        "evidence",
+        "provenance"
+      ]
     }
   }
 }
